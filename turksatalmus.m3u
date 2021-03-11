@@ -82,7 +82,7 @@ http://tv-trt2.live.trt.com.tr/master.m3u8
 #EXTINF:-1,TRT HABER
 http://tv-trthaber.live.trt.com.tr/master.m3u8,
 #EXTINF:-1,A HABER
-http://mfe.cliptv.az/dash/A_Haber_HD.ism/playlist.mpd
+http://149.255.152.66:8080/ahaberhd/index.m3u8
 #EXTINF:-1,NTV
 http://nt4p9nef.rocketcdn.com/ntvhd.stream_720p/chunklist.m3u8
 #EXTINF:-1,CNN TÜRK
@@ -150,17 +150,15 @@ http://45.94.149.154:8000/play/a02n
 #EXTINF:-1,TRT BELGESEL
 http://tv-trtbelgesel.live.trt.com.tr/master_720.m3u8
 #EXTINF:-1,NATIONAL GEOGRAPHIC
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Turkish/3c331c48c92630f.m3u8
+http://sikimsonikisler.hlsrectv.online/133/index.m3u8
 #EXTINF:-1,NAT GEO WILD
 http://sikimsonikisler.hlsrectv.online/12/index.m3u8
-#EXTINF:-1,LOVE NATURE
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Turkish/128cf27260aceee.m3u8
 #EXTINF:-1,DISCOVERY CHANNEL
 http://sikimsonikisler.hlsrectv.online/14/index.m3u8
 #EXTINF:-1,ID
 http://sikimsonikisler.hlsrectv.online/15/index.m3u8
 #EXTINF:-1,DISCOVERY SCIENCE
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Turkish/53777990c99d947.m3u8
+http://sikimsonikisler.hlsrectv.online/177/index.m3u8
 #EXTINF:-1,VIASAT HISTORY
 http://45.94.149.154:8000/play/a039
 #EXTINF:-1,BBC EARTH
@@ -169,8 +167,6 @@ http://sikimsonikisler.hlsrectv.online/16/index.m3u8
 http://sikimsonikisler.hlsrectv.online/21/index.m3u8
 #EXTINF:-1,DOCUBOX
 http://45.94.149.154:8000/play/a036
-#EXTINF:-1,OUTDOOR
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Turkish/b5601673ed64f2d.m3u8
 #EXTINF:-1,CGTN DOCUMENTARY
 http://livedoc.cgtn.com/1000d/prog_index.m3u8
 #EXTINF:-1,CCTV-4
@@ -196,19 +192,23 @@ http://45.94.149.154:8000/play/a038
 #EXTINF:-1,FAST AND FUNBOX
 http://45.94.149.154:8000/play/a035
 #EXTINF:-1,beIN SPORTS 1
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Turkish/34d756fd89e735c.m3u8
+http://live.netstreaming.cf/hls/201.m3u8
 #EXTINF:-1,beIN SPORTS 2
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Turkish/11afe2d943098df.m3u8
+http://live.netstreaming.cf/hls/202.m3u8
 #EXTINF:-1,beIN SPORTS 3
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Turkish/b56aad7153c5e7a.m3u8
+http://live.netstreaming.cf/hls/203.m3u8
+#EXTINF:-1,beIN SPORTS 4
+http://live.netstreaming.cf/hls/204.m3u8
 #EXTINF:-1,beIN SPORTS HABER
 http://45.94.149.154:8000/play/a07d
 #EXTINF:-1,A SPOR
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Turkish/2d2d399874f79b3.m3u8
+http://149.255.152.66:8080/atvturk/index.m3u8
 #EXTINF:-1,S SPORT
-http://srvb.buruyabenim.xyz/kaynakstreamradarco/58/naxi/caxi.m3u8
+http://sikimsonikisler.hlsrectv.online/555/index.m3u8
+#EXTINF:-1,S SPORT 2
+http://sikimsonikisler.hlsrectv.online/666/index.m3u8
 #EXTINF:-1,NBA TV
-http://srvb.buruyabenim.xyz/kaynakstreamradarco/57/naxi/caxi.m3u8
+http://srvb.lanyeteramk.xyz/kaynakstreamradarco/57/naxi/caxi.m3u8
 #EXTINF:-1,EDGE SPORT
 http://dai.google.com/linear/hls/event/d4zeSI-dTuqizFrByjs3OA/master.m3u8
 #EXTINF:-1,TİVİBU SPOR
@@ -236,7 +236,7 @@ http://iptvmasterlink.dyndns.org:5566/Entry/minikacocuk_yeni.m3u8
 #EXTINF:-1,MİNİKA GO
 http://iptvmasterlink.dyndns.org:5566/Entry/minikago_yeni.m3u8
 #EXTINF:-1,BABY TV
-http://srvb.buruyabenim.xyz/kaynakstreamradarco/5/naxi/caxi.m3u8
+http://srvb.lanyeteramk.xyz/kaynakstreamradarco/5/naxi/caxi.m3u8
 #EXTINF:-1,DISNEY CHANNEL
 https://iptvmasterlink.dyndns.org:5566/Entry/disneychannel_yeni.m3u8
 #EXTINF:-1,DISNEY JUNIOR
