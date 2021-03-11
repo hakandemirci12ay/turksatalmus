@@ -1,6 +1,10 @@
 #EXTM3U
 #EXTINF:-1,TOKAT ALMUS MOBESE KAMERASI
 http://yayin.basturkelektronik.com:8080/live/tokat-almus.stream/playlist.m3u8
+#EXTINF:-1,FX
+http://sikimsonikisler.hlsrectv.online/22/index.m3u8
+#EXTINF:-1,FOXCRIME
+http://sikimsonikisler.hlsrectv.online/23/index.m3u8
 #EXTINF:-1,SİNEMA TV
 http://45.94.149.154:8000/play/a02o
 #EXTINF:-1,SİNEMA 2
@@ -21,16 +25,14 @@ http://45.94.149.154:8000/play/a02x
 http://45.94.149.154:8000/play/a02u
 #EXTINF:-1,SİNEMA KOMEDİ 2
 http://45.94.149.154:8000/play/a02v
-#EXTINF:-1,SINEMA YERLI
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Turkish/433da1b0a3b8026.m3u8
 #EXTINF:-1,TASKRUT İZ
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Turkish/22c11520e0f9ce6.m3u8
+http://srvb.lanyeteramk.xyz/kaynakstreamradarco/12/naxi/caxi.m3u8
 #EXTINF:-1,TASKRUT GURME
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Turkish/ee3a121a2673273.m3u8
+http://srvb.lanyeteramk.xyz/kaynakstreamradarco/10/naxi/caxi.m3u8
 #EXTINF:-1,TRT 1
 http://tv-trt1.live.trt.com.tr/master.m3u8
 #EXTINF:-1,ATV
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Turkish/12bfb6c65d32778.m3u8
+http://149.255.152.66:8080/atvturk/index.m3u8
 #EXTINF:-1,SHOW TV
 http://tv.ensonhaber.com/tv/tr/showtv/index.m3u8
 #EXTINF:-1,KANAL D
@@ -150,21 +152,21 @@ http://tv-trtbelgesel.live.trt.com.tr/master_720.m3u8
 #EXTINF:-1,NATIONAL GEOGRAPHIC
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Turkish/3c331c48c92630f.m3u8
 #EXTINF:-1,NAT GEO WILD
-https://srvb.buruyabenim.xyz/kaynakstreamradarco/55/strmrdr.m3u8
+http://sikimsonikisler.hlsrectv.online/12/index.m3u8
 #EXTINF:-1,LOVE NATURE
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Turkish/128cf27260aceee.m3u8
 #EXTINF:-1,DISCOVERY CHANNEL
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Turkish/65e3ec94b215288.m3u8
+http://sikimsonikisler.hlsrectv.online/14/index.m3u8
 #EXTINF:-1,ID
-http://srvb.buruyabenim.xyz/kaynakstreamradarco/41/naxi/caxi.m3u8
+http://sikimsonikisler.hlsrectv.online/15/index.m3u8
 #EXTINF:-1,DISCOVERY SCIENCE
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Turkish/53777990c99d947.m3u8
 #EXTINF:-1,VIASAT HISTORY
 http://45.94.149.154:8000/play/a039
 #EXTINF:-1,BBC EARTH
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Turkish/1016a663a2612ed.m3u8
+http://sikimsonikisler.hlsrectv.online/16/index.m3u8
 #EXTINF:-1,HISTORY CHANNEL
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Turkish/f1c045c524ac563.m3u8
+http://sikimsonikisler.hlsrectv.online/21/index.m3u8
 #EXTINF:-1,DOCUBOX
 http://45.94.149.154:8000/play/a036
 #EXTINF:-1,OUTDOOR
@@ -186,9 +188,9 @@ http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/pla
 #EXTINF:-1,UA TV
 http://ua-tv-hls2.cosmonova.net.ua/hls/ua-tv_ua_mid/index.m3u8
 #EXTINF:-1,EUROSPORT 1
-http://srvb.buruyabenim.xyz/kaynakstreamradarco/35/naxi/caxi.m3u8
+http://sikimsonikisler.hlsrectv.online/8/index.m3u8
 #EXTINF:-1,EUROSPORT 2
-http://srvb.buruyabenim.xyz/kaynakstreamradarco/36/naxi/caxi.m3u8
+http://sikimsonikisler.hlsrectv.online/9/index.m3u8
 #EXTINF:-1,FIGHTBOX
 http://45.94.149.154:8000/play/a038
 #EXTINF:-1,FAST AND FUNBOX
@@ -218,7 +220,7 @@ http://tv-trtspor2.live.trt.com.tr/master.m3u8
 #EXTINF:-1,SPORTS TV
 http://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
 #EXTINF:-1,FB TV
-http://iptvmasterlink.dyndns.org:5566/Entry/fbtv_yeni.m3u8
+http://sikimsonikisler.hlsrectv.online/10/index.m3u8
 #EXTINF:-1,GS TV
 http://owifavo5.rocketcdn.com/gstv/gstv.smil/chunklist.m3u8
 #EXTINF:-1,T.A.Y TV
@@ -227,6 +229,8 @@ http://mn-nl.mncdn.com/blutv_taytv/smil:taytv_sd.smil/playlist.m3u8
 http://tjktv-live.tjk.org/tjktv.m3u8
 #EXTINF:-1,TRT ÇOCUK
 http://tv-trtcocuk.live.trt.com.tr/master_720.m3u8
+#EXTINF:-1,BBC CBEEBIES
+http://sikimsonikisler.hlsrectv.online/20/index.m3u8
 #EXTINF:-1,MİNİKA ÇOCUK
 http://iptvmasterlink.dyndns.org:5566/Entry/minikacocuk_yeni.m3u8
 #EXTINF:-1,MİNİKA GO
@@ -235,6 +239,12 @@ http://iptvmasterlink.dyndns.org:5566/Entry/minikago_yeni.m3u8
 http://srvb.buruyabenim.xyz/kaynakstreamradarco/5/naxi/caxi.m3u8
 #EXTINF:-1,DISNEY CHANNEL
 https://iptvmasterlink.dyndns.org:5566/Entry/disneychannel_yeni.m3u8
+#EXTINF:-1,DISNEY JUNIOR
+http://sikimsonikisler.hlsrectv.online/37/index.m3u8
+#EXTINF:-1,NICKELODEON
+http://sikimsonikisler.hlsrectv.online/34/index.m3u8
+#EXTINF:-1,NICK JR.
+http://sikimsonikisler.hlsrectv.online/35/index.m3u8
 #EXTINF:-1,DA VINCI LEARNING
 http://45.94.149.154:8000/play/a034
 #EXTINF:-1,TRT EBA TV İLKOKUL
