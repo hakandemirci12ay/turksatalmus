@@ -25,10 +25,12 @@ http://45.94.149.154:8000/play/a02x
 http://45.94.149.154:8000/play/a02u
 #EXTINF:-1,SİNEMA KOMEDİ 2
 http://45.94.149.154:8000/play/a02v
+#EXTINF:-1,SİNEMA YERLİ
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Turkish/433da1b0a3b8026.m3u8
 #EXTINF:-1,beIN İZ
-http://srvb.lanyeteramk.xyz/kaynakstreamradarco/12/naxi/caxi.m3u8
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Turkish/22c11520e0f9ce6.m3u8
 #EXTINF:-1,beIN GURME
-http://srvb.lanyeteramk.xyz/kaynakstreamradarco/10/naxi/caxi.m3u8
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Turkish/ee3a121a2673273.m3u8
 #EXTINF:-1,TRT 1
 http://tv-trt1.live.trt.com.tr/master.m3u8
 #EXTINF:-1,ATV
@@ -117,6 +119,8 @@ http://tv.ensonhaber.com/tv/tr/haberglobal/index.m3u8
 http://mn-nl.mncdn.com/blutv_apara/smil:apara_sd.smil/playlist.m3u8
 #EXTINF:-1,EKOTÜRK
 http://mn-nl.mncdn.com/blutv_ekoturk/smil:ekoturk_sd.smil/playlist.m3u8
+#EXTINF:-1,HALK TV
+https://mn-nl.mncdn.com/blutv_halktv/smil:halktv_sd.smil/chunklist_b2064000.m3u8
 #EXTINF:-1,TRT WORLD
 http://tv-trtworld.live.trt.com.tr/master.m3u8
 #EXTINF:-1,CNN INTERNATIONAL
@@ -153,6 +157,8 @@ http://tv-trtbelgesel.live.trt.com.tr/master_720.m3u8
 http://sikimsonikisler.hlsrectv.online/133/index.m3u8
 #EXTINF:-1,NAT GEO WILD
 http://sikimsonikisler.hlsrectv.online/12/index.m3u8
+#EXTINF:-1,LOVE NATURE
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Turkish/128cf27260aceee.m3u8
 #EXTINF:-1,DISCOVERY CHANNEL
 http://sikimsonikisler.hlsrectv.online/14/index.m3u8
 #EXTINF:-1,ID
@@ -272,4 +278,4 @@ http://n10101m.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e17cd
 #EXTINF:-1,POWER TV
 http://livetv.powerapp.com.tr/powerTV/powerhd.smil/playist.m3u8 
 #EXTINF:-1,POWERTÜRK TV
-http://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/playist.m3u8 
+http://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/playist.m3u8
