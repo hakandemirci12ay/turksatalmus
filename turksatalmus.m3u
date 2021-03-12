@@ -25,9 +25,9 @@ http://45.94.149.154:8000/play/a02x
 http://45.94.149.154:8000/play/a02u
 #EXTINF:-1,SİNEMA KOMEDİ 2
 http://45.94.149.154:8000/play/a02v
-#EXTINF:-1,TASKRUT İZ
+#EXTINF:-1,beIN İZ
 http://srvb.lanyeteramk.xyz/kaynakstreamradarco/12/naxi/caxi.m3u8
-#EXTINF:-1,TASKRUT GURME
+#EXTINF:-1,beIN GURME
 http://srvb.lanyeteramk.xyz/kaynakstreamradarco/10/naxi/caxi.m3u8
 #EXTINF:-1,TRT 1
 http://tv-trt1.live.trt.com.tr/master.m3u8
@@ -192,17 +192,17 @@ http://45.94.149.154:8000/play/a038
 #EXTINF:-1,FAST AND FUNBOX
 http://45.94.149.154:8000/play/a035
 #EXTINF:-1,beIN SPORTS 1
-http://live.netstreaming.cf/hls/201.m3u8
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Turkish/34d756fd89e735c.m3u8
 #EXTINF:-1,beIN SPORTS 2
-http://live.netstreaming.cf/hls/202.m3u8
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Turkish/11afe2d943098df.m3u8
 #EXTINF:-1,beIN SPORTS 3
-http://live.netstreaming.cf/hls/203.m3u8
-#EXTINF:-1,beIN SPORTS 4
-http://live.netstreaming.cf/hls/204.m3u8
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Turkish/334261d8ed50e1a.m3u8
 #EXTINF:-1,beIN SPORTS HABER
 http://45.94.149.154:8000/play/a07d
 #EXTINF:-1,A SPOR
 http://149.255.152.66:8080/atvturk/index.m3u8
+#EXTINF:-1,SPOR SMART
+http://sikimsonikisler.hlsrectv.online/444/index.m3u8
 #EXTINF:-1,S SPORT
 http://sikimsonikisler.hlsrectv.online/555/index.m3u8
 #EXTINF:-1,S SPORT 2
