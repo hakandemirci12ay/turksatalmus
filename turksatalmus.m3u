@@ -277,3 +277,5 @@ http://n10101m.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e17cd
 http://livetv.powerapp.com.tr/powerTV/powerhd.smil/playist.m3u8 
 #EXTINF:-1,POWERTÜRK TV
 http://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/playist.m3u8
+#EXTINF:-1,TRACE URBAN
+http://45.94.149.154:8000/play/a037
