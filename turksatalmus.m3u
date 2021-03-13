@@ -60,7 +60,7 @@ http://pa9agxjg.rocketcdn.com/tlctv.smil/chunklist.m3u8
 #EXTINF:-1,DMAX
 http://jviqfbc2.rocketcdn.com/dmax.smil/chunklist.m3u8
 #EXTINF:-1,KON TV
-http://59cba4d34b678.streamlock.net/live/kontv/playlist.m3u8
+http://mn-nl.mncdn.com/blutv_kontv/smil:kontv_sd.smil/playlist.m3u8
 #EXTINF:-1,TV 100
 http://mn-nl.mncdn.com/blutv_tv100/tv100_sd.smil/playlist.m3u8
 #EXTINF:-1,UCANKUS TV
@@ -74,13 +74,13 @@ http://mn-nl.mncdn.com/blutv_bizimev/bizimev_sd.smil/playlist.m3u8
 #EXTINF:-1,KANAL B
 http://212.174.58.161/hls-live/livepkgr/_definst_/liveevent/kanalb.m3u8
 #EXTINF:-1,GENÇ TV (KIBRIS)
-http://59cba4d34b678.streamlock.net/canlitv/kibrisgenctv/playlist.m3u8
+http://kuzeykibris.tv/m3u8/tv_genc.m3u8
 #EXTINF:-1,BENGUTURK
 http://tv.ensonhaber.com/tv/tr/benguturk/index.m3u8
 #EXTINF:-1,TRT 2
 http://tv-trt2.live.trt.com.tr/master.m3u8
 #EXTINF:-1,TRT HABER
-http://tv-trthaber.live.trt.com.tr/master.m3u8,
+http://tv-trthaber.live.trt.com.tr/master.m3u8
 #EXTINF:-1,A HABER
 http://149.255.152.66:8080/ahaberhd/index.m3u8
 #EXTINF:-1,NTV
@@ -146,7 +146,7 @@ http://live.cgtn.com/1000/prog_index.m3u8
 #EXTINF:-1,RUSSIA 24
 http://radio-live-mg.rtr-vesti.ru/hls/russia_24/playlist_2.m3u8
 #EXTINF:-1,YABAN TV
-http://59cba4d34b678.streamlock.net/live1/yabantv/playlist.m3u8
+http://59cba4d34b678.streamlock.net/live1/yabantv/playlist.m3u8ü
 #EXTINF:-1,HABİTAT TV
 http://45.94.149.154:8000/play/a02n
 #EXTINF:-1,TRT BELGESEL
