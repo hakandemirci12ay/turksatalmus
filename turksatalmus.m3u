@@ -103,6 +103,8 @@ http://mn-nl.mncdn.com/tvnet/tvnet/playlist.m3u8
 http://akittv-live.ercdn.net/akittv/akittv.m3u8
 #EXTINF:-1,BRT 1
 http://wms.brtk.net:1935/live/BRTHD/playlist.m3u8
+#EXTINF:-1,TV EM
+https://cdn-tvem.yayin.com.tr/TVEM/TVEM/playlist.m3u8
 #EXTINF:-1,TRT TÜRK
 http://tv-trtturk.live.trt.com.tr/master.m3u8
 #EXTINF:-1,TRT AVAZ
@@ -119,6 +121,8 @@ http://mn-nl.mncdn.com/blutv_apara/smil:apara_sd.smil/playlist.m3u8
 http://mn-nl.mncdn.com/blutv_ekoturk/smil:ekoturk_sd.smil/playlist.m3u8
 #EXTINF:-1,HALK TV
 https://mn-nl.mncdn.com/blutv_halktv/smil:halktv_sd.smil/chunklist_b2064000.m3u8
+#EXTINF:-1,TELE 1
+http://iptvmasterlink.dyndns.org:5566/Entry/tele1_yeni.m3u8
 #EXTINF:-1,TRT WORLD
 http://tv-trtworld.live.trt.com.tr/master.m3u8
 #EXTINF:-1,CNN INTERNATIONAL
@@ -127,6 +131,8 @@ http://149.255.152.66:8080/cnn/index.m3u8
 http://84.47.174.140/hlsl/2/BBC_World/BBC_World.m3u8
 #EXTINF:-1,BLOOMBERG TV
 http://www.bloomberg.com/media-manifest/streams/eu.m3u8
+#EXTINF:-1,FOX NEWS CHANNEL
+http://45.94.149.154:8000/play/a03x
 #EXTINF:-1,ALJAZEERA ARABIC
 http://live-hls-web-aja.getaj.net/AJA/05.m3u8
 #EXTINF:-1,ALJAZEERA ENGLISH
@@ -277,6 +283,10 @@ https://mn-nl.mncdn.com/blutv_dreamturk/smil:dreamturk_sd.smil/playlist.m3u8
 http://n10101m.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e187770143.smil/playlist.m3u8
 #EXTINF:-1,NUMBER1 TV
 http://n10101m.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e17cd59e8b.smil/playlist.m3u8
+#EXTINF:-1,NUMBER1 AŞK
+https://n10101m.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e18f9c54e6.smil/playlist.m3u8
+#EXTINF:-1,NUMBER1 DAMAR
+https://n10101m.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e19877b340.smil/playlist.m3u8
 #EXTINF:-1,POWER TV
 http://livetv.powerapp.com.tr/powerTV/powerhd.smil/playist.m3u8 
 #EXTINF:-1,POWERTÜRK TV
