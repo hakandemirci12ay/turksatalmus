@@ -181,6 +181,8 @@ http://45.94.149.154:8000/play/a036
 http://strm.yandex.ru/kal/rtg/rtg0_169_480p.json/index-v1-a1.m3u8
 #EXTINF:-1,CGTN DOCUMENTARY
 http://livedoc.cgtn.com/1000d/prog_index.m3u8
+#EXTINF:-1,OUTDOOR
+http://sikimsonikisler.hlsrectv.online/18/index.m3u8
 #EXTINF:-1,AZ TV
 http://149.255.152.66:8080/aztv/index.m3u8
 #EXTINF:-1,TV5MONDE
