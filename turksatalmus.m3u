@@ -309,3 +309,5 @@ http://livetv.powerapp.com.tr/powerTV/powerhd.smil/playist.m3u8
 http://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/playist.m3u8
 #EXTINF:-1,TRACE URBAN
 http://45.94.149.154:8000/play/a037
+#EXTINF:-1,FASHION TV
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_pg13_zw9_27065_ftv_pg13_196_hls.smil/playlist.m3u8
