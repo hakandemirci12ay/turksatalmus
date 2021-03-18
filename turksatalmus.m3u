@@ -71,6 +71,8 @@ http://iptvmasterlink.dyndns.org:5566/Entry/ulusalkanal_yeni.m3u8
 http://mn-nl.mncdn.com/blutv_tv8_5/smil:tv8_5_sd.smil/playlist.m3u8
 #EXTINF:-1,BİZİMEV TV
 http://mn-nl.mncdn.com/blutv_bizimev/bizimev_sd.smil/playlist.m3u8
+#EXTINF:-1,BEYKENT TV
+https://yayin.haber100.com/P62039948/beykenttv/playlist.m3u8
 #EXTINF:-1,KANAL B
 https://mn-nl.mncdn.com/blutv_kanalb/smil:kanalb_sd.smil/playlist.m3u8
 #EXTINF:-1,GENÇ TV (KIBRIS)
@@ -110,7 +112,7 @@ http://tv-trtturk.live.trt.com.tr/master.m3u8
 #EXTINF:-1,TRT AVAZ
 http://tv-trtavaz.live.trt.com.tr/master.m3u8
 #EXTINF:-1,TRT 3
-http://meclistv-live.ercdn.net/meclistv/meclistv.m3u8
+https://tv-trt3.live.trt.com.tr/master.m3u8
 #EXTINF:-1,TRT KURDİ
 http://tv-trtkurdi.live.trt.com.tr/master.m3u8
 #EXTINF:-1,HABER GLOBAL
@@ -126,7 +128,7 @@ http://iptvmasterlink.dyndns.org:5566/Entry/tele1_yeni.m3u8
 #EXTINF:-1,TRT WORLD
 http://tv-trtworld.live.trt.com.tr/master.m3u8
 #EXTINF:-1,CNN INTERNATIONAL
-http://149.255.152.66:8080/cnn/index.m3u8
+http://cnn-cnninternational-1-de.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1,BBC WORLD NEWS
 http://84.47.174.140/hlsl/2/BBC_World/BBC_World.m3u8
 #EXTINF:-1,BLOOMBERG TV
@@ -149,6 +151,8 @@ http://rt-usa.secure.footprint.net/1105_2500Kb.m3u8
 http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master_2000.m3u8
 #EXTINF:-1,FRANCE 24 FRANÇAİS
 http://f24hls-i.akamaihd.net/hls/live/221146-b/F24_FR_HI_HLS/master_2000.m3u8
+#EXTINF:-1,ALA TOO 24
+http://onlinetv.ktrk.kg:1935/live/myStream/playlist.m3u8
 #EXTINF:-1,CGTN
 http://live.cgtn.com/1000/prog_index.m3u8
 #EXTINF:-1,RUSSIA 24
@@ -307,6 +311,8 @@ https://n10101m.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e198
 http://livetv.powerapp.com.tr/powerTV/powerhd.smil/playist.m3u8 
 #EXTINF:-1,POWERTÜRK TV
 http://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/playist.m3u8
+#EXTINF:-1,TATLISES TV
+http://waw2.artiyerelmedya.net/tatlisestv/bant1/playlist.m3u8
 #EXTINF:-1,TRACE URBAN
 http://45.94.149.154:8000/play/a037
 #EXTINF:-1,FASHION TV
