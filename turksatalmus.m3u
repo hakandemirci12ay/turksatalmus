@@ -157,6 +157,8 @@ http://onlinetv.ktrk.kg:1935/live/myStream/playlist.m3u8
 http://live.cgtn.com/1000/prog_index.m3u8
 #EXTINF:-1,RUSSIA 24
 http://radio-live-mg.rtr-vesti.ru/hls/russia_24/playlist_2.m3u8
+#EXTINF:-1,AV TV
+http://waw2.artiyerelmedya.net/avtv/bant1/playlist.m3u8
 #EXTINF:-1,YABAN TV
 https://59cba4d34b678.streamlock.net/live1/yabantv/playlist.m3u8
 #EXTINF:-1,HABİTAT TV
@@ -217,8 +219,6 @@ http://45.94.149.154:8000/play/a038
 http://45.94.149.154:8000/play/a035
 #EXTINF:-1,beIN SPORTS 1
 http://live.netstreaming.cf/hls/201.m3u8
-#EXTINF:-1,beIN SPORTS 1 Yedek
-http://www.rectv.co/yabancispor/Yanabc%8d%20spor%20kanallar%8d/bein1.php
 #EXTINF:-1,beIN SPORTS 2
 http://live.netstreaming.cf/hls/202.m3u8
 #EXTINF:-1,beIN SPORTS 3
@@ -299,20 +299,28 @@ http://m.live.net.sa:1935/live/sunnah/playlist.m3u8
 http://tv-trtmuzik.live.trt.com.tr/master_720.m3u8
 #EXTINF:-1,KRAL TV
 http://mid5dg6m.rocketcdn.com/kraltv_360/chunklist.m3u8
+#EXTINF:-1,KRAL POP TV
+http://bqgsd19q.rocketcdn.com/kralpop_720/chunklist.m3u8
 #EXTINF:-1,DREAM TURK
 https://mn-nl.mncdn.com/blutv_dreamturk/smil:dreamturk_sd.smil/playlist.m3u8
 #EXTINF:-1,NUMBER1 TURK
 http://n10101m.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e187770143.smil/playlist.m3u8
 #EXTINF:-1,NUMBER1 TV
 http://n10101m.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e17cd59e8b.smil/playlist.m3u8
+#EXTINF:-1,NUMBER1 DANCE
+http://n10101m.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e2aa89e721.smil/playlist.m3u8
 #EXTINF:-1,NUMBER1 AŞK
-https://n10101m.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e18f9c54e6.smil/playlist.m3u8
+http://n10101m.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e18f9c54e6.smil/playlist.m3u8
 #EXTINF:-1,NUMBER1 DAMAR
-https://n10101m.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e19877b340.smil/playlist.m3u8
+http://n10101m.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e19877b340.smil/playlist.m3u8
+#EXTINF:-1,ARABESK TV
+http://yayin.santraltr.com/hls/arabeskyeni.m3u8
 #EXTINF:-1,POWER TV
 http://livetv.powerapp.com.tr/powerTV/powerhd.smil/playist.m3u8 
 #EXTINF:-1,POWERTÜRK TV
 http://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/playist.m3u8
+#EXTINF:-1,MİLYON TV
+http://milyontv-live.ercdn.net/milyontv/milyontv_720p.m3u8
 #EXTINF:-1,TATLISES TV
 http://waw2.artiyerelmedya.net/tatlisestv/bant1/playlist.m3u8
 #EXTINF:-1,TRACE URBAN
