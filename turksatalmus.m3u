@@ -5,6 +5,16 @@ http://yayin.basturkelektronik.com:8080/live/tokat-almus.stream/playlist.m3u8
 http://sikimsonikisler.hlsrectv.online/22/index.m3u8
 #EXTINF:-1,FOXCRIME
 http://sikimsonikisler.hlsrectv.online/23/index.m3u8
+#EXTINF:-1,beIN MOVIES PREMIERE
+http://alfax598053.net:8080/live/u425684x12ay1/dtjzf27042020/89.ts
+#EXTINF:-1,beIN MOVIES STARS
+http://srvb.buneamkya.xyz/kaynakstreamradarco/18/naxi/caxi.m3u8
+#EXTINF:-1,beIN MOVIES ACTION
+http://srvb.buneamkya.xyz/kaynakstreamradarco/13/naxi/caxi.m3u8
+#EXTINF:-1,beIN MOVIES FAMILY
+http://srvb.buneamkya.xyz/kaynakstreamradarco/15/naxi/caxi.m3u8
+#EXTINF:-1,beIN MOVIES TURK
+http://sikimsonikisler.hlsrectv.online/56/index.m3u8
 #EXTINF:-1,SİNEMA TV
 http://45.94.149.154:8000/play/a02o
 #EXTINF:-1,SİNEMA 2
