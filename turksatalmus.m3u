@@ -6,11 +6,15 @@ http://sikimsonikisler.hlsrectv.online/22/index.m3u8
 #EXTINF:-1,FOXCRIME
 http://sikimsonikisler.hlsrectv.online/23/index.m3u8
 #EXTINF:-1,beIN MOVIES PREMIERE
-http://alfax598053.net:8080/live/u425684x12ay1/dtjzf27042020/89.ts
+http://stream.ulusal.de:8080/live/TvBezGranica/vEuy0C0wYe/286.ts
+#EXTINF:-1,beIN MOVIES PREMIERE 2
+http://stream.ulusal.de:8080/live/TvBezGranica/vEuy0C0wYe/285.ts
 #EXTINF:-1,beIN MOVIES STARS
-http://srvb.buneamkya.xyz/kaynakstreamradarco/18/naxi/caxi.m3u8
+http://stream.ulusal.de:8080/live/TvBezGranica/vEuy0C0wYe/284.ts
 #EXTINF:-1,beIN MOVIES ACTION
 http://srvb.buneamkya.xyz/kaynakstreamradarco/13/naxi/caxi.m3u8
+#EXTINF:-1,beIN MOVIES ACTION 2
+http://srvb.buneamkya.xyz/kaynakstreamradarco/21/naxi/caxi.m3u8
 #EXTINF:-1,beIN MOVIES FAMILY
 http://srvb.buneamkya.xyz/kaynakstreamradarco/15/naxi/caxi.m3u8
 #EXTINF:-1,beIN MOVIES TURK
