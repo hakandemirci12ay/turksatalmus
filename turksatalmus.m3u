@@ -20,25 +20,25 @@ http://srvb.buneamkya.xyz/kaynakstreamradarco/15/naxi/caxi.m3u8
 #EXTINF:-1,beIN MOVIES TURK
 http://sikimsonikisler.hlsrectv.online/56/index.m3u8
 #EXTINF:-1,SİNEMA TV
-http://45.94.149.154:8000/play/a02o
+http://91.236.251.194:8000/play/a046
 #EXTINF:-1,SİNEMA 2
-http://45.94.149.154:8000/play/a02p
+http://91.236.251.194:8000/play/a047
 #EXTINF:-1,SİNEMA AKSİYON
-http://45.94.149.154:8000/play/a02m
+http://91.236.251.194:8000/play/a044
 #EXTINF:-1,SİNEMA AKSİYON 2
-http://45.94.149.154:8000/play/a02r
+http://91.236.251.194:8000/play/a03n
 #EXTINF:-1,SİNEMA AİLE
-http://45.94.149.154:8000/play/a02s
+http://91.236.251.194:8000/play/a03o
 #EXTINF:-1,SİNEMA AİLE 2
-http://45.94.149.154:8000/play/a02t
+http://91.236.251.194:8000/play/a03p
 #EXTINF:-1,SİNEMA 1001
-http://45.94.149.154:8000/play/a02w
+http://91.236.251.194:8000/play/a03s
 #EXTINF:-1,SİNEMA 1002
-http://45.94.149.154:8000/play/a02x
+http://91.236.251.194:8000/play/a03t
 #EXTINF:-1,SİNEMA KOMEDİ
-http://45.94.149.154:8000/play/a02u
+http://91.236.251.194:8000/play/a03q
 #EXTINF:-1,SİNEMA KOMEDİ 2
-http://45.94.149.154:8000/play/a02v
+http://91.236.251.194:8000/play/a03r
 #EXTINF:-1,beIN İZ
 http://srvb.buneamkya.xyz/kaynakstreamradarco/12/naxi/caxi.m3u8
 #EXTINF:-1,beIN GURME
@@ -58,7 +58,7 @@ http://mn-nl.mncdn.com/blutv_kanal7/kanal7_sd.smil/playlist.m3u8
 #EXTINF:-1,FOX TV
 http://mn-nl.mncdn.com/blutv_foxtv/smil:foxtv_sd.smil/playlist.m3u8
 #EXTINF:-1,TV8
-http://149.255.152.66:8080/tv8hd/mpegts
+http://91.236.251.194:8000/play/a05s
 #EXTINF:-1,BEYAZ TV
 http://mn-nl.mncdn.com/blutv_beyaztv/smil:beyaztv_sd.smil/playlist.m3u8
 #EXTINF:-1,SHOW MAX
@@ -178,7 +178,7 @@ http://waw2.artiyerelmedya.net/avtv/bant1/playlist.m3u8
 #EXTINF:-1,YABAN TV
 https://59cba4d34b678.streamlock.net/live1/yabantv/playlist.m3u8
 #EXTINF:-1,HABİTAT TV
-http://45.94.149.154:8000/play/a02n
+http://91.236.251.194:8000/play/a045
 #EXTINF:-1,TRT BELGESEL
 http://tv-trtbelgesel.live.trt.com.tr/master_720.m3u8
 #EXTINF:-1,NATIONAL GEOGRAPHIC
@@ -194,7 +194,7 @@ http://sikimsonikisler.hlsrectv.online/15/index.m3u8
 #EXTINF:-1,DISCOVERY SCIENCE
 http://sikimsonikisler.hlsrectv.online/177/index.m3u8
 #EXTINF:-1,VIASAT HISTORY
-http://45.94.149.154:8000/play/a039
+http://91.236.251.194:8000/play/a04w
 #EXTINF:-1,BBC EARTH
 http://sikimsonikisler.hlsrectv.online/16/index.m3u8
 #EXTINF:-1,HISTORY CHANNEL
@@ -232,9 +232,9 @@ http://sikimsonikisler.hlsrectv.online/8/index.m3u8
 #EXTINF:-1,EUROSPORT 2
 http://sikimsonikisler.hlsrectv.online/9/index.m3u8
 #EXTINF:-1,FIGHTBOX
-http://45.94.149.154:8000/play/a038
+http://91.236.251.194:8000/play/a04v
 #EXTINF:-1,FAST AND FUNBOX
-http://45.94.149.154:8000/play/a035
+http://91.236.251.194:8000/play/a04s
 #EXTINF:-1,beIN SPORTS 1
 http://jk3lzjb4dw79-hls-live.5centscdn.com/apisss/d27fa26b027026e7e66e85d0a2b2065a.sdp/chunks.m3u8
 #EXTINF:-1,beIN SPORTS 2
@@ -248,7 +248,7 @@ http://xxx.buneamkya.xyz//72fe9bb58e02e669273c902c1f48f501/805/v.m3u8
 #EXTINF:-1,beIN SPORTS MAX 2
 http://xxx.buneamkya.xyz//72fe9bb58e02e669273c902c1f48f501/806/v.m3u8
 #EXTINF:-1,beIN SPORTS HABER
-http://45.94.149.154:8000/play/a07d
+http://91.236.251.194:8000/play/a05e
 #EXTINF:-1,A SPOR
 http://91.236.251.194:8000/play/a064
 #EXTINF:-1,SPOR SMART
@@ -262,7 +262,7 @@ http://91.236.251.194:8000/play/a04j
 #EXTINF:-1,EDGE SPORT
 http://dai.google.com/linear/hls/event/d4zeSI-dTuqizFrByjs3OA/master.m3u8
 #EXTINF:-1,TİVİBU SPOR
-http://45.94.149.154:8000/play/a02l
+http://91.236.251.194:8000/play/a043
 #EXTINF:-1,TRT SPOR
 http://tv-trtspor1.live.trt.com.tr/master.m3u8
 #EXTINF:-1,TRT SPOR 2
@@ -296,7 +296,7 @@ http://sikimsonikisler.hlsrectv.online/34/index.m3u8
 #EXTINF:-1,NICK JR.
 http://sikimsonikisler.hlsrectv.online/35/index.m3u8
 #EXTINF:-1,DA VINCI LEARNING
-http://45.94.149.154:8000/play/a034
+http://91.236.251.194:8000/play/a04r
 #EXTINF:-1,TRT EBA TV İLKOKUL
 http://tv-e-okul00.live.trt.com.tr/master.m3u8
 #EXTINF:-1,TRT EBA TV ORTAOKUL
@@ -344,7 +344,7 @@ http://waw2.artiyerelmedya.net/tatlisestv/bant1/playlist.m3u8
 #EXTINF:-1,360 TUNE BOX
 http://46.19.226.132:8000/play/a08i
 #EXTINF:-1,TRACE URBAN
-http://45.94.149.154:8000/play/a037
+http://91.236.251.194:8000/play/a04u
 #EXTINF:-1,FASHION TV
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_pg13_zw9_27065_ftv_pg13_196_hls.smil/playlist.m3u8
 #EXTINF:-1,INSIGHT TV
