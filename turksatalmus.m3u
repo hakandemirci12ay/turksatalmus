@@ -58,7 +58,7 @@ http://mn-nl.mncdn.com/blutv_kanal7/kanal7_sd.smil/playlist.m3u8
 #EXTINF:-1,FOX TV
 http://mn-nl.mncdn.com/blutv_foxtv/smil:foxtv_sd.smil/playlist.m3u8
 #EXTINF:-1,TV8
-http://149.255.152.66:8080/tv8hd/mpegts
+http://149.255.152.66:8080/tv8hd/index.m3u8
 #EXTINF:-1,BEYAZ TV
 http://mn-nl.mncdn.com/blutv_beyaztv/smil:beyaztv_sd.smil/playlist.m3u8
 #EXTINF:-1,SHOW MAX
