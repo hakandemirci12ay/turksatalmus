@@ -237,8 +237,10 @@ http://91.236.251.194:8000/play/a04v
 http://91.236.251.194:8000/play/a04s
 #EXTINF:-1,beIN SPORTS 1 UHD
 http://stream.ulusal.de:8080/live/TvBezGranica/vEuy0C0wYe/7955.ts
-#EXTINF:-1,beIN SPORTS 1 HD
+#EXTINF:-1,beIN SPORTS 1 FHD
 http://jk3lzjb4dw79-hls-live.5centscdn.com/apisss/d27fa26b027026e7e66e85d0a2b2065a.sdp/chunks.m3u8
+#EXTINF:-1,beIN SPORTS 1 HD
+http://ostv.site:8080/live/zero/zero/4.ts
 #EXTINF:-1,beIN SPORTS 1 SD
 http://live.netstreaming.cf/hls/201.m3u8
 #EXTINF:-1,beIN SPORTS 2
