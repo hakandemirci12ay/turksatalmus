@@ -235,8 +235,10 @@ http://sikimsonikisler.hlsrectv.online/9/index.m3u8
 http://91.236.251.194:8000/play/a04v
 #EXTINF:-1,FAST AND FUNBOX
 http://91.236.251.194:8000/play/a04s
-#EXTINF:-1,beIN SPORTS 1
+#EXTINF:-1,beIN SPORTS 1 HD
 http://jk3lzjb4dw79-hls-live.5centscdn.com/apisss/d27fa26b027026e7e66e85d0a2b2065a.sdp/chunks.m3u8
+#EXTINF:-1,beIN SPORTS 1 SD
+https://www.rectv.co/yabancispor/Yanabc%8D%20spor%20kanallar%8D/bein1.php
 #EXTINF:-1,beIN SPORTS 2
 http://xxx.buneamkya.xyz//72fe9bb58e02e669273c902c1f48f501/602/v.m3u8
 #EXTINF:-1,beIN SPORTS 3
