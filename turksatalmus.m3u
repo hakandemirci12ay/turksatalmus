@@ -19,6 +19,14 @@ http://srvb.buneamkya.xyz/kaynakstreamradarco/21/naxi/caxi.m3u8
 http://srvb.buneamkya.xyz/kaynakstreamradarco/15/naxi/caxi.m3u8
 #EXTINF:-1,beIN MOVIES TURK
 http://sikimsonikisler.hlsrectv.online/56/index.m3u8
+#EXTINF:-1,MOVIESMART PREMIUM
+http://91.236.251.194:8000/play/a04p
+#EXTINF:-1,MOVIESMART PREMIUM 2
+http://91.236.251.194:8000/play/a04q
+#EXTINF:-1,MOVIESMART CLASSIC
+http://91.236.251.194:8000/play/a053
+#EXTINF:-1,MOVIESMART TURK
+http://91.236.251.194:8000/play/a054
 #EXTINF:-1,SİNEMA TV
 http://91.236.251.194:8000/play/a046
 #EXTINF:-1,SİNEMA 2
@@ -182,13 +190,13 @@ http://91.236.251.194:8000/play/a045
 #EXTINF:-1,TRT BELGESEL
 http://tv-trtbelgesel.live.trt.com.tr/master_720.m3u8
 #EXTINF:-1,NATIONAL GEOGRAPHIC
-http://91.236.251.194:8000/play/a03x
+http://sikimsonikisler.hlsrectv.online/133/index.m3u8
 #EXTINF:-1,NAT GEO WILD
-http://91.236.251.194:8000/play/a041
+http://sikimsonikisler.hlsrectv.online/12/index.m3u8
 #EXTINF:-1,LOVE NATURE
 http://91.236.251.194:8000/play/a04l
 #EXTINF:-1,DISCOVERY CHANNEL
-http://91.236.251.194:8000/play/a04y
+http://sikimsonikisler.hlsrectv.online/14/index.m3u8
 #EXTINF:-1,ID
 http://sikimsonikisler.hlsrectv.online/15/index.m3u8
 #EXTINF:-1,DISCOVERY SCIENCE
