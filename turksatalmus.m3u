@@ -5,6 +5,10 @@ http://yayin.basturkelektronik.com:8080/live/tokat-almus.stream/playlist.m3u8
 http://91.236.251.194:8000/play/a03y
 #EXTINF:-1,FOXCRIME
 http://91.236.251.194:8000/play/a03w
+#EXTINF:-1,DİZİSMART PREMIUM
+http://91.236.251.194:8000/play/a052
+#EXTINF:-1,DİZİSMART MAX
+http://91.236.251.194:8000/play/a057
 #EXTINF:-1,beIN MOVIES PREMIERE
 http://pn.tvott.info:80/live/20totLY1KQ/PKINj2UxuY/80536.ts
 #EXTINF:-1,beIN MOVIES PREMIERE 2
@@ -291,6 +295,10 @@ http://mn-nl.mncdn.com/blutv_taytv/smil:taytv_sd.smil/playlist.m3u8
 http://tjktv-live.tjk.org/tjktv.m3u8
 #EXTINF:-1,TRT ÇOCUK
 http://tv-trtcocuk.live.trt.com.tr/master_720.m3u8
+#EXTINF:-1,ÇOCUK SMART
+http://91.236.251.194:8000/play/a04k
+#EXTINF:-1,BOOMERANG TV
+http://91.236.251.194:8000/play/a058
 #EXTINF:-1,BBC CBEEBIES
 http://sikimsonikisler.hlsrectv.online/20/index.m3u8
 #EXTINF:-1,MİNİKA ÇOCUK
