@@ -2,25 +2,25 @@
 #EXTINF:-1,TOKAT ALMUS MOBESE KAMERASI
 http://yayin.basturkelektronik.com:8080/live/tokat-almus.stream/playlist.m3u8
 #EXTINF:-1,FX
-http://91.236.251.194:8000/play/a03y
+http://sikimsonikisler.hlsrectv.online/22/index.m3u8
 #EXTINF:-1,FOXCRIME
-http://91.236.251.194:8000/play/a03w
+http://sikimsonikisler.hlsrectv.online/23/index.m3u8
 #EXTINF:-1,DİZİSMART PREMIUM
 http://91.236.251.194:8000/play/a052
 #EXTINF:-1,DİZİSMART MAX
-http://91.236.251.194:8000/play/a057
+http://sikimsonikisler.hlsrectv.online/24/index.m3u8
 #EXTINF:-1,beIN MOVIES PREMIERE
 http://pn.tvott.info:80/live/20totLY1KQ/PKINj2UxuY/80536.ts
 #EXTINF:-1,beIN MOVIES PREMIERE 2
 http://pn.tvott.info:80/live/20totLY1KQ/PKINj2UxuY/80535.ts
 #EXTINF:-1,beIN MOVIES STARS
-http://srvb.buneamkya.xyz/kaynakstreamradarco/18/naxi/caxi.m3u8
+http://srvb.sormaanlatamam.xyz/kaynakstreamradarco/18/naxi/caxi.m3u8
 #EXTINF:-1,beIN MOVIES ACTION
-http://srvb.buneamkya.xyz/kaynakstreamradarco/13/naxi/caxi.m3u8
+http://srvb.sormaanlatamam.xyz/kaynakstreamradarco/13/naxi/caxi.m3u8
 #EXTINF:-1,beIN MOVIES ACTION 2
-http://srvb.buneamkya.xyz/kaynakstreamradarco/21/naxi/caxi.m3u8
+http://srvb.sormaanlatamam.xyz/kaynakstreamradarco/21/naxi/caxi.m3u8
 #EXTINF:-1,beIN MOVIES FAMILY
-http://srvb.buneamkya.xyz/kaynakstreamradarco/15/naxi/caxi.m3u8
+http://srvb.sormaanlatamam.xyz/kaynakstreamradarco/15/naxi/caxi.m3u8
 #EXTINF:-1,beIN MOVIES TURK
 http://sikimsonikisler.hlsrectv.online/56/index.m3u8
 #EXTINF:-1,MOVIESMART PREMIUM
@@ -58,7 +58,7 @@ http://srvb.buneamkya.xyz/kaynakstreamradarco/10/naxi/caxi.m3u8
 #EXTINF:-1,TRT 1
 http://tv-trt1.live.trt.com.tr/master.m3u8
 #EXTINF:-1,ATV
-http://91.236.251.194:8000/play/a062
+http://europe2.livetv.az:80/turkey/atv_turk_sd/playlist.m3u8
 #EXTINF:-1,SHOW TV
 http://tv.ensonhaber.com/tv/tr/showtv/index.m3u8
 #EXTINF:-1,KANAL D
@@ -306,7 +306,7 @@ http://iptvmasterlink.dyndns.org:5566/Entry/minikacocuk_yeni.m3u8
 #EXTINF:-1,MİNİKA GO
 http://iptvmasterlink.dyndns.org:5566/Entry/minikago_yeni.m3u8
 #EXTINF:-1,BABY TV
-http://srvb.buneamkya.xyz/kaynakstreamradarco/5/naxi/caxi.m3u8
+http://srvb.sormaanlatamam.xyz/kaynakstreamradarco/5/strmrdr.m3u8
 #EXTINF:-1,DISNEY CHANNEL
 http://iptvmasterlink.dyndns.org:5566/Entry/disneychannel_yeni.m3u8
 #EXTINF:-1,DISNEY JUNIOR
