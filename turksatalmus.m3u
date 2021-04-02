@@ -112,7 +112,7 @@ http://tv-trt2.live.trt.com.tr/master.m3u8
 #EXTINF:-1,TRT HABER
 http://tv-trthaber.live.trt.com.tr/master.m3u8
 #EXTINF:-1,A HABER
-http://91.236.251.194:8000/play/a063
+http://yayin2.tvizlehd.com/ahaber720.m3u8
 #EXTINF:-1,NTV
 http://nt4p9nef.rocketcdn.com/ntvhd.stream_720p/chunklist.m3u8
 #EXTINF:-1,CNN TÜRK
