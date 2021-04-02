@@ -128,7 +128,7 @@ http://tv.ensonhaber.com/tv/tr/bloomberght/index.m3u8
 #EXTINF:-1,ÜLKE TV
 http://mn-nl.mncdn.com/blutv_ulketv/smil:ulketv_sd.smil/playlist.m3u8
 #EXTINF:-1,TVNET
-http://mn-nl.mncdn.com/tvnet/tvnet/playlist.m3u8
+http://tv.ensonhaber.com/tv/tr/tvnet/index.m3u8
 #EXTINF:-1,AKİT TV
 http://akittv-live.ercdn.net/akittv/akittv.m3u8
 #EXTINF:-1,BRT 1
@@ -146,7 +146,7 @@ http://tv-trtkurdi.live.trt.com.tr/master.m3u8
 #EXTINF:-1,HABER GLOBAL
 http://tv.ensonhaber.com/tv/tr/haberglobal/index.m3u8
 #EXTINF:-1,A PARA
-http://mn-nl.mncdn.com/blutv_apara/smil:apara_sd.smil/playlist.m3u8
+http://85.203.33.88:80/AIJGL8Vzeb8366/SMvu8e5663/37370
 #EXTINF:-1,EKOTÜRK
 http://mn-nl.mncdn.com/blutv_ekoturk/smil:ekoturk_sd.smil/playlist.m3u8
 #EXTINF:-1,HALK TV
@@ -155,6 +155,8 @@ https://mn-nl.mncdn.com/blutv_halktv/smil:halktv_sd.smil/chunklist_b2064000.m3u8
 http://iptvmasterlink.dyndns.org:5566/Entry/tele1_yeni.m3u8
 #EXTINF:-1,TRT WORLD
 http://tv-trtworld.live.trt.com.tr/master.m3u8
+#EXTINF:-1,A NEWS
+http://85.203.33.88:80/AIJGL8Vzeb8366/SMvu8e5663/37369
 #EXTINF:-1,CNN INTERNATIONAL
 http://cnn-cnninternational-1-de.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1,BBC WORLD NEWS
