@@ -187,12 +187,14 @@ http://onlinetv.ktrk.kg:1935/live/myStream/playlist.m3u8
 http://live.cgtn.com/1000/prog_index.m3u8
 #EXTINF:-1,RUSSIA 24
 http://radio-live-mg.rtr-vesti.ru/hls/russia_24/playlist_2.m3u8
+#EXTINF:-1,TRT 4K
+http://85.203.33.88:80/AIJGL8Vzeb8366/SMvu8e5663/22852
 #EXTINF:-1,AV TV
 http://waw2.artiyerelmedya.net/avtv/bant1/playlist.m3u8
 #EXTINF:-1,YABAN TV
 https://59cba4d34b678.streamlock.net/live1/yabantv/playlist.m3u8
 #EXTINF:-1,HABİTAT TV
-http://91.236.251.194:8000/play/a045
+http://45.94.149.154:8000/play/a02n
 #EXTINF:-1,TRT BELGESEL
 http://tv-trtbelgesel.live.trt.com.tr/master_720.m3u8
 #EXTINF:-1,NATIONAL GEOGRAPHIC
@@ -200,7 +202,7 @@ http://sikimsonikisler.hlsrectv.online/133/index.m3u8
 #EXTINF:-1,NAT GEO WILD
 http://sikimsonikisler.hlsrectv.online/12/index.m3u8
 #EXTINF:-1,LOVE NATURE
-http://91.236.251.194:8000/play/a04l
+http://zabava-htlive.cdn.ngenix.net/hls/CH_LOVENATURE4K_HLS/variant.m3u8
 #EXTINF:-1,DISCOVERY CHANNEL
 http://sikimsonikisler.hlsrectv.online/14/index.m3u8
 #EXTINF:-1,ID
@@ -208,7 +210,7 @@ http://sikimsonikisler.hlsrectv.online/15/index.m3u8
 #EXTINF:-1,DISCOVERY SCIENCE
 http://sikimsonikisler.hlsrectv.online/177/index.m3u8
 #EXTINF:-1,VIASAT HISTORY
-http://91.236.251.194:8000/play/a04w
+http://45.94.149.154:8000/play/a039
 #EXTINF:-1,BBC EARTH
 http://sikimsonikisler.hlsrectv.online/16/index.m3u8
 #EXTINF:-1,HISTORY CHANNEL
@@ -226,7 +228,7 @@ http://149.255.152.66:8080/aztv/index.m3u8
 #EXTINF:-1,TV5MONDE
 http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877-b/v3plusinfo247hls/v3plusinfo247hls_1_1.m3u8
 #EXTINF:-1,CCTV-4
-http://121.31.30.90:8085/ysten-business/live/cctv-4/1.m3u8
+http://ivi.bupt.edu.cn/hls/cctv4.m3u8
 #EXTINF:-1,SAUDI 1
 http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_tv/hls1/saudi_tv.m3u8
 #EXTINF:-1,QAZAQ TV
@@ -246,41 +248,39 @@ http://sikimsonikisler.hlsrectv.online/8/index.m3u8
 #EXTINF:-1,EUROSPORT 2
 http://sikimsonikisler.hlsrectv.online/9/index.m3u8
 #EXTINF:-1,FIGHTBOX
-http://91.236.251.194:8000/play/a04v
+http://45.94.149.154:8000/play/a038
 #EXTINF:-1,FAST AND FUNBOX
-http://91.236.251.194:8000/play/a04s
+http://45.94.149.154:8000/play/a035
 #EXTINF:-1,beIN SPORTS 1 FHD
-http://qhls.nscdn9.com/hlslive/951.m3u8
+http://85.203.33.88:80/AIJGL8Vzeb8366/SMvu8e5663/17739
 #EXTINF:-1,beIN SPORTS 1 HD
-http://ostv.site:8080/live/zero/zero/4.ts
-#EXTINF:-1,beIN SPORTS 1 SD
-https://www.rectv.co/yabancispor/Yanabc%8D%20spor%20kanallar%8D/bein1.php
+http://85.203.33.88:80/AIJGL8Vzeb8366/SMvu8e5663/15719
 #EXTINF:-1,beIN SPORTS 2
-http://xxx.buneamkya.xyz//72fe9bb58e02e669273c902c1f48f501/602/v.m3u8
+http://xxx.sormaanlatamam.xyz//72fe9bb58e02e669273c902c1f48f501/602/v.m3u8
 #EXTINF:-1,beIN SPORTS 3
-http://xxx.buneamkya.xyz//72fe9bb58e02e669273c902c1f48f501/603/v.m3u8
+http://xxx.sormaanlatamam.xyz//72fe9bb58e02e669273c902c1f48f501/603/v.m3u8
 #EXTINF:-1,beIN SPORTS 4
-http://xxx.buneamkya.xyz//72fe9bb58e02e669273c902c1f48f501/604/v.m3u8
+http://xxx.sormaanlatamam.xyz//72fe9bb58e02e669273c902c1f48f501/604/v.m3u8
 #EXTINF:-1,beIN SPORTS MAX 1
-http://xxx.buneamkya.xyz//72fe9bb58e02e669273c902c1f48f501/805/v.m3u8
+http://xxx.sormaanlatamam.xyz//72fe9bb58e02e669273c902c1f48f501/805/v.m3u8
 #EXTINF:-1,beIN SPORTS MAX 2
-http://xxx.buneamkya.xyz//72fe9bb58e02e669273c902c1f48f501/806/v.m3u8
+http://xxx.sormaanlatamam.xyz//72fe9bb58e02e669273c902c1f48f501/806/v.m3u8
 #EXTINF:-1,beIN SPORTS HABER
-http://91.236.251.194:8000/play/a05e
+http://45.94.149.154:8000/play/a07d
 #EXTINF:-1,A SPOR
-http://91.236.251.194:8000/play/a064
+http://85.203.33.88:80/AIJGL8Vzeb8366/SMvu8e5663/5133
 #EXTINF:-1,SPOR SMART
 http://sikimsonikisler.hlsrectv.online/444/index.m3u8
 #EXTINF:-1,S SPORT
-http://xxx.buneamkya.xyz/72fe9bb58e02e669273c902c1f48f501/3450/v.m3u8
+http://xxx.sormaanlatamam.xyz/72fe9bb58e02e669273c902c1f48f501/3450/v.m3u8
 #EXTINF:-1,S SPORT 2
 http://sikimsonikisler.hlsrectv.online/666/index.m3u8
 #EXTINF:-1,NBA TV
-http://91.236.251.194:8000/play/a04j
+http://srvb.sormaanlatamam.xyz/kaynakstreamradarco/57/naxi/caxi.m3u8
 #EXTINF:-1,EDGE SPORT
 http://dai.google.com/linear/hls/event/d4zeSI-dTuqizFrByjs3OA/master.m3u8
 #EXTINF:-1,TİVİBU SPOR
-http://91.236.251.194:8000/play/a043
+http://45.94.149.154:8000/play/a02l
 #EXTINF:-1,TRT SPOR
 http://tv-trtspor1.live.trt.com.tr/master.m3u8
 #EXTINF:-1,TRT SPOR 2
@@ -295,12 +295,14 @@ http://owifavo5.rocketcdn.com/gstv/gstv.smil/chunklist.m3u8
 http://mn-nl.mncdn.com/blutv_taytv/smil:taytv_sd.smil/playlist.m3u8
 #EXTINF:-1,TJK TV
 http://tjktv-live.tjk.org/tjktv.m3u8
+#EXTINF:-1,GAMETOON
+http://147.78.163.247:8000/play/a03t
 #EXTINF:-1,TRT ÇOCUK
 http://tv-trtcocuk.live.trt.com.tr/master_720.m3u8
 #EXTINF:-1,ÇOCUK SMART
 http://91.236.251.194:8000/play/a04k
 #EXTINF:-1,BOOMERANG TV
-http://91.236.251.194:8000/play/a058
+http://85.203.33.88:80/AIJGL8Vzeb8366/SMvu8e5663/73869
 #EXTINF:-1,BBC CBEEBIES
 http://sikimsonikisler.hlsrectv.online/20/index.m3u8
 #EXTINF:-1,MİNİKA ÇOCUK
@@ -318,7 +320,7 @@ http://sikimsonikisler.hlsrectv.online/34/index.m3u8
 #EXTINF:-1,NICK JR.
 http://sikimsonikisler.hlsrectv.online/35/index.m3u8
 #EXTINF:-1,DA VINCI LEARNING
-http://91.236.251.194:8000/play/a04r
+http://45.94.149.154:8000/play/a034
 #EXTINF:-1,TRT EBA TV İLKOKUL
 http://tv-e-okul00.live.trt.com.tr/master.m3u8
 #EXTINF:-1,TRT EBA TV ORTAOKUL
@@ -366,8 +368,8 @@ http://waw2.artiyerelmedya.net/tatlisestv/bant1/playlist.m3u8
 #EXTINF:-1,360 TUNE BOX
 http://46.19.226.132:8000/play/a08i
 #EXTINF:-1,TRACE URBAN
-http://91.236.251.194:8000/play/a04u
+http://45.94.149.154:8000/play/a037
 #EXTINF:-1,FASHION TV
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_pg13_zw9_27065_ftv_pg13_196_hls.smil/playlist.m3u8
 #EXTINF:-1,INSIGHT TV
-http://91.236.251.194:8000/play/a065
+https://dai.google.com/linear/hls/event/KAfBFcVrQgKmHhpzvkEn9A/master.m3u8
