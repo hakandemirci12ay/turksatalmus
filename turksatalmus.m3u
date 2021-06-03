@@ -1,6 +1,11 @@
 #EXTM3U
 #EXTINF:-1,TOKAT ALMUS MOBESE KAMERASI
 http://yayin.basturkelektronik.com:8080/live/tokat-almus.stream/playlist.m3u8
+#EXTINF:-1,TASKRUT MOVİES PLATİN
+https://srvb.habersizgelme.xyz/kaynakstreamradarco/4/strmrdr.m3u8
+
+
+
 #EXTINF:-1,SİNEMA TV
 http://45.94.149.154:8000/play/a02o
 #EXTINF:-1,SİNEMA 2
@@ -21,10 +26,10 @@ http://45.94.149.154:8000/play/a02x
 http://45.94.149.154:8000/play/a02u
 #EXTINF:-1,SİNEMA KOMEDİ 2
 http://45.94.149.154:8000/play/a02v
-#EXTINF:-1,beIN İZ
-http://srvb.sormaanlatamam.xyz/kaynakstreamradarco/12/naxi/caxi.m3u8
-#EXTINF:-1,beIN GURME
-http://srvb.sormaanlatamam.xyz/kaynakstreamradarco/10/naxi/caxi.m3u8
+#EXTINF:-1,TASKRUT İZ
+https://srvb.habersizgelme.xyz/kaynakstreamradarco/12/strmrdr.m3u8
+#EXTINF:-1,TASKRUT GURME
+https://srvb.habersizgelme.xyz/kaynakstreamradarco/10/strmrdr.m3u8
 #EXTINF:-1,TRT 1
 http://tv-trt1.live.trt.com.tr/master.m3u8
 #EXTINF:-1,ATV
@@ -270,7 +275,7 @@ http://iptvmasterlink.dyndns.org:5566/Entry/minikacocuk_yeni.m3u8
 #EXTINF:-1,MİNİKA GO
 http://iptvmasterlink.dyndns.org:5566/Entry/minikago_yeni.m3u8
 #EXTINF:-1,BABY TV
-https://c3.xcxc.cf/web/1/www.sestv.xyz/c3/1622552063/s9L-UI__8pHZxp6p_YsELw/17188.m3u8
+https://srvb.habersizgelme.xyz/kaynakstreamradarco/5/strmrdr.m3u8
 #EXTINF:-1,DISNEY CHANNEL
 http://iptvmasterlink.dyndns.org:5566/Entry/disneychannel_yeni.m3u8
 #EXTINF:-1,NICKELODEON
