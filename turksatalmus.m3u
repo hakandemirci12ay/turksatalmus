@@ -205,16 +205,16 @@ https://srvb.habersizgelme.xyz/kaynakstreamradarco/36/strmrdr.m3u8
 http://203.154.177.125:4010
 #EXTINF:-1,TASKRUT SPOR
 https://xxx.gitkumdaoyna.xyz/72fe9bb58e02e669273c902c1f48f501/601/strmrdr.m3u8
-#EXTINF:-1,TASKRUT SPOR 2
-https://xxx.gitkumdaoyna.xyz/72fe9bb58e02e669273c902c1f48f501/601/strmrdr.m3u8
-#EXTINF:-1,TASKRUT SPOR 3
-https://xxx.gitkumdaoyna.xyz/72fe9bb58e02e669273c902c1f48f501/601/strmrdr.m3u8
-#EXTINF:-1,TASKRUT SPOR 4
-https://xxx.gitkumdaoyna.xyz/72fe9bb58e02e669273c902c1f48f501/604/strmrdr.m3u8
-#EXTINF:-1,TASKRUT SPOR MAX 1
-https://xxx.gitkumdaoyna.xyz/72fe9bb58e02e669273c902c1f48f501/805/strmrdr.m3u8
-#EXTINF:-1,TASKRUT SPOR MAX 2
-https://xxx.gitkumdaoyna.xyz/72fe9bb58e02e669273c902c1f48f501/806/strmrdr.m3u8
+#EXTINF:-1,beIN SPORTS 2
+http://v2.oldbozcdn1.cc/beinsport2/index.m3u8
+#EXTINF:-1,beIN SPORTS 3
+http://oldbozcdn1.cc/beinsport3/index.m3u8
+#EXTINF:-1,beIN SPORTS 4
+http://oldbozcdn1.cc/beinsport4/index.m3u8
+#EXTINF:-1,beIN SPORTS MAX
+http://v2.oldbozcdn1.cc/max1/index.m3u8
+#EXTINF:-1,beIN SPORTS MAX 2
+http://v2.oldbozcdn1.cc/max2/index.m3u8
 #EXTINF:-1,beIN SPORTS HABER
 http://45.94.149.154:8000/play/a07d
 #EXTINF:-1,A SPOR
