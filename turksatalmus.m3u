@@ -1,22 +1,38 @@
 #EXTM3U
 #EXTINF:-1,TOKAT ALMUS MOBESE KAMERASI
 http://yayin.basturkelektronik.com:8080/live/tokat-almus.stream/playlist.m3u8
-#EXTINF:-1,TASKRUT MOVIES PLATİN
-https://srvb.habersizgelme.xyz/kaynakstreamradarco/4/strmrdr.m3u8
-#EXTINF:-1,TASKRUT MOVIES PLATİN 2
-https://srvb.habersizgelme.xyz/kaynakstreamradarco/44/strmrdr.m3u8
-#EXTINF:-1,TASKRUT MOVIES STARS
-https://srvb.habersizgelme.xyz/kaynakstreamradarco/18/strmrdr.m3u8
-#EXTINF:-1,TASKRUT MOVIES ACTION
-https://srvb.habersizgelme.xyz/kaynakstreamradarco/13/strmrdr.m3u8
-#EXTINF:-1,TASKRUT MOVIES FAMILY
-https://srvb.habersizgelme.xyz/kaynakstreamradarco/15/strmrdr.m3u8
-#EXTINF:-1,TASKRUT MOVIES TÜRK
-https://srvb.habersizgelme.xyz/kaynakstreamradarco/19/strmrdr.m3u8
+#EXTINF:-1,beIN MOVIES PREMIERE
+http://ip.xtremetv.eu:8000/Greecekomb/P5hbO8atTD/10623
+#EXTINF:-1,beIN MOVIES PREMIERE 2
+http://ip.xtremetv.eu:8000/Greecekomb/P5hbO8atTD/10622
+#EXTINF:-1,beIN MOVIES STARS
+http://ip.xtremetv.eu:8000/Greecekomb/P5hbO8atTD/10619
+#EXTINF:-1,beIN MOVIES ACTION
+http://ip.xtremetv.eu:8000/Greecekomb/P5hbO8atTD/10621
+#EXTINF:-1,beIN MOVIES ACTION 2
+http://ip.xtremetv.eu:8000/Greecekomb/P5hbO8atTD/10621
+#EXTINF:-1,beIN MOVIES FAMILY
+http://ip.xtremetv.eu:8000/Greecekomb/P5hbO8atTD/10618
+#EXTINF:-1,beIN MOVIES TÜRK
+http://ip.xtremetv.eu:8000/Greecekomb/P5hbO8atTD/10624
+#EXTINF:-1,MOVIESMART PREMIUM
+http://ip.xtremetv.eu:8000/Greecekomb/P5hbO8atTD/10611
+#EXTINF:-1,MOVIESMART PREMIUM 2
+http://ip.xtremetv.eu:8000/Greecekomb/P5hbO8atTD/10610
+#EXTINF:-1,MOVIESMART CLASSIC
+http://ip.xtremetv.eu:8000/Greecekomb/P5hbO8atTD/10603
+#EXTINF:-1,MOVIESMART TÜRK
+http://ip.xtremetv.eu:8000/Greecekomb/P5hbO8atTD/10612
+#EXTINF:-1,SİNEMA 2
+http://ip.xtremetv.eu:8000/Greecekomb/P5hbO8atTD/10604
+#EXTINF:-1,SİNEMA AKSİYON
+http://ip.xtremetv.eu:8000/Greecekomb/P5hbO8atTD/10599
+#EXTINF:-1,DİZİSMART PREMIUM
+http://ip.xtremetv.eu:8000/Greecekomb/P5hbO8atTD/10613
 #EXTINF:-1,TASKRUT İZ
-https://srvb.habersizgelme.xyz/kaynakstreamradarco/12/strmrdr.m3u8
+http://freeiptvgen.com:25461/9315/freeiptvgen/19952799
 #EXTINF:-1,TASKRUT GURME
-https://srvb.habersizgelme.xyz/kaynakstreamradarco/10/strmrdr.m3u8
+http://freeiptvgen.com:25461/9315/freeiptvgen/19952800
 #EXTINF:-1,TRT 1
 http://tv-trt1.live.trt.com.tr/master.m3u8
 #EXTINF:-1,ATV
@@ -160,17 +176,21 @@ http://45.94.149.154:8000/play/a02n
 #EXTINF:-1,TRT BELGESEL
 http://tv-trtbelgesel.live.trt.com.tr/master_720.m3u8
 #EXTINF:-1,NATIONAL GEOGRAPHIC
-https://srvb.habersizgelme.xyz/kaynakstreamradarco/56/strmrdr.m3u8
+http://freeiptvgen.com:25461/9315/freeiptvgen/19952894
 #EXTINF:-1,NAT GEO WILD
-https://srvb.habersizgelme.xyz/kaynakstreamradarco/55/strmrdr.m3u8
+http://ip.xtremetv.eu:8000/Greecekomb/P5hbO8atTD/670
 #EXTINF:-1,DISCOVERY CHANNEL
-https://srvb.habersizgelme.xyz/kaynakstreamradarco/32/strmrdr.m3u8
+http://ip.xtremetv.eu:8000/Greecekomb/P5hbO8atTD/667
 #EXTINF:-1,DISCOVERY SCIENCE
-https://srvb.habersizgelme.xyz/kaynakstreamradarco/33/strmrdr.m3u8
+http://freeiptvgen.com:25461/9315/freeiptvgen/19952891
 #EXTINF:-1,ID
 https://srvb.habersizgelme.xyz/kaynakstreamradarco/41/strmrdr.m3u8
+#EXTINF:-1,OUTDOOR
+http://ip.xtremetv.eu:8000/Greecekomb/P5hbO8atTD/677
 #EXTINF:-1,VIASAT HISTORY
-https://srvb.habersizgelme.xyz/kaynakstreamradarco/64/strmrdr.m3u8
+http://freeiptvgen.com:25461/9315/freeiptvgen/19952896
+#EXTINF:-1,DOCUBOX
+http://91.218.60.3:8001/play/a01o
 #EXTINF:-1,RTG INT
 http://strm.yandex.ru/kal/rtg/rtg0_169_480p.json/index-v1-a1.m3u8
 #EXTINF:-1,CGTN DOCUMENTARY
@@ -179,6 +199,8 @@ http://livedoc.cgtn.com/1000d/prog_index.m3u8
 http://185.129.1.242:80/aztvhd/mpegts
 #EXTINF:-1,TÜRKMENELİ TV
 http://185.236.229.50:8000/play/a01n
+#EXTINF:-1,BBC ENTERTAINMENT
+http://ip.xtremetv.eu:8000/Greecekomb/P5hbO8atTD/35840
 #EXTINF:-1,TV5MONDE
 http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877-b/v3plusinfo247hls/v3plusinfo247hls_1_1.m3u8
 #EXTINF:-1,CCTV-4
@@ -200,13 +222,15 @@ http://ua-tv-hls2.cosmonova.net.ua/hls/ua-tv_ua_mid/index.m3u8
 #EXTINF:-1,STAR SPOR
 http://188.40.186.158:8080/star.ts
 #EXTINF:-1,EUROSPORT 1
-https://srvb.habersizgelme.xyz/kaynakstreamradarco/35/strmrdr.m3u8
+http://ip.xtremetv.eu:8000/Greecekomb/P5hbO8atTD/19181
 #EXTINF:-1,EUROSPORT 2
-https://srvb.habersizgelme.xyz/kaynakstreamradarco/36/strmrdr.m3u8
+http://ip.xtremetv.eu:8000/Greecekomb/P5hbO8atTD/19182
+#EXTINF:-1,FAST AND FUNBOX
+http://ip.xtremetv.eu:8000/Greecekomb/P5hbO8atTD/10607
 #EXTINF:-1,TRACE SPORT STARS
 http://203.154.177.125:4010
-#EXTINF:-1,TASKRUT SPOR
-https://xxx.gitkumdaoyna.xyz/72fe9bb58e02e669273c902c1f48f501/601/strmrdr.m3u8
+#EXTINF:-1,beIN SPORTS 1
+http://hlsd.gcdn.co/zz5EFrZqdDZW7lfr17X2uw,1623067874/hlslive/510.m3u8
 #EXTINF:-1,beIN SPORTS 2
 http://v2.oldbozcdn1.cc/beinsport2/index.m3u8
 #EXTINF:-1,beIN SPORTS 3
@@ -223,12 +247,14 @@ http://45.94.149.154:8000/play/a07d
 http://79.124.14.198:8088/play/a0iq85
 #EXTINF:-1,SPOR SMART
 https://xxx.gitkumdaoyna.xyz/72fe9bb58e02e669273c902c1f48f501/102/strmrdr.m3u8
+#EXTINF:-1,SPOR SMART 2
+https://hlsd.gcdn.co/kGlFZ8XEIGX8dA-r1ZwoPg,1623067927/hlslive/403.m3u8
 #EXTINF:-1,S SPORT
 https://xxx.gitkumdaoyna.xyz/72fe9bb58e02e669273c902c1f48f501/3450/strmrdr.m3u8
 #EXTINF:-1,S SPORT 2
 https://xxx.gitkumdaoyna.xyz/72fe9bb58e02e669273c902c1f48f501/3451/strmrdr.m3u8
 #EXTINF:-1,NBA TV
-https://srvb.habersizgelme.xyz/kaynakstreamradarco/57/strmrdr.m3u8
+http://ip.xtremetv.eu:8000/Greecekomb/P5hbO8atTD/687
 #EXTINF:-1,EDGE SPORT
 http://dai.google.com/linear/hls/event/d4zeSI-dTuqizFrByjs3OA/master.m3u8
 #EXTINF:-1,TİVİBU SPOR
@@ -254,9 +280,21 @@ http://iptvmasterlink.dyndns.org:5566/Entry/minikacocuk_yeni.m3u8
 #EXTINF:-1,MİNİKA GO
 http://iptvmasterlink.dyndns.org:5566/Entry/minikago_yeni.m3u8
 #EXTINF:-1,BABY TV
-https://srvb.habersizgelme.xyz/kaynakstreamradarco/5/strmrdr.m3u8
+http://ip.xtremetv.eu:8000/Greecekomb/P5hbO8atTD/736
 #EXTINF:-1,DISNEY CHANNEL
 http://iptvmasterlink.dyndns.org:5566/Entry/disneychannel_yeni.m3u8
+#EXTINF:-1,DISNEY JUNIOR
+http://ip.xtremetv.eu:8000/Greecekomb/P5hbO8atTD/732
+#EXTINF:-1,NICKELODEON
+http://ip.xtremetv.eu:8000/Greecekomb/P5hbO8atTD/730
+#EXTINF:-1,NICK JR.
+http://ip.xtremetv.eu:8000/Greecekomb/P5hbO8atTD/737
+#EXTINF:-1,DA VINCI LEARNING
+http://ip.xtremetv.eu:8000/Greecekomb/P5hbO8atTD/5963
+#EXTINF:-1,ENGLISH CLUB TV
+http://91.218.60.3:8001/play/a01v
+#EXTINF:-1,GAMETOON
+http://91.218.60.3:8001/play/a033
 #EXTINF:-1,TRT EBA TV İLKOKUL
 http://tv-e-okul00.live.trt.com.tr/master.m3u8
 #EXTINF:-1,TRT EBA TV ORTAOKUL
@@ -275,6 +313,8 @@ http://m.live.net.sa:1935/live/quran/playlist.m3u8
 http://m.live.net.sa:1935/live/sunnah/playlist.m3u8
 #EXTINF:-1,TRT MÜZİK
 http://tv-trtmuzik.live.trt.com.tr/master_720.m3u8
+#EXTINF:-1,KRAL TV
+http://ip.xtremetv.eu:8000/Greecekomb/P5hbO8atTD/786
 #EXTINF:-1,DREAM TURK
 http://79.124.14.198:8088/play/a0ij
 #EXTINF:-1,NUMBER1 TURK
@@ -295,6 +335,8 @@ http://milyontv-live.ercdn.net/milyontv/milyontv_720p.m3u8
 http://waw2.artiyerelmedya.net/tatlisestv/bant1/playlist.m3u8
 #EXTINF:-1,EKİNTÜRK TV
 http://79.124.14.198:8088/play/a0j3
+#EXTINF:-1,360 TUNE BOX
+http://91.218.60.3:8001/play/a006
 #EXTINF:-1,FASHION TV
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_pg13_zw9_27065_ftv_pg13_196_hls.smil/playlist.m3u8
 #EXTINF:-1,INSIGHT TV
