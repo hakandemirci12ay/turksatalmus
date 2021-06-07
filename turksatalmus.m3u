@@ -197,6 +197,8 @@ http://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u8
 http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 #EXTINF:-1,UA TV
 http://ua-tv-hls2.cosmonova.net.ua/hls/ua-tv_ua_mid/index.m3u8
+#EXTINF:-1,STAR SPOR
+http://188.40.186.158:8080/star.ts
 #EXTINF:-1,EUROSPORT 1
 https://srvb.habersizgelme.xyz/kaynakstreamradarco/35/strmrdr.m3u8
 #EXTINF:-1,EUROSPORT 2
