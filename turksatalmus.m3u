@@ -1,18 +1,30 @@
 #EXTM3U
 #EXTINF:-1,TOKAT ALMUS MOBESE KAMERASI
 http://yayin.basturkelektronik.com:8080/live/tokat-almus.stream/playlist.m3u8
+#EXTINF:-1,FX
+http://directtv1.xyz:80/18501/18501/51081
+#EXTINF:-1,FOXCRIME
+http://neczbm.to:80/play/xLlcu8P5_J45fa32UhK0mYiXtTHcAhTkltp7bN5Zr-0iEprR7FEpVIZfeB-Y6tlr/ts
+#EXTINF:-1,DİZİSMART MAX
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/63283
+#EXTINF:-1,DİZİSMART MAX
+http://neczbm.to:80/play/xLlcu8P5_J45fa32UhK0mYiXtTHcAhTkltp7bN5Zr-1Ih0vU2xEuewyL_6tp1Uth/ts
 #EXTINF:-1,MOVIESMART PREMIUM
-http://45.94.149.154:8000/play/a032
+http://neczbm.to:80/play/xLlcu8P5_J45fa32UhK0mYiXtTHcAhTkltp7bN5Zr-07hwSxUnAS_PDW8otj0fIo/ts
 #EXTINF:-1,MOVIESMART PREMIUM 2
-http://45.94.149.154:8000/play/a033
+http://neczbm.to:80/play/xLlcu8P5_J45fa32UhK0mYiXtTHcAhTkltp7bN5Zr-3nxvdXWeXqnC0os1bVEd9E/ts
+#EXTINF:-1,MOVIESMART CLASSIC
+http://neczbm.to:80/play/xLlcu8P5_J45fa32UhK0mYiXtTHcAhTkltp7bN5Zr-3O8iNrD6V9agp3CIJF3lKD/ts
+#EXTINF:-1,MOVIESMART TÜRK
+http://neczbm.to:80/play/xLlcu8P5_J45fa32UhK0mYiXtTHcAhTkltp7bN5Zr-1ve4qXKxADEm4yxs7Y-saN/ts
 #EXTINF:-1,SİNEMA TV
-http://45.94.149.154:8000/play/a02o
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/63280
 #EXTINF:-1,SİNEMA 2
-http://45.94.149.154:8000/play/a02p
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/63276
 #EXTINF:-1,SİNEMA AKSİYON
-http://45.94.149.154:8000/play/a02m
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/63278
 #EXTINF:-1,SİNEMA AKSİYON 2
-http://45.94.149.154:8000/play/a02r
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/63277
 #EXTINF:-1,SİNEMA KOMEDİ
 http://45.94.149.154:8000/play/a02u
 #EXTINF:-1,SİNEMA KOMEDİ 2
@@ -165,6 +177,8 @@ http://onlinetv.ktrk.kg:1935/live/myStream/playlist.m3u8
 http://live.cgtn.com/1000/prog_index.m3u8
 #EXTINF:-1,RUSSIA 24
 http://radio-live-mg.rtr-vesti.ru/hls/russia_24/playlist_2.m3u8
+#EXTINF:-1,CHASSE ET PECHE
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/63409
 #EXTINF:-1,AV TV
 http://195.142.1.213:1935/avtv/avtv/chunklist.m3u8
 #EXTINF:-1,YABAN TV
@@ -174,9 +188,9 @@ http://45.94.149.154:8000/play/a02n
 #EXTINF:-1,TRT BELGESEL
 http://tv-trtbelgesel.live.trt.com.tr/master_720.m3u8
 #EXTINF:-1,NATIONAL GEOGRAPHIC
-http://freeiptvgen.com:25461/9315/freeiptvgen/19952894
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/84365
 #EXTINF:-1,NAT GEO WILD
-http://ip.xtremetv.eu:8000/Greecekomb/P5hbO8atTD/670
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/63402
 #EXTINF:-1,DISCOVERY CHANNEL
 https://srvb.habersizgelme.xyz/kaynakstreamradarco/32/strmrdr.m3u8
 #EXTINF:-1,DISCOVERY SCIENCE
@@ -184,7 +198,7 @@ https://srvb.habersizgelme.xyz/kaynakstreamradarco/33/strmrdr.m3u8
 #EXTINF:-1,ID
 https://srvb.habersizgelme.xyz/kaynakstreamradarco/41/strmrdr.m3u8
 #EXTINF:-1,OUTDOOR
-http://ip.xtremetv.eu:8000/Greecekomb/P5hbO8atTD/677
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/63417
 #EXTINF:-1,VIASAT HISTORY
 http://45.94.149.154:8000/play/a039
 #EXTINF:-1,DOCUBOX
@@ -266,9 +280,9 @@ http://tv-trtspor2.live.trt.com.tr/master.m3u8
 #EXTINF:-1,SPORTS TV
 http://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
 #EXTINF:-1,FB TV
-http://iptvmasterlink.dyndns.org:5566/Entry/fbtv_yeni.m3u8
+http://213.115.248.46:9000/TR_-_FB_TV_HD/video.m3u8
 #EXTINF:-1,GS TV
-http://owifavo5.rocketcdn.com/gstv/gstv.smil/chunklist.m3u8
+http://owifavo5.rocketcdn.com/gstv/gstv.smil/chunklist_b2328000_sltur.m3u8
 #EXTINF:-1,T.A.Y TV
 http://79.124.14.198:8088/play/a06v
 #EXTINF:-1,TJK TV
@@ -279,14 +293,16 @@ http://tv-trtcocuk.live.trt.com.tr/master_720.m3u8
 http://iptvmasterlink.dyndns.org:5566/Entry/minikacocuk_yeni.m3u8
 #EXTINF:-1,MİNİKA GO
 http://iptvmasterlink.dyndns.org:5566/Entry/minikago_yeni.m3u8
+#EXTINF:-1,BBC CBEEBIES
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/63444
 #EXTINF:-1,BABY TV
 https://srvb.habersizgelme.xyz/kaynakstreamradarco/5/strmrdr.m3u8
 #EXTINF:-1,DISNEY CHANNEL
 http://iptvmasterlink.dyndns.org:5566/Entry/disneychannel_yeni.m3u8
 #EXTINF:-1,DISNEY JUNIOR
-http://ip.xtremetv.eu:8000/Greecekomb/P5hbO8atTD/732
+http://neczbm.to:80/play/xLlcu8P5_J45fa32UhK0mYiXtTHcAhTkltp7bN5Zr-3G0qEalWlB7GpphJJ7_GZN/ts
 #EXTINF:-1,NICKELODEON
-http://ip.xtremetv.eu:8000/Greecekomb/P5hbO8atTD/730
+http://albauser.net:2235/2020extree/Yhr5dXXse274RfdnvY6/63437
 #EXTINF:-1,NICK JR.
 http://ip.xtremetv.eu:8000/Greecekomb/P5hbO8atTD/737
 #EXTINF:-1,DA VINCI LEARNING
