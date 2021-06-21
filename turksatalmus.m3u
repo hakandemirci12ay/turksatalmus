@@ -1,10 +1,12 @@
 #EXTM3U
 #EXTINF:-1,TOKAT ALMUS MOBESE KAMERASI
 http://yayin.basturkelektronik.com:8080/live/tokat-almus.stream/playlist.m3u8
+#EXTINF:-1,WARNER TV
+http://203.154.243.89:11205/
 #EXTINF:-1,FX
 http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/84244
 #EXTINF:-1,FOXCRIME
-http://directtv1.xyz:80/18501/18501/51079
+http://oznvip.mnepro.com:8080/gokhan07/gokhan0707/46740
 #EXTINF:-1,DİZİSMART PREMIUM
 http://sizlerdegeleceksinizbizlergibi.goldentv.eu:8899/live/lyOgyE6yUH/QjRd1x5UhZ/4237.ts
 #EXTINF:-1,DİZİSMART MAX
@@ -24,13 +26,13 @@ https://srvb.habersizgelme.xyz/kaynakstreamradarco/15/strmrdr.m3u8
 #EXTINF:-1,beIN MOVIES TURK
 https://srvb.habersizgelme.xyz/kaynakstreamradarco/19/strmrdr.m3u8
 #EXTINF:-1,MOVIESMART PREMIUM
-http://sizlerdegeleceksinizbizlergibi.goldentv.eu:8899/live/lyOgyE6yUH/QjRd1x5UhZ/4230.ts
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/15655
 #EXTINF:-1,MOVIESMART PREMIUM 2
 https://srvb.habersizgelme.xyz/kaynakstreamradarco/17/strmrdr.m3u8
 #EXTINF:-1,MOVIESMART CLASSIC
 http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/11450
 #EXTINF:-1,MOVIESMART TÜRK
-http://sizlerdegeleceksinizbizlergibi.goldentv.eu:8899/live/lyOgyE6yUH/QjRd1x5UhZ/4236.ts
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/15678
 #EXTINF:-1,SİNEMA TV
 http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/1596
 #EXTINF:-1,SİNEMA 2
@@ -58,7 +60,7 @@ http://sizlerdegeleceksinizbizlergibi.goldentv.eu:8899/live/lyOgyE6yUH/QjRd1x5Uh
 #EXTINF:-1,beIN GURME
 https://srvb.habersizgelme.xyz/kaynakstreamradarco/10/strmrdr.m3u8
 #EXTINF:-1,TRT 1
-http://tv-trt1.live.trt.com.tr/master.m3u8
+http://79.124.14.198:8088/play/a05y
 #EXTINF:-1,ATV
 http://79.124.14.198:8088/play/a0ik
 #EXTINF:-1,SHOW TV
@@ -224,7 +226,7 @@ http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/84358
 #EXTINF:-1,VIASAT HISTORY
 http://directtv1.xyz:80/18501/18501/51103
 #EXTINF:-1,DOCUBOX
-http://91.218.60.3:8001/play/a01o
+http://203.154.177.125:4002
 #EXTINF:-1,LOVE NATURE
 http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/84363
 #EXTINF:-1,RTG INT
@@ -233,10 +235,6 @@ http://strm.yandex.ru/kal/rtg/rtg0_169_480p.json/index-v1-a1.m3u8
 http://livedoc.cgtn.com/1000d/prog_index.m3u8
 #EXTINF:-1,AZ TV
 http://185.129.1.242:80/aztvhd/mpegts
-#EXTINF:-1,TÜRKMENELİ TV
-http://185.236.229.50:8000/play/a01n
-#EXTINF:-1,BBC ENTERTAINMENT
-http://94.155.204.102:4000/play/a0fd
 #EXTINF:-1,TV5MONDE
 http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877-b/v3plusinfo247hls/v3plusinfo247hls_1_1.m3u8
 #EXTINF:-1,CCTV-4
@@ -255,32 +253,32 @@ http://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u8
 http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 #EXTINF:-1,UA TV
 http://ua-tv-hls2.cosmonova.net.ua/hls/ua-tv_ua_mid/index.m3u8
-#EXTINF:-1,STAR SPOR
+#EXTINF:-1,TRSPOR
 http://188.40.186.158:8080/star.ts
 #EXTINF:-1,EUROSPORT 1
 https://xxx.gorillamarch.xyz/72fe9bb58e02e669273c902c1f48f501/132/strmrdr.m3u8
 #EXTINF:-1,EUROSPORT 2
 https://xxx.gorillamarch.xyz/72fe9bb58e02e669273c902c1f48f501/142/strmrdr.m3u8
 #EXTINF:-1,FAST AND FUNBOX
-http://91.218.60.3:8001/play/a02g
+http://203.154.177.125:4001
 #EXTINF:-1,FIGHTBOX
-http://91.218.60.3:8001/play/a02m
+http://203.154.177.125:4004
 #EXTINF:-1,GINX ESPORTS TV
 http://203.154.177.125:4015
 #EXTINF:-1,TRACE SPORT STARS
 http://203.154.177.125:4010
 #EXTINF:-1,beIN SPORTS 1
-https://xxx.gorillamarch.xyz/72fe9bb58e02e669273c902c1f48f501/0/strmrdr.m3u8
+https://hlsd.gcdn.co/RlF7Q4p5Ne18KpJMeOKoKQ,1624287386/hlslive/510.m3u8 
 #EXTINF:-1,beIN SPORTS 2
-https://xxx.gorillamarch.xyz/72fe9bb58e02e669273c902c1f48f501/602/strmrdr.m3u8
+https://hlsd.gcdn.co/UdneQrerWx_XdesFbzBWxQ,1624287343/hlslive/511.m3u8
 #EXTINF:-1,beIN SPORTS 3
-https://xxx.gorillamarch.xyz/72fe9bb58e02e669273c902c1f48f501/603/strmrdr.m3u8
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/84167
 #EXTINF:-1,beIN SPORTS 4
-https://xxx.gorillamarch.xyz/72fe9bb58e02e669273c902c1f48f501/604/strmrdr.m3u8
-#EXTINF:-1,beIN SPORTS MAX
-http://v2.oldbozcdn1.cc/max1/index.m3u8
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/84170
+#EXTINF:-1,beIN SPORTS MAX 1
+https://xxx.gorillamarch.xyz/72fe9bb58e02e669273c902c1f48f501/805/strmrdr.m3u8
 #EXTINF:-1,beIN SPORTS MAX 2
-http://v2.oldbozcdn1.cc/max2/index.m3u8
+https://xxx.gorillamarch.xyz/72fe9bb58e02e669273c902c1f48f501/806/strmrdr.m3u8
 #EXTINF:-1,beIN SPORTS HABER
 http://yayin2.tvizlehd.com/beinsporthaber.m3u8
 #EXTINF:-1,A SPOR
@@ -313,8 +311,6 @@ http://owifavo5.rocketcdn.com/gstv/gstv.smil/chunklist_b2328000_sltur.m3u8
 http://79.124.14.198:8088/play/a06v
 #EXTINF:-1,TJK TV
 http://tjktv-live.tjk.org/tjktv.m3u8
-#EXTINF:-1,FUNBOX 4K
-http://91.218.60.3:8001/play/a032
 #EXTINF:-1,TRT 4K
 http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/84407
 #EXTINF:-1,24 KITCHEN
@@ -322,9 +318,9 @@ http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/84356
 #EXTINF:-1,TRT ÇOCUK
 http://tv-trtcocuk.live.trt.com.tr/master_720.m3u8
 #EXTINF:-1,MİNİKA ÇOCUK
-http://149.255.152.66:8080/minikacocuk/index.m3u8
+http://yayin2.tvizlehd.com/minikacocuk.m3u8
 #EXTINF:-1,MİNİKA GO
-http://149.255.152.66:8080/minikago/index.m3u8
+http://yayin2.tvizlehd.com/minikago.m3u8
 #EXTINF:-1,ÇOCUKSMART
 http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/84183
 #EXTINF:-1,BOOMERANG TV
@@ -334,21 +330,15 @@ http://directtv1.xyz:80/18501/18501/134255
 #EXTINF:-1,BABY TV
 http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/84349
 #EXTINF:-1,DISNEY CHANNEL
-http://149.255.152.66:8080/disneychan/index.m3u8
+http://yayin2.tvizlehd.com/dcchanel.m3u8
 #EXTINF:-1,DISNEY JUNIOR
 http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/84351
-#EXTINF:-1,DUCK TV
-http://91.218.60.3:8001/play/a01s
 #EXTINF:-1,NICKELODEON
 http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/84344
 #EXTINF:-1,NICK JR.
 http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/84345
 #EXTINF:-1,DA VINCI LEARNING
 http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/84355
-#EXTINF:-1,ENGLISH CLUB TV
-http://91.218.60.3:8001/play/a01v
-#EXTINF:-1,GAMETOON
-http://91.218.60.3:8001/play/a033
 #EXTINF:-1,TRT EBA TV İLKOKUL
 http://tv-e-okul00.live.trt.com.tr/master.m3u8
 #EXTINF:-1,TRT EBA TV ORTAOKUL
@@ -358,7 +348,7 @@ http://tv-e-okul02.live.trt.com.tr/master.m3u8
 #EXTINF:-1,DİYANET TV
 http://79.124.14.198:8088/play/a093
 #EXTINF:-1,SEMERKAND TV
-http://iptvmasterlink.dyndns.org:5566/Entry/semerkandtv_yeni.m3u8
+http://213.115.248.46:9000/TR_-_SEMERKAND_TV_HD+/video.m3u8
 #EXTINF:-1,DOST TV
 https://live-01.tvjetapp.com/ch-75/live.m3u8
 #EXTINF:-1,AL QURAN AL KAREEM
@@ -368,12 +358,10 @@ http://m.live.net.sa:1935/live/sunnah/playlist.m3u8
 #EXTINF:-1,TRT MÜZİK
 http://tv-trtmuzik.live.trt.com.tr/master_720.m3u8
 #EXTINF:-1,KRAL TV
-http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/84267
-#EXTINF:-1,KRAL POP TV
 http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/84268
 #EXTINF:-1,DREAM TURK
 http://79.124.14.198:8088/play/a0ij
-#EXTINF:-1,NUMBER1 TURK
+#EXTINF:-1,NUMBER1 TÜRK
 http://79.124.14.198:8088/play/a09u
 #EXTINF:-1,NUMBER1 TV
 http://79.124.14.198:8088/play/a09t
@@ -391,10 +379,8 @@ http://milyontv-live.ercdn.net/milyontv/milyontv_720p.m3u8
 http://waw2.artiyerelmedya.net/tatlisestv/bant1/playlist.m3u8
 #EXTINF:-1,EKİNTÜRK TV
 http://79.124.14.198:8088/play/a0j3
-#EXTINF:-1,360 TUNE BOX
-http://91.218.60.3:8001/play/a006
 #EXTINF:-1,TRACE URBAN
-http://94.155.204.102:4000/play/a02d
+https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1,FASHION TV
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_pg13_zw9_27065_ftv_pg13_196_hls.smil/playlist.m3u8
 #EXTINF:-1,INSIGHT TV
