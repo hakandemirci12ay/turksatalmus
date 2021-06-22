@@ -338,9 +338,9 @@ http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/84356
 #EXTINF:-1,TRT ÇOCUK
 http://tv-trtcocuk.live.trt.com.tr/master_720.m3u8
 #EXTINF:-1,MİNİKA ÇOCUK
-http://yayin2.tvizlehd.com/minikacocuk.m3u8
+http://149.255.152.66:8080/minikacocuk/index.m3u8
 #EXTINF:-1,MİNİKA GO
-http://yayin2.tvizlehd.com/minikago.m3u8
+http://149.255.152.66:8080/minikago/index.m3u8
 #EXTINF:-1,ÇOCUKSMART
 http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/84183
 #EXTINF:-1,BOOMERANG TV
