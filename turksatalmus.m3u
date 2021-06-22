@@ -22,7 +22,7 @@ http://tigerfights.xyz:2052/t7xSeark/oZGmqdb0/2594750
 #EXTINF:-1,beIN MOVIES STARS
 https://srvb.habersizgelme.xyz/kaynakstreamradarco/18/strmrdr.m3u8
 #EXTINF:-1,beIN MOVIES ACTION
-https://srvb.habersizgelme.xyz/kaynakstreamradarco/13/strmrdr.m3u8
+http://live.fhdserver.eu:80/ayhanmustafa/ayhanmustafa1/229
 #EXTINF:-1,beIN MOVIES ACTION 2
 https://srvb.habersizgelme.xyz/kaynakstreamradarco/21/strmrdr.m3u8
 #EXTINF:-1,beIN MOVIES FAMILY
@@ -42,7 +42,7 @@ http://live.fhdserver.eu:80/ayhanmustafa/ayhanmustafa1/163
 #EXTINF:-1,SİNEMA 2
 http://sizlerdegeleceksinizbizlergibi.goldentv.eu:8899/live/lyOgyE6yUH/QjRd1x5UhZ/4229.ts
 #EXTINF:-1,SİNEMA AKSİYON
-http://live.fhdserver.eu:80/ayhanmustafa/ayhanmustafa1/167
+http://freetest.m3utv.xyz:80/ECT8SJPL52/5159510452/241313
 #EXTINF:-1,SİNEMA AKSİYON 2
 http://sizlerdegeleceksinizbizlergibi.goldentv.eu:8899/live/lyOgyE6yUH/QjRd1x5UhZ/4233.ts
 #EXTINF:-1,SİNEMA KOMEDİ
@@ -261,6 +261,8 @@ http://ivi.bupt.edu.cn/hls/cctv4.m3u8
 http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_tv/hls1/saudi_tv.m3u8
 #EXTINF:-1,QAZAQ TV
 http://kazakhtv.ultraiptv.com/kazakhtv/playlist.m3u8
+#EXTINF:-1,HAYAT PLUS
+http://freetest.m3utv.xyz:80/ECT8SJPL52/5159510452/240565
 #EXTINF:-1,RTR PLANETA
 http://cdnmg.secure.live.rtr-vesti.ru/live/smil:rtrp.smil/playlist.m3u8
 #EXTINF:-1,KBS WORLD
@@ -353,6 +355,8 @@ http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/84349
 http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/84352
 #EXTINF:-1,DISNEY JUNIOR
 http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/84351
+#EXTINF:-1,DUCK TV
+http://freetest.m3utv.xyz:80/ECT8SJPL52/5159510452/214935
 #EXTINF:-1,NICKELODEON
 http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/84344
 #EXTINF:-1,NICK JR.
@@ -379,6 +383,8 @@ http://m.live.net.sa:1935/live/sunnah/playlist.m3u8
 http://tv-trtmuzik.live.trt.com.tr/master_720.m3u8
 #EXTINF:-1,KRAL TV
 http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/84268
+#EXTINF:-1,KRAL POP TV
+http://ultimateiptv.me:8080/amira/amira123/10253
 #EXTINF:-1,DREAM TURK
 http://79.124.14.198:8088/play/a0ij
 #EXTINF:-1,NUMBER1 TÜRK
