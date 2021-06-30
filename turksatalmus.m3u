@@ -256,13 +256,13 @@ http://185.129.1.242:80/aztvhd/mpegts
 #EXTINF:-1,TV5MONDE EUROPE
 http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877-b/v3plusinfo247hls/v3plusinfo247hls_1_1.m3u8
 #EXTINF:-1,CCTV-4
-http://ivi.bupt.edu.cn/hls/cctv4.m3u8
+http://223.82.250.72/live/cctv-4/1.m3u8
 #EXTINF:-1,SAUDI 1
 http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_tv/hls1/saudi_tv.m3u8
 #EXTINF:-1,QAZAQ TV
 http://kazakhtv.ultraiptv.com/kazakhtv/playlist.m3u8
 #EXTINF:-1,HAYAT PLUS
-http://freetest.m3utv.xyz:80/ECT8SJPL52/5159510452/240565
+http://dontuse.offshorerev.cc:80/_kQ0NXl/O2anw8UTAK/43853
 #EXTINF:-1,RTR PLANETA
 http://cdnmg.secure.live.rtr-vesti.ru/live/smil:rtrp.smil/playlist.m3u8
 #EXTINF:-1,KBS WORLD
@@ -276,7 +276,7 @@ http://ua-tv-hls2.cosmonova.net.ua/hls/ua-tv_ua_mid/index.m3u8
 #EXTINF:-1,AUTOMOTO
 http://live.fhdserver.eu:80/ayhanmustafa/ayhanmustafa1/17338
 #EXTINF:-1,TRSPOR
-http://188.40.186.158:8080/star.ts
+http://188.40.186.158:8181/trspor.ts
 #EXTINF:-1,EUROSPORT 1
 http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/84261
 #EXTINF:-1,EUROSPORT 2
@@ -320,7 +320,7 @@ http://dai.google.com/linear/hls/event/d4zeSI-dTuqizFrByjs3OA/master.m3u8
 #EXTINF:-1,TİVİBU SPOR
 http://149.255.152.66:8080/tivibuspor/index.m3u8
 #EXTINF:-1,TRT SPOR
-http://tv-trtspor1.live.trt.com.tr/master.m3u8
+http://tv-trtspor1.medya.trt.com.tr/master.m3u8
 #EXTINF:-1,TRT SPOR YILDIZ
 http://tv-trtspor2.live.trt.com.tr/master.m3u8
 #EXTINF:-1,SPORTS TV
@@ -336,7 +336,7 @@ http://tjktv-live.tjk.org/tjktv.m3u8
 #EXTINF:-1,TRT 4K
 http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/84407
 #EXTINF:-1,24 KITCHEN
-http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/84356
+http://live.fhdserver.eu:80/ayhanmustafa/ayhanmustafa1/256
 #EXTINF:-1,TRT ÇOCUK
 http://tv-trtcocuk.live.trt.com.tr/master_720.m3u8
 #EXTINF:-1,MİNİKA ÇOCUK
@@ -344,9 +344,9 @@ http://149.255.152.66:8080/minikacocuk/index.m3u8
 #EXTINF:-1,MİNİKA GO
 http://149.255.152.66:8080/minikago/index.m3u8
 #EXTINF:-1,ÇOCUKSMART
-http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/84183
+http://live.fhdserver.eu:80/ayhanmustafa/ayhanmustafa1/38394
 #EXTINF:-1,BOOMERANG TV
-http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/84187
+http://live.fhdserver.eu:80/ayhanmustafa/ayhanmustafa1/15020
 #EXTINF:-1,BBC CBEEBIES
 http://live.fhdserver.eu:80/ayhanmustafa/ayhanmustafa1/31473
 #EXTINF:-1,BABY TV
@@ -358,7 +358,7 @@ http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/84351
 #EXTINF:-1,DUCK TV
 http://live.fhdserver.eu:80/ayhanmustafa/ayhanmustafa1/62138
 #EXTINF:-1,NICKELODEON
-http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/84344
+http://live.fhdserver.eu:80/ayhanmustafa/ayhanmustafa1/298
 #EXTINF:-1,NICK JR.
 http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/84345
 #EXTINF:-1,DA VINCI LEARNING
@@ -380,7 +380,7 @@ http://m.live.net.sa:1935/live/quran/playlist.m3u8
 #EXTINF:-1,AL SUNNAH AL NABAWIYAH
 http://m.live.net.sa:1935/live/sunnah/playlist.m3u8
 #EXTINF:-1,TRT MÜZİK
-http://tv-trtmuzik.live.trt.com.tr/master_720.m3u8
+http://tv-trtmuzik.medya.trt.com.tr/master.m3u8
 #EXTINF:-1,KRAL TV
 http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/84268
 #EXTINF:-1,KRAL POP TV
@@ -396,7 +396,7 @@ http://79.124.14.198:8088/play/a08l
 #EXTINF:-1,ARABESK TV
 http://yayin.santraltr.com/hls/arabeskyeni.m3u8
 #EXTINF:-1,POWER TV
-http://livetv.powerapp.com.tr/powerTV/powerhd.smil/playist.m3u8 
+http://livetv.powerapp.com.tr/powerTV/powerhd.smil/playist.m3u8
 #EXTINF:-1,POWERTÜRK TV
 http://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/playist.m3u8
 #EXTINF:-1,MİLYON TV
