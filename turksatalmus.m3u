@@ -136,7 +136,7 @@ http://79.124.14.198:8088/play/a0iv
 #EXTINF:-1,BLOOMBERG HT
 http://79.124.14.198:8088/play/a06o
 #EXTINF:-1,ÜLKE TV
-https://mn-nl.mncdn.com/blutv_ulketv/smil:ulketv_sd.smil/chunklist_b2064000.m3u8
+https://live-01.tvjetapp.com/ch-29/live.m3u8
 #EXTINF:-1,TVNET
 https://mn-nl.mncdn.com/tvnet/tvnet/playlist.m3u8
 #EXTINF:-1,AKİT TV
@@ -217,7 +217,7 @@ http://live.fhdserver.eu:80/ayhanmustafa/ayhanmustafa1/267
 http://live.fhdserver.eu:80/ayhanmustafa/ayhanmustafa1/257
 #EXTINF:-1,TREK
 http://live.fhdserver.eu:80/ayhanmustafa/ayhanmustafa1/94596
-#EXTINF:-1,SCIENCE ET VIE
+#EXTINF:-1,SCIENCE & VIE
 http://live.fhdserver.eu:80/ayhanmustafa/ayhanmustafa1/255
 #EXTINF:-1,TRT BELGESEL
 http://tv-trtbelgesel.live.trt.com.tr/master_720.m3u8
@@ -287,6 +287,8 @@ http://live.fhdserver.eu:80/ayhanmustafa/ayhanmustafa1/64
 http://203.154.177.125:4001
 #EXTINF:-1,FIGHTBOX
 http://203.154.177.125:4004
+#EXTINF:-1,FIGHT NETWORK
+http://live.fhdserver.eu:80/ayhanmustafa/ayhanmustafa1/56615
 #EXTINF:-1,GINX ESPORTS TV
 http://203.154.177.125:4015
 #EXTINF:-1,TRACE SPORT STARS
@@ -304,7 +306,7 @@ https://xxx.gorillamarch.xyz/72fe9bb58e02e669273c902c1f48f501/805/strmrdr.m3u8
 #EXTINF:-1,beIN SPORTS MAX 2
 https://xxx.gorillamarch.xyz/72fe9bb58e02e669273c902c1f48f501/806/strmrdr.m3u8
 #EXTINF:-1,beIN SPORTS HABER
-http://yayin2.tvizlehd.com/beinsporthaber.m3u8
+https://live-01.tvjetapp.com/ch-58/live.m3u8
 #EXTINF:-1,A SPOR
 http://79.124.14.198:8088/play/a0iq85
 #EXTINF:-1,SPOR SMART
@@ -320,7 +322,7 @@ https://xxx.gorillamarch.xyz/72fe9bb58e02e669273c902c1f48f501/112/strmrdr.m3u8
 #EXTINF:-1,EDGE SPORT
 http://dai.google.com/linear/hls/event/d4zeSI-dTuqizFrByjs3OA/master.m3u8
 #EXTINF:-1,TİVİBU SPOR
-http://149.255.152.66:8080/tivibuspor/index.m3u8
+http://dl1.webtv.ttnet.com.tr/konf/mob/web16009.isml/manifest(format=m3u8-aapl).m3u8
 #EXTINF:-1,TRT SPOR
 http://tv-trtspor1.medya.trt.com.tr/master.m3u8
 #EXTINF:-1,TRT SPOR YILDIZ
@@ -374,7 +376,7 @@ http://tv-e-okul02.live.trt.com.tr/master.m3u8
 #EXTINF:-1,DİYANET TV
 http://79.124.14.198:8088/play/a093
 #EXTINF:-1,SEMERKAND TV
-http://213.115.248.46:9000/TR_-_SEMERKAND_TV_HD+/video.m3u8
+https://live-01.tvjetapp.com/ch-57/live.m3u8
 #EXTINF:-1,DOST TV
 https://live-01.tvjetapp.com/ch-75/live.m3u8
 #EXTINF:-1,AL QURAN AL KAREEM
