@@ -130,13 +130,13 @@ http://79.124.14.198:8088/play/a06r
 #EXTINF:-1,24 TV
 http://turkmedya-live.ercdn.net/tv24/tv24.m3u8
 #EXTINF:-1,TGRT HABER
-http://av.livestreamlive.xyz/hls/tgrt.m3u8
+http://tv.ensonhaber.com/tv/tr/tgrthaber/index.m3u8
 #EXTINF:-1,HABERTÜRK
 http://79.124.14.198:8088/play/a0iv
 #EXTINF:-1,BLOOMBERG HT
 http://79.124.14.198:8088/play/a06o
 #EXTINF:-1,ÜLKE TV
-http://av.livestreamlive.xyz/hls/ulke.m3u8
+https://mn-nl.mncdn.com/blutv_ulketv/smil:ulketv_sd.smil/chunklist_b2064000.m3u8
 #EXTINF:-1,TVNET
 https://mn-nl.mncdn.com/tvnet/tvnet/playlist.m3u8
 #EXTINF:-1,AKİT TV
@@ -148,13 +148,13 @@ https://cdn-tvem.yayin.com.tr/TVEM/TVEM/playlist.m3u8
 #EXTINF:-1,TRT TÜRK
 http://tv-trtturk.live.trt.com.tr/master.m3u8
 #EXTINF:-1,TRT AVAZ
-http://tv-trtavaz.live.trt.com.tr/master.m3u8
+http://tv-trtavaz.medya.trt.com.tr/master.m3u8
 #EXTINF:-1,TRT 3
 http://tv-trt3.live.trt.com.tr/master.m3u8
 #EXTINF:-1,TRT KURDİ
 http://tv-trtkurdi.live.trt.com.tr/master.m3u8
 #EXTINF:-1,HABER GLOBAL
-http://iptvmasterlink.dyndns.org:8080/Entry/haberglobalhd_yeni/index.m3u8
+http://163.172.39.215:25461/line/C4@!a3a1@!w72A/137
 #EXTINF:-1,BBN TÜRK
 http://195.142.152.86:5656/play/a04p
 #EXTINF:-1,A PARA
@@ -162,7 +162,7 @@ https://live-01.tvjetapp.com/ch-53/live.m3u8
 #EXTINF:-1,EKOTÜRK
 http://79.124.14.198:8088/play/a0hv
 #EXTINF:-1,HALK TV
-http://iptvmasterlink.dyndns.org:8080/Entry/halktv_yeni/index.m3u8
+http://163.172.39.215:25461/line/C4@!a3a1@!w72A/141
 #EXTINF:-1,TELE 1
 http://163.172.39.215:25461/line/C4@!a3a1@!w72A/140
 #EXTINF:-1,TRT WORLD
@@ -174,7 +174,7 @@ http://cnn-cnninternational-1-de.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1,CNBC
 http://94.155.204.102:4000/play/a0g3
 #EXTINF:-1,BBC WORLD NEWS
-http://live.fhdserver.eu:80/ayhanmustafa/ayhanmustafa1/87707
+http://94.155.204.102:4000/play/a0gk
 #EXTINF:-1,BLOOMBERG TV
 http://www.bloomberg.com/media-manifest/streams/eu.m3u8
 #EXTINF:-1,EURONEWS
@@ -225,18 +225,16 @@ http://tv-trtbelgesel.live.trt.com.tr/master_720.m3u8
 http://live.fhdserver.eu:80/ayhanmustafa/ayhanmustafa1/286
 #EXTINF:-1,NAT GEO WILD
 http://live.fhdserver.eu:80/ayhanmustafa/ayhanmustafa1/282
-#XTINF:-1,HISTORY CHANNEL
-http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/84362
+#EXTINF:-1,HISTORY CHANNEL
+http://live.fhdserver.eu:80/ayhanmustafa/ayhanmustafa1/278
 #EXTINF:-1,DISCOVERY CHANNEL
-http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/84368
+http://live.fhdserver.eu:80/ayhanmustafa/ayhanmustafa1/264
 #EXTINF:-1,DISCOVERY SCIENCE
-http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/84367
+http://live.fhdserver.eu:80/ayhanmustafa/ayhanmustafa1/262
 #EXTINF:-1,ID
-http://ultimateiptv.me:8080/amira/amira123/9990
-#EXTINF:-1,OUTDOOR
-http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/84361
+http://live.fhdserver.eu:80/ayhanmustafa/ayhanmustafa1/261
 #EXTINF:-1,BBC EARTH
-http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/84358
+http://live.fhdserver.eu:80/ayhanmustafa/ayhanmustafa1/258
 #EXTINF:-1,VIASAT EXPLORE
 http://live.fhdserver.eu:80/ayhanmustafa/ayhanmustafa1/50427
 #EXTINF:-1,VIASAT NATURE
@@ -246,13 +244,17 @@ http://live.fhdserver.eu:80/ayhanmustafa/ayhanmustafa1/47970
 #EXTINF:-1,DOCUBOX
 http://203.154.177.125:4002
 #EXTINF:-1,LOVE NATURE
-http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/84363
+http://live.fhdserver.eu:80/ayhanmustafa/ayhanmustafa1/50428
 #EXTINF:-1,RTG INT
 http://strm.yandex.ru/kal/rtg/rtg0_169_480p.json/index-v1-a1.m3u8
 #EXTINF:-1,CGTN DOCUMENTARY
 http://livedoc.cgtn.com/1000d/prog_index.m3u8
 #EXTINF:-1,AZ TV
 http://185.129.1.242:80/aztvhd/mpegts
+#EXTINF:-1,TÜRKMENELİ TV
+http://185.236.229.50:8000/play/a01n
+#EXTINF:-1,BBC ENTERTAINMENT
+http://94.155.204.102:4000/play/a0fd
 #EXTINF:-1,TV5MONDE EUROPE
 http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877-b/v3plusinfo247hls/v3plusinfo247hls_1_1.m3u8
 #EXTINF:-1,CCTV-4
@@ -278,9 +280,9 @@ http://live.fhdserver.eu:80/ayhanmustafa/ayhanmustafa1/17338
 #EXTINF:-1,TRSPOR
 http://188.40.186.158:8181/trspor.ts
 #EXTINF:-1,EUROSPORT 1
-http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/84261
+http://live.fhdserver.eu:80/ayhanmustafa/ayhanmustafa1/65
 #EXTINF:-1,EUROSPORT 2
-http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/84260
+http://live.fhdserver.eu:80/ayhanmustafa/ayhanmustafa1/64
 #EXTINF:-1,FAST AND FUNBOX
 http://203.154.177.125:4001
 #EXTINF:-1,FIGHTBOX
@@ -290,13 +292,13 @@ http://203.154.177.125:4015
 #EXTINF:-1,TRACE SPORT STARS
 http://203.154.177.125:4010
 #EXTINF:-1,beIN SPORTS 1
-http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/84165
+https://xxx.gorillamarch.xyz/72fe9bb58e02e669273c902c1f48f501/0/strmrdr.m3u8
 #EXTINF:-1,beIN SPORTS 2
-http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/84171
+http://9.oldbozcdn1.cc/beinsport2/index.m3u8
 #EXTINF:-1,beIN SPORTS 3
-http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/84167
+http://9.oldbozcdn1.cc/beinsport3/index.m3u8
 #EXTINF:-1,beIN SPORTS 4
-http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/84170
+http://9.oldbozcdn1.cc/beinsport4/index.m3u8
 #EXTINF:-1,beIN SPORTS MAX 1
 https://xxx.gorillamarch.xyz/72fe9bb58e02e669273c902c1f48f501/805/strmrdr.m3u8
 #EXTINF:-1,beIN SPORTS MAX 2
