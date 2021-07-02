@@ -322,7 +322,7 @@ https://xxx.gorillamarch.xyz/72fe9bb58e02e669273c902c1f48f501/112/strmrdr.m3u8
 #EXTINF:-1,EDGE SPORT
 http://dai.google.com/linear/hls/event/d4zeSI-dTuqizFrByjs3OA/master.m3u8
 #EXTINF:-1,TİVİBU SPOR
-http://dl1.webtv.ttnet.com.tr/konf/mob/web16009.isml/manifest(format=m3u8-aapl).m3u8
+https://live-01.tvjetapp.com/ch-182/live.m3u8
 #EXTINF:-1,TRT SPOR
 http://tv-trtspor1.medya.trt.com.tr/master.m3u8
 #EXTINF:-1,TRT SPOR YILDIZ
@@ -354,19 +354,19 @@ http://live.fhdserver.eu:80/ayhanmustafa/ayhanmustafa1/15020
 #EXTINF:-1,BBC CBEEBIES
 http://live.fhdserver.eu:80/ayhanmustafa/ayhanmustafa1/31473
 #EXTINF:-1,BABY TV
-http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/84349
+http://live.fhdserver.eu:80/ayhanmustafa/ayhanmustafa1/295
 #EXTINF:-1,DISNEY CHANNEL
-http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/84352
+http://live.fhdserver.eu:80/ayhanmustafa/ayhanmustafa1/294
 #EXTINF:-1,DISNEY JUNIOR
-http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/84351
+http://live.fhdserver.eu:80/ayhanmustafa/ayhanmustafa1/291
 #EXTINF:-1,DUCK TV
 http://live.fhdserver.eu:80/ayhanmustafa/ayhanmustafa1/62138
 #EXTINF:-1,NICKELODEON
 http://live.fhdserver.eu:80/ayhanmustafa/ayhanmustafa1/298
 #EXTINF:-1,NICK JR.
-http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/84345
+http://live.fhdserver.eu:80/ayhanmustafa/ayhanmustafa1/297
 #EXTINF:-1,DA VINCI LEARNING
-http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/84355
+http://live.fhdserver.eu:80/ayhanmustafa/ayhanmustafa1/253
 #EXTINF:-1,TRT EBA TV İLKOKUL
 http://tv-e-okul00.live.trt.com.tr/master.m3u8
 #EXTINF:-1,TRT EBA TV ORTAOKUL
