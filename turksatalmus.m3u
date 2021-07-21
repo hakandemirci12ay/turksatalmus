@@ -84,39 +84,39 @@ https://live-01.tvjetapp.com/ch-5/live.m3u8
 #EXTINF:-1,BEYAZ TV
 https://live-01.tvjetapp.com/ch-20/live.m3u8
 #EXTINF:-1,SHOW MAX
-http://79.124.14.198:8088/play/a0ix
+https://live-01.tvjetapp.com/ch-50/live.m3u8
 #EXTINF:-1,A2
 https://live-01.tvjetapp.com/ch-19/live.m3u8
 #EXTINF:-1,TEVE2
 https://live-01.tvjetapp.com/ch-3/live.m3u8
 #EXTINF:-1,360 TV
-http://149.255.152.66:8080/360tv/mpegts
+https://live-01.tvjetapp.com/ch-49/live.m3u8
 #EXTINF:-1,TLC
-http://149.255.152.66:8080/tlctr/mpegts
+https://live-01.tvjetapp.com/ch-34/live.m3u8
 #EXTINF:-1,DMAX
 https://live-01.tvjetapp.com/ch-10/live.m3u8
 #EXTINF:-1,KON TV
 http://79.124.14.198:8088/play/a0hg
 #EXTINF:-1,TV 100
-http://163.172.39.215:25461/line/C4@!a3a1@!w72A/136
+https://live-01.tvjetapp.com/ch-127/live.m3u8
 #EXTINF:-1,UCANKUS TV
-http://ucankus-live.cdnnew.com/ucankus/ucankus.m3u8                                                                                                                     
+https://live-01.tvjetapp.com/ch-181/live.m3u8
 #EXTINF:-1,ULUSAL KANAL
-http://163.172.39.215:25461/line/C4@!a3a1@!w72A/142
+https://live-01.tvjetapp.com/ch-46/live.m3u8
 #EXTINF:-1,TV8.5
-http://149.255.152.66:8080/tv85/mpegts
+https://live-01.tvjetapp.com/ch-33/live.m3u8
 #EXTINF:-1,BİZİMEV TV
 http://mn-nl.mncdn.com/blutv_bizimev/bizimev_sd.smil/playlist.m3u8
 #EXTINF:-1,BEYKENT TV
 https://yayin.haber100.com/P62039948/beykenttv/playlist.m3u8
 #EXTINF:-1,KANAL B
-http://213.115.248.46:9000/TR_-_KANAL_B/video.m3u8
+https://live-01.tvjetapp.com/ch-137/live.m3u8
 #EXTINF:-1,GENÇ TV (KIBRIS)
 http://kuzeykibris.tv/m3u8/tv_genc.m3u8
 #EXTINF:-1,ÜNİVERSİTE TV
 https://5be5d840359c6.streamlock.net/unitv/unitv/chunklist.m3u8
 #EXTINF:-1,BENGUTURK
-https://tv.ensonhaber.com/tv/tr/benguturk/index.m3u8
+https://live-01.tvjetapp.com/ch-47/live.m3u8
 #EXTINF:-1,TRT 2
 http://tv-trt2.live.trt.com.tr/master.m3u8
 #EXTINF:-1,TRT HABER
@@ -128,9 +128,9 @@ https://live-01.tvjetapp.com/ch-9/live.m3u8
 #EXTINF:-1,CNN TÜRK
 https://live-01.tvjetapp.com/ch-2/live.m3u8
 #EXTINF:-1,24 TV
-http://149.255.152.66:8080/kanal24/mpegts
+https://live-01.tvjetapp.com/ch-59/live.m3u8
 #EXTINF:-1,TGRT HABER
-http://149.255.152.66:8080/tgrthaber/mpegts
+https://live-01.tvjetapp.com/ch-56/live.m3u8
 #EXTINF:-1,HABERTÜRK
 https://live-01.tvjetapp.com/ch-12/live.m3u8
 #EXTINF:-1,BLOOMBERG HT
@@ -138,7 +138,7 @@ https://live-01.tvjetapp.com/ch-13/live.m3u8
 #EXTINF:-1,ÜLKE TV
 https://live-01.tvjetapp.com/ch-29/live.m3u8
 #EXTINF:-1,TVNET
-https://mn-nl.mncdn.com/tvnet/tvnet/playlist.m3u8
+https://live-01.tvjetapp.com/ch-60/live.m3u8
 #EXTINF:-1,AKİT TV
 http://akittv-live.ercdn.net/akittv/akittv.m3u8
 #EXTINF:-1,BRT 1
@@ -146,25 +146,25 @@ http://213.115.248.46:9000/TR_-_BRT_1_HD+/video.m3u8
 #EXTINF:-1,TV EM
 https://cdn-tvem.yayin.com.tr/TVEM/TVEM/playlist.m3u8
 #EXTINF:-1,TRT TÜRK
-http://tv-trtturk.live.trt.com.tr/master.m3u8
+https://live-01.tvjetapp.com/ch-54/live.m3u8
 #EXTINF:-1,TRT AVAZ
-http://tv-trtavaz.medya.trt.com.tr/master.m3u8
+https://live-01.tvjetapp.com/ch-31/live.m3u8
 #EXTINF:-1,TRT 3
 http://tv-trt3.live.trt.com.tr/master.m3u8
 #EXTINF:-1,TRT KURDİ
-http://tv-trtkurdi.live.trt.com.tr/master.m3u8
+https://live-01.tvjetapp.com/ch-32/live.m3u8
 #EXTINF:-1,HABER GLOBAL
-http://163.172.39.215:25461/line/C4@!a3a1@!w72A/137
+https://live-01.tvjetapp.com/ch-36/live.m3u8
 #EXTINF:-1,BBN TÜRK
 http://195.142.152.86:5656/play/a04p
 #EXTINF:-1,A PARA
 https://live-01.tvjetapp.com/ch-53/live.m3u8
 #EXTINF:-1,EKOTÜRK
-http://79.124.14.198:8088/play/a0hv
+https://live-01.tvjetapp.com/ch-111/live.m3u8
 #EXTINF:-1,HALK TV
-http://163.172.39.215:25461/line/C4@!a3a1@!w72A/141
+https://live-01.tvjetapp.com/ch-47/live.m3u8
 #EXTINF:-1,TELE 1
-http://163.172.39.215:25461/line/C4@!a3a1@!w72A/140
+https://live-01.tvjetapp.com/ch-167/live.m3u8
 #EXTINF:-1,TRT WORLD
 https://live-01.tvjetapp.com/ch-25/live.m3u8
 #EXTINF:-1,A NEWS
@@ -188,7 +188,7 @@ http://live-hls-web-aje.getaj.net/AJE/index.m3u8
 #EXTINF:-1,AL ARABY
 https://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/playlist.m3u8
 #EXTINF:-1,TRT ARABİ
-http://tv-trtarabi.live.trt.com.tr/master_720.m3u8
+https://live-01.tvjetapp.com/ch-66/live.m3u8
 #EXTINF:-1,DW-TV (ENGLISH)
 http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/master.m3u8
 #EXTINF:-1,DW-TV (GERMAN)
@@ -250,7 +250,7 @@ http://strm.yandex.ru/kal/rtg/rtg0_169_480p.json/index-v1-a1.m3u8
 #EXTINF:-1,CGTN DOCUMENTARY
 http://livedoc.cgtn.com/1000d/prog_index.m3u8
 #EXTINF:-1,AZ TV
-http://185.129.1.242:80/aztvhd/mpegts
+https://live-01.tvjetapp.com/ch-170/live.m3u8
 #EXTINF:-1,TÜRKMENELİ TV
 http://185.236.229.50:8000/play/a01n
 #EXTINF:-1,BBC ENTERTAINMENT
@@ -326,11 +326,11 @@ https://live-01.tvjetapp.com/ch-182/live.m3u8
 #EXTINF:-1,TRT SPOR
 https://live-01.tvjetapp.com/ch-23/live.m3u8
 #EXTINF:-1,TRT SPOR YILDIZ
-http://tv-trtspor2.live.trt.com.tr/master.m3u8
+https://live-01.tvjetapp.com/ch-38/live.m3u8
 #EXTINF:-1,SPORTS TV
-http://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
+https://live-01.tvjetapp.com/ch-71/live.m3u8
 #EXTINF:-1,FB TV
-http://213.115.248.46:9000/TR_-_FB_TV_HD/video.m3u8
+https://live-01.tvjetapp.com/ch-28/live.m3u8
 #EXTINF:-1,GS TV
 http://owifavo5.rocketcdn.com/gstv/gstv.smil/chunklist_b2328000_sltur.m3u8
 #EXTINF:-1,T.A.Y TV
@@ -342,7 +342,7 @@ http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/84407
 #EXTINF:-1,24 KITCHEN
 http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/84356
 #EXTINF:-1,TRT ÇOCUK
-http://tv-trtcocuk.live.trt.com.tr/master_720.m3u8
+https://live-01.tvjetapp.com/ch-30/live.m3u8
 #EXTINF:-1,MİNİKA ÇOCUK
 https://live-01.tvjetapp.com/ch-18/live.m3u8
 #EXTINF:-1,MİNİKA GO
@@ -368,13 +368,13 @@ http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/84345
 #EXTINF:-1,DA VINCI LEARNING
 http://live.fhdserver.eu:80/ayhanmustafa/ayhanmustafa1/253
 #EXTINF:-1,TRT EBA TV İLKOKUL
-http://tv-e-okul00.live.trt.com.tr/master.m3u8
+https://live-01.tvjetapp.com/ch-198/live.m3u8
 #EXTINF:-1,TRT EBA TV ORTAOKUL
-http://tv-e-okul01.live.trt.com.tr/master.m3u8
+https://live-01.tvjetapp.com/ch-199/live.m3u8
 #EXTINF:-1,TRT EBA TV LİSE
-http://tv-e-okul02.live.trt.com.tr/master.m3u8
+https://live-01.tvjetapp.com/ch-200/live.m3u8
 #EXTINF:-1,DİYANET TV
-http://79.124.14.198:8088/play/a093
+https://live-01.tvjetapp.com/ch-67/live.m3u8
 #EXTINF:-1,SEMERKAND TV
 https://live-01.tvjetapp.com/ch-57/live.m3u8
 #EXTINF:-1,DOST TV
@@ -384,7 +384,7 @@ http://m.live.net.sa:1935/live/quran/playlist.m3u8
 #EXTINF:-1,AL SUNNAH AL NABAWIYAH
 http://m.live.net.sa:1935/live/sunnah/playlist.m3u8
 #EXTINF:-1,TRT MÜZİK
-http://tv-trtmuzik.medya.trt.com.tr/master.m3u8
+https://live-01.tvjetapp.com/ch-64/live.m3u8
 #EXTINF:-1,KRAL TV
 http://oznvip.mnepro.com:8080/ishak08/ishak0808/46804
 #EXTINF:-1,KRAL POP TV
