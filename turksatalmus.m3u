@@ -319,6 +319,8 @@ http://owifavo5.rocketcdn.com/gstv/gstv.smil/chunklist_b2328000_sltur.m3u8
 https://live-01.tvjetapp.com/ch-4/live.m3u8
 #EXTINF:-1,TJK TV
 http://tjktv-live.tjk.org/tjktv.m3u8
+#EXTINF:-1,GAMETOON
+http://46.19.226.150:4000/play/a06e
 #EXTINF:-1,TRT 4K
 http://xtream-iptvpanel.com:8080/alican01/01alican/46518
 #EXTINF:-1,24 KITCHEN
