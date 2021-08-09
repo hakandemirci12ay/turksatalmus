@@ -239,7 +239,7 @@ http://abmmedya.com:8080/erhansardogan/6580103092/33553
 #EXTINF:-1,SCIENCE & VIE
 http://abmmedya.com:8080/erhansardogan/6580103092/19102
 #EXTINF:-1,DOCUBOX
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/31767
+http://abmmedya.com:8080/erhansardogan/6580103092/9247
 #EXTINF:-1,VIASAT EXPLORE
 http://abmmedya.com:8080/erhansardogan/6580103092/19103
 #EXTINF:-1,ANIMAUX
@@ -254,6 +254,8 @@ http://livedoc.cgtn.com/1000d/prog_index.m3u8
 http://abmmedya.com:8080/erhansardogan/6580103092/9244
 #EXTINF:-1,AZ TV
 https://live-01.tvjetapp.com/ch-170/live.m3u8
+#EXTINF:-1,TÜRKMENELİ TV
+https://137840.global.ssl.fastly.net/edge/live_6b7c6e205afb11ebb010f5a331abaf98/tracks-v1a1/playlist.m3u8
 #EXTINF:-1,BBC ENTERTAINMENT
 http://94.155.204.102:4000/play/a0fd
 #EXTINF:-1,TV5MONDE EUROPE
@@ -276,26 +278,32 @@ http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/pla
 http://ua-tv-hls2.cosmonova.net.ua/hls/ua-tv_ua_mid/index.m3u8
 #EXTINF:-1,RAI UNO
 http://195.35.85.115:8000/play/a06l
-#EXTINF:-1,NTV SPOR
-http://37.221.122.86:8181/ntvspor.ts
-#EXTINF:-1,AUTOMOTO
-http://important.ydns.eu:25461/FleKsIPtv/QdsrWfghjkZxs23Li/1648
+#EXTINF:-1,TRSPOR
+http://37.221.122.86:8383/trspor.ts
+#EXTINF:-1,TRT SPOR
+https://live-01.tvjetapp.com/ch-23/live.m3u8
+#EXTINF:-1,beIN SPORTS HABER
+https://live-01.tvjetapp.com/ch-58/live.m3u8
+#EXTINF:-1,A SPOR
+https://live-01.tvjetapp.com/ch-16/live.m3u8
 #EXTINF:-1,EUROSPORT 1
-https://xxx.birkivilcimyeter.xyz/72fe9bb58e02e669273c902c1f48f501/132/strmrdr.m3u8
+http://abmmedya.com:8080/erhansardogan/6580103092/34
 #EXTINF:-1,EUROSPORT 2
-https://xxx.birkivilcimyeter.xyz/72fe9bb58e02e669273c902c1f48f501/142/strmrdr.m3u8
-#EXTINF:-1,FAST AND FUNBOX
-http://203.154.177.125:4001
-#EXTINF:-1,FIGHTBOX
-http://203.154.177.125:4004
-#EXTINF:-1,GINX ESPORTS TV
-http://203.154.177.125:4015
+http://abmmedya.com:8080/erhansardogan/6580103092/35
 #EXTINF:-1,TRACE SPORT STARS
-http://203.154.177.125:4010
+https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1,AUTOMOTO
+http://abmmedya.com:8080/erhansardogan/6580103092/9246
+#EXTINF:-1,FIGHTBOX
+http://abmmedya.com:8080/erhansardogan/6580103092/3539
+#EXTINF:-1,FAST AND FUNBOX
+http://abmmedya.com:8080/erhansardogan/6580103092/9249
+#EXTINF:-1,FIGHT NETWORK
+http://abmmedya.com:8080/erhansardogan/6580103092/19105
 #EXTINF:-1,beIN SPORTS 1
-https://xxx.birkivilcimyeter.xyz/72fe9bb58e02e669273c902c1f48f501/0/strmrdr.m3u8
+http://p.dtv.sx:80/live/HPqvctRhGQCaYfgh/617082/16386.ts
 #EXTINF:-1,beIN SPORTS 2
-https://xxx.birkivilcimyeter.xyz/72fe9bb58e02e669273c902c1f48f501/602/strmrdr.m3u8
+http://p.dtv.sx:80/live/HPqvctRhGQCaYfgh/617082/6585.ts
 #EXTINF:-1,beIN SPORTS 3
 https://xxx.birkivilcimyeter.xyz/72fe9bb58e02e669273c902c1f48f501/603/strmrdr.m3u8
 #EXTINF:-1,beIN SPORTS 4
@@ -304,10 +312,6 @@ https://xxx.birkivilcimyeter.xyz/72fe9bb58e02e669273c902c1f48f501/604/strmrdr.m3
 https://xxx.birkivilcimyeter.xyz/72fe9bb58e02e669273c902c1f48f501/805/strmrdr.m3u8
 #EXTINF:-1,beIN SPORTS MAX 2
 https://xxx.birkivilcimyeter.xyz/72fe9bb58e02e669273c902c1f48f501/806/strmrdr.m3u8
-#EXTINF:-1,beIN SPORTS HABER
-https://live-01.tvjetapp.com/ch-58/live.m3u8
-#EXTINF:-1,A SPOR
-https://live-01.tvjetapp.com/ch-16/live.m3u8
 #EXTINF:-1,SPOR SMART
 https://xxx.birkivilcimyeter.xyz/72fe9bb58e02e669273c902c1f48f501/102/strmrdr.m3u8
 #EXTINF:-1,SPOR SMART 2
@@ -322,8 +326,6 @@ https://xxx.birkivilcimyeter.xyz/72fe9bb58e02e669273c902c1f48f501/112/strmrdr.m3
 http://dai.google.com/linear/hls/event/d4zeSI-dTuqizFrByjs3OA/master.m3u8
 #EXTINF:-1,TİVİBU SPOR
 https://live-01.tvjetapp.com/ch-182/live.m3u8
-#EXTINF:-1,TRT SPOR
-https://live-01.tvjetapp.com/ch-23/live.m3u8
 #EXTINF:-1,TRT SPOR YILDIZ
 https://live-01.tvjetapp.com/ch-38/live.m3u8
 #EXTINF:-1,SPORTS TV
