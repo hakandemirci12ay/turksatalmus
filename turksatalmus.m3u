@@ -59,6 +59,9 @@ http://sizlerdegeleceksinizbizlergibi.goldentv.eu:8899/live/lyOgyE6yUH/QjRd1x5Uh
 http://abmmedya.com:8080/erhansardogan/6580103092/201
 #EXTINF:-1,SİNEMA 1002
 http://abmmedya.com:8080/erhansardogan/6580103092/9231
+#EXTINF:-1,SİNEMA YERLI
+ #EXTINF:-1,SİNEMA YERLI 2
+http://abmmedya.com:8080/erhansardogan/6580103092/18781
 #EXTINF:-1,beIN İZ
 http://abmmedya.com:8080/erhansardogan/6580103092/135
 #EXTINF:-1,beIN GURME
@@ -207,8 +210,6 @@ http://onlinetv.ktrk.kg:1935/live/myStream/playlist.m3u8
 http://live.cgtn.com/1000/prog_index.m3u8
 #EXTINF:-1,RUSSIA 24
 http://radio-live-mg.rtr-vesti.ru/hls/russia_24/playlist_2.m3u8
-#EXTINF:-1,CHASSE ET PECHE
-http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/51460
 #EXTINF:-1,YABAN TV
 https://59cba4d34b678.streamlock.net/live1/yabantv/playlist.m3u8
 #EXTINF:-1,HABİTAT TV
@@ -219,26 +220,38 @@ https://live-01.tvjetapp.com/ch-24/live.m3u8
 http://visionmedaitv.nl:7444/live/TimesHift12Flussonic12/hPgOmwOORa321/112.ts
 #EXTINF:-1,NAT GEO WILD
 http://visionmedaitv.nl:7444/live/TimesHift12Flussonic12/hPgOmwOORa321/113.ts
-#EXTINF:-1,HISTORY CHANNEL
-http://visionmedaitv.nl:7444/live/TimesHift12Flussonic12/hPgOmwOORa321/111.ts
+#EXTINF:-1,VIASAT NATURE
+http://abmmedya.com:8080/erhansardogan/6580103092/25669
 #EXTINF:-1,DISCOVERY CHANNEL
 http://visionmedaitv.nl:7444/live/TimesHift12Flussonic12/hPgOmwOORa321/110.ts
 #EXTINF:-1,DISCOVERY SCIENCE
 http://visionmedaitv.nl:7444/live/TimesHift12Flussonic12/hPgOmwOORa321/100.ts
 #EXTINF:-1,ID
-http://visionmedaitv.nl:7444/live/TimesHift12Flussonic12/hPgOmwOORa321/106.ts
+http://abmmedya.com:8080/erhansardogan/6580103092/128
 #EXTINF:-1,BBC EARTH
 http://visionmedaitv.nl:7444/live/VisionTVPlatformCEP/XujDJYfHLu/109.ts
+#EXTINF:-1,HISTORY CHANNEL
+http://visionmedaitv.nl:7444/live/TimesHift12Flussonic12/hPgOmwOORa321/111.ts
 #EXTINF:-1,VIASAT HISTORY
 http://visionmedaitv.nl:7444/live/TimesHift12Flussonic12/hPgOmwOORa321/102.ts
+#EXTINF:-1,TREK
+http://abmmedya.com:8080/erhansardogan/6580103092/33553
+#EXTINF:-1,SCIENCE & VIE
+http://abmmedya.com:8080/erhansardogan/6580103092/19102
 #EXTINF:-1,DOCUBOX
 http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/31767
+#EXTINF:-1,VIASAT EXPLORE
+http://abmmedya.com:8080/erhansardogan/6580103092/19103
+#EXTINF:-1,ANIMAUX
+http://abmmedya.com:8080/erhansardogan/6580103092/9245
 #EXTINF:-1,LOVE NATURE
 http://visionmedaitv.nl:7444/live/TimesHift12Flussonic12/hPgOmwOORa321/101.ts
 #EXTINF:-1,RTG INT
 http://strm.yandex.ru/kal/rtg/rtg0_169_480p.json/index-v1-a1.m3u8
 #EXTINF:-1,CGTN DOCUMENTARY
 http://livedoc.cgtn.com/1000d/prog_index.m3u8
+#EXTINF:-1,CHASSE ET PECHE
+http://abmmedya.com:8080/erhansardogan/6580103092/9244
 #EXTINF:-1,AZ TV
 https://live-01.tvjetapp.com/ch-170/live.m3u8
 #EXTINF:-1,BBC ENTERTAINMENT
