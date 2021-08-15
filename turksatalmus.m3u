@@ -116,11 +116,13 @@ https://live-01.tvjetapp.com/ch-33/live.m3u8
 #EXTINF:-1,BİZİMEV TV
 http://mn-nl.mncdn.com/blutv_bizimev/bizimev_sd.smil/playlist.m3u8
 #EXTINF:-1,BEYKENT TV
-https://yayin.haber100.com/P62039948/beykenttv/playlist.m3u8
+https://live-01.tvjetapp.com/ch-157/live.m3u8
 #EXTINF:-1,KANAL B
 https://live-01.tvjetapp.com/ch-137/live.m3u8
 #EXTINF:-1,GENÇ TV (KIBRIS)
 http://kuzeykibris.tv/m3u8/tv_genc.m3u8
+#EXTINF:-1,TELEON TV
+https://streaming.netdirekt.com.tr/35757/msyapi/teleontv_hd/playlist.m3u8
 #EXTINF:-1,ÜNİVERSİTE TV
 https://5be5d840359c6.streamlock.net/unitv/unitv/chunklist.m3u8
 #EXTINF:-1,BENGUTURK
@@ -218,23 +220,23 @@ http://yayin2.tvizlehd.com/habitattv.m3u8
 #EXTINF:-1,TRT BELGESEL
 https://live-01.tvjetapp.com/ch-24/live.m3u8
 #EXTINF:-1,NATIONAL GEOGRAPHIC
-http://visionmedaitv.nl:7444/live/TimesHift12Flussonic12/hPgOmwOORa321/112.ts
+http://abmmedya.com:8080/erhansardogan/6580103092/130
 #EXTINF:-1,NAT GEO WILD
-http://visionmedaitv.nl:7444/live/TimesHift12Flussonic12/hPgOmwOORa321/113.ts
+http://abmmedya.com:8080/erhansardogan/6580103092/131
 #EXTINF:-1,VIASAT NATURE
 http://abmmedya.com:8080/erhansardogan/6580103092/25669
 #EXTINF:-1,DISCOVERY CHANNEL
-http://visionmedaitv.nl:7444/live/TimesHift12Flussonic12/hPgOmwOORa321/110.ts
+http://abmmedya.com:8080/erhansardogan/6580103092/127
 #EXTINF:-1,DISCOVERY SCIENCE
-http://visionmedaitv.nl:7444/live/TimesHift12Flussonic12/hPgOmwOORa321/100.ts
+http://abmmedya.com:8080/erhansardogan/6580103092/126
 #EXTINF:-1,ID
 http://abmmedya.com:8080/erhansardogan/6580103092/128
 #EXTINF:-1,BBC EARTH
-http://visionmedaitv.nl:7444/live/VisionTVPlatformCEP/XujDJYfHLu/109.ts
+http://abmmedya.com:8080/erhansardogan/6580103092/133
 #EXTINF:-1,HISTORY CHANNEL
-http://visionmedaitv.nl:7444/live/VisionTVPlatformCEP/XujDJYfHLu/111.ts
+http://abmmedya.com:8080/erhansardogan/6580103092/129
 #EXTINF:-1,VIASAT HISTORY
-http://visionmedaitv.nl:7444/live/TimesHift12Flussonic12/hPgOmwOORa321/102.ts
+http://abmmedya.com:8080/erhansardogan/6580103092/124
 #EXTINF:-1,TREK
 http://abmmedya.com:8080/erhansardogan/6580103092/33553
 #EXTINF:-1,SCIENCE & VIE
@@ -246,7 +248,7 @@ http://abmmedya.com:8080/erhansardogan/6580103092/19103
 #EXTINF:-1,ANIMAUX
 http://abmmedya.com:8080/erhansardogan/6580103092/9245
 #EXTINF:-1,LOVE NATURE
-http://visionmedaitv.nl:7444/live/TimesHift12Flussonic12/hPgOmwOORa321/101.ts
+http://abmmedya.com:8080/erhansardogan/6580103092/16841
 #EXTINF:-1,RTG INT
 http://strm.yandex.ru/kal/rtg/rtg0_169_480p.json/index-v1-a1.m3u8
 #EXTINF:-1,CGTN DOCUMENTARY
@@ -286,7 +288,7 @@ https://live-01.tvjetapp.com/ch-58/live.m3u8
 #EXTINF:-1,A SPOR
 https://live-01.tvjetapp.com/ch-16/live.m3u8
 #EXTINF:-1,EUROSPORT 1
-http://visionmedaitv.nl:7444/live/VisionTVPlatformCEP/XujDJYfHLu/75.ts
+http://abmmedya.com:8080/erhansardogan/6580103092/34
 #EXTINF:-1,EUROSPORT 2
 http://abmmedya.com:8080/erhansardogan/6580103092/35
 #EXTINF:-1,TRACE SPORT STARS
@@ -314,7 +316,7 @@ http://abmmedya.com:8080/erhansardogan/6580103092/9235
 #EXTINF:-1,SPOR SMART
 http://abmmedya.com:8080/erhansardogan/6580103092/23
 #EXTINF:-1,SPOR SMART 2
-https://xxx.birkivilcimyeter.xyz/72fe9bb58e02e669273c902c1f48f501/104/strmrdr.m3u8
+http://abmmedya.com:8080/erhansardogan/6580103092/20087
 #EXTINF:-1,S SPORT
 http://abmmedya.com:8080/erhansardogan/6580103092/24
 #EXTINF:-1,S SPORT 2
@@ -340,7 +342,7 @@ http://tjktv-live.tjk.org/tjktv.m3u8
 #EXTINF:-1,TRT 4K
 http://abmmedya.com:8080/erhansardogan/6580103092/9281
 #EXTINF:-1,24 KITCHEN
-http://visionmedaitv.nl:7444/live/VisionTVPlatformCEP/XujDJYfHLu/103.ts
+http://abmmedya.com:8080/erhansardogan/6580103092/137
 #EXTINF:-1,TOM VE JERRY TV
 http://xtream-iptvpanel.com:8080/alican01/01alican/46603
 #EXTINF:-1,TRT ÇOCUK
@@ -352,21 +354,21 @@ https://live-01.tvjetapp.com/ch-17/live.m3u8
 #EXTINF:-1,ÇOCUKSMART
 http://abmmedya.com:8080/erhansardogan/6580103092/141
 #EXTINF:-1,BOOMERANG TV
-http://visionmedaitv.nl:7444/live/TimesHift12Flussonic12/hPgOmwOORa321/93.ts
+http://abmmedya.com:8080/erhansardogan/6580103092/147
 #EXTINF:-1,BBC CBEEBIES
-http://visionmedaitv.nl:7444/live/TimesHift12Flussonic12/hPgOmwOORa321/90.ts
+http://abmmedya.com:8080/erhansardogan/6580103092/145
 #EXTINF:-1,BABY TV
-http://visionmedaitv.nl:7444/live/TimesHift12Flussonic12/hPgOmwOORa321/89.ts
+http://abmmedya.com:8080/erhansardogan/6580103092/156
 #EXTINF:-1,DISNEY CHANNEL
 https://live-01.tvjetapp.com/ch-26/live.m3u8
 #EXTINF:-1,DISNEY JUNIOR
-http://visionmedaitv.nl:7444/live/TimesHift12Flussonic12/hPgOmwOORa321/91.ts
+http://abmmedya.com:8080/erhansardogan/6580103092/144
 #EXTINF:-1,DUCK TV
 http://mmm-ducktv-2-it.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1,NICKELODEON
 http://abmmedya.com:8080/erhansardogan/6580103092/142
 #EXTINF:-1,NICK JR.
-http://visionmedaitv.nl:7444/live/TimesHift12Flussonic12/hPgOmwOORa321/88.ts
+http://abmmedya.com:8080/erhansardogan/6580103092/149
 #EXTINF:-1,DA VINCI LEARNING
 http://abmmedya.com:8080/erhansardogan/6580103092/16914
 #EXTINF:-1,TRT EBA TV İLKOKUL
@@ -388,7 +390,7 @@ http://m.live.net.sa:1935/live/sunnah/playlist.m3u8
 #EXTINF:-1,TRT MÜZİK
 https://live-01.tvjetapp.com/ch-64/live.m3u8
 #EXTINF:-1,KRAL TV
-http://master-ao.questel.fr:80/aTZr4rDP/am6eTzrz/89368
+http://abmmedya.com:8080/erhansardogan/6580103092/597
 #EXTINF:-1,DREAM TURK
 http://79.124.14.198:8088/play/a0ij
 #EXTINF:-1,NUMBER1 TÜRK
