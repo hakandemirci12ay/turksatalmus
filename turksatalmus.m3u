@@ -5,150 +5,80 @@ http://yayin.basturkelektronik.com:8080/live/tokat-almus.stream/playlist.m3u8
 http://203.154.243.89:11205/
 #EXTINF:-1,KEMAL SUNAL TV
 http://145.239.37.125:20458/sabantv/sabantv/playlist.m3u8
-#EXTINF:-1,EPIC DRAMA
-http://abmmedya.com:8080/erhansardogan/6580103092/19215
-#EXTINF:-1,FX
-http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/10731
-#EXTINF:-1,FOXCRIME
-http://abmmedya.com:8080/erhansardogan/6580103092/202
-#EXTINF:-1,BBC FIRST
-http://abmmedya.com:8080/erhansardogan/6580103092/25668
-#EXTINF:-1,DİZİSMART PREMIUM
-http://abmmedya.com:8080/erhansardogan/6580103092/194
-#EXTINF:-1,DİZİSMART MAX
-http://abmmedya.com:8080/erhansardogan/6580103092/195
-#EXTINF:-1,beIN MOVIES PREMIERE
-http://abmmedya.com:8080/erhansardogan/6580103092/172
-#EXTINF:-1,beIN MOVIES PREMIERE 2
-http://abmmedya.com:8080/erhansardogan/6580103092/173
-#EXTINF:-1,beIN MOVIES STARS
-http://abmmedya.com:8080/erhansardogan/6580103092/174
-#EXTINF:-1,beIN MOVIES ACTION
-http://abmmedya.com:8080/erhansardogan/6580103092/175
-#EXTINF:-1,beIN MOVIES ACTION 2
-http://abmmedya.com:8080/erhansardogan/6580103092/176
-#EXTINF:-1,beIN MOVIES FAMILY
-http://abmmedya.com:8080/erhansardogan/6580103092/21844
-#EXTINF:-1,beIN MOVIES TURK
-http://abmmedya.com:8080/erhansardogan/6580103092/170
-#EXTINF:-1,MOVIESMART PREMIUM
-http://abmmedya.com:8080/erhansardogan/6580103092/185
-#EXTINF:-1,MOVIESMART PREMIUM 2
-http://abmmedya.com:8080/erhansardogan/6580103092/186
-#EXTINF:-1,MOVIESMART CLASSIC
-http://abmmedya.com:8080/erhansardogan/6580103092/192
-#EXTINF:-1,MOVIESMART TÜRK
-http://abmmedya.com:8080/erhansardogan/6580103092/184
-#EXTINF:-1,SİNEMA TV
-http://abmmedya.com:8080/erhansardogan/6580103092/196
-#EXTINF:-1,SİNEMA 2
-http://abmmedya.com:8080/erhansardogan/6580103092/29068
-#EXTINF:-1,SİNEMA AKSİYON
-http://abmmedya.com:8080/erhansardogan/6580103092/199
-#EXTINF:-1,SİNEMA AKSİYON 2
-http://abmmedya.com:8080/erhansardogan/6580103092/9232
-#EXTINF:-1,SİNEMA KOMEDİ
-http://abmmedya.com:8080/erhansardogan/6580103092/198
-#EXTINF:-1,SİNEMA KOMEDİ 2
-http://satlok.xyz:8000/celal2808/xSNH1yU7jf/65408
-#EXTINF:-1,SİNEMA AİLE
-http://abmmedya.com:8080/erhansardogan/6580103092/200
-#EXTINF:-1,SİNEMA AİLE 2
-http://satlok.xyz:8000/celal2808/xSNH1yU7jf/65406
-#EXTINF:-1,SİNEMA 1001
-http://abmmedya.com:8080/erhansardogan/6580103092/201
-#EXTINF:-1,SİNEMA 1002
-http://abmmedya.com:8080/erhansardogan/6580103092/9231
-#EXTINF:-1,SİNEMA YERLI
-http://abmmedya.com:8080/erhansardogan/6580103092/197
-#EXTINF:-1,SİNEMA YERLI 2
-http://abmmedya.com:8080/erhansardogan/6580103092/18781
-#EXTINF:-1,beIN İZ
-http://abmmedya.com:8080/erhansardogan/6580103092/135
-#EXTINF:-1,beIN GURME
-http://abmmedya.com:8080/erhansardogan/6580103092/134
-#EXTINF:-1,FILMBOX
-http://abmmedya.com:8080/erhansardogan/6580103092/18783
-#EXTINF:-1,FILMBOX ARTHOUSE
-http://abmmedya.com:8080/erhansardogan/6580103092/33955
-#EXTINF:-1,FILMBOX EXTRA
-http://abmmedya.com:8080/erhansardogan/6580103092/33954
+#EXTINF:-1,FİL TV
+https://umt02.videobulut.com/35/3811/6R34V8psE2T3/6R34V8psE2T3.mpd
+#EXTINF:-1,FİLM CLUB
+https://umt02.videobulut.com/35/3811/4f00V7XsCjsw/4f00V7XsCjsw.mpd
+#EXTINF:-1,FİLM CLUB AKSİYON
+https://umt02.videobulut.com/35/3811/5f9Xb7usdAs1/5f9Xb7usdAs1.mpd
+#EXTINF:-1,FİLM CLUB KOMEDİ
+https://umt02.videobulut.com/35/3811/3wV3C62sbusZ/3wV3C62sbusZ.mpd
 #EXTINF:-1,TRT 1
-https://live-01.tvjetapp.com/ch-21/live.m3u8
+https://59c7ea6bec1c6.streamlock.net/filbox/trt1.stream/playlist.m3u8
 #EXTINF:-1,ATV
-https://live-01.tvjetapp.com/ch-14/live.m3u8
+https://59c7ea6bec1c6.streamlock.net/filbox/atv.stream/playlist.m3u8
 #EXTINF:-1,SHOW TV
-https://live-01.tvjetapp.com/ch-11/live.m3u8
+https://59c7ea6bec1c6.streamlock.net/filbox/showtv.stream/playlist.m3u8
 #EXTINF:-1,KANAL D
-https://live-01.tvjetapp.com/ch-1/live.m3u8
+https://59c7ea6bec1c6.streamlock.net/filbox/kanald.stream/playlist.m3u8
 #EXTINF:-1,STAR TV
-https://live-01.tvjetapp.com/ch-8/live.m3u8
+https://59c7ea6bec1c6.streamlock.net/filbox/startv.stream/playlist.m3u8
 #EXTINF:-1,KANAL 7
-https://live-01.tvjetapp.com/ch-6/live.m3u8
+https://live.kanal7.com/live/kanal7LiveDesktop/index.m3u8
 #EXTINF:-1,FOX TV
-https://live-01.tvjetapp.com/ch-7/live.m3u8
+https://59c7ea6bec1c6.streamlock.net/filbox/foxtv.stream/playlist.m3u8
 #EXTINF:-1,TV8
-https://live-01.tvjetapp.com/ch-5/live.m3u8
+https://59c7ea6bec1c6.streamlock.net/filbox/tv8.stream/playlist.m3u8
 #EXTINF:-1,BEYAZ TV
-https://live-01.tvjetapp.com/ch-20/live.m3u8
-#EXTINF:-1,SHOW MAX
-https://live-01.tvjetapp.com/ch-50/live.m3u8
-#EXTINF:-1,A2
-https://live-01.tvjetapp.com/ch-19/live.m3u8
+https://59c7ea6bec1c6.streamlock.net/filbox/beyaztv.stream/playlist.m3u8
 #EXTINF:-1,TEVE2
-https://live-01.tvjetapp.com/ch-3/live.m3u8
+https://59c7ea6bec1c6.streamlock.net/filbox/teve2.stream/playlist.m3u8
 #EXTINF:-1,360 TV
-https://live-01.tvjetapp.com/ch-49/live.m3u8
+https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
 #EXTINF:-1,TLC
-https://live-01.tvjetapp.com/ch-34/live.m3u8
+https://59c7ea6bec1c6.streamlock.net/filbox/tlc.stream/playlist.m3u8
 #EXTINF:-1,DMAX
-https://live-01.tvjetapp.com/ch-10/live.m3u8
-#EXTINF:-1,KON TV
-http://79.124.14.198:8088/play/a0hg
+https://59c7ea6bec1c6.streamlock.net/filbox/dmax.stream/playlist.m3u8
 #EXTINF:-1,TV 100
-https://live-01.tvjetapp.com/ch-127/live.m3u8
+https://59c7ea6bec1c6.streamlock.net/filbox/tv100.stream/playlist.m3u8
 #EXTINF:-1,UCANKUS TV
-https://live-01.tvjetapp.com/ch-181/live.m3u8
-#EXTINF:-1,ULUSAL KANAL
-https://live-01.tvjetapp.com/ch-46/live.m3u8
+https://ucankus-live.cdnnew.com/ucankus/ucankus.m3u8
 #EXTINF:-1,TV8.5
-https://live-01.tvjetapp.com/ch-33/live.m3u8
+https://59cba4d34b678.streamlock.net/filbox/tv8-5.stream/playlist.m3u8
 #EXTINF:-1,BİZİMEV TV
 http://mn-nl.mncdn.com/blutv_bizimev/bizimev_sd.smil/playlist.m3u8
-#EXTINF:-1,BEYKENT TV
-https://live-01.tvjetapp.com/ch-157/live.m3u8
 #EXTINF:-1,KANAL B
-https://live-01.tvjetapp.com/ch-137/live.m3u8
+http://212.174.58.161/hls-live/livepkgr/_definst_/liveevent/kanalb.m3u8
 #EXTINF:-1,GENÇ TV (KIBRIS)
 http://kuzeykibris.tv/m3u8/tv_genc.m3u8
 #EXTINF:-1,TELEON TV
 https://streaming.netdirekt.com.tr/35757/msyapi/teleontv_hd/playlist.m3u8
 #EXTINF:-1,ÜNİVERSİTE TV
 https://5be5d840359c6.streamlock.net/unitv/unitv/chunklist.m3u8
-#EXTINF:-1,BENGUTURK
-https://live-01.tvjetapp.com/ch-47/live.m3u8
+#EXTINF:-1,VAV TV
+https://59c7ea6bec1c6.streamlock.net/filbox/vavtv.stream/playlist.m3u8
+#EXTINF:-1,BENGÜTÜRK
+https://59c7ea6bec1c6.streamlock.net/filbox/benguturk.stream/playlist.m3u8
 #EXTINF:-1,TRT 2
-http://tv-trt2.live.trt.com.tr/master.m3u8
+http://tv-trt2.live.trt.com.tr/master_720.m3u8
 #EXTINF:-1,TRT HABER
-https://live-01.tvjetapp.com/ch-22/live.m3u8
+https://tv-trthaber.live.trt.com.tr/master_720.m3u8
 #EXTINF:-1,A HABER
-https://live-01.tvjetapp.com/ch-15/live.m3u8
+https://59c7ea6bec1c6.streamlock.net/filbox/ahaber.stream/playlist.m3u8
 #EXTINF:-1,NTV
-https://live-01.tvjetapp.com/ch-9/live.m3u8
+https://59c7ea6bec1c6.streamlock.net/filbox/ntv.stream/playlist.m3u8
 #EXTINF:-1,CNN TÜRK
-https://live-01.tvjetapp.com/ch-2/live.m3u8
+https://59c7ea6bec1c6.streamlock.net/filbox/cnnturk.stream/playlist.m3u8
 #EXTINF:-1,24 TV
-https://live-01.tvjetapp.com/ch-59/live.m3u8
+https://turkmedya-live.ercdn.net/tv24/tv24.m3u8
 #EXTINF:-1,TGRT HABER
-https://live-01.tvjetapp.com/ch-56/live.m3u8
+https://59c7ea6bec1c6.streamlock.net/filbox/tgrthaber.stream/playlist.m3u8
 #EXTINF:-1,HABERTÜRK
-https://live-01.tvjetapp.com/ch-12/live.m3u8
+https://59c7ea6bec1c6.streamlock.net/filbox/haberturk.stream/playlist.m3u8
 #EXTINF:-1,BLOOMBERG HT
-https://live-01.tvjetapp.com/ch-13/live.m3u8
-#EXTINF:-1,ÜLKE TV
-https://live-01.tvjetapp.com/ch-29/live.m3u8
+https://tv.ensonhaber.com/tv/tr/bloomberght/index.m3u8
 #EXTINF:-1,TVNET
-https://live-01.tvjetapp.com/ch-60/live.m3u8
+https://mn-nl.mncdn.com/tvnet/tvnet/playlist.m3u8
 #EXTINF:-1,AKİT TV
 http://akittv-live.ercdn.net/akittv/akittv.m3u8
 #EXTINF:-1,BRT 1
@@ -156,39 +86,17 @@ http://kuzeykibris.tv/m3u8/tv_brt1.m3u8
 #EXTINF:-1,TV EM
 https://cdn-tvem.yayin.com.tr/TVEM/TVEM/playlist.m3u8
 #EXTINF:-1,TRT TÜRK
-https://live-01.tvjetapp.com/ch-54/live.m3u8
+https://tv-trtturk.live.trt.com.tr/master_720.m3u8
 #EXTINF:-1,TRT AVAZ
-https://live-01.tvjetapp.com/ch-31/live.m3u8
-#EXTINF:-1,TRT 3
-http://tv-trt3.live.trt.com.tr/master.m3u8
-#EXTINF:-1,TRT KURDİ
-https://live-01.tvjetapp.com/ch-32/live.m3u8
+https://tv-trtavaz.medya.trt.com.tr/master.m3u8
 #EXTINF:-1,HABER GLOBAL
-https://live-01.tvjetapp.com/ch-36/live.m3u8
-#EXTINF:-1,A PARA
-https://live-01.tvjetapp.com/ch-53/live.m3u8
-#EXTINF:-1,EKOTÜRK
-https://live-01.tvjetapp.com/ch-111/live.m3u8
+https://59c7ea6bec1c6.streamlock.net/filbox/haberglobal.stream/playlist.m3u8
 #EXTINF:-1,HALK TV
-https://live-01.tvjetapp.com/ch-47/live.m3u8
-#EXTINF:-1,TELE 1
-https://live-01.tvjetapp.com/ch-167/live.m3u8
+https://59c7ea6bec1c6.streamlock.net/filbox/halktv.stream/playlist.m3u8
 #EXTINF:-1,TRT WORLD
-https://live-01.tvjetapp.com/ch-25/live.m3u8
-#EXTINF:-1,A NEWS
-https://live-01.tvjetapp.com/ch-52/live.m3u8
-#EXTINF:-1,CNN INTERNATIONAL
-http://94.155.204.102:4000/play/a0gi
-#EXTINF:-1,CNBC
-http://94.155.204.102:4000/play/a0g3
-#EXTINF:-1,BBC WORLD NEWS
-http://94.155.204.102:4000/play/a0gk
+https://tv-trtworld.live.trt.com.tr/master_720.m3u8
 #EXTINF:-1,BLOOMBERG TV
 http://www.bloomberg.com/media-manifest/streams/eu.m3u8
-#EXTINF:-1,EURONEWS
-http://94.155.204.102:4000/play/a0gl
-#EXTINF:-1,CHANNEL ONE RUSSIA
-http://94.155.204.102:4000/play/a0co
 #EXTINF:-1,ALJAZEERA ARABIC
 http://live-hls-web-aja.getaj.net/AJA/05.m3u8
 #EXTINF:-1,ALJAZEERA ENGLISH
@@ -196,19 +104,15 @@ http://live-hls-web-aje.getaj.net/AJE/index.m3u8
 #EXTINF:-1,AL ARABY
 https://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/playlist.m3u8
 #EXTINF:-1,TRT ARABİ
-https://live-01.tvjetapp.com/ch-66/live.m3u8
+https://tv-trtarabi.live.trt.com.tr/master_720.m3u8
 #EXTINF:-1,DW-TV (ENGLISH)
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream03/streamPlaylist.m3u8
 #EXTINF:-1,DW-TV (GERMAN)
 https://dwamdstream106.akamaized.net/hls/live/2017965/dwstream106/stream03/streamPlaylist.m3u8
-#EXTINF:-1,RUSSIA TODAY
-http://rt-usa.secure.footprint.net/1105_2500Kb.m3u8
 #EXTINF:-1,FRANCE 24 ENGLISH
 http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
 #EXTINF:-1,FRANCE 24 FRANÇAİS
 http://static.france24.com/live/F24_FR_LO_HLS/live_web.m3u8
-#EXTINF:-1,ALA TOO 24
-http://onlinetv.ktrk.kg:1935/live/myStream/playlist.m3u8
 #EXTINF:-1,CGTN
 http://live.cgtn.com/1000/prog_index.m3u8
 #EXTINF:-1,RUSSIA 24
@@ -218,53 +122,17 @@ https://59cba4d34b678.streamlock.net/live1/yabantv/playlist.m3u8
 #EXTINF:-1,HABİTAT TV
 http://yayin2.tvizlehd.com/habitattv.m3u8
 #EXTINF:-1,TRT BELGESEL
-https://live-01.tvjetapp.com/ch-24/live.m3u8
-#EXTINF:-1,NATIONAL GEOGRAPHIC
-http://abmmedya.com:8080/erhansardogan/6580103092/130
-#EXTINF:-1,NAT GEO WILD
-http://abmmedya.com:8080/erhansardogan/6580103092/131
-#EXTINF:-1,VIASAT NATURE
-http://abmmedya.com:8080/erhansardogan/6580103092/25669
-#EXTINF:-1,DISCOVERY CHANNEL
-http://abmmedya.com:8080/erhansardogan/6580103092/127
-#EXTINF:-1,DISCOVERY SCIENCE
-http://abmmedya.com:8080/erhansardogan/6580103092/126
-#EXTINF:-1,ID
-http://abmmedya.com:8080/erhansardogan/6580103092/128
-#EXTINF:-1,BBC EARTH
-http://abmmedya.com:8080/erhansardogan/6580103092/133
-#EXTINF:-1,HISTORY CHANNEL
-http://abmmedya.com:8080/erhansardogan/6580103092/129
-#EXTINF:-1,VIASAT HISTORY
-http://abmmedya.com:8080/erhansardogan/6580103092/124
-#EXTINF:-1,TREK
-http://abmmedya.com:8080/erhansardogan/6580103092/33553
-#EXTINF:-1,SCIENCE & VIE
-http://abmmedya.com:8080/erhansardogan/6580103092/19102
+https://tv-trtbelgesel.live.trt.com.tr/master_720.m3u8
 #EXTINF:-1,DOCUMAX
 https://umt02.videobulut.com/35/3811/hf5TdZAR9AKT/hf5TdZAR9AKT.mpd
-#EXTINF:-1,VIASAT EXPLORE
-http://abmmedya.com:8080/erhansardogan/6580103092/19103
-#EXTINF:-1,ANIMAUX
-http://abmmedya.com:8080/erhansardogan/6580103092/9245
-#EXTINF:-1,LOVE NATURE
-http://abmmedya.com:8080/erhansardogan/6580103092/16841
 #EXTINF:-1,RTG INT
 http://strm.yandex.ru/kal/rtg/rtg0_169_480p.json/index-v1-a1.m3u8
 #EXTINF:-1,CGTN DOCUMENTARY
 http://livedoc.cgtn.com/1000d/prog_index.m3u8
-#EXTINF:-1,CHASSE ET PECHE
-http://abmmedya.com:8080/erhansardogan/6580103092/9244
 #EXTINF:-1,AZ TV
-https://live-01.tvjetapp.com/ch-170/live.m3u8
-#EXTINF:-1,TÜRKMENELİ TV
-https://137840.global.ssl.fastly.net/edge/live_6b7c6e205afb11ebb010f5a331abaf98/tracks-v1a1/playlist.m3u8
-#EXTINF:-1,BBC ENTERTAINMENT
-http://94.155.204.102:4000/play/a0fd
-#EXTINF:-1,TV5MONDE EUROPE
+https://59c7ea6bec1c6.streamlock.net/filbox/aztv.stream/playlist.m3u8
+#EXTINF:-1,TV5MONDE
 http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877-b/v3plusinfo247hls/v3plusinfo247hls_1_1.m3u8
-#EXTINF:-1,CCTV-4
-http://223.82.250.72/live/cctv-4/1.m3u8
 #EXTINF:-1,SAUDI 1
 http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_tv/hls1/saudi_tv.m3u8
 #EXTINF:-1,QAZAQ TV
@@ -282,123 +150,53 @@ http://ua-tv-hls2.cosmonova.net.ua/hls/ua-tv_ua_mid/index.m3u8
 #EXTINF:-1,TRSPOR
 http://37.221.122.86:8383/trspor.ts
 #EXTINF:-1,TRT SPOR
-https://live-01.tvjetapp.com/ch-23/live.m3u8
+https://tv-trtspor1.medya.trt.com.tr/master.m3u8
 #EXTINF:-1,beIN SPORTS HABER
-https://live-01.tvjetapp.com/ch-58/live.m3u8
+https://59c7ea6bec1c6.streamlock.net/filbox/beinsporthaber.stream/playlist.m3u8
 #EXTINF:-1,A SPOR
-https://live-01.tvjetapp.com/ch-16/live.m3u8
-#EXTINF:-1,EUROSPORT 1
-http://abmmedya.com:8080/erhansardogan/6580103092/34
-#EXTINF:-1,EUROSPORT 2
-http://abmmedya.com:8080/erhansardogan/6580103092/35
+https://59c7ea6bec1c6.streamlock.net/filbox/aspor.stream/playlist.m3u8
 #EXTINF:-1,TRACE SPORT STARS
 https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
-#EXTINF:-1,AUTOMOTO
-http://abmmedya.com:8080/erhansardogan/6580103092/9246
-#EXTINF:-1,FIGHTBOX
-http://abmmedya.com:8080/erhansardogan/6580103092/3539
-#EXTINF:-1,FAST AND FUNBOX
-http://abmmedya.com:8080/erhansardogan/6580103092/9249
-#EXTINF:-1,FIGHT NETWORK
-http://abmmedya.com:8080/erhansardogan/6580103092/19105
 #EXTINF:-1,beIN SPORTS 1
-http://abmmedya.com:8080/erhansardogan/6580103092/8
-#EXTINF:-1,beIN SPORTS 2
-http://abmmedya.com:8080/erhansardogan/6580103092/15
-#EXTINF:-1,beIN SPORTS 3
-http://abmmedya.com:8080/erhansardogan/6580103092/18
-#EXTINF:-1,beIN SPORTS 4
-http://abmmedya.com:8080/erhansardogan/6580103092/9238
-#EXTINF:-1,beIN SPORTS MAX 1
-http://abmmedya.com:8080/erhansardogan/6580103092/9234
-#EXTINF:-1,beIN SPORTS MAX 2
-http://abmmedya.com:8080/erhansardogan/6580103092/9235
-#EXTINF:-1,SPOR SMART
-http://abmmedya.com:8080/erhansardogan/6580103092/23
-#EXTINF:-1,SPOR SMART 2
-http://abmmedya.com:8080/erhansardogan/6580103092/20087
-#EXTINF:-1,S SPORT
-http://abmmedya.com:8080/erhansardogan/6580103092/24
-#EXTINF:-1,S SPORT 2
-http://abmmedya.com:8080/erhansardogan/6580103092/25
-#EXTINF:-1,NBA TV
-http://abmmedya.com:8080/erhansardogan/6580103092/36
+https://cidden.garip.xyz/72fe9bb58e02e669273c902c1f48f501/601/playlist.m3u8
 #EXTINF:-1,EDGE SPORT
 http://dai.google.com/linear/hls/event/d4zeSI-dTuqizFrByjs3OA/master.m3u8
-#EXTINF:-1,TİVİBU SPOR
-https://live-01.tvjetapp.com/ch-182/live.m3u8
 #EXTINF:-1,TRT SPOR YILDIZ
-https://live-01.tvjetapp.com/ch-38/live.m3u8
+https://tv-trtspor2.live.trt.com.tr/master_720.m3u8
 #EXTINF:-1,SPORTS TV
-https://live-01.tvjetapp.com/ch-71/live.m3u8
+https://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
 #EXTINF:-1,FB TV
-https://live-01.tvjetapp.com/ch-28/live.m3u8
+https://59c7ea6bec1c6.streamlock.net/filbox/fbtv.stream/playlist.m3u8
 #EXTINF:-1,GS TV
 http://owifavo5.rocketcdn.com/gstv/gstv.smil/chunklist_b2328000_sltur.m3u8
-#EXTINF:-1,T.A.Y TV
-https://live-01.tvjetapp.com/ch-4/live.m3u8
 #EXTINF:-1,TJK TV
 http://tjktv-live.tjk.org/tjktv.m3u8
-#EXTINF:-1,TRT 4K
-http://abmmedya.com:8080/erhansardogan/6580103092/9281
-#EXTINF:-1,24 KITCHEN
-http://abmmedya.com:8080/erhansardogan/6580103092/137
-#EXTINF:-1,TOM VE JERRY TV
-http://xtream-iptvpanel.com:8080/alican01/01alican/46603
 #EXTINF:-1,TRT ÇOCUK
-https://live-01.tvjetapp.com/ch-30/live.m3u8
-#EXTINF:-1,MİNİKA ÇOCUK
-https://live-01.tvjetapp.com/ch-18/live.m3u8
-#EXTINF:-1,MİNİKA GO
-https://live-01.tvjetapp.com/ch-17/live.m3u8
-#EXTINF:-1,ÇOCUKSMART
-http://abmmedya.com:8080/erhansardogan/6580103092/141
-#EXTINF:-1,BOOMERANG TV
-http://abmmedya.com:8080/erhansardogan/6580103092/147
-#EXTINF:-1,BBC CBEEBIES
-http://abmmedya.com:8080/erhansardogan/6580103092/145
-#EXTINF:-1,BABY TV
-http://abmmedya.com:8080/erhansardogan/6580103092/156
-#EXTINF:-1,DISNEY CHANNEL
-https://live-01.tvjetapp.com/ch-26/live.m3u8
-#EXTINF:-1,DISNEY JUNIOR
-http://abmmedya.com:8080/erhansardogan/6580103092/144
+https://tv-trtcocuk.live.trt.com.tr/master_720.m3u8
 #EXTINF:-1,DUCK TV
 http://mmm-ducktv-2-it.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1,NICKELODEON
-http://abmmedya.com:8080/erhansardogan/6580103092/142
-#EXTINF:-1,NICK JR.
-http://abmmedya.com:8080/erhansardogan/6580103092/149
-#EXTINF:-1,DA VINCI LEARNING
-http://abmmedya.com:8080/erhansardogan/6580103092/16914
 #EXTINF:-1,TRT EBA TV İLKOKUL
-https://live-01.tvjetapp.com/ch-198/live.m3u8
+https://tv-e-okul00.live.trt.com.tr/master_720.m3u8
 #EXTINF:-1,TRT EBA TV ORTAOKUL
-https://live-01.tvjetapp.com/ch-199/live.m3u8
+https://tv-e-okul01.live.trt.com.tr/master_720.m3u8
 #EXTINF:-1,TRT EBA TV LİSE
-https://live-01.tvjetapp.com/ch-200/live.m3u8
+https://tv-e-okul02.live.trt.com.tr/master_720.m3u8
 #EXTINF:-1,DİYANET TV
-https://live-01.tvjetapp.com/ch-67/live.m3u8
+https://eustr73.mediatriple.net/videoonlylive/mtikoimxnztxlive/broadcast_5e3bf95a47e07.smil/playlist.m3u8
 #EXTINF:-1,SEMERKAND TV
-https://live-01.tvjetapp.com/ch-57/live.m3u8
+https://b01c02nl.mediatriple.net/videoonlylive/mtisvwurbfcyslive/broadcast_58d915bd40efc.smil/playist.m3u8
 #EXTINF:-1,DOST TV
-https://live-01.tvjetapp.com/ch-75/live.m3u8
+https://dost.stream.emsal.im/tv/live.m3u8
 #EXTINF:-1,AL QURAN AL KAREEM
 http://m.live.net.sa:1935/live/quran/playlist.m3u8
 #EXTINF:-1,AL SUNNAH AL NABAWIYAH
 http://m.live.net.sa:1935/live/sunnah/playlist.m3u8
 #EXTINF:-1,TRT MÜZİK
-https://live-01.tvjetapp.com/ch-64/live.m3u8
-#EXTINF:-1,KRAL TV
-http://abmmedya.com:8080/erhansardogan/6580103092/597
+https://tv-trtmuzik.medya.trt.com.tr/master.m3u8
 #EXTINF:-1,DREAM TURK
-http://79.124.14.198:8088/play/a0ij
-#EXTINF:-1,NUMBER1 TÜRK
-http://79.124.14.198:8088/play/a09u
-#EXTINF:-1,NUMBER1 TV
-http://79.124.14.198:8088/play/a09t
-#EXTINF:-1,TMB TV
-http://79.124.14.198:8088/play/a08l
+https://tv-trtmuzik.medya.trt.com.tr/master.m3u8
+#EXTINF:-1,FİLODİ
+https://umt02.videobulut.com/35/3811/hf5TdZAR9AKT/hf5TdZAR9AKT.mpd
 #EXTINF:-1,ARABESK TV
 http://yayin.santraltr.com/hls/arabeskyeni.m3u8
 #EXTINF:-1,POWER TV
@@ -410,9 +208,7 @@ https://sosyoapp-live.cdnnew.com/sosyo/buraya-bir-isim-verin.m3u8
 #EXTINF:-1,TATLISES TV
 http://waw2.artiyerelmedya.net/tatlisestv/bant1/playlist.m3u8
 #EXTINF:-1,EKİNTÜRK TV
-http://79.124.14.198:8088/play/a0j3
-#EXTINF:-1,360 TUNE BOX
-https://1795195508.rsc.cdn77.org/1795195508/tracks-v1a1/mono.m3u8
+https://59cba4d34b678.streamlock.net/filbox/ekintv.stream/playlist.m3u8
 #EXTINF:-1,TRACE URBAN
 https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1,FASHION TV
