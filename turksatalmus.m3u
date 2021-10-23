@@ -120,7 +120,7 @@ http://radio-live-mg.rtr-vesti.ru/hls/russia_24/playlist_2.m3u8
 #EXTINF:-1,YABAN TV
 https://59cba4d34b678.streamlock.net/live1/yabantv/playlist.m3u8
 #EXTINF:-1,HABİTAT TV
-http://yayin2.tvizlehd.com/habitattv.m3u8
+https://59c7ea6bec1c6.streamlock.net/filbox/habibattv.stream/playlist.m3u8
 #EXTINF:-1,TRT BELGESEL
 https://tv-trtbelgesel.live.trt.com.tr/master_720.m3u8
 #EXTINF:-1,DOCUMAX
@@ -205,6 +205,8 @@ http://livetv.powerapp.com.tr/powerTV/powerhd.smil/playist.m3u8
 http://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/playist.m3u8
 #EXTINF:-1,MİLYON TV
 https://sosyoapp-live.cdnnew.com/sosyo/buraya-bir-isim-verin.m3u8
+#EXTINF:-1,MÜZİK HABERCİSİ
+https://tv170.ozelip.com:1936/muzik/muzik/playlist.m3u8
 #EXTINF:-1,TATLISES TV
 http://waw2.artiyerelmedya.net/tatlisestv/bant1/playlist.m3u8
 #EXTINF:-1,EKİNTÜRK TV
