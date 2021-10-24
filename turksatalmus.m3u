@@ -124,7 +124,7 @@ https://59c7ea6bec1c6.streamlock.net/filbox/habibattv.stream/playlist.m3u8
 #EXTINF:-1,TRT BELGESEL
 https://tv-trtbelgesel.live.trt.com.tr/master_720.m3u8
 #EXTINF:-1,DOCUMAX
-https://umt02.videobulut.com/35/3811/hf5TdZAR9AKT/hf5TdZAR9AKT.mpd
+https://cdn.videobulut.com/35/3811/hf5TdZAR9AKT/hf5TdZAR9AKT.mpd
 #EXTINF:-1,RTG INT
 http://strm.yandex.ru/kal/rtg/rtg0_169_480p.json/index-v1-a1.m3u8
 #EXTINF:-1,CGTN DOCUMENTARY
@@ -168,7 +168,7 @@ https://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
 #EXTINF:-1,FB TV
 https://59c7ea6bec1c6.streamlock.net/filbox/fbtv.stream/playlist.m3u8
 #EXTINF:-1,GS TV
-http://owifavo5.rocketcdn.com/gstv/gstv.smil/chunklist_b2328000_sltur.m3u8
+https://owifavo5.rocketcdn.com/gstv/gstv.smil/chunklist_b2128000_sltur.m3u8
 #EXTINF:-1,TJK TV
 http://tjktv-live.tjk.org/tjktv.m3u8
 #EXTINF:-1,TRT ÇOCUK
