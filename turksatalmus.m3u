@@ -3,16 +3,34 @@
 http://yayin.basturkelektronik.com:1982/live/tokat-almus.stream/playlist.m3u8
 #EXTINF:-1,WARNER TV
 http://203.154.243.89:11205/
-#EXTINF:-1,KEMAL SUNAL TV
-http://145.239.37.125:20458/sabantv/sabantv/playlist.m3u8
-#EXTINF:-1,FİL TV
-https://umt02.videobulut.com/35/3811/6R34V8psE2T3/6R34V8psE2T3.mpd
-#EXTINF:-1,FİLM CLUB
-https://umt02.videobulut.com/35/3811/4f00V7XsCjsw/4f00V7XsCjsw.mpd
-#EXTINF:-1,FİLM CLUB AKSİYON
-https://umt02.videobulut.com/35/3811/5f9Xb7usdAs1/5f9Xb7usdAs1.mpd
-#EXTINF:-1,FİLM CLUB KOMEDİ
-https://umt02.videobulut.com/35/3811/3wV3C62sbusZ/3wV3C62sbusZ.mpd
+#EXTINF:-1,MOVIESMART PREMIUM
+http://91.236.251.50:8090/play/a01q
+#EXTINF:-1,MOVIESMART PREMIUM 2
+http://91.236.251.50:8090/play/a01r
+#EXTINF:-1,MOVIESMART CLASSIC
+http://91.236.251.50:8090/play/a02f
+#EXTINF:-1,MOVIESMART TÜRK
+http://91.236.251.50:8090/play/a02g
+#EXTINF:-1,SİNEMA TV
+http://91.236.251.50:8090/play/a01k
+#EXTINF:-1,SİNEMA 2
+http://91.236.251.50:8090/play/a01l
+#EXTINF:-1,SİNEMA AKSİYON
+http://91.236.251.50:8090/play/a01i
+#EXTINF:-1,SİNEMA AKSİYON 2
+http://91.236.251.50:8090/play/a011
+#EXTINF:-1,SİNEMA KOMEDİ
+http://91.236.251.50:8090/play/a014
+#EXTINF:-1,SİNEMA KOMEDİ 2
+http://91.236.251.50:8090/play/a015
+#EXTINF:-1,SİNEMA AİLE
+http://91.236.251.50:8090/play/a012
+#EXTINF:-1,SİNEMA AİLE 2
+http://91.236.251.50:8090/play/a013
+#EXTINF:-1,SİNEMA 1001
+http://91.236.251.50:8090/play/a016
+#EXTINF:-1,SİNEMA 1002
+http://91.236.251.50:8090/play/a017
 #EXTINF:-1,TRT 1
 https://59c7ea6bec1c6.streamlock.net/filbox/trt1.stream/playlist.m3u8
 #EXTINF:-1,ATV
@@ -43,6 +61,10 @@ https://59c7ea6bec1c6.streamlock.net/filbox/dmax.stream/playlist.m3u8
 https://59c7ea6bec1c6.streamlock.net/filbox/tv100.stream/playlist.m3u8
 #EXTINF:-1,UCANKUS TV
 https://ucankus-live.cdnnew.com/ucankus/ucankus.m3u8
+#EXTINF:-1,ULUSAL KANAL
+https://www.guventechnology.com:19360/UlusalTV/UlusalTV.m3u8
+#EXTINF:-1,TİVİ6
+https://waw1.artiyerelmedya.net/tivi6/bant1/playlist.m3u8
 #EXTINF:-1,TV8.5
 https://59cba4d34b678.streamlock.net/filbox/tv8-5.stream/playlist.m3u8
 #EXTINF:-1,BİZİMEV TV
@@ -51,12 +73,14 @@ http://mn-nl.mncdn.com/blutv_bizimev/bizimev_sd.smil/playlist.m3u8
 http://212.174.58.161/hls-live/livepkgr/_definst_/liveevent/kanalb.m3u8
 #EXTINF:-1,GENÇ TV (KIBRIS)
 http://kuzeykibris.tv/m3u8/tv_genc.m3u8
-#EXTINF:-1,TELEON TV
-https://streaming.netdirekt.com.tr/35757/msyapi/teleontv_hd/playlist.m3u8
-#EXTINF:-1,ÜNİVERSİTE TV
-https://5be5d840359c6.streamlock.net/unitv/unitv/chunklist.m3u8
 #EXTINF:-1,VAV TV
 https://59c7ea6bec1c6.streamlock.net/filbox/vavtv.stream/playlist.m3u8
+#EXTINF:-1,ÜNİVERSİTE TV
+https://5be5d840359c6.streamlock.net/unitv/unitv/chunklist.m3u8
+#EXTINF:-1,FLASH TV
+https://www.guventechnology.com:19360/flashtv/flashtv.m3u8
+#EXTINF:-1,TV 4
+https://turkmedya-live.ercdn.net/tv4/tv4.m3u8
 #EXTINF:-1,BENGÜTÜRK
 https://59c7ea6bec1c6.streamlock.net/filbox/benguturk.stream/playlist.m3u8
 #EXTINF:-1,TRT 2
@@ -103,6 +127,8 @@ http://live-hls-web-aja.getaj.net/AJA/05.m3u8
 http://live-hls-web-aje.getaj.net/AJE/index.m3u8
 #EXTINF:-1,AL ARABY
 https://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/playlist.m3u8
+#EXTINF:-1,SYRIA TV
+https://svs.itworkscdn.net/syriatvlive/syriatv.smil/syriatv_chunks.m3u8
 #EXTINF:-1,TRT ARABİ
 https://tv-trtarabi.live.trt.com.tr/master_720.m3u8
 #EXTINF:-1,DW-TV (ENGLISH)
@@ -123,17 +149,39 @@ https://59cba4d34b678.streamlock.net/live1/yabantv/playlist.m3u8
 https://59c7ea6bec1c6.streamlock.net/filbox/habibattv.stream/playlist.m3u8
 #EXTINF:-1,TRT BELGESEL
 https://tv-trtbelgesel.live.trt.com.tr/master_720.m3u8
-#EXTINF:-1,DOCUMAX
-https://cdn.videobulut.com/35/3811/hf5TdZAR9AKT/hf5TdZAR9AKT.mpd
+#EXTINF:-1,NATIONAL GEOGRAPHIC
+http://91.236.251.50:8090/play/a01b
+#EXTINF:-1,NAT GEO WILD
+http://91.236.251.50:8090/play/a01f
+#EXTINF:-1,DISCOVERY CHANNEL
+http://91.236.251.50:8090/play/a02a
+#EXTINF:-1,DISCOVERY SCIENCE
+http://91.236.251.50:8090/play/a02i
+#EXTINF:-1,ID
+http://195.142.153.122:7777/play/a08c
+#EXTINF:-1,HISTORY CHANNEL
+http://91.236.251.50:8090/play/a01m
+#EXTINF:-1,VIASAT HISTORY
+http://91.236.251.50:8090/play/a01x
+#EXTINF:-1,DOCUBOX
+http://91.236.251.50:8090/play/a01u
+#EXTINF:-1,BBC EARTH
+http://91.236.251.50:8090/play/a00r
 #EXTINF:-1,RTG INT
-http://strm.yandex.ru/kal/rtg/rtg0_169_480p.json/index-v1-a1.m3u8
+http://195.142.153.122:7777/play/a099
 #EXTINF:-1,CGTN DOCUMENTARY
 http://livedoc.cgtn.com/1000d/prog_index.m3u8
+#EXTINF:-1,CHASSE & PECHE
+http://195.142.153.122:7777/play/a07l
 #EXTINF:-1,AZ TV
 https://59c7ea6bec1c6.streamlock.net/filbox/aztv.stream/playlist.m3u8
+#EXTINF:-1,TÜRKMENELİ TV
+https://137840.global.ssl.fastly.net/edge/live_6b7c6e205afb11ebb010f5a331abaf98/tracks-v1a1/playlist.m3u8
 #EXTINF:-1,TV5MONDE
 http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877-b/v3plusinfo247hls/v3plusinfo247hls_1_1.m3u8
-#EXTINF:-1,SAUDI 1
+#EXTINF:-1,CCTV 4
+https://cctvcnch5ca.v.wscdns.com/live/cctveurope_2/index.m3u8
+#EXTINF:-1,SAUDI TV
 http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_tv/hls1/saudi_tv.m3u8
 #EXTINF:-1,QAZAQ TV
 http://kazakhtv.ultraiptv.com/kazakhtv/playlist.m3u8
@@ -155,10 +203,28 @@ https://tv-trtspor1.medya.trt.com.tr/master.m3u8
 https://59c7ea6bec1c6.streamlock.net/filbox/beinsporthaber.stream/playlist.m3u8
 #EXTINF:-1,A SPOR
 https://59c7ea6bec1c6.streamlock.net/filbox/aspor.stream/playlist.m3u8
+#EXTINF:-1,EUROSPORT 1
+http://91.236.251.50:8090/play/a00m
+#EXTINF:-1,EUROSPORT 2
+http://91.236.251.50:8090/play/a00n
 #EXTINF:-1,TRACE SPORT STARS
 https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1,FIGHTBOX
+http://91.236.251.50:8090/play/a01w
+#EXTINF:-1,FAST & FUNBOX
+http://91.236.251.50:8090/play/a01t
 #EXTINF:-1,beIN SPORTS 1
 https://cidden.garip.xyz/72fe9bb58e02e669273c902c1f48f501/601/playlist.m3u8
+#EXTINF:-1,SPORSMART
+http://91.236.251.50:8090/play/a02c
+#EXTINF:-1,SPORSMART 2
+http://91.236.251.50:8090/play/a00s
+#EXTINF:-1,S SPORT
+http://91.236.251.50:8090/play/a02d
+#EXTINF:-1,S SPORT2
+http://91.236.251.50:8090/play/a02b
+#EXTINF:-1,NBA TV
+http://91.236.251.50:8090/play/a00o
 #EXTINF:-1,EDGE SPORT
 http://dai.google.com/linear/hls/event/d4zeSI-dTuqizFrByjs3OA/master.m3u8
 #EXTINF:-1,TRT SPOR YILDIZ
@@ -171,6 +237,10 @@ https://59c7ea6bec1c6.streamlock.net/filbox/fbtv.stream/playlist.m3u8
 https://owifavo5.rocketcdn.com/gstv/gstv.smil/chunklist_b2128000_sltur.m3u8
 #EXTINF:-1,TJK TV
 http://tjktv-live.tjk.org/tjktv.m3u8
+#EXTINF:-1,DİZİSMART PREMIUM
+http://91.236.251.50:8090/play/a02e
+#EXTINF:-1,DİZİSMART MAX
+http://91.236.251.50:8090/play/a02j
 #EXTINF:-1,TRT ÇOCUK
 https://tv-trtcocuk.live.trt.com.tr/master_720.m3u8
 #EXTINF:-1,DUCK TV
