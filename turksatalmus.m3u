@@ -32,45 +32,45 @@ http://91.236.251.50:8090/play/a016
 #EXTINF:-1,SİNEMA 1002
 http://91.236.251.50:8090/play/a017
 #EXTINF:-1,TRT 1
-https://59c7ea6bec1c6.streamlock.net/filbox/trt1.stream/playlist.m3u8
+http://tv-trt1.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1,ATV
-https://59c7ea6bec1c6.streamlock.net/filbox/atv.stream/playlist.m3u8
+http://91.236.251.50:8090/play/a00a
 #EXTINF:-1,SHOW TV
-https://59c7ea6bec1c6.streamlock.net/filbox/showtv.stream/playlist.m3u8
+http://91.236.251.50:8090/play/a00e
 #EXTINF:-1,KANAL D
-https://59c7ea6bec1c6.streamlock.net/filbox/kanald.stream/playlist.m3u8
+http://91.236.251.50:8090/play/a00j
 #EXTINF:-1,STAR TV
-https://59c7ea6bec1c6.streamlock.net/filbox/startv.stream/playlist.m3u8
+http://91.236.251.50:8090/play/a002
 #EXTINF:-1,KANAL 7
-https://live.kanal7.com/live/kanal7LiveDesktop/index.m3u8
+http://91.236.251.50:8090/play/a01z
 #EXTINF:-1,FOX TV
-https://59c7ea6bec1c6.streamlock.net/filbox/foxtv.stream/playlist.m3u8
+http://91.236.251.50:8090/play/a00w
 #EXTINF:-1,TV8
-https://59c7ea6bec1c6.streamlock.net/filbox/tv8.stream/playlist.m3u8
+http://91.236.251.50:8090/play/a00y
 #EXTINF:-1,BEYAZ TV
-https://59c7ea6bec1c6.streamlock.net/filbox/beyaztv.stream/playlist.m3u8
+http://tv.ensonhaber.com/tv/tr/beyaztv/index.m3u8
 #EXTINF:-1,SHOW MAX
 http://iptvmasterlink.dyndns.org:8080/ShowMax/playlist.m3u8
 #EXTINF:-1,TEVE2
-https://59c7ea6bec1c6.streamlock.net/filbox/teve2.stream/playlist.m3u8
+http://91.236.251.50:8090/play/a00l
 #EXTINF:-1,360 TV
-https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
+http://turkmedya-live.ercdn.net/tv360/tv360.m3u8
 #EXTINF:-1,TLC
-https://59c7ea6bec1c6.streamlock.net/filbox/tlc.stream/playlist.m3u8
+http://91.236.251.50:8090/play/a005
 #EXTINF:-1,DMAX
-https://59c7ea6bec1c6.streamlock.net/filbox/dmax.stream/playlist.m3u8
+http://91.236.251.50:8090/play/a004
 #EXTINF:-1,KON TV
 http://212.175.65.101:8001/hls/kontv.m3u8
 #EXTINF:-1,TV 100
 https://59c7ea6bec1c6.streamlock.net/filbox/tv100.stream/playlist.m3u8
 #EXTINF:-1,UCANKUS TV
-https://ucankus-live.cdnnew.com/ucankus/ucankus.m3u8
+http://ucankus-live.cdnnew.com/ucankus/ucankus.m3u8
 #EXTINF:-1,ULUSAL KANAL
-https://www.guventechnology.com:19360/UlusalTV/UlusalTV.m3u8
+http://www.guventechnology.com:19360/UlusalTV/UlusalTV.m3u8
 #EXTINF:-1,TİVİ6
-https://waw1.artiyerelmedya.net/tivi6/bant1/playlist.m3u8
+http://waw1.artiyerelmedya.net/tivi6/bant1/playlist.m3u8
 #EXTINF:-1,TV8.5
-https://59cba4d34b678.streamlock.net/filbox/tv8-5.stream/playlist.m3u8
+http://91.236.251.50:8090/play/a00z
 #EXTINF:-1,BİZİMEV TV
 http://mn-nl.mncdn.com/blutv_bizimev/bizimev_sd.smil/playlist.m3u8
 #EXTINF:-1,KANAL B
@@ -82,29 +82,29 @@ https://59c7ea6bec1c6.streamlock.net/filbox/vavtv.stream/playlist.m3u8
 #EXTINF:-1,ÜNİVERSİTE TV
 https://5be5d840359c6.streamlock.net/unitv/unitv/chunklist.m3u8
 #EXTINF:-1,FLASH TV
-https://www.guventechnology.com:19360/flashtv/flashtv.m3u8
+http://www.guventechnology.com:19360/flashtv/flashtv.m3u8
 #EXTINF:-1,TV 4
-https://turkmedya-live.ercdn.net/tv4/tv4.m3u8
+http://turkmedya-live.ercdn.net/tv4/tv4.m3u8
 #EXTINF:-1,BENGÜTÜRK
-https://59c7ea6bec1c6.streamlock.net/filbox/benguturk.stream/playlist.m3u8
+http://tv.ensonhaber.com/tv/tr/benguturk/index.m3u8
 #EXTINF:-1,TRT 2
 http://tv-trt2.live.trt.com.tr/master_720.m3u8
 #EXTINF:-1,TRT HABER
-https://tv-trthaber.live.trt.com.tr/master_720.m3u8
+http://tv-trthaber.live.trt.com.tr/master_720.m3u8
 #EXTINF:-1,A HABER
-https://59c7ea6bec1c6.streamlock.net/filbox/ahaber.stream/playlist.m3u8
+http://91.236.251.50:8090/play/a00b
 #EXTINF:-1,NTV
-https://59c7ea6bec1c6.streamlock.net/filbox/ntv.stream/playlist.m3u8
+http://91.236.251.50:8090/play/a003
 #EXTINF:-1,CNN TÜRK
-https://59c7ea6bec1c6.streamlock.net/filbox/cnnturk.stream/playlist.m3u8
+http://91.236.251.50:8090/play/a00k
 #EXTINF:-1,24 TV
-https://turkmedya-live.ercdn.net/tv24/tv24.m3u8
+http://turkmedya-live.ercdn.net/tv24/tv24.m3u8
 #EXTINF:-1,TGRT HABER
-https://59c7ea6bec1c6.streamlock.net/filbox/tgrthaber.stream/playlist.m3u8
+http://tv.ensonhaber.com/tv/tr/tgrthaber/index.m3u8
 #EXTINF:-1,HABERTÜRK
-https://59c7ea6bec1c6.streamlock.net/filbox/haberturk.stream/playlist.m3u8
+http://91.236.251.50:8090/play/a00f
 #EXTINF:-1,BLOOMBERG HT
-https://tv.ensonhaber.com/tv/tr/bloomberght/index.m3u8
+http://tv.ensonhaber.com/tv/tr/bloomberght/index.m3u8
 #EXTINF:-1,TVNET
 https://mn-nl.mncdn.com/tvnet/tvnet/playlist.m3u8
 #EXTINF:-1,AKİT TV
@@ -112,49 +112,19 @@ http://akittv-live.ercdn.net/akittv/akittv.m3u8
 #EXTINF:-1,BRT 1
 http://kuzeykibris.tv/m3u8/tv_brt1.m3u8
 #EXTINF:-1,TV EM
-https://cdn-tvem.yayin.com.tr/TVEM/TVEM/playlist.m3u8
+http://cdn-tvem.yayin.com.tr/TVEM/TVEM/playlist.m3u8
 #EXTINF:-1,TRT TÜRK
-https://tv-trtturk.live.trt.com.tr/master_720.m3u8
+http://tv-trtturk.live.trt.com.tr/master_720.m3u8
 #EXTINF:-1,TRT AVAZ
-https://tv-trtavaz.medya.trt.com.tr/master.m3u8
+http://tv-trtavaz.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1,HABER GLOBAL
-https://59c7ea6bec1c6.streamlock.net/filbox/haberglobal.stream/playlist.m3u8
-#EXTINF:-1,A PARA
-http://195.142.153.122:7777/play/a083
-#EXTINF:-1,HALK TV
-https://59c7ea6bec1c6.streamlock.net/filbox/halktv.stream/playlist.m3u8
-#EXTINF:-1,TRT WORLD
-https://tv-trtworld.live.trt.com.tr/master_720.m3u8
-#EXTINF:-1,BLOOMBERG TV
-http://www.bloomberg.com/media-manifest/streams/eu.m3u8
-#EXTINF:-1,ALJAZEERA ARABIC
-http://live-hls-web-aja.getaj.net/AJA/05.m3u8
-#EXTINF:-1,ALJAZEERA ENGLISH
-http://live-hls-web-aje.getaj.net/AJE/index.m3u8
-#EXTINF:-1,AL ARABY
-https://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/playlist.m3u8
-#EXTINF:-1,SYRIA TV
-https://svs.itworkscdn.net/syriatvlive/syriatv.smil/syriatv_chunks.m3u8
-#EXTINF:-1,TRT ARABİ
-https://tv-trtarabi.live.trt.com.tr/master_720.m3u8
-#EXTINF:-1,DW-TV (ENGLISH)
-https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream03/streamPlaylist.m3u8
-#EXTINF:-1,DW-TV (GERMAN)
-https://dwamdstream106.akamaized.net/hls/live/2017965/dwstream106/stream03/streamPlaylist.m3u8
-#EXTINF:-1,FRANCE 24 ENGLISH
-http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
-#EXTINF:-1,FRANCE 24 FRANÇAİS
-http://static.france24.com/live/F24_FR_LO_HLS/live_web.m3u8
-#EXTINF:-1,CGTN
-http://live.cgtn.com/1000/prog_index.m3u8
-#EXTINF:-1,RUSSIA 24
-http://radio-live-mg.rtr-vesti.ru/hls/russia_24/playlist_2.m3u8
+http://tv.ensonhaber.com/tv/tr/haberglobal/index.m3u8
 #EXTINF:-1,YABAN TV
 https://59cba4d34b678.streamlock.net/live1/yabantv/playlist.m3u8
 #EXTINF:-1,HABİTAT TV
-https://59c7ea6bec1c6.streamlock.net/filbox/habibattv.stream/playlist.m3u8
+http://91.236.251.50:8090/play/a01j
 #EXTINF:-1,TRT BELGESEL
-https://tv-trtbelgesel.live.trt.com.tr/master_720.m3u8
+http://tv-trtbelgesel.live.trt.com.tr/master_720.m3u8
 #EXTINF:-1,NATIONAL GEOGRAPHIC
 http://91.236.251.50:8090/play/a01b
 #EXTINF:-1,NAT GEO WILD
@@ -174,45 +144,23 @@ http://91.236.251.50:8090/play/a00r
 #EXTINF:-1,LOVE NATURE
 http://91.236.251.50:8090/play/a00q
 #EXTINF:-1,RTG INT
-https://strm.yandex.ru/kal/rtg/rtg0_169_480p.json/index-v1-a1.m3u8
+http://strm.yandex.ru/kal/rtg/rtg0_169_480p.json/index-v1-a1.m3u8
 #EXTINF:-1,CGTN DOCUMENTARY
 http://livedoc.cgtn.com/1000d/prog_index.m3u8
-#EXTINF:-1,AZ TV
-https://59c7ea6bec1c6.streamlock.net/filbox/aztv.stream/playlist.m3u8
-#EXTINF:-1,TÜRKMENELİ TV
-https://137840.global.ssl.fastly.net/edge/live_6b7c6e205afb11ebb010f5a331abaf98/tracks-v1a1/playlist.m3u8
-#EXTINF:-1,TV5MONDE
-http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877-b/v3plusinfo247hls/v3plusinfo247hls_1_1.m3u8
-#EXTINF:-1,CCTV 4
-https://cctvcnch5ca.v.wscdns.com/live/cctveurope_2/index.m3u8
-#EXTINF:-1,SAUDI TV
-http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_tv/hls1/saudi_tv.m3u8
-#EXTINF:-1,QAZAQ TV
-http://kazakhtv.ultraiptv.com/kazakhtv/playlist.m3u8
-#EXTINF:-1,RTR PLANETA
-http://cdnmg.secure.live.rtr-vesti.ru/live/smil:rtrp.smil/playlist.m3u8
-#EXTINF:-1,KBS WORLD
-http://livecdn.fptplay.net/sdb/kbs_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1,NHK WORLD-JPN
-http://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u8
-#EXTINF:-1,ARIRANG
-http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
-#EXTINF:-1,UA TV
-http://ua-tv-hls2.cosmonova.net.ua/hls/ua-tv_ua_mid/index.m3u8
-#EXTINF:-1,TRSPOR
+#EXTINF:-1,SPOR LİG TV
 http://37.221.122.86:8383/trspor.ts
 #EXTINF:-1,TRT SPOR
-https://tv-trtspor1.medya.trt.com.tr/master.m3u8
+http://tv-trtspor1.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1,beIN SPORTS HABER
-https://59c7ea6bec1c6.streamlock.net/filbox/beinsporthaber.stream/playlist.m3u8
+http://91.236.251.50:8090/play/a026
 #EXTINF:-1,A SPOR
-https://59c7ea6bec1c6.streamlock.net/filbox/aspor.stream/playlist.m3u8
+http://91.236.251.50:8090/play/a00c
 #EXTINF:-1,EUROSPORT 1
 http://91.236.251.50:8090/play/a00m
 #EXTINF:-1,EUROSPORT 2
 http://91.236.251.50:8090/play/a00n
 #EXTINF:-1,TRACE SPORT STARS
-https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
+http://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1,FIGHTBOX
 http://91.236.251.50:8090/play/a01w
 #EXTINF:-1,FAST & FUNBOX
@@ -230,13 +178,13 @@ http://91.236.251.50:8090/play/a00o
 #EXTINF:-1,EDGE SPORT
 http://dai.google.com/linear/hls/event/d4zeSI-dTuqizFrByjs3OA/master.m3u8
 #EXTINF:-1,TRT SPOR YILDIZ
-https://tv-trtspor2.live.trt.com.tr/master_720.m3u8
+http://tv-trtspor2.live.trt.com.tr/master_720.m3u8
 #EXTINF:-1,SPORTS TV
-https://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
+http://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
 #EXTINF:-1,FB TV
 https://59c7ea6bec1c6.streamlock.net/filbox/fbtv.stream/playlist.m3u8
 #EXTINF:-1,GS TV
-https://owifavo5.rocketcdn.com/gstv/gstv.smil/chunklist_b2128000_sltur.m3u8
+http://owifavo5.rocketcdn.com/gstv/gstv.smil/chunklist_b2128000_sltur.m3u8
 #EXTINF:-1,TJK TV
 http://tjktv-live.tjk.org/tjktv.m3u8
 #EXTINF:-1,DİZİSMART PREMIUM
@@ -254,7 +202,7 @@ http://91.236.251.50:8090/play/a01e
 #EXTINF:-1,ÇOCUKSMART
 http://91.236.251.50:8090/play/a00p
 #EXTINF:-1,TRT ÇOCUK
-https://tv-trtcocuk.live.trt.com.tr/master_720.m3u8
+http://tv-trtcocuk.live.trt.com.tr/master_720.m3u8
 #EXTINF:-1,minikaCOCUK
 http://91.236.251.50:8090/play/a008
 #EXTINF:-1,minikaGO
@@ -276,9 +224,9 @@ https://tv-e-okul01.live.trt.com.tr/master_720.m3u8
 #EXTINF:-1,TRT EBA TV LİSE
 https://tv-e-okul02.live.trt.com.tr/master_720.m3u8
 #EXTINF:-1,DİYANET TV
-https://eustr73.mediatriple.net/videoonlylive/mtikoimxnztxlive/broadcast_5e3bf95a47e07.smil/playlist.m3u8
+http://eustr73.mediatriple.net/videoonlylive/mtikoimxnztxlive/broadcast_5e3bf95a47e07.smil/playlist.m3u8
 #EXTINF:-1,SEMERKAND TV
-https://b01c02nl.mediatriple.net/videoonlylive/mtisvwurbfcyslive/broadcast_58d915bd40efc.smil/playist.m3u8
+http://b01c02nl.mediatriple.net/videoonlylive/mtisvwurbfcyslive/broadcast_58d915bd40efc.smil/playist.m3u8
 #EXTINF:-1,DOST TV
 https://dost.stream.emsal.im/tv/live.m3u8
 #EXTINF:-1,AL QURAN AL KAREEM
@@ -286,13 +234,11 @@ http://m.live.net.sa:1935/live/quran/playlist.m3u8
 #EXTINF:-1,AL SUNNAH AL NABAWIYAH
 http://m.live.net.sa:1935/live/sunnah/playlist.m3u8
 #EXTINF:-1,TRT MÜZİK
-https://tv-trtmuzik.medya.trt.com.tr/master.m3u8
+http://tv-trtmuzik.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1,KRAL TV
-https://dogus-live.daioncdn.net/kraltv/playlist.m3u8
+http://dogus-live.daioncdn.net/kraltv/playlist.m3u8
 #EXTINF:-1,KRAL POP TV
-https://dogus-live.daioncdn.net/kralpoptv/playlist.m3u8
-#EXTINF:-1,ARABESK TV
-http://yayin.santraltr.com/hls/arabeskyeni.m3u8
+http://dogus-live.daioncdn.net/kralpoptv/playlist.m3u8
 #EXTINF:-1,POWER TV
 http://livetv.powerapp.com.tr/powerTV/powerhd.smil/playist.m3u8
 #EXTINF:-1,POWERTÜRK TV
@@ -304,7 +250,7 @@ https://tv170.ozelip.com:1936/muzik/muzik/playlist.m3u8
 #EXTINF:-1,TATLISES TV
 http://waw2.artiyerelmedya.net/tatlisestv/bant1/playlist.m3u8
 #EXTINF:-1,EKİNTÜRK TV
-https://59cba4d34b678.streamlock.net/filbox/ekintv.stream/playlist.m3u8
+http://59cba4d34b678.streamlock.net/filbox/ekintv.stream/playlist.m3u8
 #EXTINF:-1,TRACE URBAN
 https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1,FASHION TV
