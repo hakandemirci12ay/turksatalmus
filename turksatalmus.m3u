@@ -197,8 +197,10 @@ http://91.236.251.50:8090/play/a01c
 http://91.236.251.50:8090/play/a01a
 #EXTINF:-1,FILMBOX
 http://91.236.251.50:8090/play/a02k
-#EXTINF:-1,24 KITCHEN HD
+#EXTINF:-1,24KITCHEN
 http://91.236.251.50:8090/play/a01e
+#EXTINF:-1,MYZEN TV
+http://84.84.196.164:9999/play/a082
 #EXTINF:-1,ÇOCUKSMART
 http://91.236.251.50:8090/play/a00p
 #EXTINF:-1,TRT ÇOCUK
@@ -259,3 +261,11 @@ http://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_pg13_zw9_27065_ftv_pg
 https://dai.google.com/linear/hls/event/KAfBFcVrQgKmHhpzvkEn9A/master.m3u8
 #EXTINF:-1,MCM TOP
 http://live-1.otcnet.ru:80/mcm/index.m3u8
+#EXTINF:-1,MEZZO
+http://84.84.196.164:9999/play/a074
+#EXTINF:-1,MTV 00S
+http://201.111.77.24:8000/play/a05l/index.m3u8
+#EXTINF:-1,MTV LIVE
+http://84.84.196.164:9999/play/a00i
+#EXTINF:-1,MTV HITS
+http://194.76.186.39:8000/play/a062/index.m3u8
