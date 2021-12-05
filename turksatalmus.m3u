@@ -105,6 +105,8 @@ http://tv.ensonhaber.com/tv/tr/tgrthaber/index.m3u8
 http://91.236.251.50:8090/play/a00f
 #EXTINF:-1,BLOOMBERG HT
 http://tv.ensonhaber.com/tv/tr/bloomberght/index.m3u8
+#EXTINF:-1,ÜLKE TV
+http://iptvmasterlink.dyndns.org:8080/UlkeTv/playlist.m3u8
 #EXTINF:-1,TVNET
 https://mn-nl.mncdn.com/tvnet/tvnet/playlist.m3u8
 #EXTINF:-1,AKİT TV
@@ -117,8 +119,30 @@ http://cdn-tvem.yayin.com.tr/TVEM/TVEM/playlist.m3u8
 http://tv-trtturk.live.trt.com.tr/master_720.m3u8
 #EXTINF:-1,TRT AVAZ
 http://tv-trtavaz.medya.trt.com.tr/master_720.m3u8
+#EXTINF:-1,TRT 3 - TBMM TV
+https://meclistv-live.ercdn.net/meclistv/meclistv_720p.m3u8
+#EXTINF:-1,TRT KURDİ
+http://tv-trtkurdi.live.trt.com.tr/master_720.m3u8
 #EXTINF:-1,HABER GLOBAL
 http://tv.ensonhaber.com/tv/tr/haberglobal/index.m3u8
+#EXTINF:-1,BBN TÜRK
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCPXVKAhsqf1Fgv96HdpWYJA/live
+#EXTINF:-1,A PARA
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCzrGg6iyRDuUSnO0cQ5oLcA/live
+#EXTINF:-1,EKOTÜRK
+http://mn-nl.mncdn.com/blutv_ekoturk2/live_720p2000000kbps/index.m3u8
+#EXTINF:-1,TELE1
+http://mn-nl.mncdn.com/blutv_tele1_dvr/live_720p2000000/index.m3u8
+#EXTINF:-1,HALK TV
+http://halktv-live.ercdn.net/halktv/halktv_1080p.m3u8
+#EXTINF:-1,KRT TV
+http://mn-nl.mncdn.com/blutv_krt/live.m3u8
+#EXTINF:-1,CNN INTERNATIONAL
+https://cnn-cnninternational-1-eu.rakuten.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1,BBC WORLD NEWS
+http://84.22.33.214/bbc/index.m3u8
+#EXTINF:-1,BLOOMBERG TV
+https://bloomberg-bloombergtv-1-it.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1,YABAN TV
 https://59cba4d34b678.streamlock.net/live1/yabantv/playlist.m3u8
 #EXTINF:-1,HABİTAT TV
