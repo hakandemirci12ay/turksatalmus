@@ -299,12 +299,18 @@ https://sosyoapp-live.cdnnew.com/sosyo/buraya-bir-isim-verin.m3u8
 https://tv170.ozelip.com:1936/muzik/muzik/playlist.m3u8
 #EXTINF:-1,TATLISES TV
 http://waw2.artiyerelmedya.net/tatlisestv/bant1/playlist.m3u8
+#EXTINF:-1,EKİNTÜRK TV
+http://59cba4d34b678.streamlock.net/filbox/ekintv.stream/playlist.m3u8
+#EXTINF:-1,ANADOLU DERNEK TV
+https://ankara.tvizlehd.com/live/anadolutv.m3u8
+#EXTINF:-1,YILDIZ EN
+https://ankara.tvizlehd.com/live/yildiztv.m3u8
+#EXTINF:-1,VATAN
+https://livesx.canlitv.center/vatantv.m3u8
 #EXTINF:-1,MTV LIVE
 http://84.84.196.164:9999/play/a00i
 #EXTINF:-1,MTV HITS
 http://194.76.186.39:8000/play/a062/index.m3u8
-#EXTINF:-1,EKİNTÜRK TV
-http://59cba4d34b678.streamlock.net/filbox/ekintv.stream/playlist.m3u8
 #EXTINF:-1,TRACE URBAN
 https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1,FASHION TV
