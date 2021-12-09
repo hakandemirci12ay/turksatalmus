@@ -53,6 +53,8 @@ http://91.236.251.50:8090/play/a00y
 http://tv.ensonhaber.com/tv/tr/beyaztv/index.m3u8
 #EXTINF:-1,SHOW MAX
 http://iptvmasterlink.dyndns.org:8080/ShowMax/playlist.m3u8
+#EXTINF:-1,A2
+http://84.22.33.214/A2/index.m3u8
 #EXTINF:-1,TEVE2
 http://91.236.251.50:8090/play/a00l
 #EXTINF:-1,360 TV
