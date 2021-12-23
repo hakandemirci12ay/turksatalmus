@@ -5,22 +5,14 @@ http://yayin.basturkelektronik.com:1982/live/tokat-almus.stream/playlist.m3u8
 http://203.154.243.89:11205/
 #EXTINF:-1,KEMAL SUNAL TV
 https://vizyontv.yayin.com.tr/kemal-sunal-tv/kemal-sunal-tv/chunklist_w1839200918.m3u8
-#EXTINF:-1,MOVIESMART PREMIUM
-http://91.236.251.50:8090/play/a01q
-#EXTINF:-1,MOVIESMART PREMIUM 2
-http://91.236.251.50:8090/play/a01r
-#EXTINF:-1,MOVIESMART CLASSIC
-http://91.236.251.50:8090/play/a02f
-#EXTINF:-1,MOVIESMART TÜRK
-http://91.236.251.50:8090/play/a02g
 #EXTINF:-1,SİNEMA TV
-http://91.236.251.50:8090/play/a01k
+http://103.194.169.171:8282/TR_SINEMA_HD/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
 #EXTINF:-1,SİNEMA 2
-http://91.236.251.50:8090/play/a01l
+http://103.194.169.171:8282/TR_SINEMA2_HD/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
 #EXTINF:-1,SİNEMA AKSİYON
 http://91.236.251.50:8090/play/a01i
 #EXTINF:-1,SİNEMA AKSİYON 2
-http://91.236.251.50:8090/play/a011
+http://103.194.169.171:8282/TR_SINEMA_AKSIYON2_HD/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
 #EXTINF:-1,SİNEMA KOMEDİ
 http://91.236.251.50:8090/play/a014
 #EXTINF:-1,SİNEMA KOMEDİ 2
@@ -162,13 +154,13 @@ http://live.cgtn.com/1000/prog_index.m3u8
 #EXTINF:-1,YABAN TV
 https://59cba4d34b678.streamlock.net/live1/yabantv/playlist.m3u8
 #EXTINF:-1,HABİTAT TV
-http://91.236.251.50:8090/play/a01j
+http://103.194.169.171:8282/TR_HABITAT_TV_HD/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
 #EXTINF:-1,TRT BELGESEL
 http://tv-trtbelgesel.live.trt.com.tr/master_720.m3u8
 #EXTINF:-1,NATIONAL GEOGRAPHIC
-http://91.236.251.50:8090/play/a01b
+http://103.194.169.171:8282/TR:_National_Geographic_FHD/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
 #EXTINF:-1,NAT GEO WILD
-http://91.236.251.50:8090/play/a01f
+http://103.194.169.171:8282/TR:_Nat_Geo_Wild_FHD/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
 #EXTINF:-1,DISCOVERY CHANNEL
 http://91.236.251.50:8090/play/a02a
 #EXTINF:-1,DISCOVERY SCIENCE
