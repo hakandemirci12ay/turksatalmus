@@ -32,7 +32,7 @@ https://trkvz-live.daioncdn.net/atv/atv_720p.m3u8
 #EXTINF:-1,SHOW TV
 https://tv.ensonhaber.com/tv/tr/showtv/index.m3u8
 #EXTINF:-1,KANAL D
-https://kdlive.duhnet.tv/S2/HLS_LIVE/kanaldnp/track_4_1000/playlist.m3u8
+http://93.157.62.180/KanalD/index.m3u8
 #EXTINF:-1,STAR TV
 https://dogus-live.daioncdn.net/startv/playlist.m3u8
 #EXTINF:-1,KANAL 7
@@ -74,11 +74,11 @@ http://212.174.58.161/hls-live/livepkgr/_definst_/liveevent/kanalb.m3u8
 #EXTINF:-1,GENÇ TV (KIBRIS)
 http://kuzeykibris.tv/m3u8/tv_genc.m3u8
 #EXTINF:-1,VAV TV
-https://mn-nl.mncdn.com/blutv_tv8_52/live.m3u8
+https://ankara.tvizlehd.com/live/vavtv.m3u8
 #EXTINF:-1,ÜNİVERSİTE TV
 https://5be5d840359c6.streamlock.net/unitv/unitv/chunklist.m3u8
 #EXTINF:-1,FLASH TV
-https://www.guventechnology.com:19360/flashtv2/flashtv2.m3u8
+https://mn-nl.mncdn.com/blutv_flashtv/live_720p2000000kbps/index.m3u8
 #EXTINF:-1,TV 4
 http://turkmedya-live.ercdn.net/tv4/tv4.m3u8
 #EXTINF:-1,BENGÜTÜRK
@@ -123,6 +123,8 @@ http://tv-trtkurdi.live.trt.com.tr/master_720.m3u8
 http://tv.ensonhaber.com/tv/tr/haberglobal/index.m3u8
 #EXTINF:-1,BBN TÜRK
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCPXVKAhsqf1Fgv96HdpWYJA/live
+#EXTINF:-1,KRT TV
+http://mn-nl.mncdn.com/blutv_krt/live.m3u8
 #EXTINF:-1,A PARA
 https://livesx.canlitv.center/apara2.m3u8
 #EXTINF:-1,EKOTÜRK
@@ -131,8 +133,6 @@ http://mn-nl.mncdn.com/blutv_ekoturk2/live_720p2000000kbps/index.m3u8
 http://mn-nl.mncdn.com/blutv_tele1_dvr/live_720p2000000/index.m3u8
 #EXTINF:-1,HALK TV
 http://halktv-live.ercdn.net/halktv/halktv_1080p.m3u8
-#EXTINF:-1,KRT TV
-http://mn-nl.mncdn.com/blutv_krt/live.m3u8
 #EXTINF:-1,TRT WORLD
 http://tv-trtworld.live.trt.com.tr/master_720.m3u8
 #EXTINF:-1,CNN INTERNATIONAL
@@ -162,15 +162,15 @@ http://103.194.169.171:8282/TR:_National_Geographic_FHD/mono.m3u8?token=93a611c1
 #EXTINF:-1,NAT GEO WILD
 http://103.194.169.171:8282/TR:_Nat_Geo_Wild_FHD/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
 #EXTINF:-1,DISCOVERY CHANNEL
-http://103.194.169.171:8282/TR:_Discovery_Channel_FHD/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
+http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbIYLz8IzAhJT_xQs1gL-DMhkTwajQ_i263XfY5IUQ_Fe/ts
 #EXTINF:-1,DISCOVERY SCIENCE
-http://103.194.169.171:8282/TR:_DISCOVERY_SCIENCE_FHD/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
+http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbCwGKwz0tiy4eYAcnMruLy1HO_bW9pj30CxrwGjMMygO/ts
 #EXTINF:-1,HISTORY CHANNEL
 http://103.194.169.171:8282/TR:_HISTORY_HD/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
 #EXTINF:-1,VIASAT HISTORY
 http://103.194.169.171:8282/TR_VIASAT_HISTORY_HD/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
 #EXTINF:-1,DOCUBOX
-http://91.236.251.50:8090/play/a01u
+http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbBNPHiqWh7ocVfr3tTOwObKZUyK_D97cmiN4HKVxDdm9/ts
 #EXTINF:-1,BBC EARTH
 http://103.194.169.171:8282/TR:_BBC_Earth_FHD/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
 #EXTINF:-1,LOVE NATURE
@@ -197,8 +197,10 @@ http://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
 http://103.194.169.171:8282/TR:_FIGHT_BOX_FHD/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
 #EXTINF:-1,FAST & FUNBOX
 http://91.236.251.50:8090/play/a01t
+#EXTINF:-1,TASKRUT SPOR
+http://103.194.169.171:8282/TR:43:_BEIN_SPORTS_1_HD_TR/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
 #EXTINF:-1,SPORSMART
-http://91.236.251.50:8090/play/a02c
+http://103.194.169.171:8282/TR:_SMART_SPOR_1_FHD/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
 #EXTINF:-1,SPORSMART 2
 http://91.236.251.50:8090/play/a00s
 #EXTINF:-1,S SPORT
