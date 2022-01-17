@@ -2,15 +2,15 @@
 #EXTINF:-1,TOKAT ALMUS MOBESE KAMERASI
 http://yayin.basturkelektronik.com:1982/live/tokat-almus.stream/playlist.m3u8
 #EXTINF:-1,WARNER TV
-http://203.154.243.89:11205/
+http://170.83.242.153:8000/play/a0h0
 #EXTINF:-1,KEMAL SUNAL TV
-https://vizyontv.yayin.com.tr/kemal-sunal-tv/kemal-sunal-tv/chunklist_w1839200918.m3u8
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCE1XdVHzOdMnUsUMatIzjag/live
 #EXTINF:-1,SİNEMA TV
 http://103.194.169.171:8282/TR_SINEMA_HD/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
 #EXTINF:-1,SİNEMA 2
 http://103.194.169.171:8282/TR_SINEMA2_HD/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
 #EXTINF:-1,SİNEMA AKSİYON
-http://91.236.251.50:8090/play/a01i
+http://probox.mio4ever.eu:7575/m1roxbr0x012/gs7z2Ghs51x8q/9022
 #EXTINF:-1,SİNEMA AKSİYON 2
 http://103.194.169.171:8282/TR_SINEMA_AKSIYON2_HD/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
 #EXTINF:-1,SİNEMA KOMEDİ
@@ -67,6 +67,8 @@ https://livex458745.livestreamlive.xyz/ulusal.m3u8
 http://waw1.artiyerelmedya.net/tivi6/bant1/playlist.m3u8
 #EXTINF:-1,TV8.5
 https://mn-nl.mncdn.com/blutv_tv8_52/live.m3u8
+#EXTINF:-1,BEYKENT TV
+https://yayin30.haber100.com/live/beykenttv/playlist.m3u8
 #EXTINF:-1,BİZİMEV TV
 http://mn-nl.mncdn.com/blutv_bizimev/bizimev_sd.smil/playlist.m3u8
 #EXTINF:-1,KANAL B
@@ -84,7 +86,7 @@ http://turkmedya-live.ercdn.net/tv4/tv4.m3u8
 #EXTINF:-1,BENGÜTÜRK
 http://tv.ensonhaber.com/tv/tr/benguturk/index.m3u8
 #EXTINF:-1,TRT 2
-http://tv-trt2.live.trt.com.tr/master_720.m3u8
+http://tv-trt2.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1,TRT HABER
 http://84.22.33.214/TRTHaber/index.m3u8
 #EXTINF:-1,A HABER
@@ -98,7 +100,7 @@ http://turkmedya-live.ercdn.net/tv24/tv24.m3u8
 #EXTINF:-1,TGRT HABER
 http://tv.ensonhaber.com/tv/tr/tgrthaber/index.m3u8
 #EXTINF:-1,HABERTÜRK
-https://livex458745.livestreamlive.xyz/haberturk.m3u8
+http://tv.ensonhaber.com/tv/tr/haberturk/index.m3u8
 #EXTINF:-1,BLOOMBERG HT
 http://tv.ensonhaber.com/tv/tr/bloomberght/index.m3u8
 #EXTINF:-1,ÜLKE TV
@@ -112,27 +114,27 @@ http://kuzeykibris.tv/m3u8/tv_brt1.m3u8
 #EXTINF:-1,TV EM
 http://cdn-tvem.yayin.com.tr/TVEM/TVEM/playlist.m3u8
 #EXTINF:-1,TRT TÜRK
-http://tv-trtturk.live.trt.com.tr/master_720.m3u8
+http://tv-trtturk.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1,TRT AVAZ
 http://tv-trtavaz.medya.trt.com.tr/master_720.m3u8
-#EXTINF:-1,TRT 3 - TBMM TV
-https://meclistv-live.ercdn.net/meclistv/meclistv_720p.m3u8
+#EXTINF:-1,TRT 3 SPOR
+http://195.155.98.170:5858/play/a09m
 #EXTINF:-1,TRT KURDİ
-http://tv-trtkurdi.live.trt.com.tr/master_720.m3u8
+http://tv-trtkurdi.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1,HABER GLOBAL
 http://tv.ensonhaber.com/tv/tr/haberglobal/index.m3u8
 #EXTINF:-1,BBN TÜRK
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCPXVKAhsqf1Fgv96HdpWYJA/live
+https://ankara.tvizlehd.com/live/bbnturk.m3u8
 #EXTINF:-1,KRT TV
 http://mn-nl.mncdn.com/blutv_krt/live.m3u8
+#EXTINF:-1,HALK TV
+http://halktv-live.ercdn.net/halktv/halktv_1080p.m3u8
 #EXTINF:-1,A PARA
 https://livesx.canlitv.center/apara2.m3u8
 #EXTINF:-1,EKOTÜRK
 http://mn-nl.mncdn.com/blutv_ekoturk2/live_720p2000000kbps/index.m3u8
 #EXTINF:-1,TELE1
 http://mn-nl.mncdn.com/blutv_tele1_dvr/live_720p2000000/index.m3u8
-#EXTINF:-1,HALK TV
-http://halktv-live.ercdn.net/halktv/halktv_1080p.m3u8
 #EXTINF:-1,TRT WORLD
 http://tv-trtworld.live.trt.com.tr/master_720.m3u8
 #EXTINF:-1,CNN INTERNATIONAL
