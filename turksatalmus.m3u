@@ -147,114 +147,66 @@ http://live.cgtn.com/1000/prog_index.m3u8
 http://radio-live-mg.rtr-vesti.ru/hls/russia_24/playlist_2.m3u8
 #EXTINF:-1,YABAN TV
 https://59cba4d34b678.streamlock.net/live1/yabantv/playlist.m3u8
-#EXTINF:-1,HABİTAT TV
-http://103.194.169.171:8282/TR_HABITAT_TV_HD/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
 #EXTINF:-1,TRT BELGESEL
 http://tv-trtbelgesel.live.trt.com.tr/master_720.m3u8
-#EXTINF:-1,NATIONAL GEOGRAPHIC
-http://103.194.169.171:8282/TR:_National_Geographic_FHD/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
-#EXTINF:-1,NAT GEO WILD
-http://103.194.169.171:8282/TR:_Nat_Geo_Wild_FHD/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
-#EXTINF:-1,DISCOVERY CHANNEL
-http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbIYLz8IzAhJT_xQs1gL-DMhkTwajQ_i263XfY5IUQ_Fe/ts
-#EXTINF:-1,DISCOVERY SCIENCE
-http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbCwGKwz0tiy4eYAcnMruLy1HO_bW9pj30CxrwGjMMygO/ts
-#EXTINF:-1,HISTORY CHANNEL
-http://103.194.169.171:8282/TR:_HISTORY_HD/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
-#EXTINF:-1,VIASAT HISTORY
-http://103.194.169.171:8282/TR_VIASAT_HISTORY_HD/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
-#EXTINF:-1,DOCUBOX
-http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbBNPHiqWh7ocVfr3tTOwObKZUyK_D97cmiN4HKVxDdm9/ts
-#EXTINF:-1,BBC EARTH
-http://103.194.169.171:8282/TR:_BBC_Earth_FHD/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
-#EXTINF:-1,LOVE NATURE
-http://103.194.169.171:8282/TR_LOVE_NATURE/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
 #EXTINF:-1,RTG INT
 http://strm.yandex.ru/kal/rtg/rtg0_169_480p.json/index-v1-a1.m3u8
 #EXTINF:-1,CGTN DOCUMENTARY
 http://livedoc.cgtn.com/1000d/prog_index.m3u8
+#EXTINF:-1,AZTV
+http://livesx.canlitv.center/aztv2.m3u8
+#EXTINF:-1,TÜRKMENELİ TV
+http://45.94.31.190:7004/play/a0bt
 #EXTINF:-1,TV5MONDE EUROPE
-http://84.84.196.164:9999/play/a086
+https://ott.tv5monde.com/Content/HLS/Live/channel(europe)/variant.m3u8
+#EXTINF:-1,CCTV-4
+http://39.134.115.163:8080/PLTV/88888910/224/3221225621/index.m3u8
+#EXTINF:-1,QAZAQ TV
+http://kazakhtv.ultraiptv.com/kazakhtv/master.m3u8
 #EXTINF:-1,RTR PLANETA
 http://cdnmg.secure.live.rtr-vesti.ru/live/smil:rtrp.smil/playlist.m3u8
-#EXTINF:-1,NTV SPOR
-http://37.221.122.86:8383/trspor.ts
+#EXTINF:-1,KBS WORLD
+http://livecdn.fptplay.net/sdb/kbs_hls.smil/playlist.m3u8
+#EXTINF:-1,NHK WORLD-JPN
+http://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u8
+#EXTINF:-1,ARIRANG
+http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+#EXTINF:-1,UA TV
+http://95.67.106.242:80/hls/ua-tv_ua_mid/index.m3u8
 #EXTINF:-1,TRT SPOR
 http://tv-trtspor1.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1,beIN SPORTS HABER
-http://103.194.169.171:8282/TR_TRT2/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
+https://livesx.canlitv.center/beinsportshaber.m3u8
 #EXTINF:-1,A SPOR
 https://trkvz-live.daioncdn.net/aspor/aspor_1080p.m3u8
 #EXTINF:-1,TRACE SPORT STARS
 http://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
-#EXTINF:-1,FIGHTBOX
-http://103.194.169.171:8282/TR:_FIGHT_BOX_FHD/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
-#EXTINF:-1,FAST & FUNBOX
-http://91.236.251.50:8090/play/a01t
-#EXTINF:-1,TASKRUT SPOR
-http://103.194.169.171:8282/TR:43:_BEIN_SPORTS_1_HD_TR/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
-#EXTINF:-1,SPORSMART
-http://103.194.169.171:8282/TR:_SMART_SPOR_1_FHD/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
-#EXTINF:-1,SPORSMART 2
-http://91.236.251.50:8090/play/a00s
-#EXTINF:-1,S SPORT
-http://91.236.251.50:8090/play/a02d
-#EXTINF:-1,S SPORT2
-http://91.236.251.50:8090/play/a02b
-#EXTINF:-1,NBA TV
-http://91.236.251.50:8090/play/a00o
-#EXTINF:-1,EDGE SPORT
-http://dai.google.com/linear/hls/event/d4zeSI-dTuqizFrByjs3OA/master.m3u8
 #EXTINF:-1,TRT SPOR YILDIZ
-http://tv-trtspor2.live.trt.com.tr/master_720.m3u8
+https://mn-nl.mncdn.com/blutv_trtsporyildiz_dvr/live_720p2000000kbps/index.m3u8
 #EXTINF:-1,SPORTS TV
 http://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
 #EXTINF:-1,FB TV
-http://livex458745.livestreamlive.xyz/fb.m3u8
+http://iptvmasterlink.dyndns.org:8080/FbTv/playlist.m3u8
 #EXTINF:-1,GS TV
-http://owifavo5.rocketcdn.com/gstv/gstv.smil/chunklist_b2328000_sltur.m3u8
+https://owifavo5.rocketcdn.com/gstv/gstv.smil/chunklist_b2328000_sltur.m3u8
 #EXTINF:-1,T.A.Y TV
-https://mn-nl.mncdn.com/blutv_taytv2/live.m3u8
+https://mn-nl.mncdn.com/blutv_taytv2/live_720p2000000kbps/index.m3u8
 #EXTINF:-1,TJK TV
 http://tjktv-live.tjk.org/tjktv.m3u8
-#EXTINF:-1,DİZİSMART PREMIUM
-http://91.236.251.50:8090/play/a02e
-#EXTINF:-1,DİZİSMART MAX
-http://91.236.251.50:8090/play/a02j
-#EXTINF:-1,FX
-http://91.236.251.50:8090/play/a01c
-#EXTINF:-1,FOX CRIME
-http://91.236.251.50:8090/play/a01a
-#EXTINF:-1,FILMBOX
-http://91.236.251.50:8090/play/a02k
-#EXTINF:-1,24KITCHEN
-http://91.236.251.50:8090/play/a01e
-#EXTINF:-1,MYZEN TV
-http://84.84.196.164:9999/play/a082
-#EXTINF:-1,ÇOCUKSMART
-http://91.236.251.50:8090/play/a00p
 #EXTINF:-1,TRT ÇOCUK
 http://tv-trtcocuk.live.trt.com.tr/master_720.m3u8
 #EXTINF:-1,minikaCOCUK
-http://91.236.251.50:8090/play/a008
+https://lives2.canlitv.center/minikacocuk.m3u8
 #EXTINF:-1,minikaGO
-http://91.236.251.50:8090/play/a009
-#EXTINF:-1,BOOMERANG TV
-http://91.236.251.50:8090/play/a02l
-#EXTINF:-1,DISNEY JUNIOR
-http://91.236.251.50:8090/play/a01d
-#EXTINF:-1,BABY TV
-http://91.236.251.50:8090/play/a02h
+http://iptvmasterlink.dyndns.org:8080/MinikaGo/playlist.m3u8
 #EXTINF:-1,DUCK TV
 http://mmm-ducktv-2-it.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1,DA VINCI
-http://91.236.251.50:8090/play/a01s
 #EXTINF:-1,TRT EBA TV İLKOKUL
-http://tv-e-okul00.live.trt.com.tr/master_720.m3u8
+https://mn-nl.mncdn.com/blutv_ebai2/live_720p2000000kbps/index.m3u8
 #EXTINF:-1,TRT EBA TV ORTAOKUL
-http://tv-e-okul01.live.trt.com.tr/master_720.m3u8
+https://mn-nl.mncdn.com/blutv_ebao2/live_720p2000000kbps/index.m3u8
 #EXTINF:-1,TRT EBA TV LİSE
-http://tv-e-okul02.live.trt.com.tr/master_720.m3u8
+https://mn-nl.mncdn.com/blutv_ebal2/live_720p2000000kbps/index.m3u8
 #EXTINF:-1,DİYANET TV
 http://eustr73.mediatriple.net/videoonlylive/mtikoimxnztxlive/broadcast_5e3bf95a47e07.smil/playlist.m3u8
 #EXTINF:-1,SEMERKAND TV
@@ -266,17 +218,21 @@ http://m.live.net.sa:1935/live/quran/playlist.m3u8
 #EXTINF:-1,AL SUNNAH AL NABAWIYAH
 http://m.live.net.sa:1935/live/sunnah/playlist.m3u8
 #EXTINF:-1,MCM TOP
-http://live-1.otcnet.ru:80/mcm/index.m3u8
+http://212.8.250.27:8080/mcmtop/index.m3u8
 #EXTINF:-1,MEZZO
-http://84.84.196.164:9999/play/a074
-#EXTINF:-1,MTV 00S
-http://201.111.77.24:8000/play/a05l/index.m3u8
+http://212.8.250.27:8080/mezzolive/index.m3u8
 #EXTINF:-1,TRT MÜZİK
 http://tv-trtmuzik.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1,KRAL TV
 http://dogus-live.daioncdn.net/kraltv/playlist.m3u8
 #EXTINF:-1,KRAL POP TV
 http://dogus-live.daioncdn.net/kralpoptv/playlist.m3u8
+#EXTINF:-1,NUMBER1 TV
+https://mn-nl.mncdn.com/blutv_nr12/live_720p2000000kbps/index.m3u8
+#EXTINF:-1,NUMBER1 TURK
+https://mn-nl.mncdn.com/blutv_nr1turk2/live_720p2000000kbps/index.m3u8
+#EXTINF:-1,TMB TV
+https://mugla.tvizlehd.com/live/tmbtv.m3u8
 #EXTINF:-1,POWER TV
 http://livetv.powerapp.com.tr/powerTV/powerhd.smil/playist.m3u8
 #EXTINF:-1,POWERTÜRK TV
@@ -288,20 +244,14 @@ https://tv170.ozelip.com:1936/muzik/muzik/playlist.m3u8
 #EXTINF:-1,TATLISES TV
 http://waw2.artiyerelmedya.net/tatlisestv/bant1/playlist.m3u8
 #EXTINF:-1,EKİNTÜRK TV
-http://59cba4d34b678.streamlock.net/filbox/ekintv.stream/playlist.m3u8
+https://mugla.tvizlehd.com/live/ekintv.m3u8
 #EXTINF:-1,ANADOLU DERNEK TV
-https://ankara.tvizlehd.com/live/anadolutv.m3u8
+https://mugla.tvizlehd.com/live/anadolutv.m3u8
 #EXTINF:-1,YILDIZ EN
-https://ankara.tvizlehd.com/live/yildiztv.m3u8
+https://mugla.tvizlehd.com/live/yildiztv.m3u8
 #EXTINF:-1,VATAN
 https://livesx.canlitv.center/vatantv.m3u8
-#EXTINF:-1,MTV LIVE
-http://84.84.196.164:9999/play/a00i
-#EXTINF:-1,MTV HITS
-http://194.76.186.39:8000/play/a062/index.m3u8
 #EXTINF:-1,TRACE URBAN
 https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1,FASHION TV
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_pg13_zw9_27065_ftv_pg13_196_hls.smil/playlist.m3u8
-#EXTINF:-1,INSIGHT TV
-https://dai.google.com/linear/hls/event/KAfBFcVrQgKmHhpzvkEn9A/master.m3u8
