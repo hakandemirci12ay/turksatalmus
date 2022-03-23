@@ -34,13 +34,13 @@ https://live.kanal7.com/live/kanal7LiveDesktop/index.m3u8
 #EXTINF:-1,FOX TV
 https://mn-nl.mncdn.com/blutv_foxtv_dvr/live_720p2000000kbps/index.m3u8
 #EXTINF:-1,TV8
-https://livesx.canlitv.center/tv8hd.m3u8
+http://mugla.tvizlehd.com/live/tv8.m3u8
 #EXTINF:-1,BEYAZ TV
 https://mn-nl.mncdn.com/blutv_beyaztv2/live_720p2000000kbps/index.m3u8
 #EXTINF:-1,SHOW MAX
-https://lives2.canlitv.center/showmax2.m3u8
+http://iptvmasterlink.dyndns.org:8080/ShowMax/playlist.m3u8
 #EXTINF:-1,A2
-http://84.22.33.214/A2/index.m3u8
+http://mugla.tvizlehd.com/live/a2tv.m3u8
 #EXTINF:-1,TEVE2
 https://mn-nl.mncdn.com/blutv_teve22/live_720p2000000kbps/index.m3u8
 #EXTINF:-1,360 TV
