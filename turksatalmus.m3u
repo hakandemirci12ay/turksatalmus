@@ -1,6 +1,24 @@
 #EXTM3U
 #EXTINF:-1,TOKAT ALMUS MOBESE KAMERASI
 http://yayin.basturkelektronik.com:1982/live/tokat-almus.stream/playlist.m3u8
+#EXTINF:-1,MOVIESMART CLASSIC
+http://tv.romanija.xyz:8080/live/22vahid99593/razmjena114352/1170.ts
+#EXTINF:-1,MOVIESMART TÜRK
+http://r7hgthyx.otttv.pw/iptv/96L894PC252R3C/6807/index.m3u8
+#EXTINF:-1,SINEMA TV
+http://r7hgthyx.otttv.pw/iptv/96L894PC252R3C/6806/index.m3u8
+#EXTINF:-1,SINEMA AKSIYON 2
+http://r7hgthyx.otttv.pw/iptv/96L894PC252R3C/6812/index.m3u8
+#EXTINF:-1,DİZİSMART PREMIUM
+http://r7hgthyx.otttv.pw/iptv/96L894PC252R3C/6939/index.m3u8
+#EXTINF:-1,FILMBOX
+http://r7hgthyx.otttv.pw/iptv/96L894PC252R3C/6811/index.m3u8
+#EXTINF:-1,FX
+http://r7hgthyx.otttv.pw/iptv/96L894PC252R3C/6805/index.m3u8
+#EXTINF:-1,TASKRÜT GURME
+http://r7hgthyx.otttv.pw/iptv/96L894PC252R3C/6804/index.m3u8
+#EXTINF:-1,24KITCHEN
+http://r7hgthyx.otttv.pw/iptv/96L894PC252R3C/6853/index.m3u8
 #EXTINF:-1,TRT 1
 http://tv-trt1.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1,ATV
@@ -149,6 +167,22 @@ http://radio-live-mg.rtr-vesti.ru/hls/russia_24/playlist_2.m3u8
 https://59cba4d34b678.streamlock.net/live1/yabantv/playlist.m3u8
 #EXTINF:-1,TRT BELGESEL
 http://tv-trtbelgesel.live.trt.com.tr/master_720.m3u8
+#EXTINF:-1,NATIONAL GEOGRAPHIC
+http://r7hgthyx.otttv.pw/iptv/96L894PC252R3C/6866/index.m3u8
+#EXTINF:-1,NAT GEO WILD
+http://tv.romanija.xyz:8080/live/22vahid99593/razmjena114352/1176.ts
+#EXTINF:-1,DISCOVERY CHANNEL
+http://r7hgthyx.otttv.pw/iptv/96L894PC252R3C/6861/index.m3u8
+#EXTINF:-1,DISCOVERY SCIENCE
+http://r7hgthyx.otttv.pw/iptv/96L894PC252R3C/6863/index.m3u8
+#EXTINF:-1,HISTORY
+http://r7hgthyx.otttv.pw/iptv/96L894PC252R3C/6856/index.m3u8
+#EXTINF:-1,VIASAT EXPLORE
+http://r7hgthyx.otttv.pw/iptv/96L894PC252R3C/6858/index.m3u8
+#EXTINF:-1,BBC EARTH
+http://r7hgthyx.otttv.pw/iptv/96L894PC252R3C/6854/index.m3u8
+#EXTINF:-1,LOVE NATURE
+http://r7hgthyx.otttv.pw/iptv/96L894PC252R3C/6864/index.m3u8
 #EXTINF:-1,RTG INT
 http://strm.yandex.ru/kal/rtg/rtg0_169_480p.json/index-v1-a1.m3u8
 #EXTINF:-1,CGTN DOCUMENTARY
@@ -173,10 +207,26 @@ http://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u8
 http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 #EXTINF:-1,UA TV
 http://95.67.106.242:80/hls/ua-tv_ua_mid/index.m3u8
+#EXTINF:-1,EUROSPORT 1
+http://r7hgthyx.otttv.pw/iptv/96L894PC252R3C/6829/index.m3u8
+#EXTINF:-1,EUROSPORT 2
+http://r7hgthyx.otttv.pw/iptv/96L894PC252R3C/6830/index.m3u8
 #EXTINF:-1,TRT SPOR
 http://tv-trtspor1.medya.trt.com.tr/master_720.m3u8
+#EXTINF:-1,TASKRÜT SPOR 1
+http://r7hgthyx.otttv.pw/iptv/96L894PC252R3C/6817/index.m3u8
+#EXTINF:-1,TASKRÜT SPOR 2
+http://r7hgthyx.otttv.pw/iptv/96L894PC252R3C/6819/index.m3u8
+#EXTINF:-1,TASKRÜT SPOR 3
+http://r7hgthyx.otttv.pw/iptv/96L894PC252R3C/6820/index.m3u8
+#EXTINF:-1,TASKRÜT SPOR 4
+http://r7hgthyx.otttv.pw/iptv/96L894PC252R3C/6822/index.m3u8
+#EXTINF:-1,TASKRÜT SPOR MAX 1
+http://r7hgthyx.otttv.pw/iptv/96L894PC252R3C/6824/index.m3u8
 #EXTINF:-1,beIN SPORTS HABER
 https://livesx.canlitv.center/beinsportshaber.m3u8
+#EXTINF:-1,S SPORT
+http://r7hgthyx.otttv.pw/iptv/96L894PC252R3C/6825/index.m3u8
 #EXTINF:-1,A SPOR
 https://trkvz-live.daioncdn.net/aspor/aspor_1080p.m3u8
 #EXTINF:-1,TRACE SPORT STARS
@@ -185,6 +235,10 @@ http://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
 https://mn-nl.mncdn.com/blutv_trtsporyildiz_dvr/live_720p2000000kbps/index.m3u8
 #EXTINF:-1,SPORTS TV
 http://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
+#EXTINF:-1,TİVİBU SPOR
+https://istanbul.tvizlehd.com/live/tivibuspor.m3u8
+#EXTINF:-1,TİVİBU SPOR 2
+http://r7hgthyx.otttv.pw/iptv/96L894PC252R3C/6816/index.m3u8
 #EXTINF:-1,FB TV
 http://iptvmasterlink.dyndns.org:8080/FbTv/playlist.m3u8
 #EXTINF:-1,GS TV
@@ -195,12 +249,24 @@ https://mn-nl.mncdn.com/blutv_taytv2/live_720p2000000kbps/index.m3u8
 http://tjktv-live.tjk.org/tjktv.m3u8
 #EXTINF:-1,TRT ÇOCUK
 http://tv-trtcocuk.live.trt.com.tr/master_720.m3u8
+#EXTINF:-1,BOOMERANG TV
+http://r7hgthyx.otttv.pw/iptv/96L894PC252R3C/6850/index.m3u8
+#EXTINF:-1,DISNEY JUNIOR
+http://r7hgthyx.otttv.pw/iptv/96L894PC252R3C/6843/index.m3u8
+#EXTINF:-1,BABY TV
+http://r7hgthyx.otttv.pw/iptv/96L894PC252R3C/6845/index.m3u8
+#EXTINF:-1,NICKELODEON
+http://r7hgthyx.otttv.pw/iptv/96L894PC252R3C/6848/index.m3u8
+#EXTINF:-1,NİCK JR
+http://r7hgthyx.otttv.pw/iptv/96L894PC252R3C/6847/index.m3u8
 #EXTINF:-1,minikaCOCUK
 https://lives2.canlitv.center/minikacocuk.m3u8
 #EXTINF:-1,minikaGO
 http://iptvmasterlink.dyndns.org:8080/MinikaGo/playlist.m3u8
 #EXTINF:-1,DUCK TV
 http://mmm-ducktv-2-it.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1,DA VINCI
+http://r7hgthyx.otttv.pw/iptv/96L894PC252R3C/6857/index.m3u8
 #EXTINF:-1,TRT EBA TV İLKOKUL
 https://mn-nl.mncdn.com/blutv_ebai2/live_720p2000000kbps/index.m3u8
 #EXTINF:-1,TRT EBA TV ORTAOKUL
