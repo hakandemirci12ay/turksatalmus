@@ -82,9 +82,9 @@ http://tv.ensonhaber.com/tv/tr/benguturk/index.m3u8
 #EXTINF:-1,TRT 2
 http://tv-trt2.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1,TRT HABER
-http://84.22.33.214/TRTHaber/index.m3u8
+http://tv-trthaber.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1,A HABER
-https://livesx.canlitv.center/ahaberhd.m3u8
+http://mugla.tvizlehd.com/live/ahaber.m3u8
 #EXTINF:-1,NTV
 https://dogus-live.daioncdn.net/ntv/playlist.m3u8
 #EXTINF:-1,CNN TÜRK
@@ -100,7 +100,7 @@ http://tv.ensonhaber.com/tv/tr/bloomberght/index.m3u8
 #EXTINF:-1,ÜLKE TV
 http://iptvmasterlink.dyndns.org:8080/UlkeTv/playlist.m3u8
 #EXTINF:-1,TVNET
-https://tv.ensonhaber.com/tv/tr/tvnet/index.m3u8
+https://mn-nl.mncdn.com/tvnet/tvnet/playlist.m3u8
 #EXTINF:-1,AKİT TV
 http://akittv-live.ercdn.net/akittv/akittv.m3u8
 #EXTINF:-1,BRT 1
