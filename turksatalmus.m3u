@@ -118,13 +118,13 @@ http://tv-trtkurdi.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1,HABER GLOBAL
 http://tv.ensonhaber.com/tv/tr/haberglobal/index.m3u8
 #EXTINF:-1,BBN TÜRK
-https://lives2.canlitv.center/bbnturk.m3u8
+http://mugla.tvizlehd.com/live/bbnturk.m3u8
 #EXTINF:-1,KRT TV
 https://mn-nl.mncdn.com/blutv_krt/live_720p2000000kbps/index.m3u8
 #EXTINF:-1,HALK TV
 http://halktv-live.ercdn.net/halktv/halktv_1080p.m3u8
 #EXTINF:-1,A PARA
-https://livesx.canlitv.center/apara2.m3u8
+http://mugla.tvizlehd.com/live/apara.m3u8
 #EXTINF:-1,EKOTÜRK
 https://mn-nl.mncdn.com/blutv_ekoturk2/live_720p2000000kbps/index.m3u8
 #EXTINF:-1,TELE1
@@ -136,7 +136,7 @@ http://mugla.tvizlehd.com/live/anews.m3u8
 #EXTINF:-1,CNN INTERNATIONAL
 https://cnn-cnninternational-1-eu.rakuten.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1,BBC WORLD NEWS
-http://84.22.33.214/bbc/index.m3u8
+http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
 #EXTINF:-1,BLOOMBERG TV
 https://bloomberg-bloombergtv-1-it.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1,ALJAZEERA ARABIC
@@ -166,7 +166,7 @@ http://radio-live-mg.rtr-vesti.ru/hls/russia_24/playlist_2.m3u8
 #EXTINF:-1,YABAN TV
 https://59cba4d34b678.streamlock.net/live1/yabantv/playlist.m3u8
 #EXTINF:-1,TRT BELGESEL
-http://tv-trtbelgesel.live.trt.com.tr/master_720.m3u8
+https://tv-trtbelgesel.medya.trt.com.tr/master.m3u8
 #EXTINF:-1,NATIONAL GEOGRAPHIC
 http://r7hgthyx.otttv.pw/iptv/96L894PC252R3C/6866/index.m3u8
 #EXTINF:-1,NAT GEO WILD
@@ -177,8 +177,6 @@ http://r7hgthyx.otttv.pw/iptv/96L894PC252R3C/6861/index.m3u8
 http://r7hgthyx.otttv.pw/iptv/96L894PC252R3C/6863/index.m3u8
 #EXTINF:-1,HISTORY
 http://r7hgthyx.otttv.pw/iptv/96L894PC252R3C/6856/index.m3u8
-#EXTINF:-1,VIASAT EXPLORE
-http://r7hgthyx.otttv.pw/iptv/96L894PC252R3C/6858/index.m3u8
 #EXTINF:-1,BBC EARTH
 http://r7hgthyx.otttv.pw/iptv/96L894PC252R3C/6854/index.m3u8
 #EXTINF:-1,LOVE NATURE
@@ -196,7 +194,7 @@ https://ott.tv5monde.com/Content/HLS/Live/channel(europe)/variant.m3u8
 #EXTINF:-1,CCTV-4
 http://39.134.115.163:8080/PLTV/88888910/224/3221225621/index.m3u8
 #EXTINF:-1,QAZAQ TV
-http://kazakhtv.ultraiptv.com/kazakhtv/master.m3u8
+https://kzkhtv.ultraiptv.com/kzkhtv/stream_5.m3u8
 #EXTINF:-1,RTR PLANETA
 http://cdnmg.secure.live.rtr-vesti.ru/live/smil:rtrp.smil/playlist.m3u8
 #EXTINF:-1,KBS WORLD
@@ -214,7 +212,7 @@ http://r7hgthyx.otttv.pw/iptv/96L894PC252R3C/6830/index.m3u8
 #EXTINF:-1,TRT SPOR
 http://tv-trtspor1.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1,TASKRÜT SPOR 1
-http://r7hgthyx.otttv.pw/iptv/96L894PC252R3C/6817/index.m3u8
+http://r7hgthyx.otttv.pw/iptv/96L894PC252R3C/6781/index.m3u8
 #EXTINF:-1,TASKRÜT SPOR 2
 http://r7hgthyx.otttv.pw/iptv/96L894PC252R3C/6819/index.m3u8
 #EXTINF:-1,TASKRÜT SPOR 3
@@ -224,7 +222,7 @@ http://r7hgthyx.otttv.pw/iptv/96L894PC252R3C/6822/index.m3u8
 #EXTINF:-1,TASKRÜT SPOR MAX 1
 http://r7hgthyx.otttv.pw/iptv/96L894PC252R3C/6824/index.m3u8
 #EXTINF:-1,beIN SPORTS HABER
-https://livesx.canlitv.center/beinsportshaber.m3u8
+http://mugla.tvizlehd.com/live/beinsporthaber.m3u8
 #EXTINF:-1,S SPORT
 http://r7hgthyx.otttv.pw/iptv/96L894PC252R3C/6825/index.m3u8
 #EXTINF:-1,A SPOR
@@ -237,10 +235,6 @@ https://mn-nl.mncdn.com/blutv_trtsporyildiz_dvr/live_720p2000000kbps/index.m3u8
 http://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
 #EXTINF:-1,TİVİBU SPOR
 https://istanbul.tvizlehd.com/live/tivibuspor.m3u8
-#EXTINF:-1,TİVİBU SPOR 2
-http://r7hgthyx.otttv.pw/iptv/96L894PC252R3C/6816/index.m3u8
-#EXTINF:-1,TİVİBU SPOR 3
-https://sectokentest.parkbtcpanel.com/test/chann11/chunklist.m3u8
 #EXTINF:-1,FB TV
 http://iptvmasterlink.dyndns.org:8080/FbTv/playlist.m3u8
 #EXTINF:-1,GS TV
@@ -259,10 +253,10 @@ http://r7hgthyx.otttv.pw/iptv/96L894PC252R3C/6843/index.m3u8
 http://r7hgthyx.otttv.pw/iptv/96L894PC252R3C/6845/index.m3u8
 #EXTINF:-1,NICKELODEON
 http://r7hgthyx.otttv.pw/iptv/96L894PC252R3C/6848/index.m3u8
-#EXTINF:-1,NİCK JR
+#EXTINF:-1,NICK JR.
 http://r7hgthyx.otttv.pw/iptv/96L894PC252R3C/6847/index.m3u8
 #EXTINF:-1,minikaCOCUK
-https://lives2.canlitv.center/minikacocuk.m3u8
+http://mugla.tvizlehd.com/live/minikacocuk.m3u8
 #EXTINF:-1,minikaGO
 http://iptvmasterlink.dyndns.org:8080/MinikaGo/playlist.m3u8
 #EXTINF:-1,DUCK TV
@@ -295,12 +289,12 @@ http://tv-trtmuzik.medya.trt.com.tr/master_720.m3u8
 http://dogus-live.daioncdn.net/kraltv/playlist.m3u8
 #EXTINF:-1,KRAL POP TV
 http://dogus-live.daioncdn.net/kralpoptv/playlist.m3u8
+#EXTINF:-1,DREAM TÜRK
+https://mn-nl.mncdn.com/blutv_dreamturk2/live_720p2000000kbps/index.m3u8
 #EXTINF:-1,NUMBER1 TV
 https://mn-nl.mncdn.com/blutv_nr12/live_720p2000000kbps/index.m3u8
 #EXTINF:-1,NUMBER1 TURK
 https://mn-nl.mncdn.com/blutv_nr1turk2/live_720p2000000kbps/index.m3u8
-#EXTINF:-1,TMB TV
-https://mugla.tvizlehd.com/live/tmbtv.m3u8
 #EXTINF:-1,POWER TV
 http://livetv.powerapp.com.tr/powerTV/powerhd.smil/playist.m3u8
 #EXTINF:-1,POWERTÜRK TV
@@ -315,10 +309,10 @@ http://waw2.artiyerelmedya.net/tatlisestv/bant1/playlist.m3u8
 https://mugla.tvizlehd.com/live/ekintv.m3u8
 #EXTINF:-1,ANADOLU DERNEK TV
 https://mugla.tvizlehd.com/live/anadolutv.m3u8
-#EXTINF:-1,YILDIZ EN
+#EXTINF:-1,YILDIZ EN TV
 https://mugla.tvizlehd.com/live/yildiztv.m3u8
 #EXTINF:-1,VATAN
-https://livesx.canlitv.center/vatantv.m3u8
+http://iptvmasterlink.dyndns.org:8080/VatanTv/playlist.m3u8
 #EXTINF:-1,TRACE URBAN
 https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1,FASHION TV
