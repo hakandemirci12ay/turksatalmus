@@ -246,7 +246,11 @@ https://mn-nl.mncdn.com/blutv_trtsporyildiz_dvr/live_720p2000000kbps/index.m3u8
 #EXTINF:-1,SPORTS TV
 http://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
 #EXTINF:-1,TİVİBU SPOR
-https://istanbul.tvizlehd.com/live/tivibuspor.m3u8
+http://ip.topstb.net:8000/live/50628851392495/17842740786295/188581.ts
+#EXTINF:-1,TİVİBU SPOR 2
+http://r7hgthyx.otttv.pw/iptv/96L894PC252R3C/6816/index.m3u8
+#EXTINF:-1,TİVİBU SPOR 3
+http://ip.topstb.net:8000/live/50628851392495/17842740786295/188579.ts
 #EXTINF:-1,FB TV
 http://iptvmasterlink.dyndns.org:8080/FbTv/playlist.m3u8
 #EXTINF:-1,GS TV
