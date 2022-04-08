@@ -181,6 +181,8 @@ http://r7hgthyx.otttv.pw/iptv/96L894PC252R3C/6856/index.m3u8
 http://r7hgthyx.otttv.pw/iptv/96L894PC252R3C/6854/index.m3u8
 #EXTINF:-1,LOVE NATURE
 http://r7hgthyx.otttv.pw/iptv/96L894PC252R3C/6864/index.m3u8
+#EXTINF:-1,VIASAT EXPLORE
+http://ip.topstb.net:8000/live/50628851392495/17842740786295/179954.ts
 #EXTINF:-1,RTG INT
 http://strm.yandex.ru/kal/rtg/rtg0_169_480p.json/index-v1-a1.m3u8
 #EXTINF:-1,CGTN DOCUMENTARY
@@ -223,8 +225,12 @@ http://r7hgthyx.otttv.pw/iptv/96L894PC252R3C/6822/index.m3u8
 http://r7hgthyx.otttv.pw/iptv/96L894PC252R3C/6824/index.m3u8
 #EXTINF:-1,beIN SPORTS HABER
 http://mugla.tvizlehd.com/live/beinsporthaber.m3u8
+#EXTINF:-1,SPOR SMART
+http://ip.topstb.net:8000/live/50628851392495/17842740786295/56718.ts
 #EXTINF:-1,S SPORT
 http://r7hgthyx.otttv.pw/iptv/96L894PC252R3C/6825/index.m3u8
+#EXTINF:-1,S SPORT 2
+http://ip.topstb.net:8000/live/50628851392495/17842740786295/188590.ts
 #EXTINF:-1,A SPOR
 https://trkvz-live.daioncdn.net/aspor/aspor_1080p.m3u8
 #EXTINF:-1,TRACE SPORT STARS
