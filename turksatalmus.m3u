@@ -214,7 +214,7 @@ http://r7hgthyx.otttv.pw/iptv/96L894PC252R3C/6830/index.m3u8
 #EXTINF:-1,TRT SPOR
 http://tv-trtspor1.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1,TASKRÜT SPOR 1
-http://r7hgthyx.otttv.pw/iptv/96L894PC252R3C/6781/index.m3u8
+http://ip.topstb.net:8000/live/50628851392495/17842740786295/56731.ts
 #EXTINF:-1,TASKRÜT SPOR 2
 http://r7hgthyx.otttv.pw/iptv/96L894PC252R3C/6819/index.m3u8
 #EXTINF:-1,TASKRÜT SPOR 3
@@ -223,6 +223,8 @@ http://r7hgthyx.otttv.pw/iptv/96L894PC252R3C/6820/index.m3u8
 http://r7hgthyx.otttv.pw/iptv/96L894PC252R3C/6822/index.m3u8
 #EXTINF:-1,TASKRÜT SPOR MAX 1
 http://r7hgthyx.otttv.pw/iptv/96L894PC252R3C/6824/index.m3u8
+#EXTINF:-1,TASKRÜT SPOR MAX 2
+http://ip.topstb.net:8000/live/50628851392495/17842740786295/56721.ts
 #EXTINF:-1,beIN SPORTS HABER
 http://mugla.tvizlehd.com/live/beinsporthaber.m3u8
 #EXTINF:-1,SPOR SMART
