@@ -288,9 +288,11 @@ http://m.live.net.sa:1935/live/quran/playlist.m3u8
 #EXTINF:-1,AL SUNNAH AL NABAWIYAH
 http://m.live.net.sa:1935/live/sunnah/playlist.m3u8
 #EXTINF:-1,MCM TOP
-http://212.8.250.27:8080/mcmtop/index.m3u8
+http://ip.topstb.net:8000/live/50628851392495/17842740786295/46211.ts
 #EXTINF:-1,MEZZO
-http://212.8.250.27:8080/mezzolive/index.m3u8
+http://ip.topstb.net:8000/live/50628851392495/17842740786295/200607.ts
+#EXTINF:-1,MTV HITS
+http://ip.topstb.net:8000/live/50628851392495/17842740786295/200658.ts
 #EXTINF:-1,TRT MÜZİK
 http://tv-trtmuzik.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1,KRAL TV
@@ -325,3 +327,5 @@ http://iptvmasterlink.dyndns.org:8080/VatanTv/playlist.m3u8
 https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1,FASHION TV
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_pg13_zw9_27065_ftv_pg13_196_hls.smil/playlist.m3u8
+#EXTINF:-1,MTV HITS
+http://ip.topstb.net:8000/live/50628851392495/17842740786295/46208.ts
