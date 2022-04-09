@@ -229,6 +229,8 @@ http://nx4545.xyz:80/live/ademgumus/ademgumus/34385.ts
 http://r7hgthyx.otttv.pw/iptv/96L894PC252R3C/6856/index.m3u8
 #EXTINF:-1,VIASAT HISTORY
 http://nx4545.xyz:80/live/ademgumus/ademgumus/207.ts
+#EXTINF:-1,TREK
+http://nx4545.xyz:80/live/ademgumus/ademgumus/23375.ts
 #EXTINF:-1,SCIENCE & VIE TV
 http://nx4545.xyz:80/live/ademgumus/ademgumus/184.ts
 #EXTINF:-1,DOCUBOX
@@ -277,6 +279,12 @@ http://95.67.106.242:80/hls/ua-tv_ua_mid/index.m3u8
 http://r7hgthyx.otttv.pw/iptv/96L894PC252R3C/6829/index.m3u8
 #EXTINF:-1,EUROSPORT 2
 http://r7hgthyx.otttv.pw/iptv/96L894PC252R3C/6830/index.m3u8
+#EXTINF:-1,FAST & FUNBOX
+http://nx4545.xyz:80/live/ademgumus/ademgumus/23372.ts
+#EXTINF:-1,FIGHTBOX
+http://nx4545.xyz:80/live/ademgumus/ademgumus/23349.ts
+#EXTINF:-1,FİL SPOR 1
+https://umt02.videobulut.com/35/3811/GEK32ywK8KbR/GEK32ywK8KbR.mpd
 #EXTINF:-1,TRT SPOR
 http://tv-trtspor1.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1,TASKRÜT SPOR 1
