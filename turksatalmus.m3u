@@ -229,6 +229,8 @@ http://nx4545.xyz:80/live/ademgumus/ademgumus/51082.ts
 http://livesx.canlitv.center/aztv2.m3u8
 #EXTINF:-1,TÜRKMENELİ TV
 http://45.94.31.190:7004/play/a0bt
+#EXTINF:-1,BBC ENTERTAINMENT
+http://nx4545.xyz:80/live/ademgumus/ademgumus/106921.ts
 #EXTINF:-1,TV5MONDE EUROPE
 https://ott.tv5monde.com/Content/HLS/Live/channel(europe)/variant.m3u8
 #EXTINF:-1,CCTV-4
