@@ -1,6 +1,20 @@
 #EXTM3U
 #EXTINF:-1,TOKAT ALMUS MOBESE KAMERASI
 https://frn.rtsp.me/blHJtr68dXvy9bmPJH8Lyg/1649517789/hls/YQbaaBnb.m3u8
+#EXTINF:-1,TASKRÜT MOVIES PREMIERE
+http://r7hgthyx.otttv.pw/iptv/96L894PC252R3C/6880/index.m3u8
+#EXTINF:-1,TASKRÜT MOVIES PREMIERE 2
+http://r7hgthyx.otttv.pw/iptv/96L894PC252R3C/6879/index.m3u8
+#EXTINF:-1,TASKRÜT MOVIES STARS
+http://nx4545.xyz:80/live/ademgumus/ademgumus/57.ts
+#EXTINF:-1,TASKRÜT MOVIES ACTION
+http://r7hgthyx.otttv.pw/iptv/96L894PC252R3C/6877/index.m3u8
+#EXTINF:-1,TASKRÜT MOVIES ACTION 2
+http://r7hgthyx.otttv.pw/iptv/96L894PC252R3C/6876/index.m3u8
+#EXTINF:-1,TASKRÜT MOVIES FAMILY
+http://r7hgthyx.otttv.pw/iptv/96L894PC252R3C/6878/index.m3u8
+#EXTINF:-1,TASKRÜT MOVIES TÜRK
+http://nx4545.xyz:80/live/ademgumus/ademgumus/59.ts
 #EXTINF:-1,MOVIESMART CLASSIC
 http://tv.romanija.xyz:8080/live/22vahid99593/razmjena114352/1170.ts
 #EXTINF:-1,MOVIESMART TÜRK
@@ -108,7 +122,7 @@ http://tv-trt2.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1,TRT HABER
 http://tv-trthaber.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1,A HABER
-http://mugla.tvizlehd.com/live/ahaber.m3u8
+http://nx4545.xyz:80/live/ademgumus/ademgumus/119.ts
 #EXTINF:-1,NTV
 https://dogus-live.daioncdn.net/ntv/playlist.m3u8
 #EXTINF:-1,CNN TÜRK
@@ -142,13 +156,13 @@ http://tv-trtkurdi.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1,HABER GLOBAL
 http://tv.ensonhaber.com/tv/tr/haberglobal/index.m3u8
 #EXTINF:-1,BBN TÜRK
-http://mugla.tvizlehd.com/live/bbnturk.m3u8
+http://nx4545.xyz:80/live/ademgumus/ademgumus/67074.ts
 #EXTINF:-1,KRT TV
 https://mn-nl.mncdn.com/blutv_krt/live_720p2000000kbps/index.m3u8
 #EXTINF:-1,HALK TV
 http://halktv-live.ercdn.net/halktv/halktv_1080p.m3u8
 #EXTINF:-1,A PARA
-http://mugla.tvizlehd.com/live/apara.m3u8
+http://r7hgthyx.otttv.pw/iptv/96L894PC252R3C/6909/index.m3u8
 #EXTINF:-1,EKOTÜRK
 https://mn-nl.mncdn.com/blutv_ekoturk2/live_720p2000000kbps/index.m3u8
 #EXTINF:-1,TELE1
@@ -235,8 +249,12 @@ http://nx4545.xyz:80/live/ademgumus/ademgumus/106921.ts
 https://ott.tv5monde.com/Content/HLS/Live/channel(europe)/variant.m3u8
 #EXTINF:-1,CCTV-4
 http://39.134.115.163:8080/PLTV/88888910/224/3221225621/index.m3u8
+#EXTINF:-1,SAUDI TV
+http://nx4545.xyz:80/live/ademgumus/ademgumus/108607.ts
 #EXTINF:-1,QAZAQ TV
 https://kzkhtv.ultraiptv.com/kzkhtv/stream_5.m3u8
+#EXTINF:-1,HAYAT PLUS
+http://nx4545.xyz:80/live/ademgumus/ademgumus/76247.ts
 #EXTINF:-1,RTR PLANETA
 http://cdnmg.secure.live.rtr-vesti.ru/live/smil:rtrp.smil/playlist.m3u8
 #EXTINF:-1,KBS WORLD
@@ -307,6 +325,8 @@ http://r7hgthyx.otttv.pw/iptv/96L894PC252R3C/6843/index.m3u8
 http://r7hgthyx.otttv.pw/iptv/96L894PC252R3C/6845/index.m3u8
 #EXTINF:-1,NICKELODEON
 http://r7hgthyx.otttv.pw/iptv/96L894PC252R3C/6848/index.m3u8
+#EXTINF:-1,NICKTOONS
+http://ip.topstb.net:8000/live/50628851392495/17842740786295/179987.ts
 #EXTINF:-1,NICK JR.
 http://r7hgthyx.otttv.pw/iptv/96L894PC252R3C/6847/index.m3u8
 #EXTINF:-1,minikaCOCUK
@@ -317,6 +337,8 @@ http://iptvmasterlink.dyndns.org:8080/MinikaGo/playlist.m3u8
 http://mmm-ducktv-2-it.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1,DA VINCI
 http://r7hgthyx.otttv.pw/iptv/96L894PC252R3C/6857/index.m3u8
+#EXTINF:-1,GAMETOON
+http://nx4545.xyz:80/live/ademgumus/ademgumus/58630.ts
 #EXTINF:-1,TRT EBA TV İLKOKUL
 https://mn-nl.mncdn.com/blutv_ebai2/live_720p2000000kbps/index.m3u8
 #EXTINF:-1,TRT EBA TV ORTAOKUL
@@ -364,7 +386,7 @@ http://waw2.artiyerelmedya.net/tatlisestv/bant1/playlist.m3u8
 #EXTINF:-1,EKİNTÜRK TV
 https://mugla.tvizlehd.com/live/ekintv.m3u8
 #EXTINF:-1,ANADOLU DERNEK TV
-https://mugla.tvizlehd.com/live/anadolutv.m3u8
+http://r7hgthyx.otttv.pw/iptv/96L894PC252R3C/6778/index.m3u8
 #EXTINF:-1,YILDIZ EN TV
 https://mugla.tvizlehd.com/live/yildiztv.m3u8
 #EXTINF:-1,VATAN
