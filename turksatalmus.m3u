@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1,TOKAT ALMUS MOBESE KAMERASI
-https://frn.rtsp.me/tOGIoh3xDpOq6lauYWwYRQ/1649500797/hls/YQbaaBnb.m3u8
+https://frn.rtsp.me/blHJtr68dXvy9bmPJH8Lyg/1649517789/hls/YQbaaBnb.m3u8
 #EXTINF:-1,MOVIESMART CLASSIC
 http://tv.romanija.xyz:8080/live/22vahid99593/razmjena114352/1170.ts
 #EXTINF:-1,MOVIESMART TÜRK
@@ -10,15 +10,37 @@ http://r7hgthyx.otttv.pw/iptv/96L894PC252R3C/6806/index.m3u8
 #EXTINF:-1,SINEMA 2
 http://tv.romanija.xyz:8080/live/22vahid99593/razmjena114352/1196.ts
 #EXTINF:-1,SINEMA AKSIYON
-http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFInrH4C6e8781MDvEMnFkPw
+http://nx4545.xyz:80/live/ademgumus/ademgumus/90.ts
 #EXTINF:-1,SINEMA AKSIYON 2
 http://r7hgthyx.otttv.pw/iptv/96L894PC252R3C/6812/index.m3u8
+#EXTINF:-1,SINEMA YERLİ
+http://aloiptv34.com:80/live/yasin/yasin/191.ts
+#EXTINF:-1,SINEMA YERLİ 2
+http://nx4545.xyz:80/live/ademgumus/ademgumus/117.ts
+#EXTINF:-1,SINEMA KOMEDİ
+http://aloiptv34.com:80/live/yasin/yasin/106.ts
+#EXTINF:-1,SINEMA KOMEDİ 2
+http://aloiptv34.com:80/live/yasin/yasin/152.ts
+#EXTINF:-1,SINEMA AİLE
+http://aloiptv34.com:80/live/yasin/yasin/208.ts
+#EXTINF:-1,SINEMA AİLE 2
+http://aloiptv34.com:80/live/yasin/yasin/114.ts
+#EXTINF:-1,SINEMA 1001
+http://aloiptv34.com:80/live/yasin/yasin/93.ts
+#EXTINF:-1,SINEMA 1002
+http://aloiptv34.com:80/live/yasin/yasin/99.ts
 #EXTINF:-1,DİZİSMART PREMIUM
 http://r7hgthyx.otttv.pw/iptv/96L894PC252R3C/6802/index.m3u8
+#EXTINF:-1,DİZİSMART MAX
+http://nx4545.xyz:80/live/ademgumus/ademgumus/205.ts
 #EXTINF:-1,FILMBOX
 http://r7hgthyx.otttv.pw/iptv/96L894PC252R3C/6811/index.m3u8
 #EXTINF:-1,FX
 http://r7hgthyx.otttv.pw/iptv/96L894PC252R3C/6805/index.m3u8
+#EXTINF:-1,FOXCRIME
+http://nx4545.xyz:80/live/ademgumus/ademgumus/211.ts
+#EXTINF:-1,TASKRÜT İZ
+http://nx4545.xyz:80/live/ademgumus/ademgumus/77.ts
 #EXTINF:-1,TASKRÜT GURME
 http://r7hgthyx.otttv.pw/iptv/96L894PC252R3C/6804/index.m3u8
 #EXTINF:-1,24KITCHEN
@@ -57,8 +79,6 @@ https://dogus-live.daioncdn.net/dmax/dmax.m3u8
 https://mn-nl.mncdn.com/blutv_kontv2/live_720p2000000kbps/index.m3u8
 #EXTINF:-1,TV 100
 https://mn-nl.mncdn.com/blutv_tv1002/live_720p2000000kbps/index.m3u8
-#EXTINF:-1,UCANKUS TV
-http://ucankus-live.cdnnew.com/ucankus/ucankus.m3u8
 #EXTINF:-1,ULUSAL KANAL
 https://mn-nl.mncdn.com/blutv_ulusalkanal/smil:blutv_ulusalkanal.smil/chunklist_b2096000.m3u8
 #EXTINF:-1,TİVİ6
@@ -74,7 +94,7 @@ http://212.174.58.161/hls-live/livepkgr/_definst_/liveevent/kanalb.m3u8
 #EXTINF:-1,GENÇ TV (KIBRIS)
 https://59cba4d34b678.streamlock.net/canlitv/kibrisgenctv/chunklist_w1753396810.m3u8
 #EXTINF:-1,VAV TV
-https://mugla.tvizlehd.com/live/vavtv.m3u8
+http://aloiptv34.com:80/live/yasin/yasin/65409.ts
 #EXTINF:-1,ÜNİVERSİTE TV
 https://5be5d840359c6.streamlock.net/unitv/unitv/chunklist.m3u8
 #EXTINF:-1,FLASH TV
@@ -136,7 +156,7 @@ https://mn-nl.mncdn.com/blutv_tele1_dvr/live_720p2000000/index.m3u8
 #EXTINF:-1,TRT WORLD
 http://tv-trtworld.live.trt.com.tr/master_720.m3u8
 #EXTINF:-1,A NEWS
-http://mugla.tvizlehd.com/live/anews.m3u8
+http://r7hgthyx.otttv.pw/iptv/96L894PC252R3C/6937/index.m3u8
 #EXTINF:-1,CNN INTERNATIONAL
 https://cnn-cnninternational-1-eu.rakuten.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1,BBC WORLD NEWS
@@ -175,22 +195,36 @@ https://tv-trtbelgesel.medya.trt.com.tr/master.m3u8
 http://r7hgthyx.otttv.pw/iptv/96L894PC252R3C/6866/index.m3u8
 #EXTINF:-1,NAT GEO WILD
 http://tv.romanija.xyz:8080/live/22vahid99593/razmjena114352/1176.ts
+#EXTINF:-1,VIASAT NATURE
+http://nx4545.xyz:80/live/ademgumus/ademgumus/34392.ts
 #EXTINF:-1,DISCOVERY CHANNEL
 http://r7hgthyx.otttv.pw/iptv/96L894PC252R3C/6861/index.m3u8
 #EXTINF:-1,DISCOVERY SCIENCE
 http://r7hgthyx.otttv.pw/iptv/96L894PC252R3C/6863/index.m3u8
-#EXTINF:-1,HISTORY
+#EXTINF:-1,ID
+http://nx4545.xyz:80/live/ademgumus/ademgumus/34385.ts
+#EXTINF:-1,HISTORY CHANNEL
 http://r7hgthyx.otttv.pw/iptv/96L894PC252R3C/6856/index.m3u8
+#EXTINF:-1,VIASAT HISTORY
+http://nx4545.xyz:80/live/ademgumus/ademgumus/207.ts
+#EXTINF:-1,SCIENCE & VIE TV
+http://nx4545.xyz:80/live/ademgumus/ademgumus/184.ts
+#EXTINF:-1,DOCUBOX
+http://nx4545.xyz:80/live/ademgumus/ademgumus/70026.ts
 #EXTINF:-1,BBC EARTH
 http://r7hgthyx.otttv.pw/iptv/96L894PC252R3C/6854/index.m3u8
 #EXTINF:-1,LOVE NATURE
 http://r7hgthyx.otttv.pw/iptv/96L894PC252R3C/6864/index.m3u8
 #EXTINF:-1,VIASAT EXPLORE
 http://ip.topstb.net:8000/live/50628851392495/17842740786295/179954.ts
+#EXTINF:-1,ANIMAUX
+http://nx4545.xyz:80/live/ademgumus/ademgumus/166.ts
 #EXTINF:-1,RTG INT
 http://strm.yandex.ru/kal/rtg/rtg0_169_480p.json/index-v1-a1.m3u8
 #EXTINF:-1,CGTN DOCUMENTARY
 http://livedoc.cgtn.com/1000d/prog_index.m3u8
+#EXTINF:-1,CHASSE & PECHE
+http://nx4545.xyz:80/live/ademgumus/ademgumus/51082.ts
 #EXTINF:-1,AZTV
 http://livesx.canlitv.center/aztv2.m3u8
 #EXTINF:-1,TÜRKMENELİ TV
@@ -263,6 +297,8 @@ http://tjktv-live.tjk.org/tjktv.m3u8
 http://tv-trtcocuk.live.trt.com.tr/master_720.m3u8
 #EXTINF:-1,BOOMERANG TV
 http://r7hgthyx.otttv.pw/iptv/96L894PC252R3C/6850/index.m3u8
+#EXTINF:-1,BBC CBEEBIES
+http://nx4545.xyz:80/live/ademgumus/ademgumus/28348.ts
 #EXTINF:-1,DISNEY JUNIOR
 http://r7hgthyx.otttv.pw/iptv/96L894PC252R3C/6843/index.m3u8
 #EXTINF:-1,BABY TV
@@ -331,9 +367,17 @@ https://mugla.tvizlehd.com/live/anadolutv.m3u8
 https://mugla.tvizlehd.com/live/yildiztv.m3u8
 #EXTINF:-1,VATAN
 http://iptvmasterlink.dyndns.org:8080/VatanTv/playlist.m3u8
+#EXTINF:-1,360 TUNE BOX
+http://nx4545.xyz:80/live/ademgumus/ademgumus/23374.ts
 #EXTINF:-1,TRACE URBAN
 https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1,FASHION TV
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_pg13_zw9_27065_ftv_pg13_196_hls.smil/playlist.m3u8
+#EXTINF:-1,MTV LIVE
+http://aloiptv34.com:80/live/yasin/yasin/73031.ts
 #EXTINF:-1,MTV HITS
 http://ip.topstb.net:8000/live/50628851392495/17842740786295/46208.ts
+#EXTINF:-1,TASKRÜT SALON 1
+http://r7hgthyx.otttv.pw/iptv/96L894PC252R3C/6741/index.m3u8
+#EXTINF:-1,TASKRÜT SALON 2
+http://r7hgthyx.otttv.pw/iptv/96L894PC252R3C/6740/index.m3u8
