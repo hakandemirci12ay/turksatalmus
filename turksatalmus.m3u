@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1,TOKAT ALMUS MOBESE KAMERASI
 https://frn.rtsp.me/TlRIKZPORQJhoNgyEFpkWw/1649531548/hls/YQbaaBnb.m3u8
+#EXTINF:-1,TOM & JERRY TV
+http://iptvtree.net:8080/live/outputofflinechecker09/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/163219.ts
 #EXTINF:-1,TASKRÜT MOVIES PREMIERE
 http://r7hgthyx.otttv.pw/iptv/96L894PC252R3C/6880/index.m3u8
 #EXTINF:-1,TASKRÜT MOVIES PREMIERE 2
@@ -128,7 +130,7 @@ http://tv-trt2.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1,TRT HABER
 http://tv-trthaber.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1,A HABER
-http://nx4545.xyz:80/live/ademgumus/ademgumus/119.ts
+http://iptvtree.net:8080/live/outputofflinechecker09/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/666.ts
 #EXTINF:-1,NTV
 https://dogus-live.daioncdn.net/ntv/playlist.m3u8
 #EXTINF:-1,CNN TÜRK
@@ -429,3 +431,5 @@ http://aloiptv34.com:80/live/yasin/yasin/73341.ts
 http://r7hgthyx.otttv.pw/iptv/96L894PC252R3C/6741/index.m3u8
 #EXTINF:-1,TASKRÜT SALON 2
 http://r7hgthyx.otttv.pw/iptv/96L894PC252R3C/6740/index.m3u8
+#EXTINF:-1,TASKRÜT SALON 3
+http://iptvtree.net:8080/live/outputofflinechecker09/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/12232.ts
