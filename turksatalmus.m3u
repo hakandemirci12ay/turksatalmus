@@ -187,6 +187,8 @@ http://r7hgthyx.otttv.pw/iptv/96L894PC252R3C/6937/index.m3u8
 https://cnn-cnninternational-1-eu.rakuten.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1,BBC WORLD NEWS
 http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
+#EXTINF:-1,FOX NEWS CHANNEL
+http://iptvtree.net:8080/live/outputofflinechecker09/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/1611.ts
 #EXTINF:-1,BLOOMBERG TV
 https://bloomberg-bloombergtv-1-it.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1,ALJAZEERA ARABIC
@@ -217,6 +219,8 @@ http://radio-live-mg.rtr-vesti.ru/hls/russia_24/playlist_2.m3u8
 https://umt02.videobulut.com/35/3811/RRyA893pwun5/RRyA893pwun5.mpd
 #EXTINF:-1,YABAN TV
 https://59cba4d34b678.streamlock.net/live1/yabantv/playlist.m3u8
+#EXTINF:-1,NAUTICAL CHANNEL
+http://iptvtree.net:8080/live/outputofflinechecker09/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/281724.ts
 #EXTINF:-1,TRT BELGESEL
 https://tv-trtbelgesel.medya.trt.com.tr/master.m3u8
 #EXTINF:-1,NATIONAL GEOGRAPHIC
