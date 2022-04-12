@@ -283,6 +283,12 @@ http://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u8
 http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 #EXTINF:-1,UA TV
 http://95.67.106.242:80/hls/ua-tv_ua_mid/index.m3u8
+#EXTINF:-1,CHANNEL ONE RUSSIA
+http://185.236.229.31:9981/play/a074
+#EXTINF:-1,RTL
+http://iptvtree.net:8080/live/outputofflinechecker09/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/890.ts
+#EXTINF:-1,RAI UNO
+http://iptvtree.net:8080/live/outputofflinechecker09/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/898.ts
 #EXTINF:-1,EUROSPORT 1
 http://r7hgthyx.otttv.pw/iptv/96L894PC252R3C/6829/index.m3u8
 #EXTINF:-1,EUROSPORT 2
