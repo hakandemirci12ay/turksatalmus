@@ -6,23 +6,23 @@ https://streamlive2021.herokuapp.com/iptv-query?streaming-ip=https://www.youtube
 #EXTINF:-1,TOM & JERRY TV
 http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/299744
 #EXTINF:-1,TASKRÜT MOVIES PREMIERE
-http://x01.cremtv.com:2052/live/cremtv.com/cremtv895/242610.m3u8
+http://x01.cremtv.com:2052/live/cremtv.com/cremtv0156/242610.m3u8
 #EXTINF:-1,TASKRÜT MOVIES PREMIERE 2
 http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/132709
 #EXTINF:-1,TASKRÜT MOVIES STARS
-http://x01.cremtv.com:2052/live/cremtv.com/cremtv895/242609.m3u8
+http://x01.cremtv.com:2052/live/cremtv.com/cremtv0156/242609.m3u8
 #EXTINF:-1,TASKRÜT MOVIES ACTION
-http://x01.cremtv.com:2052/live/cremtv.com/cremtv895/242612.m3u8
+http://x01.cremtv.com:2052/live/cremtv.com/cremtv0156/242612.m3u8
 #EXTINF:-1,TASKRÜT MOVIES ACTION 2
 http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/132708
 #EXTINF:-1,TASKRÜT MOVIES FAMILY
 http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/132398
 #EXTINF:-1,TASKRÜT MOVIES TÜRK
-http://x01.cremtv.com:2052/live/cremtv.com/cremtv895/242608.m3u8
+http://x01.cremtv.com:2052/live/cremtv.com/cremtv0156/242608.m3u8
 #EXTINF:-1,MOVIESMART CLASSIC
-http://x01.cremtv.com:2052/live/cremtv.com/cremtv895/242592.m3u8
+http://x01.cremtv.com:2052/live/cremtv.com/cremtv0156/242592.m3u8
 #EXTINF:-1,MOVIESMART TÜRK
-http://x01.cremtv.com:2052/live/cremtv.com/cremtv895/242588.m3u8
+http://x01.cremtv.com:2052/live/cremtv.com/cremtv0156/242588.m3u8
 #EXTINF:-1,SINEMA TV
 http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/201417
 #EXTINF:-1,SINEMA 2
@@ -36,35 +36,45 @@ http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/201419
 #EXTINF:-1,SINEMA YERLİ 2
 http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/404989
 #EXTINF:-1,SINEMA KOMEDİ
-http://x01.cremtv.com:2052/live/cremtv.com/cremtv895/242605.m3u8
+http://x01.cremtv.com:2052/live/cremtv.com/cremtv0156/242605.m3u8
 #EXTINF:-1,SINEMA KOMEDİ 2
 http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/132717
 #EXTINF:-1,SINEMA AİLE
-http://x01.cremtv.com:2052/live/cremtv.com/cremtv895/242606.m3u8
+http://x01.cremtv.com:2052/live/cremtv.com/cremtv0156/242606.m3u8
 #EXTINF:-1,SINEMA AİLE 2
 http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/405208
 #EXTINF:-1,SINEMA 1001
 http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/162654
 #EXTINF:-1,SINEMA 1002
-http://x01.cremtv.com:2052/live/cremtv.com/cremtv895/242607.m3u8
+http://x01.cremtv.com:2052/live/cremtv.com/cremtv0156/242607.m3u8
 #EXTINF:-1,DİZİSMART PREMIUM
 http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/132715
 #EXTINF:-1,DİZİSMART MAX
-http://x01.cremtv.com:2052/live/cremtv.com/cremtv895/242593.m3u8
+http://x01.cremtv.com:2052/live/cremtv.com/cremtv0156/242593.m3u8
+#EXTINF:-1,EPIC DRAMA
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/412590
 #EXTINF:-1,DOĞU TV
 https://umt02.videobulut.com/35/3811/p7pfs97pX2n3/p7pfs97pX2n3.mpd
 #EXTINF:-1,FILMBOX
-http://r7hgthyx.otttv.pw/iptv/96L894PC252R3C/6811/index.m3u8
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/412587
+#EXTINF:-1,FILMBOX ARTHOUSE
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/412589
+#EXTINF:-1,FILMBOX EXTRA
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/412588
 #EXTINF:-1,FX
-http://r7hgthyx.otttv.pw/iptv/96L894PC252R3C/6805/index.m3u8
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/130853
 #EXTINF:-1,FOXCRIME
-http://iptvtree.net:8080/live/outputofflinechecker09/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/579.ts
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/130852
+#EXTINF:-1,BBC FIRST
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/416906
 #EXTINF:-1,TASKRÜT İZ
-http://iptvtree.net:8080/live/outputofflinechecker09/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/1806.ts
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/165597
+#EXTINF:-1,TASKRÜT H&E
+http://nox20b.xyz:80/live/Nuray/Nuray1234/73032.ts
 #EXTINF:-1,TASKRÜT GURME
-http://r7hgthyx.otttv.pw/iptv/96L894PC252R3C/6804/index.m3u8
+http://nox20b.xyz:80/live/Nuray/Nuray1234/202.ts
 #EXTINF:-1,24KITCHEN
-http://r7hgthyx.otttv.pw/iptv/96L894PC252R3C/6853/index.m3u8
+http://nox20b.xyz:80/live/Nuray/Nuray1234/215.ts
 #EXTINF:-1,FİL TV
 https://umt02.videobulut.com/35/3811/X6wGTC7np3fK/X6wGTC7np3fK.mpd
 #EXTINF:-1,FİLMAX
@@ -72,7 +82,7 @@ https://umt02.videobulut.com/35/3811/TwyG88Vp1An9/TwyG88Vp1An9.mpd
 #EXTINF:-1,FİLODİ
 https://umt02.videobulut.com/35/3811/27GT0XRsA2sV/27GT0XRsA2sV.mpd
 #EXTINF:-1,TRT 4K
-http://r7hgthyx.otttv.pw/iptv/96L894PC252R3C/9032/index.m3u8
+http://nox20b.xyz:80/live/Nuray/Nuray1234/164.ts
 #EXTINF:-1,TRT 1
 http://tv-trt1.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1,ATV
@@ -80,7 +90,7 @@ https://trkvz-live.daioncdn.net/atv/atv_720p.m3u8
 #EXTINF:-1,SHOW TV
 https://tv.ensonhaber.com/tv/tr/showtv/index.m3u8
 #EXTINF:-1,KANAL D
-https://live.duhnet.tv/S2/HLS_LIVE/kanaldnp/playlist.m3u8
+http://nox20b.xyz:80/live/Nuray/Nuray1234/143.ts
 #EXTINF:-1,STAR TV
 https://dogus-live.daioncdn.net/startv/playlist.m3u8
 #EXTINF:-1,KANAL 7
@@ -88,15 +98,15 @@ https://live.kanal7.com/live/kanal7LiveDesktop/index.m3u8
 #EXTINF:-1,FOX TV
 https://mn-nl.mncdn.com/blutv_foxtv_dvr/live_720p2000000kbps/index.m3u8
 #EXTINF:-1,TV8
-http://r7hgthyx.otttv.pw/iptv/96L894PC252R3C/6896/index.m3u8
+http://nox20b.xyz:80/live/Nuray/Nuray1234/124.ts
 #EXTINF:-1,BEYAZ TV
 https://tv.ensonhaber.com/tv/tr/beyaztv/index.m3u8
 #EXTINF:-1,SHOW MAX
 http://iptvmasterlink.dyndns.org:8080/ShowMax/playlist.m3u8
 #EXTINF:-1,A2
-http://r7hgthyx.otttv.pw/iptv/96L894PC252R3C/6908/index.m3u8
+http://nox20b.xyz:80/live/Nuray/Nuray1234/147.ts
 #EXTINF:-1,TEVE2
-https://live.duhnet.tv/S2/HLS_LIVE/teve2np/playlist.m3u8
+http://nox20b.xyz:80/live/Nuray/Nuray1234/154.ts
 #EXTINF:-1,360 TV
 http://turkmedya-live.ercdn.net/tv360/tv360.m3u8
 #EXTINF:-1,TLC
@@ -107,6 +117,8 @@ https://dogus-live.daioncdn.net/dmax/dmax.m3u8
 https://mn-nl.mncdn.com/blutv_kontv2/live_720p2000000kbps/index.m3u8
 #EXTINF:-1,TV 100
 https://mn-nl.mncdn.com/blutv_tv1002/live_720p2000000kbps/index.m3u8
+#EXTINF:-1,UÇANKUŞ TV
+https://ucankus-live.cdnnew.com/ucankus/ucankus.m3u8
 #EXTINF:-1,ULUSAL KANAL
 http://iptvmasterlink.dyndns.org:8080/UlusalKanal/playlist.m3u8
 #EXTINF:-1,TİVİ6
@@ -122,10 +134,10 @@ http://212.174.58.161/hls-live/livepkgr/_definst_/liveevent/kanalb.m3u8
 #EXTINF:-1,GENÇ TV (KIBRIS)
 https://59cba4d34b678.streamlock.net/canlitv/kibrisgenctv/chunklist_w1753396810.m3u8
 #EXTINF:-1,VAV TV
-http://aloiptv34.com:80/live/nuray01/nuray01/65409.ts
+http://nox20b.xyz:80/live/Nuray/Nuray1234/65409.ts
 #EXTINF:-1,ÜNİVERSİTE TV
 https://5be5d840359c6.streamlock.net/unitv/unitv/chunklist.m3u8
-#EXTINF:-1,FLASH TV
+#EXTINF:-1,FLASH HABER
 https://www.guventechnology.com:19360/flashtv/flashtv.m3u8
 #EXTINF:-1,TV4
 http://turkmedya-live.ercdn.net/tv4/tv4.m3u8
@@ -136,7 +148,7 @@ http://tv-trt2.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1,TRT HABER
 http://tv-trthaber.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1,A HABER
-http://iptvtree.net:8080/live/outputofflinechecker09/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/666.ts
+http://x01.cremtv.com:2052/live/cremtv.com/cremtv0156/242570.m3u8
 #EXTINF:-1,NTV
 https://dogus-live.daioncdn.net/ntv/playlist.m3u8
 #EXTINF:-1,CNN TÜRK
@@ -170,13 +182,13 @@ http://tv-trtkurdi.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1,HABER GLOBAL
 http://tv.ensonhaber.com/tv/tr/haberglobal/index.m3u8
 #EXTINF:-1,BBN TÜRK
-http://aloiptv34.com:80/live/nuray01/nuray01/67074.ts
+http://nox20b.xyz:80/live/Nuray/Nuray1234/67074.ts
 #EXTINF:-1,KRT TV
 https://mn-nl.mncdn.com/blutv_krt/live_720p2000000kbps/index.m3u8
 #EXTINF:-1,HALK TV
 http://halktv-live.ercdn.net/halktv/halktv_1080p.m3u8
 #EXTINF:-1,A PARA
-http://r7hgthyx.otttv.pw/iptv/96L894PC252R3C/6909/index.m3u8
+http://nox20b.xyz:80/live/Nuray/Nuray1234/146.ts
 #EXTINF:-1,EKOTÜRK
 https://mn-nl.mncdn.com/blutv_ekoturk2/live_720p2000000kbps/index.m3u8
 #EXTINF:-1,TELE1
@@ -184,13 +196,13 @@ http://iptvmasterlink.dyndns.org:8080/Tele1/playlist.m3u8
 #EXTINF:-1,TRT WORLD
 http://tv-trtworld.live.trt.com.tr/master_720.m3u8
 #EXTINF:-1,A NEWS
-http://r7hgthyx.otttv.pw/iptv/96L894PC252R3C/6937/index.m3u8
+http://nox20b.xyz:80/live/Nuray/Nuray1234/73025.ts
 #EXTINF:-1,CNN INTERNATIONAL
 https://cnn-cnninternational-1-de.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1,BBC WORLD NEWS
 http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
 #EXTINF:-1,FOX NEWS CHANNEL
-http://aloiptv34.com:80/live/nuray01/nuray01/107026.ts
+http://restream-live.realiptv.to:8080/hankstreamer/sYWcksogwN/3647
 #EXTINF:-1,BLOOMBERG TV
 https://bloomberg-bloombergtv-1-it.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1,ALJAZEERA ARABIC
@@ -221,54 +233,56 @@ http://radio-live-mg.rtr-vesti.ru/hls/russia_24/playlist_2.m3u8
 https://umt02.videobulut.com/35/3811/RRyA893pwun5/RRyA893pwun5.mpd
 #EXTINF:-1,YABAN TV
 https://59cba4d34b678.streamlock.net/live1/yabantv/playlist.m3u8
+#EXTINF:-1,HABİTAT TV
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/416905
 #EXTINF:-1,TRT BELGESEL
 https://tv-trtbelgesel.medya.trt.com.tr/master.m3u8
 #EXTINF:-1,NATIONAL GEOGRAPHIC
-http://r7hgthyx.otttv.pw/iptv/96L894PC252R3C/6866/index.m3u8
+http://nox20b.xyz:80/live/Nuray/Nuray1234/194.ts
 #EXTINF:-1,NAT GEO WILD
-http://iptvtree.net:8080/live/outputofflinechecker09/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/838.ts
+http://nox20b.xyz:80/live/Nuray/Nuray1234/133.ts
 #EXTINF:-1,VIASAT NATURE
-http://iptvtree.net:8080/live/outputofflinechecker09/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/284470.ts
+http://nox20b.xyz:80/live/Nuray/Nuray1234/34392.ts
 #EXTINF:-1,DISCOVERY CHANNEL
-http://r7hgthyx.otttv.pw/iptv/96L894PC252R3C/6861/index.m3u8
+http://nox20b.xyz:80/live/Nuray/Nuray1234/190.ts
 #EXTINF:-1,DISCOVERY SCIENCE
-http://r7hgthyx.otttv.pw/iptv/96L894PC252R3C/6863/index.m3u8
+http://nox20b.xyz:80/live/Nuray/Nuray1234/222.ts
 #EXTINF:-1,ID
-http://iptvtree.net:8080/live/outputofflinechecker09/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/8237.ts
+http://nox20b.xyz:80/live/Nuray/Nuray1234/34385.ts
 #EXTINF:-1,HISTORY CHANNEL
 http://r7hgthyx.otttv.pw/iptv/96L894PC252R3C/6856/index.m3u8
 #EXTINF:-1,VIASAT HISTORY
-http://iptvtree.net:8080/live/outputofflinechecker09/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/32589.ts
+http://nox20b.xyz:80/live/Nuray/Nuray1234/207.ts
 #EXTINF:-1,TREK
-http://aloiptv34.com:80/live/nuray01/nuray01/23375.ts
+http://nox20b.xyz:80/live/Nuray/Nuray1234/23375.ts
 #EXTINF:-1,SCIENCE & VIE TV
-http://aloiptv34.com:80/live/nuray01/nuray01/184.ts
+http://nox20b.xyz:80/live/Nuray/Nuray1234/184.ts
 #EXTINF:-1,DOCUBOX
-http://iptvtree.net:8080/live/outputofflinechecker09/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/532.ts
+http://nox20b.xyz:80/live/Nuray/Nuray1234/70026.ts
 #EXTINF:-1,BBC EARTH
-http://r7hgthyx.otttv.pw/iptv/96L894PC252R3C/6854/index.m3u8
+http://nox20b.xyz:80/live/Nuray/Nuray1234/102.ts
 #EXTINF:-1,LOVE NATURE
-http://r7hgthyx.otttv.pw/iptv/96L894PC252R3C/6864/index.m3u8
+http://nox20b.xyz:80/live/Nuray/Nuray1234/67242.ts
 #EXTINF:-1,VIASAT EXPLORE
-http://iptvtree.net:8080/live/outputofflinechecker09/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/197561.ts
+http://nox20b.xyz:80/live/Nuray/Nuray1234/50690.ts
 #EXTINF:-1,ANIMAUX
-http://iptvtree.net:8080/live/outputofflinechecker09/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/32592.ts
+http://nox20b.xyz:80/live/Nuray/Nuray1234/166.ts
 #EXTINF:-1,RTG INT
-http://strm.yandex.ru/kal/rtg/rtg0_169_480p.json/index-v1-a1.m3u8
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/293825
 #EXTINF:-1,CGTN DOCUMENTARY
 http://livedoc.cgtn.com/1000d/prog_index.m3u8
 #EXTINF:-1,CHASSE & PECHE
-http://iptvtree.net:8080/live/outputofflinechecker09/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/21246.ts
+http://nox20b.xyz:80/live/Nuray/Nuray1234/51082.ts
 #EXTINF:-1,AZTV
-http://iptvtree.net:8080/live/outputofflinechecker09/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/16526.ts
+http://109.205.166.68/server124/aztv/index.m3u8
 #EXTINF:-1,TÜRKMENELİ TV
-http://45.94.31.190:7004/play/a0bt
+https://137840.global.ssl.fastly.net/6007ebae6349fb1839321e09/live_0f21e9d07bc411ec9940a1f551f87644/tracks-v1a1/mono.m3u8
 #EXTINF:-1,BBC ENTERTAINMENT
-http://iptvtree.net:8080/live/outputofflinechecker09/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/13991.ts
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/183273
 #EXTINF:-1,TV5MONDE EUROPE
 https://ott.tv5monde.com/Content/HLS/Live/channel(europe)/variant.m3u8
 #EXTINF:-1,CCTV-4
-http://39.134.115.163:8080/PLTV/88888910/224/3221225621/index.m3u8
+http://183.207.249.11/PLTV/3/224/3221225534/index.m3u8
 #EXTINF:-1,SAUDI TV
 http://iptvtree.net:8080/live/outputofflinechecker09/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/3741.ts
 #EXTINF:-1,QAZAQ TV
