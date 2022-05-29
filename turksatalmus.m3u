@@ -1,0 +1,369 @@
+#EXTM3U
+#EXTINF:-1,MOVIESMART CLASSIC
+http://195.189.60.227:9091/play/a0567
+#EXTINF:-1,MOVIESMART TÜRK
+http://195.189.60.227:9091/play/a0568
+#EXTINF:-1,SINEMA TV
+http://195.175.224.219:6610/001/2/ch00000090990000001242/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001242&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
+#EXTINF:-1,SINEMA 2
+http://195.175.224.218:6610/001/2/ch00000090990000001228/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001228&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
+#EXTINF:-1,SINEMA AKSIYON
+http://195.175.224.218:6610/001/2/ch00000090990000001232/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001232&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
+#EXTINF:-1,SINEMA AKSIYON 2
+http://195.175.224.219:6610/001/2/ch00000090990000001229/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001229&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
+#EXTINF:-1,SINEMA YERLİ
+http://195.175.224.218:6610/001/2/ch00000090990000001243/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001243&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
+#EXTINF:-1,SINEMA YERLİ 2
+http://195.175.224.218:6610/001/2/ch00000090990000001235/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001235&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
+#EXTINF:-1,SINEMA KOMEDİ
+http://195.175.224.218:6610/001/2/ch00000090990000001230/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001230&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
+#EXTINF:-1,SINEMA KOMEDİ 2
+http://195.175.224.218:6610/001/2/ch00000090990000001241/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001241&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
+#EXTINF:-1,SINEMA AİLE
+http://195.175.224.219:6610/001/2/ch00000090990000001233/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001233&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
+#EXTINF:-1,SINEMA AİLE 2
+http://195.175.224.219:6610/001/2/ch00000090990000001234/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001234&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
+#EXTINF:-1,SINEMA 1001
+http://195.175.224.219:6610/001/2/ch00000090990000001227/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001227&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
+#EXTINF:-1,SINEMA 1002
+http://195.175.224.219:6610/001/2/ch00000090990000001231/sec-f2-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001231&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
+#EXTINF:-1,DİZİSMART PREMIUM
+http://195.189.60.227:9091/play/a0566
+#EXTINF:-1,DİZİSMART MAX
+http://195.189.60.227:9091/play/a0571
+#EXTINF:-1,EPIC DRAMA
+http://195.175.224.219:6610/001/2/ch00000090990000001751/sec-f2-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001751&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
+#EXTINF:-1,FILMBOX
+http://195.189.60.227:9091/play/a0562
+#EXTINF:-1,FX
+http://195.175.224.218:6610/001/2/ch00000090990000001356/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001356&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
+#EXTINF:-1,FOXCRIME
+http://195.175.224.218:6610/001/2/ch00000090990000001361/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001361&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
+#EXTINF:-1,BBC FIRST
+http://195.175.224.218:6610/001/2/ch00000090990000001353/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001353&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
+#EXTINF:-1,24KITCHEN
+http://195.175.224.219:6610/001/2/ch00000090990000001014/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001014&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
+#EXTINF:-1,FİL TV
+https://umt02.videobulut.com/35/3811/X6wGTC7np3fK/X6wGTC7np3fK.mpd
+#EXTINF:-1,FİLODİ
+https://umt02.videobulut.com/35/3811/27GT0XRsA2sV/27GT0XRsA2sV.mpd
+#EXTINF:-1,TRT 1
+http://tv-trt1.medya.trt.com.tr/master_720.m3u8
+#EXTINF:-1,ATV
+https://trkvz-live.daioncdn.net/atv/atv_720p.m3u8
+#EXTINF:-1,SHOW TV
+https://tv.ensonhaber.com/tv/tr/showtv/index.m3u8
+#EXTINF:-1,KANAL D
+http://195.189.60.227:9091/play/a1432
+#EXTINF:-1,STAR TV
+https://dogus-live.daioncdn.net/startv/playlist.m3u8
+#EXTINF:-1,KANAL 7
+https://live.kanal7.com/live/kanal7LiveDesktop/index.m3u8
+#EXTINF:-1,FOX TV
+http://195.189.60.227:9091/play/a150
+#EXTINF:-1,TV8
+http://195.189.60.227:9091/play/a100
+#EXTINF:-1,BEYAZ TV
+https://tv.ensonhaber.com/tv/tr/beyaztv/index.m3u8
+#EXTINF:-1,KANAL V
+http://46.31.146.187:44300/play/a00z/index.m3u8
+#EXTINF:-1,KOZA TV
+http://195.189.60.227:9091/play/a0722
+#EXTINF:-1,TEK RUMELI TV
+http://195.189.60.227:9091/play/a0714
+#EXTINF:-1,SHOW MAX
+http://iptvmasterlink.dyndns.org:8080/ShowMax/playlist.m3u8
+#EXTINF:-1,A2
+http://195.189.60.227:9091/play/a012
+#EXTINF:-1,TEVE2
+http://195.189.60.227:9091/play/a1434
+#EXTINF:-1,360 TV
+http://turkmedya-live.ercdn.net/tv360/tv360.m3u8
+#EXTINF:-1,TLC
+https://dogus-live.daioncdn.net/tlc/playlist.m3u8
+#EXTINF:-1,DMAX
+https://dogus-live.daioncdn.net/dmax/dmax.m3u8
+#EXTINF:-1,KON TV
+http://195.189.60.227:9091/play/a092
+#EXTINF:-1,TV 100
+http://195.189.60.227:9091/play/a086
+#EXTINF:-1,UÇANKUŞ TV
+https://ucankus-live.cdnnew.com/ucankus/ucankus.m3u8
+#EXTINF:-1,ULUSAL KANAL
+http://iptvmasterlink.dyndns.org:8080/UlusalKanal/playlist.m3u8
+#EXTINF:-1,TİVİ6
+http://waw1.artiyerelmedya.net/tivi6/bant1/playlist.m3u8
+#EXTINF:-1,TV8.5
+http://195.189.60.227:9091/play/a101
+#EXTINF:-1,BEYKENT TV
+https://yayin30.haber100.com/live/beykenttv/playlist.m3u8
+#EXTINF:-1,BİZİMEV TV
+http://mn-nl.mncdn.com/blutv_bizimev/bizimev_sd.smil/playlist.m3u8
+#EXTINF:-1,KANAL B
+http://212.174.58.161/hls-live/livepkgr/_definst_/liveevent/kanalb.m3u8
+#EXTINF:-1,GENÇ TV (KIBRIS)
+https://59cba4d34b678.streamlock.net/canlitv/kibrisgenctv/chunklist_w1753396810.m3u8
+#EXTINF:-1,VAV TV
+http://195.189.60.227:9091/play/a013
+#EXTINF:-1,ÜNİVERSİTE TV
+https://5be5d840359c6.streamlock.net/unitv/unitv/chunklist.m3u8
+#EXTINF:-1,FLASH HABER
+https://www.guventechnology.com:19360/flashtv/flashtv.m3u8
+#EXTINF:-1,TV4
+http://turkmedya-live.ercdn.net/tv4/tv4.m3u8
+#EXTINF:-1,BENGÜTÜRK
+http://tv.ensonhaber.com/tv/tr/benguturk/index.m3u8
+#EXTINF:-1,TRT 2
+http://tv-trt2.medya.trt.com.tr/master_720.m3u8
+#EXTINF:-1,TRT HABER
+http://tv-trthaber.medya.trt.com.tr/master_720.m3u8
+#EXTINF:-1,A HABER
+http://195.189.60.227:9091/play/a036
+#EXTINF:-1,NTV
+https://dogus-live.daioncdn.net/ntv/playlist.m3u8
+#EXTINF:-1,CNN TÜRK
+https://live.duhnet.tv/S2/HLS_LIVE/cnnturknp/playlist.m3u8
+#EXTINF:-1,24 TV
+http://turkmedya-live.ercdn.net/tv24/tv24.m3u8
+#EXTINF:-1,TGRT HABER
+http://tv.ensonhaber.com/tv/tr/tgrthaber/index.m3u8
+#EXTINF:-1,HABERTÜRK
+http://tv.ensonhaber.com/tv/tr/haberturk/index.m3u8
+#EXTINF:-1,BLOOMBERG HT
+http://tv.ensonhaber.com/tv/tr/bloomberght/index.m3u8
+#EXTINF:-1,ÜLKE TV
+http://iptvmasterlink.dyndns.org:8080/UlkeTv/playlist.m3u8
+#EXTINF:-1,TVNET
+https://mn-nl.mncdn.com/tvnet/tvnet/playlist.m3u8
+#EXTINF:-1,AKİT TV
+http://akittv-live.ercdn.net/akittv/akittv.m3u8
+#EXTINF:-1,BRT 1
+http://wms.brtk.net:1935/live/BRTHD/playlist.m3u8
+#EXTINF:-1,TV EM
+http://cdn-tvem.yayin.com.tr/TVEM/TVEM/playlist.m3u8
+#EXTINF:-1,TRT TÜRK
+http://tv-trtturk.medya.trt.com.tr/master_720.m3u8
+#EXTINF:-1,TRT AVAZ
+http://tv-trtavaz.medya.trt.com.tr/master_720.m3u8
+#EXTINF:-1,TRT 3 SPOR
+http://195.155.98.170:5858/play/a09m
+#EXTINF:-1,TRT KURDİ
+http://tv-trtkurdi.medya.trt.com.tr/master_720.m3u8
+#EXTINF:-1,HABER GLOBAL
+http://tv.ensonhaber.com/tv/tr/haberglobal/index.m3u8
+#EXTINF:-1,BBN TÜRK
+http://195.189.60.227:9091/play/a0813
+#EXTINF:-1,KRT TV
+http://195.189.60.227:9091/play/a089
+#EXTINF:-1,HALK TV
+http://halktv-live.ercdn.net/halktv/halktv_1080p.m3u8
+#EXTINF:-1,A PARA
+http://195.189.60.227:9091/play/a011
+#EXTINF:-1,EKOTÜRK
+http://195.189.60.227:9091/play/a0811
+#EXTINF:-1,TELE1
+http://iptvmasterlink.dyndns.org:8080/Tele1/playlist.m3u8
+#EXTINF:-1,TRT WORLD
+http://tv-trtworld.live.trt.com.tr/master_720.m3u8
+#EXTINF:-1,A NEWS
+http://195.189.60.227:9091/play/a010
+#EXTINF:-1,CNN INTERNATIONAL
+http://195.189.60.227:9091/play/a145
+#EXTINF:-1,BBC WORLD NEWS
+http://195.189.60.227:9091/play/a0563
+#EXTINF:-1,BLOOMBERG TV
+https://bloomberg-bloombergtv-1-it.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1,ALJAZEERA
+http://live-hls-web-aje.getaj.net/AJE/index.m3u8
+#EXTINF:-1,TRT ARABİ
+http://tv-trtarabi.live.trt.com.tr/master_720.m3u8
+#EXTINF:-1,DEUSTCHE WELLE
+http://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream02/streamPlaylist.m3u8
+#EXTINF:-1,EURONEWS
+http://rakuten-euronews-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1,FRANCE 24
+http://195.175.224.218:6610/001/2/ch00000090990000001167/sec-f2-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001167&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
+#EXTINF:-1,CGTN
+http://live.cgtn.com/1000/prog_index.m3u8
+#EXTINF:-1,RUSSIA 24
+http://radio-live-mg.rtr-vesti.ru/hls/russia_24/playlist_2.m3u8
+#EXTINF:-1,DOCUMAX
+https://umt02.videobulut.com/35/3811/RRyA893pwun5/RRyA893pwun5.mpd
+#EXTINF:-1,YABAN TV
+https://59cba4d34b678.streamlock.net/live1/yabantv/playlist.m3u8
+#EXTINF:-1,HABİTAT TV
+http://195.175.224.218:6610/001/2/ch00000090990000001172/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001172&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
+#EXTINF:-1,TRT BELGESEL
+https://tv-trtbelgesel.medya.trt.com.tr/master.m3u8
+#EXTINF:-1,NATIONAL GEOGRAPHIC
+http://195.175.224.219:6610/001/2/ch00000090990000001195/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001195&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
+#EXTINF:-1,NAT GEO WILD
+http://195.175.224.218:6610/001/2/ch00000090990000001213/sec-f2-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001213&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
+#EXTINF:-1,VIASAT NATURE
+https://fbox.maintr.pw/live/1D108560B0D1217FCCA13EBE48EC0DED/50.m3u8
+#EXTINF:-1,DISCOVERY CHANNEL
+http://195.189.60.227:9091/play/a0558
+#EXTINF:-1,DISCOVERY SCIENCE
+http://195.189.60.227:9091/play/a0570
+#EXTINF:-1,ID
+http://195.175.224.219:6610/001/2/ch00000090990000001205/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001205&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
+#EXTINF:-1,HISTORY CHANNEL
+http://195.175.224.219:6610/001/2/ch00000090990000001173/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001173&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
+#EXTINF:-1,VIASAT HISTORY
+http://195.175.224.219:6610/001/2/ch00000090990000001771/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001771&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
+#EXTINF:-1,BBC EARTH
+http://195.189.60.227:9091/play/a147
+#EXTINF:-1,VIASAT EXPLORE
+https://fbox.maintr.pw/live/1D108560B0D1217FCCA13EBE48EC0DED/85.m3u8
+#EXTINF:-1,LOVE NATURE
+http://195.189.60.227:9091/play/a146
+#EXTINF:-1,CGTN DOCUMENTARY
+http://livedoc.cgtn.com/1000d/prog_index.m3u8
+#EXTINF:-1,AZTV
+http://109.205.166.68/server124/aztv/index.m3u8
+#EXTINF:-1,TÜRKMENELİ TV
+https://137840.global.ssl.fastly.net/6007ebae6349fb1839321e09/live_0f21e9d07bc411ec9940a1f551f87644/tracks-v1a1/mono.m3u8
+#EXTINF:-1,TV5MONDE EUROPE
+http://83.228.75.166:8000/play/a0ea
+#EXTINF:-1,QAZAQ TV
+https://kzkhtv.ultraiptv.com/kzkhtv/stream_5.m3u8
+#EXTINF:-1,KBS WORLD
+http://livecdn.fptplay.net/sdb/kbs_hls.smil/playlist.m3u8
+#EXTINF:-1,NHK WORLD-JPN
+http://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u8
+#EXTINF:-1,ARIRANG
+http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+#EXTINF:-1,UA TV
+http://95.67.106.242:80/hls/ua-tv_ua_mid/index.m3u8
+#EXTINF:-1,CHANNEL ONE RUSSIA
+http://185.236.229.31:9981/play/a074
+#EXTINF:-1,RAI UNO
+http://185.78.67.174:8000/play/IT_rai_1_HD/index.m3u8
+#EXTINF:-1,EUROSPORT 1
+http://195.189.60.227:9091/play/a1435
+#EXTINF:-1,EUROSPORT 2
+http://195.189.60.227:9091/play/a1436
+#EXTINF:-1,FIGHT NETWORK
+http://195.175.224.218:6610/001/2/ch00000090990000001156/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001156&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
+#EXTINF:-1,FİL SPOR 1
+https://umt02.videobulut.com/35/3811/GEK32ywK8KbR/GEK32ywK8KbR.mpd
+#EXTINF:-1,TRT SPOR
+http://tv-trtspor1.medya.trt.com.tr/master_720.m3u8
+#EXTINF:-1,TASKRÜT SPOR 1 asıl
+http://74391be3.amazzin.pw/iptv/ZA9N4BRQTKCS9V/6781/index.m3u8
+#EXTINF:-1,TASKRÜT SPOR 1 yedek
+http://iptvdualtest1.xyz:80/live/JaBHjVVKkN/qWkxbz6GJY/52974.m3u8
+#EXTINF:-1,TASKRÜT SPOR 2
+https://v2.streamling.cc/beinsport2/index.m3u8
+#EXTINF:-1,TASKRÜT SPOR 3
+https://v2.streamling.cc/liqtv3/index.m3u8
+#EXTINF:-1,TASKRÜT SPOR 4
+https://5.streamling.cc/beinsport4/index.m3u8
+#EXTINF:-1,TASKRÜT SPOR MAX 1
+https://v2.streamling.cc/maks1/index.m3u8
+#EXTINF:-1,TASKRÜT SPOR MAX 2
+https://v2.streamling.cc/maks2/index.m3u8
+#EXTINF:-1,SPORMAX
+https://stream2.yayinla.live:8443/tvlive/rU5tLKQHvFdNmgjUh0i5rQL0FD0oZ7B4/index.m3u8?token=test
+#EXTINF:-1,SPORSMART
+http://195.189.60.227:9091/play/a0560
+#EXTINF:-1,SPORSMART 2
+http://195.189.60.227:9091/play/a148
+#EXTINF:-1,S SPORT
+http://195.189.60.227:9091/play/a0561
+#EXTINF:-1,S SPORT2
+http://195.189.60.227:9091/play/a0559
+#EXTINF:-1,NBA TV
+http://195.189.60.227:9091/play/a142
+#EXTINF:-1,EDGE SPORT
+http://edgesport-samsungus.amagi.tv/playlist.m3u8
+#EXTINF:-1,A SPOR
+https://trkvz-live.daioncdn.net/aspor/aspor_1080p.m3u8
+#EXTINF:-1,TRACE SPORT STARS
+http://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1,TRT SPOR YILDIZ
+https://tv-trtspor2.medya.trt.com.tr/master.m3u8
+#EXTINF:-1,SPORTS TV
+http://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
+#EXTINF:-1,TİVİBU SPOR
+http://195.175.224.218:6610/001/2/ch00000090990000001265/sec-f2-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001265&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
+#EXTINF:-1,FB TV
+http://iptvmasterlink.dyndns.org:8080/FbTv/playlist.m3u8
+#EXTINF:-1,GS TV
+https://owifavo5.rocketcdn.com/gstv/gstv.smil/master.m3u8
+#EXTINF:-1,T.A.Y TV
+http://195.189.60.227:9091/play/a144
+#EXTINF:-1,TJK TV
+http://tjktv-live.tjk.org/tjktv.m3u8
+#EXTINF:-1,TRT ÇOCUK
+http://tv-trtcocuk.live.trt.com.tr/master_720.m3u8
+#EXTINF:-1,ÇOCUKSMART
+http://195.189.60.227:9091/play/a143
+#EXTINF:-1,BOOMERANG TV
+http://195.189.60.227:9091/play/a0572
+#EXTINF:-1,DISNEY JUNIOR
+http://195.175.224.219:6610/001/2/ch00000090990000001138/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001138&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
+#EXTINF:-1,BABY TV
+http://195.189.60.227:9091/play/a0569
+#EXTINF:-1,NICKTOONS
+http://195.175.224.218:6610/001/2/ch00000090990000001214/sec-f2-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001214&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
+#EXTINF:-1,minikaCOCUK
+http://195.189.60.227:9091/play/a033
+#EXTINF:-1,minikaGO
+http://iptvmasterlink.dyndns.org:8080/MinikaGo/playlist.m3u8
+#EXTINF:-1,DUCK TV
+http://mmm-ducktv-2-it.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1,DA VINCI
+http://195.175.224.219:6610/001/2/ch00000090990000001042/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001042&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
+#EXTINF:-1,DİYANET TV
+http://eustr73.mediatriple.net/videoonlylive/mtikoimxnztxlive/broadcast_5e3bf95a47e07.smil/playlist.m3u8
+#EXTINF:-1,SEMERKAND TV
+http://b01c02nl.mediatriple.net/videoonlylive/mtisvwurbfcyslive/broadcast_58d915bd40efc.smil/playist.m3u8
+#EXTINF:-1,DOST TV
+http://dost.stream.emsal.im/tv/live.m3u8
+#EXTINF:-1,AL QURAN AL KAREEM
+http://m.live.net.sa:1935/live/quran/playlist.m3u8
+#EXTINF:-1,AL SUNNAH AL NABAWIYAH
+http://m.live.net.sa:1935/live/sunnah/playlist.m3u8
+#EXTINF:-1,FLOW TV
+https://cdn.videobulut.com/35/3811/dEh7nTAK5bAh/dEh7nTAK5bAh.mpd
+#EXTINF:-1,MEZZO
+http://83.228.75.166:8000/play/a0dy
+#EXTINF:-1,MTV 00s
+http://83.228.75.166:8000/play/a0bj
+#EXTINF:-1,TRT MÜZİK
+http://tv-trtmuzik.medya.trt.com.tr/master_720.m3u8
+#EXTINF:-1,KRAL TV
+http://dogus-live.daioncdn.net/kraltv/playlist.m3u8
+#EXTINF:-1,KRAL POP TV
+http://dogus-live.daioncdn.net/kralpoptv/playlist.m3u8
+#EXTINF:-1,DREAM TÜRK
+https://live.duhnet.tv/S2/HLS_LIVE/dreamturknp/playlist.m3u8
+#EXTINF:-1,NUMBER1 TV
+https://mn-nl.mncdn.com/blutv_nr12/live.m3u8
+#EXTINF:-1,NUMBER1 TURK
+https://mn-nl.mncdn.com/blutv_nr1turk2/live.m3u8
+#EXTINF:-1,POWER TV
+http://livetv.powerapp.com.tr/powerTV/powerhd.smil/playist.m3u8
+#EXTINF:-1,POWERTÜRK TV
+http://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/playist.m3u8
+#EXTINF:-1,MİLYON TV
+https://sosyoapp-live.cdnnew.com/sosyo/buraya-bir-isim-verin.m3u8
+#EXTINF:-1,MÜZİK HABERCİSİ
+https://tv170.ozelip.com:1936/muzik/muzik/playlist.m3u8
+#EXTINF:-1,TATLISES TV
+http://waw2.artiyerelmedya.net/tatlisestv/bant1/playlist.m3u8
+#EXTINF:-1,EKİNTÜRK TV
+http://46.31.146.187:44300/play/a02i/index.m3u8
+#EXTINF:-1,ANADOLU DERNEK TV
+http://46.31.146.187:44300/play/a02c/index.m3u8
+#EXTINF:-1,YILDIZ EN TV
+http://46.31.146.187:44300/play/a02p/index.m3u8
+#EXTINF:-1,VATAN
+http://iptvmasterlink.dyndns.org:8080/VatanTv/playlist.m3u8
+#EXTINF:-1,TRACE URBAN
+https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1,FASHION TV
+http://195.189.60.227:9091/play/a0574
+#EXTINF:-1,MTV HITS
+http://201.108.227.250:8001/play/a02k/index.m3u8
