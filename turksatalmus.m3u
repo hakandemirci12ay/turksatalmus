@@ -249,6 +249,14 @@ http://bit.ly/3a5RZHn
 https://umt02.videobulut.com/35/3811/GEK32ywK8KbR/GEK32ywK8KbR.mpd
 #EXTINF:-1,TRT SPOR
 http://tv-trtspor1.medya.trt.com.tr/master_720.m3u8
+#EXTINF:-1,TASKRÜT SPORTS 1
+http://ipshka03.dyndns.tv:80/tr30/mpegts?token=2ee3c067132c62
+#EXTINF:-1,TASKRÜT SPORTS 2
+http://ipshka03.dyndns.tv:80/tr31/mpegts?token=2ee3c067132c62
+#EXTINF:-1,TASKRÜT SPORTS 3
+http://ipshka03.dyndns.tv:80/tr31/mpegts?token=2ee3c067132c62
+#EXTINF:-1,TASKRÜT SPORTS 4
+http://ipshka03.dyndns.tv:80/tr33/mpegts?token=2ee3c067132c62
 #EXTINF:-1,SPORMAX
 https://stream2.yayinla.live:8443/tvlive/rU5tLKQHvFdNmgjUh0i5rQL0FD0oZ7B4/index.m3u8?token=test
 #EXTINF:-1,SPORSMART
