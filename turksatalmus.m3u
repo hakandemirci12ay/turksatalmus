@@ -1,8 +1,10 @@
 #EXTM3U
+#EXTINF:-1,TASKRÜT MOVİES TÜRK
+http://ipshka03.dyndns.tv:80/tr40/mpegts?token=2ee3c067132c62
 #EXTINF:-1,MOVIESMART CLASSIC
-http://195.189.60.227:9091/play/a0567
+http://dcsport.xyz:8080/vVnmqp7iY6/QoozAZTRUS/139527
 #EXTINF:-1,MOVIESMART TÜRK
-http://195.189.60.227:9091/play/a0568
+http://dcsport.xyz:8080/vVnmqp7iY6/QoozAZTRUS/132718
 #EXTINF:-1,SINEMA TV
 http://bit.ly/3GytGyk
 #EXTINF:-1,SINEMA 2
@@ -28,13 +30,13 @@ http://bit.ly/3lWMTjI
 #EXTINF:-1,SINEMA 1002
 http://bit.ly/3a7nIYL
 #EXTINF:-1,DİZİSMART PREMIUM
-http://195.189.60.227:9091/play/a0566
+http://dcsport.xyz:8080/vVnmqp7iY6/QoozAZTRUS/132715
 #EXTINF:-1,DİZİSMART MAX
-http://195.189.60.227:9091/play/a0571
+http://xxxm17.xyz:80/live/Bilal/Bilal2/722.ts
 #EXTINF:-1,EPIC DRAMA
 http://bit.ly/3GsRVh2
 #EXTINF:-1,FILMBOX
-http://195.189.60.227:9091/play/a0562
+http://dcsport.xyz:8080/vVnmqp7iY6/QoozAZTRUS/412587
 #EXTINF:-1,FX
 http://bit.ly/38XSbZ5
 #EXTINF:-1,FOXCRIME
@@ -47,6 +49,8 @@ http://bit.ly/3LYkGDD
 https://umt02.videobulut.com/35/3811/X6wGTC7np3fK/X6wGTC7np3fK.mpd
 #EXTINF:-1,FİLODİ
 https://umt02.videobulut.com/35/3811/27GT0XRsA2sV/27GT0XRsA2sV.mpd
+#EXTINF:-1,TASKRÜT GURME
+http://dcsport.xyz:8080/vVnmqp7iY6/QoozAZTRUS/130841
 #EXTINF:-1,TRT 1
 http://tv-trt1.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1,ATV
@@ -54,29 +58,29 @@ https://trkvz-live.daioncdn.net/atv/atv_720p.m3u8
 #EXTINF:-1,SHOW TV
 https://tv.ensonhaber.com/tv/tr/showtv/index.m3u8
 #EXTINF:-1,KANAL D
-http://195.189.60.227:9091/play/a1432
+https://live.duhnet.tv/S2/HLS_LIVE/kanalddainp/track_4_1250/playlist.m3u8
 #EXTINF:-1,STAR TV
 https://dogus-live.daioncdn.net/startv/playlist.m3u8
 #EXTINF:-1,KANAL 7
-https://live.kanal7.com/live/kanal7LiveDesktop/index.m3u8
+http://46.29.169.27:8000/play/a01v
 #EXTINF:-1,FOX TV
-http://195.189.60.227:9091/play/a150
+http://46.29.169.27:8000/play/a01q
 #EXTINF:-1,TV8
-http://195.189.60.227:9091/play/a100
+http://46.29.169.27:8000/play/a01s
 #EXTINF:-1,BEYAZ TV
 https://tv.ensonhaber.com/tv/tr/beyaztv/index.m3u8
 #EXTINF:-1,KANAL V
-http://46.31.146.187:44300/play/a00z/index.m3u8
+https://waw1.artiyerelmedya.net/kanalv/bant1/chunks.m3u8
 #EXTINF:-1,KOZA TV
-http://195.189.60.227:9091/play/a0722
+http://dcsport.xyz:8080/vVnmqp7iY6/QoozAZTRUS/123354
 #EXTINF:-1,TEK RUMELI TV
-http://195.189.60.227:9091/play/a0714
+https://edge1.socialsmart.tv/tekrumelitv/bant1/playlist.m3u8
 #EXTINF:-1,SHOW MAX
 http://iptvmasterlink.dyndns.org:8080/ShowMax/playlist.m3u8
 #EXTINF:-1,A2
-http://195.189.60.227:9091/play/a012
+http://46.29.169.27:8000/play/a02s
 #EXTINF:-1,TEVE2
-http://195.189.60.227:9091/play/a1434
+https://live.duhnet.tv/S2/HLS_LIVE/teve2np/playlist.m3u8
 #EXTINF:-1,360 TV
 http://turkmedya-live.ercdn.net/tv360/tv360.m3u8
 #EXTINF:-1,TLC
@@ -84,9 +88,9 @@ https://dogus-live.daioncdn.net/tlc/playlist.m3u8
 #EXTINF:-1,DMAX
 https://dogus-live.daioncdn.net/dmax/dmax.m3u8
 #EXTINF:-1,KON TV
-http://195.189.60.227:9091/play/a092
+https://mn-nl.mncdn.com/blutv_kontv2/live_720p2000000kbps/index.m3u8
 #EXTINF:-1,TV 100
-http://195.189.60.227:9091/play/a086
+https://tv100.blutv.com/blutv_tv100_live/live.m3u8
 #EXTINF:-1,UÇANKUŞ TV
 https://ucankus-live.cdnnew.com/ucankus/ucankus.m3u8
 #EXTINF:-1,ULUSAL KANAL
@@ -94,7 +98,7 @@ http://iptvmasterlink.dyndns.org:8080/UlusalKanal/playlist.m3u8
 #EXTINF:-1,TİVİ6
 http://waw1.artiyerelmedya.net/tivi6/bant1/playlist.m3u8
 #EXTINF:-1,TV8.5
-http://195.189.60.227:9091/play/a101
+http://46.29.169.27:8000/play/a01t
 #EXTINF:-1,BEYKENT TV
 https://yayin30.haber100.com/live/beykenttv/playlist.m3u8
 #EXTINF:-1,BİZİMEV TV
@@ -104,11 +108,13 @@ http://212.174.58.161/hls-live/livepkgr/_definst_/liveevent/kanalb.m3u8
 #EXTINF:-1,GENÇ TV (KIBRIS)
 https://59cba4d34b678.streamlock.net/canlitv/kibrisgenctv/chunklist_w1753396810.m3u8
 #EXTINF:-1,VAV TV
-http://195.189.60.227:9091/play/a013
+http://dcsport.xyz:8080/vVnmqp7iY6/QoozAZTRUS/338965
 #EXTINF:-1,ÜNİVERSİTE TV
 https://5be5d840359c6.streamlock.net/unitv/unitv/chunklist.m3u8
 #EXTINF:-1,FLASH HABER
 https://www.guventechnology.com:19360/flashtv/flashtv.m3u8
+#EXTINF:-1,TMB
+http://dcsport.xyz:8080/vVnmqp7iY6/QoozAZTRUS/177141
 #EXTINF:-1,TV4
 http://turkmedya-live.ercdn.net/tv4/tv4.m3u8
 #EXTINF:-1,BENGÜTÜRK
@@ -118,7 +124,7 @@ http://tv-trt2.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1,TRT HABER
 http://tv-trthaber.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1,A HABER
-http://195.189.60.227:9091/play/a036
+http://46.29.169.27:8000/play/a01n
 #EXTINF:-1,NTV
 https://dogus-live.daioncdn.net/ntv/playlist.m3u8
 #EXTINF:-1,CNN TÜRK
@@ -130,7 +136,7 @@ http://tv.ensonhaber.com/tv/tr/tgrthaber/index.m3u8
 #EXTINF:-1,HABERTÜRK
 http://tv.ensonhaber.com/tv/tr/haberturk/index.m3u8
 #EXTINF:-1,BLOOMBERG HT
-http://tv.ensonhaber.com/tv/tr/bloomberght/index.m3u8
+https://bloomberght-live.daioncdn.net/bloomberght/bloomberght.m3u8
 #EXTINF:-1,ÜLKE TV
 http://iptvmasterlink.dyndns.org:8080/UlkeTv/playlist.m3u8
 #EXTINF:-1,TVNET
@@ -152,29 +158,33 @@ http://tv-trtkurdi.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1,HABER GLOBAL
 http://tv.ensonhaber.com/tv/tr/haberglobal/index.m3u8
 #EXTINF:-1,BBN TÜRK
-http://195.189.60.227:9091/play/a0813
+http://dcsport.xyz:8080/vVnmqp7iY6/QoozAZTRUS/293339
 #EXTINF:-1,KRT TV
-http://195.189.60.227:9091/play/a089
+http://46.29.169.27:8000/play/a03u
 #EXTINF:-1,HALK TV
 http://halktv-live.ercdn.net/halktv/halktv_1080p.m3u8
 #EXTINF:-1,A PARA
-http://195.189.60.227:9091/play/a011
+http://xxxm17.xyz:80/live/Bilal/Bilal2/55087.ts
 #EXTINF:-1,EKOTÜRK
-http://195.189.60.227:9091/play/a0811
+https://mn-nl.mncdn.com/blutv_ekoturk2/live.m3u8
 #EXTINF:-1,TELE1
 http://iptvmasterlink.dyndns.org:8080/Tele1/playlist.m3u8
 #EXTINF:-1,TRT WORLD
 http://tv-trtworld.live.trt.com.tr/master_720.m3u8
 #EXTINF:-1,A NEWS
-http://195.189.60.227:9091/play/a010
+http://dcsport.xyz:8080/vVnmqp7iY6/QoozAZTRUS/13901
 #EXTINF:-1,CNN INTERNATIONAL
-http://195.189.60.227:9091/play/a145
+http://45.92.69.72:8000/play/a0il
 #EXTINF:-1,BBC WORLD NEWS
-http://195.189.60.227:9091/play/a0563
+http://45.92.69.72:8000/play/a0hs
 #EXTINF:-1,BLOOMBERG TV
 https://bloomberg-bloombergtv-1-it.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1,ALJAZEERA
 http://live-hls-web-aje.getaj.net/AJE/index.m3u8
+#EXTINF:-1,AL ARABY
+http://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/playlist.m3u8
+#EXTINF:-1,SYRIA TV
+https://svs.itworkscdn.net/syriatvlive/syriatv.smil/playlist.m3u8
 #EXTINF:-1,TRT ARABİ
 http://tv-trtarabi.live.trt.com.tr/master_720.m3u8
 #EXTINF:-1,DEUSTCHE WELLE
@@ -183,6 +193,8 @@ http://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream02/stream
 http://rakuten-euronews-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1,FRANCE 24
 http://bit.ly/3za8Sv9
+#EXTINF:-1,ALA TOO 24
+http://onlinetv.ktrk.kg:1935/live/myStream3/chunklist.m3u8
 #EXTINF:-1,CGTN
 http://live.cgtn.com/1000/prog_index.m3u8
 #EXTINF:-1,RUSSIA 24
@@ -193,6 +205,8 @@ https://umt02.videobulut.com/35/3811/RRyA893pwun5/RRyA893pwun5.mpd
 https://59cba4d34b678.streamlock.net/live1/yabantv/playlist.m3u8
 #EXTINF:-1,HABİTAT TV
 http://bit.ly/3a5RJrT
+#EXTINF:-1,TASKRÜT İZ
+http://dcsport.xyz:8080/vVnmqp7iY6/QoozAZTRUS/165597
 #EXTINF:-1,TRT BELGESEL
 http://tv-trtbelgesel.medya.trt.com.tr/master.m3u8
 #EXTINF:-1,NATIONAL GEOGRAPHIC
@@ -200,23 +214,27 @@ http://bit.ly/3GCIb48
 #EXTINF:-1,NAT GEO WILD
 http://bit.ly/3wZQ8ND
 #EXTINF:-1,VIASAT NATURE
-http://bit.ly/3Gw19sT
+https://fbox.maintr.pw/live/1D108560B0D1217FCCA13EBE48EC0DED/50.m3u8
 #EXTINF:-1,DISCOVERY CHANNEL
-http://195.189.60.227:9091/play/a0558
+http://bit.ly/3yt1VEV
 #EXTINF:-1,DISCOVERY SCIENCE
-http://195.189.60.227:9091/play/a0570
+http://bit.ly/3bAOvO3
 #EXTINF:-1,ID
 http://bit.ly/3Guwhce
 #EXTINF:-1,HISTORY CHANNEL
 http://bit.ly/3t5gR8S
 #EXTINF:-1,VIASAT HISTORY
 http://bit.ly/3N6FQ3W
-#EXTINF:-1,BBC EARTH
-http://195.189.60.227:9091/play/a147
+#EXTINF:-1,TREK
+
+#EXTINF:-1,S
+
+#EXTINF:-1
+http://bit.l#EXTINF:-1y/39UXUzD
 #EXTINF:-1,VIASAT EXPLORE
 http://bit.ly/3lVMSfO
 #EXTINF:-1,LOVE NATURE
-http://195.189.60.227:9091/play/a146
+http://bit.ly/3u9dCxS
 #EXTINF:-1,CGTN DOCUMENTARY
 http://livedoc.cgtn.com/1000d/prog_index.m3u8
 #EXTINF:-1,AZTV
