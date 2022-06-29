@@ -301,6 +301,10 @@ http://ipshka03.dyndns.tv:80/tr31/mpegts?token=2ee3c067132c62
 http://ipshka03.dyndns.tv:80/tr32/mpegts?token=2ee3c067132c62
 #EXTINF:-1,TASKRÜT SPORTS 4
 http://ipshka03.dyndns.tv:80/tr33/mpegts?token=2ee3c067132c62
+#EXTINF:-1,TASKRÜT SPORTS MAX 1
+http://dcsport.xyz:8080/vVnmqp7iY6/QoozAZTRUS/114448
+#EXTINF:-1,TASKRÜT SPORTS MAX 2
+http://dcsport.xyz:8080/vVnmqp7iY6/QoozAZTRUS/114449
 #EXTINF:-1,TASKRÜT SPORTS HABER
 http://ipshka03.dyndns.tv:80/tr02/mpegts?token=2ee3c067132c62
 #EXTINF:-1,SPORMAX
@@ -323,6 +327,14 @@ https://tv-trtspor2.medya.trt.com.tr/master.m3u8
 http://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
 #EXTINF:-1,TİVİBU SPOR
 http://bit.ly/390fly1
+#EXTINF:-1,TİVİBU SPOR 2
+http://dcsport.xyz:8080/vVnmqp7iY6/QoozAZTRUS/6049
+#EXTINF:-1,TİVİBU SPOR 3
+http://dcsport.xyz:8080/vVnmqp7iY6/QoozAZTRUS/198443
+#EXTINF:-1,TİVİBU SPOR 4
+http://dcsport.xyz:8080/vVnmqp7iY6/QoozAZTRUS/386687
+#EXTINF:-1,TİVİBU SPOR 5
+http://dcsport.xyz:8080/vVnmqp7iY6/QoozAZTRUS/399025
 #EXTINF:-1,FB TV
 http://iptvmasterlink.dyndns.org:8080/FbTv/playlist.m3u8
 #EXTINF:-1,GS TV
