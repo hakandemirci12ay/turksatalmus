@@ -423,11 +423,13 @@ http://iptvmasterlink.dyndns.org:8080/VatanTv/playlist.m3u8
 http://45.92.69.77:8000/play/a01e/index.m3u8
 #EXTINF:-1,MTV HITS
 http://dcsport.xyz:8080/vVnmqp7iY6/QoozAZTRUS/260098
-#EXTINF:-1,TRACE URBAN
-https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1,INSIGHT TV
+http://dcsport.xyz:8080/vVnmqp7iY6/QoozAZTRUS/384162
 #EXTINF:-1,FASHION TV
 https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_pg13_zw9_27065_ftv_pg13_196_hls.smil/playlist.m3u8
 #EXTINF:-1,FASHION ONE
 https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e2ee6997cb_1/playlist.m3u8
-#EXTINF:-1,INSIGHT TV
-http://dcsport.xyz:8080/vVnmqp7iY6/QoozAZTRUS/384162
+#EXTINF:-1,TRACE URBAN
+https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1,360 TUNE BOX
+http://xxxm17.xyz:80/live/Bilal/Bilal2/88777.ts
