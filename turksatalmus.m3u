@@ -47,8 +47,12 @@ http://bit.ly/3lVMgH2
 http://bit.ly/3LYkGDD
 #EXTINF:-1,MYZEN TV
 http://45.92.69.77:8000/play/a00i/index.m3u8
+#EXTINF:-1,DOĞU TV
+https://umt02.videobulut.com/35/3811/hEK95AZK9bbT/hEK95AZK9bbT.mpd
 #EXTINF:-1,FİL TV
 https://umt02.videobulut.com/35/3811/X6wGTC7np3fK/X6wGTC7np3fK.mpd
+#EXTINF:-1,FİLMAX
+https://umt02.videobulut.com/35/3811/4XXMMshMCKGw/4XXMMshMCKGw.mpd
 #EXTINF:-1,FİLODİ
 https://umt02.videobulut.com/35/3811/27GT0XRsA2sV/27GT0XRsA2sV.mpd
 #EXTINF:-1,TASKRÜT GURME
@@ -389,6 +393,8 @@ http://dost.stream.emsal.im/tv/live.m3u8
 http://m.live.net.sa:1935/live/quran/playlist.m3u8
 #EXTINF:-1,AL SUNNAH AL NABAWIYAH
 http://m.live.net.sa:1935/live/sunnah/playlist.m3u8
+#EXTINF:-1,SUNLIGHT TV
+https://umt02.videobulut.com/35/3811/Rfj8Zy2pwun5/Rfj8Zy2pwun5.mpd
 #EXTINF:-1,FLOW TV
 https://cdn.videobulut.com/35/3811/dEh7nTAK5bAh/dEh7nTAK5bAh.mpd
 #EXTINF:-1,MCM TOP
@@ -441,7 +447,11 @@ http://dcsport.xyz:8080/vVnmqp7iY6/QoozAZTRUS/384162
 https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_pg13_zw9_27065_ftv_pg13_196_hls.smil/playlist.m3u8
 #EXTINF:-1,FASHION ONE
 https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e2ee6997cb_1/playlist.m3u8
+#EXTINF:-1,WORLD FASHION
+https://wfcint.mediacdn.ru/cdn/wfcintweb/playlist.m3u8
 #EXTINF:-1,TRACE URBAN
 https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1,360 TUNE BOX
 http://xxxm17.xyz:80/live/Bilal/Bilal2/88777.ts
+#EXTINF:-1,ZAZA TV
+http://xxxm17.xyz:80/live/Bilal/Bilal2/213390.ts
