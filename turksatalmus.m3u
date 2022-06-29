@@ -455,3 +455,11 @@ https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
 http://xxxm17.xyz:80/live/Bilal/Bilal2/88777.ts
 #EXTINF:-1,ZAZA TV
 http://xxxm17.xyz:80/live/Bilal/Bilal2/213390.ts
+#EXTINF:-1,MEDYA HABER
+http://176.10.117.18:8000/play/a01j
+#EXTINF:-1,ARTI TV
+http://xxxm17.xyz:80/live/Bilal/Bilal2/194429.ts
+#EXTINF:-1,MED MUSIC
+http://176.10.117.18:8000/play/a00k
+#EXTINF:-1,STERK TV
+http://176.10.117.18:8000/play/a00l
