@@ -281,6 +281,8 @@ http://195.250.85.151:4002/play/perviy-kanal/index.m3u8
 http://62.2.85.68:39981/play/a02g
 #EXTINF:-1,TRT SPOR
 http://tv-trtspor1.medya.trt.com.tr/master_720.m3u8
+#EXTINF:-1,STAR SPOR
+http://37.221.121.166:8383/hls/trspor/index.m3u8
 #EXTINF:-1,A SPOR
 https://trkvz-live.daioncdn.net/aspor/aspor_1080p.m3u8
 #EXTINF:-1,TRACE SPORT STARS
