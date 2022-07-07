@@ -185,6 +185,8 @@ http://dcsport.xyz:8080/vVnmqp7iY6/QoozAZTRUS/13901
 http://45.92.69.72:8000/play/a0il
 #EXTINF:-1,BBC WORLD NEWS
 http://45.92.69.72:8000/play/a0hs
+#EXTINF:-1,FOX NEWS CHANNEL
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/401832
 #EXTINF:-1,BLOOMBERG TV
 https://bloomberg-bloombergtv-1-it.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1,ALJAZEERA
@@ -215,6 +217,8 @@ https://59cba4d34b678.streamlock.net/live1/yabantv/playlist.m3u8
 http://bit.ly/3a5RJrT
 #EXTINF:-1,TASKRÜT İZ
 http://dcsport.xyz:8080/vVnmqp7iY6/QoozAZTRUS/165597
+#EXTINF:-1,NAUTICAL CHANNEL
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/211323
 #EXTINF:-1,TRT BELGESEL
 http://tv-trtbelgesel.medya.trt.com.tr/master.m3u8
 #EXTINF:-1,NATIONAL GEOGRAPHIC
@@ -279,8 +283,14 @@ http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/pla
 http://95.67.106.242:80/hls/ua-tv_ua_mid/index.m3u8
 #EXTINF:-1,CHANNEL ONE RUSSIA
 https://edge3.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
+#EXTINF:-1,PRO7
+http://185.236.229.229:9091/play/a01x
+#EXTINF:-1,RTL
+http://185.236.229.229:9091/play/a00d
 #EXTINF:-1,RAI UNO
 http://62.2.85.68:39981/play/a02g
+#EXTINF:-1,VOX
+http://185.236.229.229:9091/play/a00e
 #EXTINF:-1,TRT SPOR
 http://tv-trtspor1.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1,STAR SPOR
