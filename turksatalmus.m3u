@@ -86,13 +86,13 @@ https://live.duhnet.tv/S2/HLS_LIVE/kanalddainp/track_4_1250/playlist.m3u8
 #EXTINF:41,STAR TV
 https://dogus-live.daioncdn.net/startv/playlist.m3u8
 #EXTINF:42,KANAL 7
-https://live.kanal7.com/live/kanal7LiveDesktop/index.m3u8
+https://mn-nl.mncdn.com/blutv_kanal72/live.m3u8
 #EXTINF:43,FOX TV
 https://foxtv.blutv.com/blutv_foxtv_live/live.m3u8
 #EXTINF:44,TV8
 http://dcsport.xyz:8080/vVnmqp7iY6/QoozAZTRUS/2586
 #EXTINF:45,BEYAZ TV
-https://tv.ensonhaber.com/tv/tr/beyaztv/index.m3u8
+https://mn-nl.mncdn.com/blutv_kanal72/live.m3u8
 #EXTINF:46,KANAL V
 https://waw1.artiyerelmedya.net/kanalv/bant1/chunks.m3u8
 #EXTINF:47,KOZA TV
@@ -102,7 +102,7 @@ https://edge1.socialsmart.tv/tekrumelitv/bant1/playlist.m3u8
 #EXTINF:49,SHOW MAX
 http://iptvmasterlink.dyndns.org:8080/ShowMax/playlist.m3u8
 #EXTINF:50,A2
-http://dcsport.xyz:8080/vVnmqp7iY6/QoozAZTRUS/13902
+http://nox20b.xyz:80/live/kadir01/kadir01/147.ts
 #EXTINF:51,TEVE2
 https://live.duhnet.tv/S2/HLS_LIVE/teve2np/playlist.m3u8
 #EXTINF:52,360 TV
