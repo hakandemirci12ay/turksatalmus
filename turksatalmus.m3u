@@ -64,13 +64,13 @@ http://bit.ly/3LYkGDD
 #EXTINF:30,MYZEN TV
 http://45.92.69.77:8000/play/a00i/index.m3u8
 #EXTINF:31,DOĞU TV
-https://umt02.videobulut.com/35/3811/bEXT8nnK3VAd/bEXT8nnK3VAd.mpd
+https://umt02.videobulut.com/35/3811/sEy4ZZ1j0Kd7/sEy4ZZ1j0Kd7.mpd
 #EXTINF:32,FİL TV
-https://umt02.videobulut.com/35/3811/ERMR9w9R62KK/ERMR9w9R62KK.mpd
+https://umt02.videobulut.com/35/3811/Gp9TZ11K8KbR/Gp9TZ11K8KbR.mpd
 #EXTINF:33,FİLMAX
-https://cdn.videobulut.com/35/3811/C78480hR4jjf/C78480hR4jjf.mpd
+https://umt02.videobulut.com/35/3811/dE8bdwdK5bAh/dE8bdwdK5bAh.mpd
 #EXTINF:34,FİLODİ
-https://umt02.videobulut.com/35/3811/b7TZs1nR3ujd/b7TZs1nR3ujd.mpd
+https://umt02.videobulut.com/35/3811/b6AfdXnK3VAd/b6AfdXnK3VAd.mpd
 #EXTINF:35,TASKRÜT H&E
 http://nox20b.xyz:80/live/kadir01/kadir01/73032.ts
 #EXTINF:36,TASKRÜT GURME
@@ -86,13 +86,13 @@ https://live.duhnet.tv/S2/HLS_LIVE/kanalddainp/track_4_1250/playlist.m3u8
 #EXTINF:41,STAR TV
 https://dogus-live.daioncdn.net/startv/playlist.m3u8
 #EXTINF:42,KANAL 7
-https://mn-nl.mncdn.com/blutv_kanal72/live.m3u8
+https://live.kanal7.com/live/kanal7LiveDesktop/index.m3u8
 #EXTINF:43,FOX TV
-https://foxtv.blutv.com/blutv_foxtv_live/live.m3u8
+https://59c7ea6bec1c6.streamlock.net/filbox/foxtv.stream/playlist.m3u8
 #EXTINF:44,TV8
-http://dcsport.xyz:8080/vVnmqp7iY6/QoozAZTRUS/2586
+https://tv8-live.daioncdn.net/tv8/tv8.m3u8
 #EXTINF:45,BEYAZ TV
-https://mn-nl.mncdn.com/blutv_kanal72/live.m3u8
+https://tv.ensonhaber.com/tv/tr/beyaztv/index.m3u8
 #EXTINF:46,KANAL V
 https://waw1.artiyerelmedya.net/kanalv/bant1/chunks.m3u8
 #EXTINF:47,KOZA TV
@@ -202,7 +202,7 @@ http://45.92.69.72:8000/play/a0il
 #EXTINF:104,BBC WORLD NEWS
 http://45.92.69.72:8000/play/a0hs
 #EXTINF:105,FOX NEWS CHANNEL
-http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/401832
+http://45.225.95.171:8000/play/a0hw/index.m3u8
 #EXTINF:106,BLOOMBERG TV
 https://bloomberg-bloombergtv-1-it.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:110,ALJAZEERA
@@ -226,15 +226,15 @@ http://live.cgtn.com/1000/prog_index.m3u8
 #EXTINF:121,RUSSIA 24
 http://radio-live-mg.rtr-vesti.ru/hls/russia_24/playlist_2.m3u8
 #EXTINF:122,DOCUMAX
-https://cdn.videobulut.com/35/3811/TfGRsuZp1An9/TfGRsuZp1An9.mpd
+https://umt02.videobulut.com/35/3811/TXX2dZZj1bd9/TXX2dZZj1bd9.mpd
 #EXTINF:123,YABAN TV
 https://59cba4d34b678.streamlock.net/live1/yabantv/playlist.m3u8
 #EXTINF:123,HABİTAT TV
 http://bit.ly/3a5RJrT
 #EXTINF:124,TASKRÜT İZ
-http://dcsport.xyz:8080/vVnmqp7iY6/QoozAZTRUS/165597
+http://nox20b.xyz:80/live/kadir01/kadir01/77.ts
 #EXTINF:125,NAUTICAL CHANNEL
-http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/211323
+http://cdnua06.hls.tv/476/hls/061df9d47a31d5ffeeee40bbf3333deb/4245/stream.m3u8
 #EXTINF:126,TRT BELGESEL
 http://tv-trtbelgesel.medya.trt.com.tr/master.m3u8
 #EXTINF:127,NATIONAL GEOGRAPHIC
@@ -242,11 +242,11 @@ http://bit.ly/3GCIb48
 #EXTINF:128,NAT GEO WILD
 http://bit.ly/3wZQ8ND
 #EXTINF:129,VIASAT NATURE
-http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/284470
+http://nox20b.xyz:80/live/kadir01/kadir01/34392.ts
 #EXTINF:130,DISCOVERY CHANNEL
-http://bit.ly/3uHJlXk
+http://dcsport.xyz:8080/vVnmqp7iY6/QoozAZTRUS/1528
 #EXTINF:131,DISCOVERY SCIENCE
-http://bit.ly/3c2NSgn
+http://dcsport.xyz:8080/vVnmqp7iY6/QoozAZTRUS/1529
 #EXTINF:132,ID
 http://bit.ly/3Guwhce
 #EXTINF:133,HISTORY CHANNEL
@@ -260,11 +260,11 @@ http://dcsport.xyz:8080/vVnmqp7iY6/QoozAZTRUS/384160
 #EXTINF:137,DOCUBOX
 http://dcsport.xyz:8080/vVnmqp7iY6/QoozAZTRUS/350386
 #EXTINF:138,BBC EARTH
-http://bit.ly/3O0nscy
+http://dcsport.xyz:8080/vVnmqp7iY6/QoozAZTRUS/12511
 #EXTINF:138,LOVE NATURE
-http://bit.ly/3ag69GF
+http://dcsport.xyz:8080/vVnmqp7iY6/QoozAZTRUS/384161
 #EXTINF:144,VIASAT EXPLORE
-http://dcsport.xyz:8080/vVnmqp7iY6/QoozAZTRUS/350384
+http://nox20b.xyz:80/live/kadir01/kadir01/50690.ts
 #EXTINF:145,ANIMAUX
 http://dcsport.xyz:8080/vVnmqp7iY6/QoozAZTRUS/384166
 #EXTINF:145,RTG INT
@@ -284,28 +284,30 @@ https://ott.tv5monde.com/Content/HLS/Live/channel(europe)/variant.m3u8
 #EXTINF:156,CCTV-4
 http://111.63.117.13:6060/030000001000/CCTV-4/CCTV-4.m3u8
 #EXTINF:157,SAUDI TV
-http://185.236.229.50:8003/play/a02y
+https://edge.taghtia.com/sa/2.m3u8
 #EXTINF:158,QAZAQ TV
 https://kzkhtv.ultraiptv.com/kzkhtv/stream_5.m3u8
-#EXTINF:159,RTR PLANETA
+#EXTINF:159,HAYAT PLUS
+http://79.101.53.3:8005/play/a06t/index.m3u8
+#EXTINF:160,RTR PLANETA
 http://62.2.85.68:39981/play/a00i
-#EXTINF:160,KBS WORLD
+#EXTINF:161,KBS WORLD
 http://livecdn.fptplay.net/sdb/kbs_hls.smil/playlist.m3u8
-#EXTINF:161,NHK WORLD-JPN
+#EXTINF:162,NHK WORLD-JPN
 http://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u8
-#EXTINF:162,ARIRANG
+#EXTINF:163,ARIRANG
 http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
-#EXTINF:163,UA TV
+#EXTINF:164,UA TV
 http://95.67.106.242:80/hls/ua-tv_ua_mid/index.m3u8
-#EXTINF:164,CHANNEL ONE RUSSIA
+#EXTINF:165,CHANNEL ONE RUSSIA
 https://edge3.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
-#EXTINF:165,PRO7
+#EXTINF:166,PRO7
 http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/3427
-#EXTINF:166,RTL
-http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/3424
-#EXTINF:167,RAI UNO
+#EXTINF:167,RTL
+http://45.92.69.70:8001/play/a04r
+#EXTINF:168,RAI UNO
 http://62.2.85.68:39981/play/a02g
-#EXTINF:168,VOX
+#EXTINF:169,VOX
 http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/3361
 #EXTINF:238,TRT SPOR
 http://tv-trtspor1.medya.trt.com.tr/master_720.m3u8
@@ -322,13 +324,15 @@ http://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:245,FIGHTBOX
 http://dcsport.xyz:8080/vVnmqp7iY6/QoozAZTRUS/240517
 #EXTINF:246,FAST & FUNBOX
-http://dcsport.xyz:8080/vVnmqp7iY6/QoozAZTRUS/350388
+http://nox20b.xyz:80/live/kadir01/kadir01/23372.ts
 #EXTINF:247,FIGHT NETWORK
 http://bit.ly/3a5RZHn
 #EXTINF:248,FİL SPOR 1
-https://cdn.videobulut.com/35/3811/16fZsGZnTbfT/16fZsGZnTbfT.mpd
+https://cdn.videobulut.com/35/3811/Cf120fhR4jjf/Cf120fhR4jjf.mpd
 #EXTINF:249,TASKRÜT SPORTS 1
 http://dcsport.xyz:8080/vVnmqp7iY6/QoozAZTRUS/6046
+#EXTINF:249,TASKRÜT SPORTS 1 yedek
+http://ipshka03.dyndns.tv:80/tr30/mpegts?token=2ee3c067132c62
 #EXTINF:250,TASKRÜT SPORTS 2
 http://ipshka03.dyndns.tv:80/tr31/mpegts?token=2ee3c067132c62
 #EXTINF:251,TASKRÜT SPORTS 3
@@ -354,7 +358,7 @@ http://dcsport.xyz:8080/vVnmqp7iY6/QoozAZTRUS/299043
 #EXTINF:261,NBA TV
 http://dcsport.xyz:8080/vVnmqp7iY6/QoozAZTRUS/13245
 #EXTINF:262,EDGE SPORT
-http://dcsport.xyz:8080/vVnmqp7iY6/QoozAZTRUS/423775
+https://edgesport-samsungus.amagi.tv/playlist.m3u8
 #EXTINF:263,TRT SPOR YILDIZ
 https://tv-trtspor2.medya.trt.com.tr/master.m3u8
 #EXTINF:264,SPORTS TV
@@ -368,7 +372,9 @@ http://dcsport.xyz:8080/vVnmqp7iY6/QoozAZTRUS/198443
 #EXTINF:268,TİVİBU SPOR 4
 http://dcsport.xyz:8080/vVnmqp7iY6/QoozAZTRUS/386687
 #EXTINF:269,TİVİBU SPOR 5
-http://dcsport.xyz:8080/vVnmqp7iY6/QoozAZTRUS/399025
+http://nox20b.xyz:80/live/kadir01/kadir01/106398.ts
+#EXTINF:270,EXXEN SPOR
+http://nox20b.xyz:80/live/kadir01/kadir01/76633.ts
 #EXTINF:271,FB TV
 http://iptvmasterlink.dyndns.org:8080/FbTv/playlist.m3u8
 #EXTINF:272,GS TV
@@ -380,13 +386,13 @@ http://tjktv-live.tjk.org/tjktv.m3u8
 #EXTINF:362,TRT 4K
 http://dcsport.xyz:8080/vVnmqp7iY6/QoozAZTRUS/187758
 #EXTINF:363,GAMETOON
-http://dcsport.xyz:8080/vVnmqp7iY6/QoozAZTRUS/423774
+http://79.101.53.3:8005/play/a02z/index.m3u8
 #EXTINF:439,TRT ÇOCUK
 http://tv-trtcocuk.live.trt.com.tr/master_720.m3u8
 #EXTINF:440,ÇOCUKSMART
-http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/1851
+http://dcsport.xyz:8080/vVnmqp7iY6/QoozAZTRUS/139521
 #EXTINF:441,BOOMERANG TV
-https://bit.ly/3yA7qQO
+http://dcsport.xyz:8080/vVnmqp7iY6/QoozAZTRUS/176631
 #EXTINF:442,CBEEBIES
 http://dcsport.xyz:8080/vVnmqp7iY6/QoozAZTRUS/155571
 #EXTINF:443,DISNEY JUNIOR
@@ -398,7 +404,7 @@ http://dcsport.xyz:8080/vVnmqp7iY6/QoozAZTRUS/6053
 #EXTINF:446,NICKTOONS
 http://bit.ly/3lRQ2B9
 #EXTINF:447,NICK JR.
-http://dcsport.xyz:8080/vVnmqp7iY6/QoozAZTRUS/6041
+http://nox20b.xyz:80/live/kadir01/kadir01/28346.ts
 #EXTINF:448,minikaCOCUK
 http://dcsport.xyz:8080/vVnmqp7iY6/QoozAZTRUS/1868
 #EXTINF:449,minikaGO
@@ -408,7 +414,7 @@ http://mmm-ducktv-2-it.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:451,DA VINCI
 http://bit.ly/3MV7FvM
 #EXTINF:452,ENGLISH CLUB TV
-http://dcsport.xyz:8080/vVnmqp7iY6/QoozAZTRUS/384163
+http://cdnua06.hls.tv/476/hls/061df9d47a31d5ffeeee40bbf3333deb/69/stream.m3u8
 #EXTINF:456,TRT EBA TV İLKOKUL
 https://tv-e-okul00.medya.trt.com.tr/master.m3u8
 #EXTINF:457,TRT EBA TV ORTAOKUL
@@ -458,7 +464,7 @@ http://livetv.powerapp.com.tr/powerTV/powerhd.smil/playist.m3u8
 #EXTINF:674,POWERTÜRK TV
 http://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/playist.m3u8
 #EXTINF:675,MİLYON TV
-https://sosyoapp-live.cdnnew.com/sosyo/buraya-bir-isim-verin.m3u8
+https://mn-nl.mncdn.com/blutv_milyontv/milyontv_sd.smil/playlist.m3u8
 #EXTINF:676,TATLISES TV
 http://waw2.artiyerelmedya.net/tatlisestv/bant1/playlist.m3u8
 #EXTINF:677,EKİNTÜRK TV
