@@ -371,15 +371,19 @@ http://dcsport.xyz:8080/vVnmqp7iY6/QoozAZTRUS/198443
 http://dcsport.xyz:8080/vVnmqp7iY6/QoozAZTRUS/386687
 #EXTINF:269,TİVİBU SPOR 5
 http://nox20b.xyz:80/live/kadir01/kadir01/106398.ts
-#EXTINF:270,EXXEN SPOR
+#EXTINF:270,EXXEN SPOR 1
 http://dcsport.xyz:8080/vVnmqp7iY6/QoozAZTRUS/299610
-#EXTINF:271,FB TV
+#EXTINF:271,EXXEN SPOR 2
+http://dcsport.xyz:8080/vVnmqp7iY6/QoozAZTRUS/371282
+#EXTINF:272,EXXEN SPOR 3
+http://dcsport.xyz:8080/vVnmqp7iY6/QoozAZTRUS/371281
+#EXTINF:273,FB TV
 http://iptvmasterlink.dyndns.org:8080/FbTv/playlist.m3u8
-#EXTINF:272,GS TV
+#EXTINF:274,GS TV
 https://owifavo5.rocketcdn.com/gstv/gstv.smil/master.m3u8
-#EXTINF:274,T.A.Y TV
+#EXTINF:275,T.A.Y TV
 https://mn-nl.mncdn.com/blutv_taytv2/live.m3u8
-#EXTINF:275,TJK TV
+#EXTINF:276,TJK TV
 http://tjktv-live.tjk.org/tjktv.m3u8
 #EXTINF:362,TRT 4K
 http://dcsport.xyz:8080/vVnmqp7iY6/QoozAZTRUS/187758
