@@ -331,20 +331,18 @@ http://bit.ly/3a5RZHn
 https://cdn.videobulut.com/35/3811/Cf120fhR4jjf/Cf120fhR4jjf.mpd
 #EXTINF:249,TASKRÜT SPORTS 1
 http://dcsport.xyz:8080/vVnmqp7iY6/QoozAZTRUS/6046
-#EXTINF:249,TASKRÜT SPORTS 1 yedek
-http://ipshka03.dyndns.tv:80/tr30/mpegts?token=2ee3c067132c62
 #EXTINF:250,TASKRÜT SPORTS 2
-http://ipshka03.dyndns.tv:80/tr31/mpegts?token=2ee3c067132c62
+http://dcsport.xyz:8080/vVnmqp7iY6/QoozAZTRUS/631
 #EXTINF:251,TASKRÜT SPORTS 3
-http://ipshka03.dyndns.tv:80/tr32/mpegts?token=2ee3c067132c62
+http://dcsport.xyz:8080/vVnmqp7iY6/QoozAZTRUS/162816
 #EXTINF:252,TASKRÜT SPORTS 4
-http://ipshka03.dyndns.tv:80/tr33/mpegts?token=2ee3c067132c62
+http://dcsport.xyz:8080/vVnmqp7iY6/QoozAZTRUS/123298
 #EXTINF:253,TASKRÜT SPORTS MAX 1
 http://dcsport.xyz:8080/vVnmqp7iY6/QoozAZTRUS/114448
 #EXTINF:254,TASKRÜT SPORTS MAX 2
 http://dcsport.xyz:8080/vVnmqp7iY6/QoozAZTRUS/114449
 #EXTINF:255,TASKRÜT SPORTS HABER
-http://ipshka03.dyndns.tv:80/tr02/mpegts?token=2ee3c067132c62
+https://59c7ea6bec1c6.streamlock.net/filbox/beinsporthaber.stream/playlist.m3u8
 #EXTINF:256,SPORMAX
 https://stream2.yayinla.live:8443/tvlive/rU5tLKQHvFdNmgjUh0i5rQL0FD0oZ7B4/index.m3u8?token=test
 #EXTINF:257,SPORSMART
@@ -374,7 +372,7 @@ http://dcsport.xyz:8080/vVnmqp7iY6/QoozAZTRUS/386687
 #EXTINF:269,TİVİBU SPOR 5
 http://nox20b.xyz:80/live/kadir01/kadir01/106398.ts
 #EXTINF:270,EXXEN SPOR
-http://guektvx15.net:8080/samidogu15ay/btp29112020/41866
+http://dcsport.xyz:8080/vVnmqp7iY6/QoozAZTRUS/299610
 #EXTINF:271,FB TV
 http://iptvmasterlink.dyndns.org:8080/FbTv/playlist.m3u8
 #EXTINF:272,GS TV
