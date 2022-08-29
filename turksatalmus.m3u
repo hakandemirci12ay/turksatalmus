@@ -311,8 +311,8 @@ http://62.2.85.68:39981/play/a02g
 http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/3361
 #EXTINF:238,TRT SPOR
 http://tv-trtspor1.medya.trt.com.tr/master_720.m3u8
-#EXTINF:239,TV8 SPOR
-http://37.221.121.166:8383/hls/trspor/index.m3u8
+#EXTINF:239,NTV SPOR
+http://37.221.121.137:8585/hls/ntvspor/index.m3u8
 #EXTINF:240,A SPOR
 https://trkvz-live.daioncdn.net/aspor/aspor_1080p.m3u8
 #EXTINF:241,EUROSPORT 1
