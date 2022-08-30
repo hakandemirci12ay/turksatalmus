@@ -145,6 +145,8 @@ http://turkmedya-live.ercdn.net/tv4/tv4.m3u8
 http://tv.ensonhaber.com/tv/tr/benguturk/index.m3u8
 #EXTINF:69,TRT 2
 http://tv-trt2.medya.trt.com.tr/master_720.m3u8
+#EXTINF:70,TARİH TV
+https://bit.ly/3e6ppYK
 #EXTINF:75,TRT HABER
 http://tv-trthaber.medya.trt.com.tr/master_720.m3u8
 #EXTINF:76,A HABER
@@ -274,7 +276,7 @@ http://livedoc.cgtn.com/1000d/prog_index.m3u8
 #EXTINF:147,CHASSE & PECHE
 http://dcsport.xyz:8080/vVnmqp7iY6/QoozAZTRUS/384164
 #EXTINF:153,AZTV
-http://mfe.cliptv.az/dash/AzTV_SD.ism/playlist.mpd
+http://88.vip12cft.xyz:80/live/ahmetsen/WaP4yQHk6C/176610.ts
 #EXTINF:154,TÜRKMENELİ TV
 https://137840.global.ssl.fastly.net/6007ebae6349fb1839321e09/live_0f21e9d07bc411ec9940a1f551f87644/tracks-v1a1/mono.m3u8
 #EXTINF:155,BBC ENTERTAINMENT
@@ -282,13 +284,13 @@ http://45.92.69.72:8001/play/a03m
 #EXTINF:156,TV5MONDE EUROPE
 https://ott.tv5monde.com/Content/HLS/Live/channel(europe)/variant.m3u8
 #EXTINF:156,CCTV-4
-http://111.63.117.13:6060/030000001000/CCTV-4/CCTV-4.m3u8
+http://39.134.115.163:8080/PLTV/88888910/224/3221225621/index.m3u8
 #EXTINF:157,SAUDI TV
 https://edge.taghtia.com/sa/2.m3u8
 #EXTINF:158,QAZAQ TV
 https://kzkhtv.ultraiptv.com/kzkhtv/stream_5.m3u8
 #EXTINF:159,HAYAT PLUS
-http://mag.abcdxyz.one:80/live/7f9w4fM9Cs/GiJhjuxgRp/9097.m3u8
+http://88.vip12cft.xyz:80/live/ahmetsen/WaP4yQHk6C/181842.ts
 #EXTINF:160,RTR PLANETA
 http://62.2.85.68:39981/play/a00i
 #EXTINF:161,KBS WORLD
@@ -302,13 +304,13 @@ http://95.67.106.242:80/hls/ua-tv_ua_mid/index.m3u8
 #EXTINF:165,CHANNEL ONE RUSSIA
 https://edge3.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
 #EXTINF:166,PRO7
-http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/3427
+http://185.186.81.78:8002/play/a0cz
 #EXTINF:167,RTL
-http://45.92.69.70:8001/play/a04r
+http://185.186.81.78:8002/play/a051
 #EXTINF:168,RAI UNO
 http://62.2.85.68:39981/play/a02g
 #EXTINF:169,VOX
-http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/3361
+http://85.4.160.165:8080/play/a0fc
 #EXTINF:238,TRT SPOR
 http://tv-trtspor1.medya.trt.com.tr/master_720.m3u8
 #EXTINF:239,NTV SPOR
@@ -364,13 +366,13 @@ http://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
 #EXTINF:265,TİVİBU SPOR
 http://bit.ly/390fly1
 #EXTINF:266,TİVİBU SPOR 2
-http://nox20b.xyz:80/live/kadir01/kadir01/40.ts
+http://hd-max.org:8080/vVnmqp7iY6/QoozAZTRUS/6049
 #EXTINF:267,TİVİBU SPOR 3
 http://dcsport.xyz:8080/vVnmqp7iY6/QoozAZTRUS/198443
 #EXTINF:268,TİVİBU SPOR 4
 http://dcsport.xyz:8080/vVnmqp7iY6/QoozAZTRUS/386687
 #EXTINF:269,TİVİBU SPOR 5
-http://nox20b.xyz:80/live/kadir01/kadir01/106398.ts
+http://hd-max.org:8080/vVnmqp7iY6/QoozAZTRUS/399025
 #EXTINF:270,EXXEN SPOR 1
 http://dcsport.xyz:8080/vVnmqp7iY6/QoozAZTRUS/371283
 #EXTINF:271,EXXEN SPOR 2
@@ -396,7 +398,7 @@ http://78.25.155.47:1309/channel/Karusel.ts
 #EXTINF:439,TRT ÇOCUK
 http://tv-trtcocuk.live.trt.com.tr/master_720.m3u8
 #EXTINF:440,ÇOCUKSMART
-http://mag.abcdxyz.one:80/live/7f9w4fM9Cs/GiJhjuxgRp/1891.m3u8
+http://hd-max.org:8080/vVnmqp7iY6/QoozAZTRUS/139521
 #EXTINF:441,BOOMERANG TV
 http://dcsport.xyz:8080/vVnmqp7iY6/QoozAZTRUS/176631
 #EXTINF:442,BBC CBEEBIES
@@ -410,7 +412,7 @@ http://dcsport.xyz:8080/vVnmqp7iY6/QoozAZTRUS/6053
 #EXTINF:446,NICKTOONS
 http://bit.ly/3lRQ2B9
 #EXTINF:447,NICK JR.
-http://nox20b.xyz:80/live/kadir01/kadir01/28346.ts
+http://hd-max.org:8080/vVnmqp7iY6/QoozAZTRUS/6041
 #EXTINF:448,minikaCOCUK
 http://dcsport.xyz:8080/vVnmqp7iY6/QoozAZTRUS/1868
 #EXTINF:449,minikaGO
@@ -420,7 +422,7 @@ http://mmm-ducktv-2-it.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:451,DA VINCI
 http://bit.ly/3MV7FvM
 #EXTINF:452,ENGLISH CLUB TV
-http://cdnua06.hls.tv/476/hls/061df9d47a31d5ffeeee40bbf3333deb/69/stream.m3u8
+http://91.213.59.156/play/87/index.m3u8
 #EXTINF:456,TRT EBA TV İLKOKUL
 https://tv-e-okul00.medya.trt.com.tr/master.m3u8
 #EXTINF:457,TRT EBA TV ORTAOKUL
@@ -446,7 +448,7 @@ http://dcsport.xyz:8080/vVnmqp7iY6/QoozAZTRUS/240518
 #EXTINF:662,MEZZO
 http://dcsport.xyz:8080/vVnmqp7iY6/QoozAZTRUS/2202
 #EXTINF:663,MTV 00s
-http://dcsport.xyz:8080/vVnmqp7iY6/QoozAZTRUS/260099
+http://88.vip12cft.xyz:80/live/ahmetsen/WaP4yQHk6C/139673.ts
 #EXTINF:664,TRT MÜZİK
 http://tv-trtmuzik.medya.trt.com.tr/master_720.m3u8
 #EXTINF:665,KRAL TV
@@ -458,7 +460,7 @@ https://live.duhnet.tv/S2/HLS_LIVE/dreamturknp/playlist.m3u8
 #EXTINF:668,NUMBER1 TV
 https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e17cd6360b_1/playlist.m3u8
 #EXTINF:669,NUMBER1 TURK
-http://mag.abcdxyz.one:80/live/7f9w4fM9Cs/GiJhjuxgRp/191179.m3u8
+http://hd-max.org:8080/vVnmqp7iY6/QoozAZTRUS/227675
 #EXTINF:670,NUMBER1 DANCE
 https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e2aa8acf44_1/playlist.m3u8
 #EXTINF:671,NUMBER1 AŞK
@@ -484,7 +486,7 @@ http://dcsport.xyz:8080/vVnmqp7iY6/QoozAZTRUS/150014
 #EXTINF:681,VATAN
 http://iptvmasterlink.dyndns.org:8080/VatanTv/playlist.m3u8
 #EXTINF:682,MTV LIVE
-http://nox20b.xyz:80/live/kadir01/kadir01/73031.ts
+http://88.vip12cft.xyz:80/live/ahmetsen/WaP4yQHk6C/139674.ts
 #EXTINF:683,MTV HITS
 http://dcsport.xyz:8080/vVnmqp7iY6/QoozAZTRUS/260098
 #EXTINF:684,INSIGHT TV
@@ -498,7 +500,7 @@ https://wfcint.mediacdn.ru/cdn/wfcintweb/playlist.m3u8
 #EXTINF:688,TRACE URBAN
 https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:689,360 TUNE BOX
-http://nox20b.xyz:80/live/kadir01/kadir01/23374.ts
+http://88.vip12cft.xyz:80/live/ahmetsen/WaP4yQHk6C/92856.ts
 #EXTINF:701,ZAZA TV
 http://nox20b.xyz:80/live/kadir01/kadir01/63895.ts
 #EXTINF:702,MEDYA HABER
