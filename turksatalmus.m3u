@@ -203,22 +203,26 @@ http://bit.ly/3x30uvL
 http://bit.ly/3qg0uoj
 #EXTINF:103,CNN INTERNATIONAL
 http://bit.ly/3RI7c1W
-#EXTINF:104,BBC WORLD NEWS
+#EXTINF:104,CNBC
+https://bit.ly/3TGU3rM
+#EXTINF:105,BBC WORLD NEWS
 http://bit.ly/3D2aqcw
-#EXTINF:105,FOX NEWS CHANNEL
+#EXTINF:106,FOX NEWS CHANNEL
 http://45.225.95.171:8000/play/a0hw/index.m3u8
-#EXTINF:106,BLOOMBERG TV
-https://bloomberg-bloombergtv-1-it.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:107,BLOOMBERG TV
+http://bit.ly/3etE28H
 #EXTINF:110,ALJAZEERA
-http://live-hls-web-aje.getaj.net/AJE/index.m3u8
+http://bit.ly/3qfbYs6
 #EXTINF:111,AL ARABY
 http://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/playlist.m3u8
 #EXTINF:112,SYRIA TV
 https://svs.itworkscdn.net/syriatvlive/syriatv.smil/playlist.m3u8
 #EXTINF:113,TRT ARABİ
-http://tv-trtarabi.live.trt.com.tr/master_720.m3u8
+http://bit.ly/3TQQT4I
+#EXTINF:114,RT ARABIC
+http://bit.ly/3TL9tvc
 #EXTINF:116,DEUSTCHE WELLE
-http://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream02/streamPlaylist.m3u8
+http://bit.ly/3x2m3g1
 #EXTINF:117,EURONEWS
 http://rakuten-euronews-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:118,FRANCE 24
@@ -284,7 +288,7 @@ https://137840.global.ssl.fastly.net/6007ebae6349fb1839321e09/live_0f21e9d07bc41
 #EXTINF:155,BBC ENTERTAINMENT
 http://45.92.69.72:8001/play/a03m
 #EXTINF:156,TV5MONDE EUROPE
-https://ott.tv5monde.com/Content/HLS/Live/channel(europe)/variant.m3u8
+http://bit.ly/3qfmU9a
 #EXTINF:156,CCTV-4
 http://39.134.115.163:8080/PLTV/88888910/224/3221225621/index.m3u8
 #EXTINF:157,SAUDI TV
@@ -298,7 +302,7 @@ http://62.2.85.68:39981/play/a00i
 #EXTINF:161,KBS WORLD
 http://livecdn.fptplay.net/sdb/kbs_hls.smil/playlist.m3u8
 #EXTINF:162,NHK WORLD-JPN
-http://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u8
+http://bit.ly/3QpiO97
 #EXTINF:163,ARIRANG
 http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 #EXTINF:164,UA TV
