@@ -244,7 +244,7 @@ http://dcsport.xyz:8080/vVnmqp7iY6/QoozAZTRUS/165597
 #EXTINF:125,NAUTICAL CHANNEL
 http://cdnua06.hls.tv/476/hls/061df9d47a31d5ffeeee40bbf3333deb/4245/stream.m3u8
 #EXTINF:126,TRT BELGESEL
-http://tv-trtbelgesel.medya.trt.com.tr/master.m3u8
+http://bit.ly/3Bl0GZI
 #EXTINF:127,NATIONAL GEOGRAPHIC
 http://bit.ly/3GCIb48
 #EXTINF:128,NAT GEO WILD
@@ -308,7 +308,7 @@ http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/pla
 #EXTINF:164,UA TV
 http://95.67.106.242:80/hls/ua-tv_ua_mid/index.m3u8
 #EXTINF:165,CHANNEL ONE RUSSIA
-https://edge3.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
+http://bit.ly/3RCEteQ
 #EXTINF:166,PRO7
 http://185.186.81.78:8002/play/a0cz
 #EXTINF:167,RTL
@@ -318,15 +318,15 @@ http://62.2.85.68:39981/play/a02g
 #EXTINF:169,VOX
 http://85.4.160.165:8080/play/a0fc
 #EXTINF:238,TRT SPOR
-http://tv-trtspor1.medya.trt.com.tr/master_720.m3u8
+http://bit.ly/3x6g5un
 #EXTINF:239,NTV SPOR
 http://37.221.121.137:8585/hls/ntvspor/index.m3u8
 #EXTINF:240,A SPOR
-https://trkvz-live.daioncdn.net/aspor/aspor_1080p.m3u8
+http://bit.ly/3cYHUxP
 #EXTINF:241,EUROSPORT 1
-http://dcsport.xyz:8080/vVnmqp7iY6/QoozAZTRUS/7177
+http://bit.ly/3x0TdMI
 #EXTINF:242,EUROSPORT 2
-http://dcsport.xyz:8080/vVnmqp7iY6/QoozAZTRUS/7178
+http://bit.ly/3AXCPh9
 #EXTINF:244,TRACE SPORT STARS
 http://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:245,FIGHTBOX
@@ -366,7 +366,7 @@ http://dcsport.xyz:8080/vVnmqp7iY6/QoozAZTRUS/13245
 #EXTINF:262,EDGE SPORT
 https://edgesport-samsungus.amagi.tv/playlist.m3u8
 #EXTINF:263,TRT SPOR YILDIZ
-https://tv-trtspor2.medya.trt.com.tr/master.m3u8
+http://bit.ly/3Qpd3rQ
 #EXTINF:264,SPORTS TV
 http://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
 #EXTINF:265,TİVİBU SPOR
@@ -386,7 +386,7 @@ http://dcsport.xyz:8080/vVnmqp7iY6/QoozAZTRUS/389173
 #EXTINF:272,EXXEN SPOR 3
 http://dcsport.xyz:8080/vVnmqp7iY6/QoozAZTRUS/389172
 #EXTINF:273,FB TV
-http://iptvmasterlink.dyndns.org:8080/FbTv/playlist.m3u8
+http://bit.ly/3Bj2QJd
 #EXTINF:274,GS TV
 https://owifavo5.rocketcdn.com/gstv/gstv.smil/master.m3u8
 #EXTINF:275,T.A.Y TV
@@ -402,9 +402,9 @@ http://45.92.69.72:8000/play/a0gi
 #EXTINF:437,TOM VE JERRY TV
 http://paris.bestipbox.com:8000/sekog/pdambmGBXuV5/84806
 #EXTINF:438,CAROUSEL TV
-http://78.25.155.47:1309/channel/Karusel.ts
+http://bit.ly/3D4Jmto
 #EXTINF:439,TRT ÇOCUK
-http://tv-trtcocuk.live.trt.com.tr/master_720.m3u8
+http://bit.ly/3qha6iB
 #EXTINF:440,ÇOCUKSMART
 http://hd-max.org:8080/vVnmqp7iY6/QoozAZTRUS/139521
 #EXTINF:441,BOOMERANG TV
@@ -422,9 +422,9 @@ http://bit.ly/3lRQ2B9
 #EXTINF:447,NICK JR.
 http://hd-max.org:8080/vVnmqp7iY6/QoozAZTRUS/6041
 #EXTINF:448,minikaCOCUK
-http://dcsport.xyz:8080/vVnmqp7iY6/QoozAZTRUS/1868
+http://bit.ly/3D0kLWw
 #EXTINF:449,minikaGO
-http://iptvmasterlink.dyndns.org:8080/MinikaGo/playlist.m3u8
+http://bit.ly/3qfzyVF
 #EXTINF:450,DUCK TV
 http://mmm-ducktv-2-it.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:451,DA VINCI
@@ -438,9 +438,9 @@ https://tv-e-okul01.medya.trt.com.tr/master.m3u8
 #EXTINF:458,TRT EBA TV LİSE
 https://tv-e-okul02.medya.trt.com.tr/master.m3u8
 #EXTINF:546,DİYANET TV
-http://eustr73.mediatriple.net/videoonlylive/mtikoimxnztxlive/broadcast_5e3bf95a47e07.smil/playlist.m3u8
+http://bit.ly/3RCHhbS
 #EXTINF:547,SEMERKAND TV
-http://b01c02nl.mediatriple.net/videoonlylive/mtisvwurbfcyslive/broadcast_58d915bd40efc.smil/playist.m3u8
+http://bit.ly/3CZB06d
 #EXTINF:548,DOST TV
 http://dost.stream.emsal.im/tv/live.m3u8
 #EXTINF:549,AL QURAN AL KAREEM
@@ -458,7 +458,7 @@ http://dcsport.xyz:8080/vVnmqp7iY6/QoozAZTRUS/2202
 #EXTINF:663,MTV 00s
 http://88.vip12cft.xyz:80/live/ahmetsen/WaP4yQHk6C/139673.ts
 #EXTINF:664,TRT MÜZİK
-http://tv-trtmuzik.medya.trt.com.tr/master_720.m3u8
+http://bit.ly/3ARtebX
 #EXTINF:665,KRAL TV
 http://dogus-live.daioncdn.net/kraltv/playlist.m3u8
 #EXTINF:666,KRAL POP TV
@@ -468,7 +468,7 @@ https://live.duhnet.tv/S2/HLS_LIVE/dreamturknp/playlist.m3u8
 #EXTINF:668,NUMBER1 TV
 https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e17cd6360b_1/playlist.m3u8
 #EXTINF:669,NUMBER1 TURK
-http://hd-max.org:8080/vVnmqp7iY6/QoozAZTRUS/227675
+http://bit.ly/3Bk0pq1
 #EXTINF:670,NUMBER1 DANCE
 https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e2aa8acf44_1/playlist.m3u8
 #EXTINF:671,NUMBER1 AŞK
