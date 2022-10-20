@@ -12,11 +12,11 @@ http://ig8npqfb.rostelekom.xyz/iptv/GNCPU3XQDZA3L4/6876/index.m3u8
 #EXTINF:6,TASKRÜT MOVIES FAMILY
 http://ig8npqfb.rostelekom.xyz/iptv/GNCPU3XQDZA3L4/6878/index.m3u8
 #EXTINF:7,TASKRÜT MOVİES TÜRK
-http://hdiptvx10.com.de:8080/aepirlo3435/W6mBNDyK8BcA/52
+http://cloud.i2025.art:8880/IFTx3s1B3l/uz6vVV7o3b/229904
 #EXTINF:8,MOVIESMART CLASSIC
-http://ip.efetv.de:8080/vVnmqp7iY6/QoozAZTRUS/139527
+http://212.28.87.162:8001/play/a00g/index.m3u8
 #EXTINF:9,MOVIESMART TÜRK
-http://ip.efetv.de:8080/vVnmqp7iY6/QoozAZTRUS/132718
+http://ig8npqfb.rostelekom.xyz/iptv/GNCPU3XQDZA3L4/6807/index.m3u8
 #EXTINF:10,SINEMA TV
 http://bit.ly/3GytGyk
 #EXTINF:11,SINEMA 2
@@ -48,11 +48,7 @@ http://de.cms-xtream.net:8080/2rzyEnuzqt/g2LKn8g5Zz/804
 #EXTINF:24,EPIC DRAMA
 http://bit.ly/3GsRVh2
 #EXTINF:25,FILMBOX
-http://ip.efetv.de:8080/vVnmqp7iY6/QoozAZTRUS/412587
-#EXTINF:26,FILMBOX ARTHOUSE
-http://ip.efetv.de:8080/vVnmqp7iY6/QoozAZTRUS/412589
-#EXTINF:27,FILMBOX EXTRA
-http://ip.efetv.de:8080/vVnmqp7iY6/QoozAZTRUS/412588
+http://212.28.87.162:8001/play/a00b/index.m3u8
 #EXTINF:26,FX
 http://bit.ly/38XSbZ5
 #EXTINF:27,FOXCRIME
@@ -61,12 +57,8 @@ http://bit.ly/3wZPHTv
 http://bit.ly/3lVMgH2
 #EXTINF:29,24KITCHEN
 http://bit.ly/3LYkGDD
-#EXTINF:30,MYZEN TV
-http://45.92.69.70:8001/play/a06y
-#EXTINF:35,TASKRÜT H&E
-http://88.vip12cft.xyz:80/live/ahmetsen/WaP4yQHk6C/139675.ts
 #EXTINF:36,TASKRÜT GURME
-http://ip.efetv.de:8080/vVnmqp7iY6/QoozAZTRUS/130841
+http://ig8npqfb.rostelekom.xyz/iptv/GNCPU3XQDZA3L4/6804/index.m3u8
 #EXTINF:37,TRT 1
 http://bit.ly/3KOXdWk
 #EXTINF:38,ATV
@@ -88,11 +80,11 @@ http://bit.ly/3BkUpNP
 #EXTINF:46,KANAL V
 https://waw1.artiyerelmedya.net/kanalv/bant1/chunks.m3u8
 #EXTINF:47,KOZA TV
-http://ip.efetv.de:8080/vVnmqp7iY6/QoozAZTRUS/123354
+http://212.28.87.162:8000/play/a024/index.m3u8
 #EXTINF:48,TEK RUMELI TV
 https://edge1.socialsmart.tv/tekrumelitv/bant1/playlist.m3u8
 #EXTINF:49,SHOW MAX
-http://iptvmasterlink.dyndns.org:8080/ShowMax/playlist.m3u8
+http://ig8npqfb.rostelekom.xyz/iptv/GNCPU3XQDZA3L4/6890/index.m3u8
 #EXTINF:50,A2
 http://bit.ly/3KRZDDB
 #EXTINF:51,TEVE2
@@ -130,7 +122,7 @@ https://vdo.digitalbox.xyz:3986/live/unitvlive.m3u8
 #EXTINF:65,FLASH HABER
 https://stream.guventechnology.com:19360/flashtv/flashtv.m3u8
 #EXTINF:66,TMB
-http://hd-max.org:8080/vVnmqp7iY6/QoozAZTRUS/177141
+http://212.28.87.162:8001/play/a01c/index.m3u8
 #EXTINF:67,TV4
 http://bit.ly/3cQFlxP
 #EXTINF:68,BENGÜTÜRK
@@ -162,7 +154,7 @@ http://bit.ly/3qhpVWq
 #EXTINF:85,AKİT TV
 http://bit.ly/3QAALln
 #EXTINF:86,BRT 1
-http://hd-max.org:8080/vVnmqp7iY6/QoozAZTRUS/202209
+http://wms.brtk.net:1935/live/BRTHD/playlist.m3u8
 #EXTINF:87,TV EM
 http://cdn-tvem.yayin.com.tr/TVEM/TVEM/playlist.m3u8
 #EXTINF:88,TRT TÜRK
@@ -178,15 +170,13 @@ http://bit.ly/3RKUNul
 #EXTINF:93,BBN TÜRK
 http://bit.ly/3BhFWBX
 #EXTINF:94,KRT TV
-http://dcsport.xyz:8080/vVnmqp7iY6/QoozAZTRUS/139912
+http://212.28.87.162:8000/play/a02i/index.m3u8
 #EXTINF:95,HALK TV
 http://bit.ly/3D0Q2IK
 #EXTINF:98,A PARA
 http://bit.ly/3escNLJ
 #EXTINF:99,EKOTÜRK
 http://bit.ly/3BkvXw2
-#EXTINF:100,TELE1
-http://hd-max.org:8080/vVnmqp7iY6/QoozAZTRUS/134208
 #EXTINF:101,TRT WORLD
 http://bit.ly/3x30uvL
 #EXTINF:102,A NEWS
@@ -198,7 +188,7 @@ https://bit.ly/3TGU3rM
 #EXTINF:105,BBC WORLD NEWS
 http://bit.ly/3D2aqcw
 #EXTINF:106,FOX NEWS CHANNEL
-http://45.225.95.171:8000/play/a0hw/index.m3u8
+http://ig8npqfb.rostelekom.xyz/iptv/GNCPU3XQDZA3L4/19147/index.m3u8
 #EXTINF:107,BLOOMBERG TV
 http://bit.ly/3etE28H
 #EXTINF:110,ALJAZEERA
@@ -217,22 +207,16 @@ http://bit.ly/3x2m3g1
 http://rakuten-euronews-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:118,FRANCE 24
 http://bit.ly/3za8Sv9
-#EXTINF:119,ALA TOO 24
-http://onlinetv.ktrk.kg:1935/live/myStream3/chunklist.m3u8
 #EXTINF:120,CGTN
 http://live.cgtn.com/1000/prog_index.m3u8
 #EXTINF:121,RUSSIA 24
 http://radio-live-mg.rtr-vesti.ru/hls/russia_24/playlist_2.m3u8
-#EXTINF:122,DOCUMAX
-https://umt02.videobulut.com/35/3811/TXX2dZZj1bd9/TXX2dZZj1bd9.mpd
 #EXTINF:123,YABAN TV
 http://yayin3.sanaltv.com:1935/live1/yabantv/playlist.m3u8
 #EXTINF:123,HABİTAT TV
 http://bit.ly/3a5RJrT
 #EXTINF:124,TASKRÜT İZ
-http://dcsport.xyz:8080/vVnmqp7iY6/QoozAZTRUS/165597
-#EXTINF:125,NAUTICAL CHANNEL
-http://cdnua06.hls.tv/476/hls/061df9d47a31d5ffeeee40bbf3333deb/4245/stream.m3u8
+http://ig8npqfb.rostelekom.xyz/iptv/GNCPU3XQDZA3L4/19078/index.m3u8
 #EXTINF:126,TRT BELGESEL
 http://bit.ly/3Bl0GZI
 #EXTINF:127,NATIONAL GEOGRAPHIC
