@@ -223,8 +223,6 @@ http://bit.ly/3Bl0GZI
 http://bit.ly/3GCIb48
 #EXTINF:128,NAT GEO WILD
 http://bit.ly/3wZQ8ND
-#EXTINF:129,VIASAT NATURE
-http://88.vip12cft.xyz:80/live/ahmetsen/WaP4yQHk6C/102462.ts
 #EXTINF:130,DISCOVERY CHANNEL
 http://bit.ly/3Ra1CWq
 #EXTINF:131,DISCOVERY SCIENCE
@@ -235,28 +233,22 @@ http://bit.ly/3Guwhce
 http://bit.ly/3t5gR8S
 #EXTINF:134,VIASAT HISTORY
 http://bit.ly/3N6FQ3W
-#EXTINF:135,TREK
-http://dcsport.xyz:8080/vVnmqp7iY6/QoozAZTRUS/384159
-#EXTINF:136,SCIENCE & VIE
-http://dcsport.xyz:8080/vVnmqp7iY6/QoozAZTRUS/384160
 #EXTINF:137,DOCUBOX
-http://dcsport.xyz:8080/vVnmqp7iY6/QoozAZTRUS/350386
+http://cloud.i2025.art:8880/IFTx3s1B3l/uz6vVV7o3b/229800
 #EXTINF:138,BBC EARTH
 http://bit.ly/3ADmluv
 #EXTINF:138,LOVE NATURE
 http://bit.ly/3eaUrP2
 #EXTINF:144,VIASAT EXPLORE
-http://dcsport.xyz:8080/vVnmqp7iY6/QoozAZTRUS/350384
+http://cloud.i2025.art:8880/IFTx3s1B3l/uz6vVV7o3b/229782
 #EXTINF:145,ANIMAUX
-http://dcsport.xyz:8080/vVnmqp7iY6/QoozAZTRUS/384166
-#EXTINF:145,RTG INT
-http://dcsport.xyz:8080/vVnmqp7iY6/QoozAZTRUS/293825
+http://cloud.i2025.art:8880/IFTx3s1B3l/uz6vVV7o3b/229796
 #EXTINF:146,CGTN DOCUMENTARY
 http://livedoc.cgtn.com/1000d/prog_index.m3u8
 #EXTINF:147,CHASSE & PECHE
-http://dcsport.xyz:8080/vVnmqp7iY6/QoozAZTRUS/384164
+http://cloud.i2025.art:8880/IFTx3s1B3l/uz6vVV7o3b/229797
 #EXTINF:153,AZTV
-http://88.vip12cft.xyz:80/live/ahmetsen/WaP4yQHk6C/176610.ts
+http://135.125.234.9:8081/aztv/index.m3u8
 #EXTINF:154,TÜRKMENELİ TV
 https://137840.global.ssl.fastly.net/6007ebae6349fb1839321e09/live_0f21e9d07bc411ec9940a1f551f87644/tracks-v1a1/mono.m3u8
 #EXTINF:155,BBC ENTERTAINMENT
@@ -267,10 +259,6 @@ http://bit.ly/3qfmU9a
 http://39.134.115.163:8080/PLTV/88888910/224/3221225621/index.m3u8
 #EXTINF:157,SAUDI TV
 https://edge.taghtia.com/sa/2.m3u8
-#EXTINF:158,QAZAQ TV
-https://kzkhtv.ultraiptv.com/kzkhtv/stream_5.m3u8
-#EXTINF:159,HAYAT PLUS
-http://88.vip12cft.xyz:80/live/ahmetsen/WaP4yQHk6C/181842.ts
 #EXTINF:160,RTR PLANETA
 http://62.2.85.68:39981/play/a00i
 #EXTINF:161,KBS WORLD
@@ -280,20 +268,20 @@ http://bit.ly/3QpiO97
 #EXTINF:163,ARIRANG
 http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 #EXTINF:164,UA TV
-http://95.67.106.242:80/hls/ua-tv_ua_mid/index.m3u8
+https://freedom.cdn-03.cosmonova.net.ua/mobile-app/main/freedom/FreeDom_video_mid_.m3u8
 #EXTINF:165,CHANNEL ONE RUSSIA
 http://bit.ly/3RCEteQ
 #EXTINF:166,PRO7
-http://185.186.81.78:8002/play/a0cz
+http://ig8npqfb.rostelekom.xyz/iptv/GNCPU3XQDZA3L4/6057/index.m3u8
 #EXTINF:167,RTL
-http://185.186.81.78:8002/play/a051
+http://ig8npqfb.rostelekom.xyz/iptv/GNCPU3XQDZA3L4/6062/index.m3u8
 #EXTINF:168,RAI UNO
 http://62.2.85.68:39981/play/a02g
 #EXTINF:169,VOX
-http://85.4.160.165:8080/play/a0fc
+http://ig8npqfb.rostelekom.xyz/iptv/GNCPU3XQDZA3L4/6061/index.m3u8
 #EXTINF:238,TRT SPOR
 http://bit.ly/3x6g5un
-#EXTINF:239,NTV SPOR
+#EXTINF:239,TV8 SPOR
 http://37.221.121.137:8585/hls/ntvspor/index.m3u8
 #EXTINF:240,A SPOR
 http://bit.ly/3cYHUxP
@@ -303,24 +291,18 @@ http://bit.ly/3x0TdMI
 http://bit.ly/3AXCPh9
 #EXTINF:244,TRACE SPORT STARS
 http://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
-#EXTINF:245,FIGHTBOX
-http://dcsport.xyz:8080/vVnmqp7iY6/QoozAZTRUS/240517
-#EXTINF:246,FAST & FUNBOX
-http://nox20b.xyz:80/live/kadir01/kadir01/23372.ts
 #EXTINF:247,FIGHT NETWORK
 http://bit.ly/3a5RZHn
-#EXTINF:248,FİL SPOR 1
-https://cdn.videobulut.com/35/3811/Cf120fhR4jjf/Cf120fhR4jjf.mpd
 #EXTINF:249,TASKRÜT SPORTS 1
-http://dcsport.xyz:8080/vVnmqp7iY6/QoozAZTRUS/123295
+http://ig8npqfb.rostelekom.xyz/iptv/GNCPU3XQDZA3L4/6781/index.m3u8
 #EXTINF:250,TASKRÜT SPORTS 2
-http://dcsport.xyz:8080/vVnmqp7iY6/QoozAZTRUS/631
+http://ig8npqfb.rostelekom.xyz/iptv/GNCPU3XQDZA3L4/6819/index.m3u8
 #EXTINF:251,TASKRÜT SPORTS 3
-https://srvccc.same99295settle.xyz/kaynakstreamradarco/26/naxi/caxi.m3u8
+http://ig8npqfb.rostelekom.xyz/iptv/GNCPU3XQDZA3L4/6821/index.m3u8
 #EXTINF:252,TASKRÜT SPORTS 4
-https://srvccc.same99295settle.xyz/kaynakstreamradarco/27/naxi/caxi.m3u8
+http://ig8npqfb.rostelekom.xyz/iptv/GNCPU3XQDZA3L4/6823/index.m3u8
 #EXTINF:253,TASKRÜT SPORTS MAX 1
-https://srvccc.same99295settle.xyz/kaynakstreamradarco/28/naxi/caxi.m3u8
+http://ig8npqfb.rostelekom.xyz/iptv/GNCPU3XQDZA3L4/6824/index.m3u8
 #EXTINF:254,TASKRÜT SPORTS MAX 2
 https://srvccc.same99295settle.xyz/kaynakstreamradarco/29/naxi/caxi.m3u8
 #EXTINF:255,TASKRÜT SPORTS HABER
