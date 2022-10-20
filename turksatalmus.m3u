@@ -51,8 +51,6 @@ http://bit.ly/3GsRVh2
 http://212.28.87.162:8001/play/a00b/index.m3u8
 #EXTINF:26,FX
 http://bit.ly/38XSbZ5
-#EXTINF:27,FOXCRIME
-http://bit.ly/3wZPHTv
 #EXTINF:28,BBC FIRST
 http://bit.ly/3lVMgH2
 #EXTINF:29,24KITCHEN
@@ -267,7 +265,7 @@ http://livecdn.fptplay.net/sdb/kbs_hls.smil/playlist.m3u8
 http://bit.ly/3QpiO97
 #EXTINF:163,ARIRANG
 http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
-#EXTINF:164,UA TV
+#EXTINF:164,FREEDOM
 https://freedom.cdn-03.cosmonova.net.ua/mobile-app/main/freedom/FreeDom_video_mid_.m3u8
 #EXTINF:165,CHANNEL ONE RUSSIA
 http://bit.ly/3RCEteQ
@@ -291,28 +289,28 @@ http://bit.ly/3x0TdMI
 http://bit.ly/3AXCPh9
 #EXTINF:244,TRACE SPORT STARS
 http://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
-#EXTINF:247,FIGHT NETWORK
+#EXTINF:245,FIGHT NETWORK
 http://bit.ly/3a5RZHn
-#EXTINF:249,TASKRÜT SPORTS 1
+#EXTINF:246,TASKRÜT SPORTS 1
 http://ig8npqfb.rostelekom.xyz/iptv/GNCPU3XQDZA3L4/6781/index.m3u8
-#EXTINF:250,TASKRÜT SPORTS 2
+#EXTINF:247,TASKRÜT SPORTS 2
 http://ig8npqfb.rostelekom.xyz/iptv/GNCPU3XQDZA3L4/6819/index.m3u8
-#EXTINF:251,TASKRÜT SPORTS 3
+#EXTINF:248,TASKRÜT SPORTS 3
 http://ig8npqfb.rostelekom.xyz/iptv/GNCPU3XQDZA3L4/6821/index.m3u8
-#EXTINF:252,TASKRÜT SPORTS 4
+#EXTINF:249,TASKRÜT SPORTS 4
 http://ig8npqfb.rostelekom.xyz/iptv/GNCPU3XQDZA3L4/6823/index.m3u8
-#EXTINF:253,TASKRÜT SPORTS MAX 1
+#EXTINF:250,TASKRÜT SPORTS 5
+http://cloud.i2025.art:8880/IFTx3s1B3l/uz6vVV7o3b/250699
+#EXTINF:251,TASKRÜT SPORTS MAX 1
 http://ig8npqfb.rostelekom.xyz/iptv/GNCPU3XQDZA3L4/6824/index.m3u8
-#EXTINF:254,TASKRÜT SPORTS MAX 2
-https://srvccc.same99295settle.xyz/kaynakstreamradarco/29/naxi/caxi.m3u8
-#EXTINF:255,TASKRÜT SPORTS HABER
-https://59c7ea6bec1c6.streamlock.net/filbox/beinsporthaber.stream/playlist.m3u8
-#EXTINF:256,SPORMAX
-https://stream2.yayinla.live:8443/tvlive/rU5tLKQHvFdNmgjUh0i5rQL0FD0oZ7B4/index.m3u8?token=test
+#EXTINF:252,TASKRÜT SPORTS MAX 2
+http://ig8npqfb.rostelekom.xyz/iptv/GNCPU3XQDZA3L4/19066/index.m3u8
+#EXTINF:253,TASKRÜT SPORTS HABER
+http://ig8npqfb.rostelekom.xyz/iptv/GNCPU3XQDZA3L4/19064/index.m3u8
 #EXTINF:257,SPORSMART
-https://srvccc.same99295settle.xyz/kaynakstreamradarco/60/naxi/caxi.m3u8
+http://cloud.i2025.art:8880/IFTx3s1B3l/uz6vVV7o3b/228077
 #EXTINF:258,SPORSMART 2
-http://dcsport.xyz:8080/vVnmqp7iY6/QoozAZTRUS/236111
+http://ig8npqfb.rostelekom.xyz/iptv/GNCPU3XQDZA3L4/19073/index.m3u8
 #EXTINF:259,S SPORT
 https://srvccc.same99295settle.xyz/kaynakstreamradarco/58/naxi/caxi.m3u8
 #EXTINF:260,S SPORT2
