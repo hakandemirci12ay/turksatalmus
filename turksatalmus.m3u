@@ -37,6 +37,8 @@ http://nox.nox102.xyz:80/mert924bn/231020.ft/202
 http://bit.ly/3LYkGDD
 #EXTINF:19,MYZEN TV
 http://45.90.106.7:8780/play/QmU843O9@Y5G/index.m3u8
+#EXTINF:20:ROMANTICA
+http://181.119.67.75:8000/play/CH42
 #EXTINF:22,TRT 1
 http://bit.ly/3KOXdWk
 #EXTINF:23,ATV
@@ -145,6 +147,8 @@ http://dcsport.xyz:8080/vVnmqp7iY6/QoozAZTRUS/139912
 http://bit.ly/3D0Q2IK
 #EXTINF:76,TH TÜRK HABER
 https://edge1.socialsmart.tv/turkhaber/bant1/playlist.m3u8
+#EXTINF:77,TELE1
+https://tele1.blutv.com/blutv_tele1_live/live.m3u8
 #EXTINF:87,A PARA
 http://bit.ly/3escNLJ
 #EXTINF:88,EKOTÜRK
@@ -159,62 +163,78 @@ http://bit.ly/3RI7c1W
 https://bit.ly/3TGU3rM
 #EXTINF:93,BBC WORLD NEWS
 http://bit.ly/3D2aqcw
-#EXTINF:94,BLOOMBERG TV
+#EXTINF:94,FOX NEWS CHANNEL
+http://46.18.20.46:8000/play/a01a
+#EXTINF:95,BLOOMBERG TV
 http://bit.ly/3etE28H
-#EXTINF:95,ALJAZEERA
+#EXTINF:96,ALJAZEERA ARABIC
+http://live-hls-web-aja.getaj.net/AJA/index.m3u8
+#EXTINF:97,ALJAZEERA ENGLISH
 http://bit.ly/3qfbYs6
-#EXTINF:96,AL ARABY
+#EXTINF:98,AL ARABY
 http://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/playlist.m3u8
-#EXTINF:97,SYRIA TV
+#EXTINF:99,SYRIA TV
 https://svs.itworkscdn.net/syriatvlive/syriatv.smil/playlist.m3u8
-#EXTINF:98,TRT ARABİ
+#EXTINF:100,TRT ARABİ
 http://bit.ly/3TQQT4I
-#EXTINF:99,RT ARABIC
+#EXTINF:101,RT ARABIC
 http://bit.ly/3TL9tvc
-#EXTINF:100,DEUSTCHE WELLE
+#EXTINF:102,DW TV ENGLISH
 http://bit.ly/3x2m3g1
-#EXTINF:101,EURONEWS
+#EXTINF:103,DW TV GERMAN
+http://dwamdstream106.akamaized.net/hls/live/2017965/dwstream106/stream03/streamPlaylist.m3u8
+#EXTINF:104,EURONEWS
 http://rakuten-euronews-1-gb.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:102,FRANCE 24
+#EXTINF:106,FRANCE 24 ENGLISH
+http://185.236.229.50:8003/play/a02c
+#EXTINF:106,FRANCE 24 FRANÇAİS
 http://bit.ly/3za8Sv9
-#EXTINF:103,CGTN
+#EXTINF:107,CGTN
 http://live.cgtn.com/1000/prog_index.m3u8
-#EXTINF:104,RUSSIA 24
+#EXTINF:108,RUSSIA 24
 http://radio-live-mg.rtr-vesti.ru/hls/russia_24/playlist_2.m3u8
+#EXTINF:109,NASA TV
+https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_500.m3u8
 #EXTINF:110,TASKRÜT İZ
 http://nox.nox102.xyz:80/mert924bn/231020.ft/77
-#EXTINF:110,YABAN TV
+#EXTINF:111,YABAN TV
 https://yayin1.canlitv.day/live1/yabantv/chunklist.m3u8
-#EXTINF:111,HABİTAT TV
+#EXTINF:112,HABİTAT TV
 http://bit.ly/3a5RJrT
-#EXTINF:112,TRT BELGESEL
+#EXTINF:113,TRT BELGESEL
 http://bit.ly/3Bl0GZI
-#EXTINF:113,NATIONAL GEOGRAPHIC
+#EXTINF:114,NATIONAL GEOGRAPHIC
 http://bit.ly/3GCIb48
-#EXTINF:114,NAT GEO WILD
+#EXTINF:115,NAT GEO WILD
 http://bit.ly/3wZQ8ND
-#EXTINF:115,VIASAT NATURE
+#EXTINF:116,VIASAT NATURE
 http://nox.nox102.xyz:80/mert924bn/231020.ft/34392
-#EXTINF:116,DISCOVERY CHANNEL
+#EXTINF:117,DISCOVERY CHANNEL
 http://bit.ly/3Ra1CWq
-#EXTINF:117,DISCOVERY SCIENCE
+#EXTINF:118,DISCOVERY SCIENCE
 http://bit.ly/3B3YaXw
-#EXTINF:118,ID
+#EXTINF:119,ID
 http://bit.ly/3Guwhce
-#EXTINF:119,HISTORY CHANNEL
+#EXTINF:120,HISTORY CHANNEL
 http://bit.ly/3t5gR8S
-#EXTINF:120,VIASAT HISTORY
+#EXTINF:121,VIASAT HISTORY
 http://bit.ly/3N6FQ3W
-#EXTINF:121,TREK
+#EXTINF:122,TREK
 http://nox.nox102.xyz:80/mert924bn/231020.ft/23375
-#EXTINF:122,SCIENCE & VIE
+#EXTINF:123,SCIENCE & VIE
 http://nox.nox102.xyz:80/mert924bn/231020.ft/184
-#EXTINF:123,DOCUBOX
+#EXTINF:124,DOCUBOX
 http://puvuiptv.com:8080/abdul8402350/H47DFUDP4FgB/341
-#EXTINF:124,BBC EARTH
+#EXTINF:125,BBC EARTH
 http://bit.ly/3ADmluv
-#EXTINF:125,LOVE NATURE
+#EXTINF:126,LOVE NATURE
 http://bit.ly/3eaUrP2
+#EXTINF:127,NAUTICAL CHANNEL
+http://45.90.106.7:8780/play/BQl419P5@Yz5M/index.m3u8
+#EXTINF:128,TGRT BELGESEL
+https://tv.ensonhaber.com/tv/tr//tgrtbelgesel/index.m3u8
+#EXTINF:129,TARIM TV
+https://content.tvkur.com/l/c7e1da7mm25p552d9u9g/index-720p.m3u8
 #EXTINF:130,VIASAT EXPLORE
 http://nox.nox102.xyz:80/mert924bn/231020.ft/50690
 #EXTINF:131,ANIMAUX
@@ -247,7 +267,7 @@ https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
 http://bit.ly/3QpiO97
 #EXTINF:154,ARIRANG
 http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
-#EXTINF:155,UA TV
+#EXTINF:155,FREEDOM
 https://freedom.cdn-01.cosmonova.net.ua/mobile-app/main/freedom/master.m3u8
 #EXTINF:156,CHANNEL ONE RUSSIA
 http://bit.ly/3RCEteQ
@@ -335,6 +355,8 @@ http://tjktv-live.tjk.org/tjktv.m3u8
 http://178.166.14.117:4344/play/a027
 #EXTINF:362,TRT 4K
 http://188.241.218.46:2085/play/TRT1uhdlutfendeisme
+#EXTINF:369,GAMETOON
+http://46.19.227.130:4500/play/a02x/index.m3u8
 #EXTINF:437,TOM VE JERRY TV
 http://nox.nox102.xyz:80/mert924bn/231020.ft/54390
 #EXTINF:438,CAROUSEL TV
@@ -384,9 +406,9 @@ http://m.live.net.sa:1935/live/quran/playlist.m3u8
 #EXTINF:550,AL SUNNAH AL NABAWIYAH
 http://m.live.net.sa:1935/live/sunnah/playlist.m3u8
 #EXTINF:660,MCM TOP
-http://nox.nox102.xyz:80/mert924bn/231020.ft/73029
+http://45.90.106.7:8780/play/UeQ517K6@G6V/index.m3u8
 #EXTINF:661,MEZZO
-http://nox.nox102.xyz:80/mert924bn/231020.ft/67183
+http://45.92.69.132:8001/play/a0ii
 #EXTINF:662,MTV 00s
 http://nox.nox102.xyz:80/mert924bn/231020.ft/73030
 #EXTINF:663,TRT MÜZİK
@@ -421,21 +443,23 @@ http://nox.nox102.xyz:80/mert924bn/231020.ft/63898
 http://nox.nox102.xyz:80/mert924bn/231020.ft/199
 #EXTINF:678,ANADOLU DERNEK TV
 http://nox.nox102.xyz:80/mert924bn/231020.ft/34389
-#EXTINF:679,MTV LIVE
+#EXTINF:680,YILDIZ EN
+http://nox.nox102.xyz:80/mert924bn/231020.ft/83995
+#EXTINF:681,MTV LIVE
 http://nox.nox102.xyz:80/mert924bn/231020.ft/73031
-#EXTINF:680,MTV HITS
+#EXTINF:682,MTV HITS
 http://nox.nox102.xyz:80/mert924bn/231020.ft/129084
-#EXTINF:681,INSIGHT TV
+#EXTINF:683,INSIGHT TV
 http://nox.nox102.xyz:80/mert924bn/231020.ft/70025
-#EXTINF:682,FASHION TV
+#EXTINF:684,FASHION TV
 https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_pg13_zw9_27065_ftv_pg13_196_hls.smil/playlist.m3u8
-#EXTINF:683,FASHION ONE
+#EXTINF:685,FASHION ONE
 https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e2ee6997cb_1/playlist.m3u8
-#EXTINF:684,WORLD FASHION
+#EXTINF:686,WORLD FASHION
 https://wfcint.mediacdn.ru/cdn/wfcintweb/playlist.m3u8
-#EXTINF:685,TRACE URBAN
+#EXTINF:687,TRACE URBAN
 https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
-#EXTINF:686,360 TUNE BOX
+#EXTINF:688,360 TUNE BOX
 http://nox.nox102.xyz:80/mert924bn/231020.ft/23374
 #EXTINF:701,ZAZA TV
 http://nox.nox102.xyz:80/mert924bn/231020.ft/63895
@@ -447,3 +471,21 @@ http://nox.nox102.xyz:80/mert924bn/231020.ft/131429
 http://176.10.117.18:8000/play/a00k
 #EXTINF:705,STERK TV
 http://176.10.117.18:8000/play/a00l
+#EXTINF:706,AFYON TÜRK TV
+https://tv.digitalbox.xyz:19360/afyonturktv/afyonturktv.m3u8
+#EXTINF:707,CINE5 TV
+https://cdn-cine5tv.yayin.com.tr/cine5tv/cine5tv/chunklist.m3u8
+#EXTINF:708,YAREN TV
+https://59cba4d34b678.streamlock.net/canlitv/yarentv/chunklist.m3u8
+#EXTINF:709,NTN YEŞİLÇAM
+https://tv.ntnhd.com:3588/multi_web/play_720.m3u8
+#EXTINF:710,NTN DISCOVERY
+https://tv.ntnhd.com:3189/multi_web/play_480.m3u8
+#EXTINF:711,BEYAZ DİZİ
+https://cdn-beyazmedyatv.yayin.com.tr/beyazmedyatv-dizi/tracks-v1a1/mono.m3u8
+#EXTINF:712,BEYAZ SİNEMA
+https://cdn11-beyazmedyatv-yabanci.yayin.com.tr/beyazmedyatv-yabanci/tracks-v1a1/mono.m3u8
+#EXTINF:713,BEYAZ YEŞİLÇAM
+https://cdn11-beyazmedyatv-yesilcam.yayin.com.tr/beyazmedyatv-yesilcam/tracks-v1a1/mono.m3u8
+#EXTINF:713,TİVİ TÜRK
+https://stream.tiviturk.de/live/tiviturk.m3u8
