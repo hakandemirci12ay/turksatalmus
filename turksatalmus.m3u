@@ -1,18 +1,18 @@
 #EXTM3U
 #EXTINF:0,TASKRÜT MOVİES PREMIERE
-http://puvuiptv.com:8080/abdul8402350/H47DFUDP4FgB/192
+http://mserver55.xyz:8080/Thanderbolt/sYmeXnH6EA/110151
 #EXTINF:0,TASKRÜT MOVİES PREMIERE 2
-http://puvuiptv.com:8080/abdul8402350/H47DFUDP4FgB/194
+http://mserver55.xyz:8080/Thanderbolt/sYmeXnH6EA/110152
 #EXTINF:0,TASKRÜT MOVİES STARS
-http://puvuiptv.com:8080/abdul8402350/H47DFUDP4FgB/184
+http://serkan.oses35.info:8080/live/ziyasaricigdem03/ziya1045/1233.ts
 #EXTINF:0,TASKRÜT MOVİES ACTION
-http://puvuiptv.com:8080/abdul8402350/H47DFUDP4FgB/196
+http://serkan.oses35.info:8080/live/ziyasaricigdem03/ziya1045/1232.ts
 #EXTINF:0,TASKRÜT MOVİES ACTION 2
-http://puvuiptv.com:8080/abdul8402350/H47DFUDP4FgB/198
+http://nox.nox102.xyz:80/mert924bn/231020.ft/56
 #EXTINF:0,TASKRÜT MOVİES FAMILY
-http://puvuiptv.com:8080/abdul8402350/H47DFUDP4FgB/190
+http://mserver55.xyz:8080/Thanderbolt/sYmeXnH6EA/110155
 #EXTINF:0,TASKRÜT MOVİES TÜRK
-http://puvuiptv.com:8080/abdul8402350/H47DFUDP4FgB/186
+http://mserver55.xyz:8080/Thanderbolt/sYmeXnH6EA/110153
 #EXTINF:2,SINEMA TV
 http://bit.ly/3GytGyk
 #EXTINF:3,SINEMA 2
@@ -500,7 +500,7 @@ https://cdn-beyazmedyatv.yayin.com.tr/beyazmedyatv-dizi/tracks-v1a1/mono.m3u8
 #EXTINF:712,BEYAZ SİNEMA
 https://cdn11-beyazmedyatv-yabanci.yayin.com.tr/beyazmedyatv-yabanci/tracks-v1a1/mono.m3u8
 #EXTINF:713,BEYAZ YEŞİLÇAM
-https://cdn11-beyazmedyatv-yesilcam.yayin.com.tr/beyazmedyatv-yesilcam/tracks-v1a1/mono.m3u8
+https://beyazmedyatv.yayin.com.tr/beyazmedyatv-yesilcam/video.m3u8
 #EXTINF:714,BEYAZ MÜZİK
 https://beyazmedyatv.yayin.com.tr/beyazmedya-muzik/video.m3u8
 #EXTINF:715,TİVİ TÜRK
@@ -521,7 +521,11 @@ https://live-server-2.splitstream.io/fd15e2fa-310e-46fd-8310-a92599e61696/tracks
 https://5e06e5e8c2e27.streamlock.net:1936/videonow/yansinematvs/playlist.m3u8
 #EXTINF:723,TEBER ON
 https://live-server-2.splitstream.io/f97854bd-6c00-40d3-b9a2-e85f95a4f94f/tracks-v1a1/mono.m3u8
-#EXTINF:723,TEBER DEM
+#EXTINF:724,TEBER DEM
 https://live-server-2.splitstream.io/34e279a9-6153-4e38-b25e-7cfe9f7abee5/tracks-v1a1/mono.m3u8
-#EXTINF:723,TEBER HBB
+#EXTINF:725,TEBER HBB
 https://live-server-2.splitstream.io/0c5cf555-a6cb-4559-8450-cd08b99803af/tracks-v1a1/mono.m3u8
+#EXTINF:726,TURHAL SÜPER TV
+https://59cba4d34b678.streamlock.net/canlitv/tokatsupertv/chunklist_w1697757369.m3u8
+#EXTINF:727,ERBAA TV
+https://59cba4d34b678.streamlock.net/canlitv/erttv/chunklist.m3u8
