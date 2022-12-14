@@ -719,6 +719,10 @@ https://livetv.canbroadcast.com:7443/canlican/tv.m3u8
 https://vdo.digitalbox.xyz:3925/stream/play.m3u8
 #EXTINF:814,UZAY HABER
 http://nox.nox102.xyz:80/mert924bn/231020.ft/116
+#EXTINF:815,HRT AKDENİZ
+http://nox.nox102.xyz:80/mert924bn/231020.ft/118366
+#EXTINF:816,KANAL LİKYA
+https://59cba4d34b678.streamlock.net/canlitv/kanallikya/chunklist.m3u8
 #EXTINF:993,TGRT EU
 https://tv.ensonhaber.com/tv/tr/tgrteu/index.m3u8
 #EXTINF:994,SHOW TÜRK
@@ -733,5 +737,57 @@ http://nox.nox102.xyz:80/mert924bn/231020.ft/178
 https://live.kanal7.com/live/kanal7AvrupaLive/index.m3u8
 #EXTINF:999,TV8 INT
 http://nox.nox102.xyz:80/mert924bn/231020.ft/63947
+#EXTINF:2001,90LAR
+https://moondigitalmaster.radyotvonline.net/90lar/playlist.m3u8
+#EXTINF:2002,AKUSTİK
+https://moondigitaledge.radyotvonline.net/akustikland/playlist.m3u8
+#EXTINF:2003,ALTIN ŞARKILAR
+https://moondigitalmaster.radyotvonline.net/altinsarkilar/playlist.m3u8
+#EXTINF:2004,ARABESK
+https://moondigitalmaster.radyotvonline.net/arabeskland/playlist.m3u8
+#EXTINF:2005,DANCE
+https://moondigitaledge.radyotvonline.net/danceland/playlist.m3u8
+#EXTINF:2006,DISCO
+https://moondigitaledge.radyotvonline.net/discoland/playlist.m3u8
+#EXTINF:2007,EASY
+https://moondigitaledge.radyotvonline.net/easyland/playlist.m3u8
+#EXTINF:2008,EFSANE 4'LÜ
+https://moondigitalmaster.radyotvonline.net/efsane4lu/playlist.m3u8
+#EXTINF:2009,FLOW
+https://moondigitaledge.radyotvonline.net/flow/playlist.m3u8
+#EXTINF:2010,GREEK
+https://moondigitaledge.radyotvonline.net/greekland/playlist.m3u8
+#EXTINF:2011,HOUSE
+https://moondigitaledge.radyotvonline.net/houseland/playlist.m3u8
+#EXTINF:2012,JAZZ
+https://moondigitaledge.radyotvonline.net/jazzland/playlist.m3u8
+#EXTINF:2013,KLASİK
+https://moondigitalmaster.radyotvonline.net/klasikhome/playlist.m3u8
+#EXTINF:2014,LOUNGE
+https://sc.vargonen.net:5003/;
+#EXTINF:2015,MAZİDEN BİR DEMET
+https://moondigitalmaster.radyotvonline.net/mazidenbirdemet/playlist.m3u8
+#EXTINF:2016,MELANKOLİK
+https://moondigitalmaster.radyotvonline.net/melankolikhome/playlist.m3u8
+#EXTINF:2017,RELAX
+https://moondigitalmaster.radyotvonline.net/relaxhome/playlist.m3u8
+#EXTINF:2018,RETRO
+https://playerservices.streamtheworld.com/api/livestream-redirect/RETROTURK_SC?/;
+#EXTINF:2019,ROCK
+https://moondigitaledge.radyotvonline.net/rockland/playlist.m3u8
+#EXTINF:2020,ROMANTIK
+http://radyo.yayin.com.tr:6042/;
+#EXTINF:2021,TÜRKÇE POP
+https://moondigitalmaster.radyotvonline.net/pophome/playlist.m3u8
+#EXTINF:2022,TÜRKÇE RAP
+https://moondigitalmaster.radyotvonline.net/raphome/playlist.m3u8
+#EXTINF:2023,TÜRKÇE SLOW
+https://moondigitalmaster.radyotvonline.net/slowhome/playlist.m3u8
+#EXTINF:2024,TÜRKÜ
+http://46.20.4.34/radyoland/turkland.stream/playlist.m3u8
+#EXTINF:2025,WORLD HİTS
+https://moondigitaledge.radyotvonline.net/worldhits/playlist.m3u8
+#EXTINF:2026,ZEN
+https://moondigitaledge.radyotvonline.net/zenland/playlist.m3u8
 #EXTINT:10000,TASKRUT BOX OFFICE
 http://nox.nox102.xyz:80/mert924bn/231020.ft/226
