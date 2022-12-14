@@ -367,6 +367,14 @@ https://mn-nl.mncdn.com/blutv_taytv2/live.m3u8
 http://tjktv-live.tjk.org/tjktv.m3u8
 #EXTINF:274,GINX ESPORTS TV
 http://178.166.14.117:4344/play/a027
+#EXTINF:341,TASKRÜT SERIES SCI-FI
+http://nox.nox102.xyz:80/mert924bn/231020.ft/60
+#EXTINF:342,TASKRÜT SERIES COMEDY
+http://nox.nox102.xyz:80/mert924bn/231020.ft/21975
+#EXTINF:343,TASKRÜT SERIES VICE
+http://serkan.oses35.info:8080/live/ziyasaricigdem03/ziya1045/1236.ts
+#EXTINF:344,TASKRÜT SERIES DRAMA
+http://nox.nox102.xyz:80/mert924bn/231020.ft/62
 #EXTINF:362,TRT 4K
 http://188.241.218.46:2085/play/TRT1uhdlutfendeisme
 #EXTINF:369,GAMETOON
@@ -621,4 +629,9 @@ https://waw3.artiyerelmedya.net/worldturk/bant1/playlist.m3u8
 http://51.15.2.151/hls/kanalavrupa.m3u8
 #EXTINF:773,RİZE TÜRK
 https://yayin.rizeturk.com:3777/multi_web/play.m3u8
-
+#EXTINF:774,MARMARA TV
+https://59cba4d34b678.streamlock.net/live/marmaratv/playlist.m3u8
+#EXTINF:775,KÖROĞLU TV
+http://stream.taksimbilisim.com:1935/koroglutv/bant1/playlist.m3u8
+#EXTINF:776,HABER 61
+https://cdn-haber61tv.yayin.com.tr/haber61tv/smil:haber61tv.smil/playlist.m3u8
