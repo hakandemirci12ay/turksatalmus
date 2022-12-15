@@ -504,6 +504,8 @@ https://wfcint.mediacdn.ru/cdn/wfcintweb/playlist.m3u8
 https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:689,360 TUNE BOX
 http://nox.nox102.xyz:80/mert924bn/231020.ft/23374
+#EXTINF:690,MCM POP
+http://main.34344949.xyz:8080/DKM281/DKM28545253652/94781
 #EXTINF:701,ZAZA TV
 http://nox.nox102.xyz:80/mert924bn/231020.ft/63895
 #EXTINF:702,MEDYA HABER
@@ -748,6 +750,12 @@ https://2.rtmp.org/tv219/yayin.stream/playlist.m3u8
 https://yayin30.haber100.com/live/kudustv/chunklist.m3u8
 #EXTINF:821,TV 5
 https://59cba4d34b678.streamlock.net/canlitv/tv5/chunklist.m3u8
+#EXTINF:822,TV42
+http://main.34344949.xyz:8080/DKM281/DKM28545253652/17853
+#EXTINF:823,KENT77 TV
+https://edge1.socialsmart.tv/kent77/bant1/chunks.m3u8
+#EXTINF:824,BİTLİS TV
+http://nox.nox102.xyz:80/mert924bn/231020.ft/63897
 #EXTINF:901,KIBRIS ADA TV
 https://kuzeykibris.tv/m3u8/tv_ada.m3u8
 #EXTINF:902,TV GÜNEŞ
@@ -778,7 +786,7 @@ http://nox.nox102.xyz:80/mert924bn/231020.ft/178
 https://live.kanal7.com/live/kanal7AvrupaLive/index.m3u8
 #EXTINF:999,TV8 INT
 http://nox.nox102.xyz:80/mert924bn/231020.ft/63947
-#EXTINF:1500,NATURESCAPE
+#EXTINF:2000,NATURESCAPE
 http://main.34344949.xyz:8080/DKM281/DKM28545253652/168434
 #EXTINF:2001,90LAR
 https://moondigitalmaster.radyotvonline.net/90lar/playlist.m3u8
