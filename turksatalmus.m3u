@@ -55,8 +55,11 @@ http://nox.nox102.xyz:80/mert924bn/231020.ft/202
 http://bit.ly/3LYkGDD
 #EXTINF:19,MYZEN TV
 http://45.90.106.7:8780/play/QmU843O9@Y5G/index.m3u8
-#EXTINF:20:ROMANTICA
+#EXTINF:20,ROMANTICA
 http://181.119.67.75:8000/play/CH42
+#EXTINF:21,FILMBOX
+http://main.34344949.xyz:8080/DKM281/DKM28545253652/21455
+
 #EXTINF:22,TRT 1
 http://bit.ly/3KOXdWk
 #EXTINF:23,ATV
@@ -775,6 +778,8 @@ http://nox.nox102.xyz:80/mert924bn/231020.ft/178
 https://live.kanal7.com/live/kanal7AvrupaLive/index.m3u8
 #EXTINF:999,TV8 INT
 http://nox.nox102.xyz:80/mert924bn/231020.ft/63947
+#EXTINF:1500,NATURESCAPE
+http://main.34344949.xyz:8080/DKM281/DKM28545253652/168434
 #EXTINF:2001,90LAR
 https://moondigitalmaster.radyotvonline.net/90lar/playlist.m3u8
 #EXTINF:2002,AKUSTİK
@@ -828,4 +833,4 @@ https://moondigitaledge.radyotvonline.net/worldhits/playlist.m3u8
 #EXTINF:2026,ZEN
 https://moondigitaledge.radyotvonline.net/zenland/playlist.m3u8
 #EXTINT:10000,TASKRUT BOX OFFICE
-http://nox.nox102.xyz:80/mert924bn/231020.ft/226
+http://main.34344949.xyz:8080/DKM281/DKM28545253652/94296
