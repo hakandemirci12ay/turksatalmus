@@ -265,6 +265,8 @@ https://strm.yandex.ru/kal/rtg/rtg0.m3u8
 http://livedoc.cgtn.com/1000d/prog_index.m3u8
 #EXTINF:134,CHASSE & PECHE
 http://nox.nox102.xyz:80/mert924bn/231020.ft/51082
+#EXTINF:134,CBS REALITY
+http://87.212.248.44:60230/play/a051/index.m3u8
 #EXTINF:144,AZTV
 http://135.125.234.9:8081/aztv/index.m3u8
 #EXTINF:145,TÜRKMENELİ TV
@@ -437,43 +439,45 @@ http://dost.stream.emsal.im/tv/live.m3u8
 http://m.live.net.sa:1935/live/quran/playlist.m3u8
 #EXTINF:550,AL SUNNAH AL NABAWIYAH
 http://m.live.net.sa:1935/live/sunnah/playlist.m3u8
-#EXTINF:660,MCM TOP
+#EXTINF:660,MTV
+http://200.24.132.99:8000/play/a01i
+#EXTINF:661,MCM TOP
 http://45.90.106.7:8780/play/UeQ517K6@G6V/index.m3u8
-#EXTINF:661,MEZZO
+#EXTINF:662,MEZZO
 http://45.92.69.132:8001/play/a0ii
-#EXTINF:662,MTV 00s
+#EXTINF:663,MTV 00s
 http://nox.nox102.xyz:80/mert924bn/231020.ft/73030
-#EXTINF:663,TRT MÜZİK
+#EXTINF:664,TRT MÜZİK
 http://bit.ly/3ARtebX
-#EXTINF:664,KRAL TV
+#EXTINF:665,KRAL TV
 http://dogus-live.daioncdn.net/kraltv/playlist.m3u8
-#EXTINF:665,KRAL POP TV
+#EXTINF:666,KRAL POP TV
 http://dogus-live.daioncdn.net/kralpoptv/playlist.m3u8
-#EXTINF:666,DREAM TÜRK
+#EXTINF:667,DREAM TÜRK
 https://live.duhnet.tv/S2/HLS_LIVE/dreamturknp/playlist.m3u8
-#EXTINF:667,NUMBER1 TV
+#EXTINF:668,NUMBER1 TV
 https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e17cd6360b_1/playlist.m3u8
-#EXTINF:668,NUMBER1 TURK
+#EXTINF:669,NUMBER1 TURK
 http://bit.ly/3Bk0pq1
-#EXTINF:669,NUMBER1 DANCE
+#EXTINF:670,NUMBER1 DANCE
 https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e2aa8acf44_1/playlist.m3u8
-#EXTINF:670,NUMBER1 AŞK
+#EXTINF:671,NUMBER1 AŞK
 https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e18f9cea15_1/playlist.m3u8
-#EXTINF:671,NUMBER1 DAMAR
+#EXTINF:672,NUMBER1 DAMAR
 https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e198784bdc_1/playlist.m3u8
-#EXTINF:672,POWER TV
+#EXTINF:673,POWER TV
 http://livetv.powerapp.com.tr/powerTV/powerhd.smil/playist.m3u8
-#EXTINF:673,POWERTÜRK TV
+#EXTINF:674,POWERTÜRK TV
 http://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/playist.m3u8
-#EXTINF:674,MİLYON TV
+#EXTINF:675,MİLYON TV
 https://sosyoapp-live.cdnnew.com/sosyo/buraya-bir-isim-verin.m3u8
-#EXTINF:675,TATLISES TV
+#EXTINF:676,TATLISES TV
 http://waw2.artiyerelmedya.net/tatlisestv/bant1/playlist.m3u8
-#EXTINF:676,EKİNTÜRK TV
+#EXTINF:677,EKİNTÜRK TV
 http://nox.nox102.xyz:80/mert924bn/231020.ft/63898
-#EXTINF:677,CEM TV
+#EXTINF:678,CEM TV
 http://nox.nox102.xyz:80/mert924bn/231020.ft/199
-#EXTINF:678,ANADOLU DERNEK TV
+#EXTINF:679,ANADOLU DERNEK TV
 http://nox.nox102.xyz:80/mert924bn/231020.ft/34389
 #EXTINF:680,YILDIZ EN
 http://nox.nox102.xyz:80/mert924bn/231020.ft/83995
