@@ -167,14 +167,16 @@ http://bit.ly/3D0Q2IK
 https://edge1.socialsmart.tv/turkhaber/bant1/playlist.m3u8
 #EXTINF:77,TELE1
 https://tele1.blutv.com/blutv_tele1_live/live.m3u8
-#EXTINF:87,A PARA
+#EXTINF:86,A PARA
 http://bit.ly/3escNLJ
-#EXTINF:88,EKOTÜRK
+#EXTINF:87,EKOTÜRK
 http://bit.ly/3BkvXw2
-#EXTINF:89,TRT WORLD
+#EXTINF:88,TRT WORLD
 http://bit.ly/3x30uvL
-#EXTINF:90,A NEWS
+#EXTINF:89,A NEWS
 http://bit.ly/3qg0uoj
+#EXTINF:90,SKY NEWS
+http://siloh.pluto.tv/lilo/production/SkyNews/master.m3u8
 #EXTINF:91,CNN INTERNATIONAL
 http://bit.ly/3RI7c1W
 #EXTINF:92,CNBC
@@ -369,9 +371,11 @@ https://owifavo5.rocketcdn.com/gstv/gstv.smil/master.m3u8
 https://mn-nl.mncdn.com/blutv_taytv2/live.m3u8
 #EXTINF:273,TJK TV
 http://tjktv-live.tjk.org/tjktv.m3u8
-#EXTINF:274,GINX ESPORTS TV
+#EXTINF:274,EXTREME SPORTS
+http://39.33.253.232:8000/play/a03j
+#EXTINF:275,GINX ESPORTS TV
 http://178.166.14.117:4344/play/a027
-#EXTINF:275,CBC SPORT
+#EXTINF:276,CBC SPORT
 http://nox.nox102.xyz:80/mert924bn/231020.ft/133569
 #EXTINF:341,TASKRÜT SERIES SCI-FI
 http://nox.nox102.xyz:80/mert924bn/231020.ft/60
@@ -477,17 +481,19 @@ http://nox.nox102.xyz:80/mert924bn/231020.ft/83995
 http://nox.nox102.xyz:80/mert924bn/231020.ft/73031
 #EXTINF:682,MTV HITS
 http://nox.nox102.xyz:80/mert924bn/231020.ft/129084
-#EXTINF:683,INSIGHT TV
+#EXTINF:683,E! ENTERTAINMENT
+http://nox.nox102.xyz:80/mert924bn/231020.ft/128872
+#EXTINF:684,INSIGHT TV
 http://nox.nox102.xyz:80/mert924bn/231020.ft/70025
-#EXTINF:684,FASHION TV
+#EXTINF:685,FASHION TV
 https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_pg13_zw9_27065_ftv_pg13_196_hls.smil/playlist.m3u8
-#EXTINF:685,FASHION ONE
+#EXTINF:686,FASHION ONE
 https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e2ee6997cb_1/playlist.m3u8
-#EXTINF:686,WORLD FASHION
+#EXTINF:687,WORLD FASHION
 https://wfcint.mediacdn.ru/cdn/wfcintweb/playlist.m3u8
-#EXTINF:687,TRACE URBAN
+#EXTINF:688,TRACE URBAN
 https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
-#EXTINF:688,360 TUNE BOX
+#EXTINF:689,360 TUNE BOX
 http://nox.nox102.xyz:80/mert924bn/231020.ft/23374
 #EXTINF:701,ZAZA TV
 http://nox.nox102.xyz:80/mert924bn/231020.ft/63895
@@ -723,6 +729,10 @@ http://nox.nox102.xyz:80/mert924bn/231020.ft/116
 http://nox.nox102.xyz:80/mert924bn/231020.ft/118366
 #EXTINF:816,KANAL LİKYA
 https://59cba4d34b678.streamlock.net/canlitv/kanallikya/chunklist.m3u8
+#EXTINF:817,YENİ KOCAELİ TV
+http://nox.nox102.xyz:80/mert924bn/231020.ft/28283
+#EXTINF:818,TRAKYA TÜRK
+https://tv.medyakurumsal.com:3439/live/trakyaturklive.m3u8
 #EXTINF:901,KIBRIS ADA TV
 https://kuzeykibris.tv/m3u8/tv_ada.m3u8
 #EXTINF:902,TV GÜNEŞ
