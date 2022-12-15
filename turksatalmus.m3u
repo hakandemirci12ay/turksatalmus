@@ -723,6 +723,22 @@ http://nox.nox102.xyz:80/mert924bn/231020.ft/116
 http://nox.nox102.xyz:80/mert924bn/231020.ft/118366
 #EXTINF:816,KANAL LİKYA
 https://59cba4d34b678.streamlock.net/canlitv/kanallikya/chunklist.m3u8
+#EXTINF:901,KIBRIS ADA TV
+https://kuzeykibris.tv/m3u8/tv_ada.m3u8
+#EXTINF:902,TV GÜNEŞ
+https://kuzeykibris.tv/m3u8/tv_gunes.m3u8
+#EXTINF:903,BRT 2
+https://kuzeykibris.tv/m3u8/tv_brt2.m3u8
+#EXTINF:904,KANAL SİM
+https://kuzeykibris.tv/m3u8/tv_sim.m3u8
+#EXTINF:905,KIBRIS KANAL T
+https://kuzeykibris.tv/m3u8/tv_kanalt.m3u8
+#EXTINF:906,KIBRIS MAYIS TV
+http://mayistv.com:1935/live/mayistv/playlist.m3u8
+#EXTINF:907,KIBRIS TV
+https://kuzeykibris.tv/m3u8/tv_ktv.m3u8
+#EXTINF:908,TV 2020
+https://kuzeykibris.tv/m3u8/tv_dialog.m3u8
 #EXTINF:993,TGRT EU
 https://tv.ensonhaber.com/tv/tr/tgrteu/index.m3u8
 #EXTINF:994,SHOW TÜRK
