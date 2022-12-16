@@ -791,8 +791,6 @@ http://nox.nox102.xyz:80/mert924bn/231020.ft/178
 https://live.kanal7.com/live/kanal7AvrupaLive/index.m3u8
 #EXTINF:999,TV8 INT
 http://nox.nox102.xyz:80/mert924bn/231020.ft/63947
-#EXTINT:1500,TASKRÜT BOX OFFICE
-http://nox.nox102.xyz:80/mert924bn/231020.ft/226
 #EXTINF:2000,NATURESCAPE
 http://puvuiptv.com:8080/abdul8402350/H47DFUDP4FgB/52447
 #EXTINF:2001,90LAR
@@ -847,3 +845,5 @@ http://46.20.4.34/radyoland/turkland.stream/playlist.m3u8
 https://moondigitaledge.radyotvonline.net/worldhits/playlist.m3u8
 #EXTINF:2026,ZEN
 https://moondigitaledge.radyotvonline.net/zenland/playlist.m3u8
+#EXTINT:5000,TASKRÜT BOX OFFICE
+http://nox.nox102.xyz:80/mert924bn/231020.ft/226
