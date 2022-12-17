@@ -761,6 +761,36 @@ https://edge1.socialsmart.tv/kent77/bant1/chunks.m3u8
 http://nox.nox102.xyz:80/mert924bn/231020.ft/63897
 #EXTINF:825,KANAL 56
 https://cdn-kanal56tv.yayin.com.tr/kanal56tv/kanal56tv/chunklist.m3u8
+#EXTINF:826,TVDEN
+http://canli.tvden.com.tr/hls/live.m3u8
+#EXTINF:827,ES TV
+https://waw3.artiyerelmedya.net/estv/bant1/playlist.m3u8
+#EXTINF:828,WM TV WOMAN KADIN
+https://s01.webcaster.cloud/wmtv/live_360p.m3u8
+#EXTINF:829,KÖY TV
+https://59cba4d34b678.streamlock.net/canlitv/koytv/chunklist.m3u8
+#EXTINF:830,TV1
+https://edge1.socialsmart.tv/tv1/bant1/chunks.m3u8
+#EXTINF:831,KANAL ANTALYA
+https://cdn-kanaltvo.yayin.com.tr/kanaltvo/kanaltvo/playlist.m3u8
+#EXTINF:832,EDESSA TV
+https://tv.digitalbox.xyz:19360/edessatv/edessatv.m3u8
+#EXTINF:833,REHBER TV
+http://nox.nox102.xyz:80/mert924bn/231020.ft/63910
+#EXTINF:834,ÖNCÜ TV
+https://broadcasttr.com:446/oncurtv/bant1/chunklist.m3u8
+#EXTINF:834,ATV ALANYA
+https://broadcasttr.com:446/alanyatv/smil:alanyatv.smil/playlist.m3u8
+#EXTINF:834,KENT TV BODRUM
+https://edge1.socialsmart.tv/bodrumkenttv/bant1/chunks.m3u8
+#EXTINF:834,KANAL 5
+https://cdn-kanal5.yayin.com.tr/kanal5/kanal5/chunklist.m3u8
+#EXTINF:835,TV KAYSERİ
+https://59cba4d34b678.streamlock.net/canlitv/tvkayseri/chunklist.m3u8
+#EXTINF:836,GÜNEYDOĞU TV
+https://broadcasttr.com:446/gtv/bant1/chunklist.m3u8
+#EXTINF:837,GÜNAYDIN TV
+https://tv.digitalbox.xyz:19360/gunaydintv/gunaydintv.m3u8
 #EXTINF:901,KIBRIS ADA TV
 https://kuzeykibris.tv/m3u8/tv_ada.m3u8
 #EXTINF:902,TV GÜNEŞ
