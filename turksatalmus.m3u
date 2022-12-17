@@ -269,6 +269,8 @@ http://livedoc.cgtn.com/1000d/prog_index.m3u8
 http://nox.nox102.xyz:80/mert924bn/231020.ft/51082
 #EXTINF:134,CBS REALITY
 http://87.212.248.44:60230/play/a051/index.m3u8
+#EXTINF:135,DOCUMAX
+https://umt02.videobulut.com/1/3811/yE8dsnXpMKEf/yE8dsnXpMKEf.mpd
 #EXTINF:144,AZTV
 http://135.125.234.9:8081/aztv/index.m3u8
 #EXTINF:145,TÜRKMENELİ TV
@@ -399,6 +401,12 @@ http://nox.nox102.xyz:80/mert924bn/231020.ft/21975
 http://serkan.oses35.info:8080/live/ziyasaricigdem03/ziya1045/1236.ts
 #EXTINF:344,TASKRÜT SERIES DRAMA
 http://nox.nox102.xyz:80/mert924bn/231020.ft/62
+#EXTINF:351,FİL TV
+https://umt02.videobulut.com/35/3811/dEyjyRus5bAh/dEyjyRus5bAh.mpd
+#EXTINF:352,FİLMAX
+https://umt02.videobulut.com/35/3811/ERCd67pM62KK/ERCd67pM62KK.mpd
+#EXTINF:353,FİLODİ
+https://cdn.videobulut.com/1/3811/3pM4ws2RbVGZ/3pM4ws2RbVGZ.mpd
 #EXTINF:362,TRT 4K
 http://188.241.218.46:2085/play/TRT1uhdlutfendeisme
 #EXTINF:369,GAMETOON
