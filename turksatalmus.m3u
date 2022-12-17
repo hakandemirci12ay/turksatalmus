@@ -819,6 +819,16 @@ https://broadcasttr.com:446/muglaturk/bant1/chunklist.m3u8
 https://vdo.digitalbox.xyz:3175/live/tvmorlive.m3u8
 #EXTINF:844,KANAL 19
 https://vdo.digitalbox.xyz:3644/live/kanal19tvlive.m3u8
+#EXTINF:845,TV48
+https://ajansplay.com:5443/LiveApp/streams/tv48.m3u8
+#EXTINF:846,KANAL 38
+https://59cba4d34b678.streamlock.net/live/kanal38/playlist.m3u8
+#EXTINF:847,KANAL URFA
+https://broadcasttr.com:446/kanalurfa/bant1/chunklist.m3u8
+#EXTINF:848,KOBİM TV
+https://cdn-kobimtv.yayin.com.tr/kobimtv/kobimtv/chunklist.m3u8
+#EXTINF:849,ERT ŞAH TV
+http://win20.yayin.com.tr:80/ertsahtv/ertsahtv/playlist.m3u8
 #EXTINF:901,KIBRIS ADA TV
 https://kuzeykibris.tv/m3u8/tv_ada.m3u8
 #EXTINF:902,TV GÜNEŞ
