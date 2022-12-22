@@ -866,9 +866,13 @@ https://59cba4d34b678.streamlock.net/live/kanal38/playlist.m3u8
 #EXTINF:847,KANAL URFA
 https://broadcasttr.com:446/kanalurfa/bant1/chunklist.m3u8
 #EXTINF:848,KOBİM TV
-https://cdn-kobimtv.yayin.com.tr/kobimtv/kobimtv/chunklist.m3u8,
+https://cdn-kobimtv.yayin.com.tr/kobimtv/kobimtv/chunklist.m3u8
 #EXTINF:849,ÖZBURUN TV
 http://yilmaz.srfms.com:1935/yilmaz/livestream/playlist.m3u8
+#EXTINF:850,KANAL PATİ
+https://59cba4d34b678.streamlock.net/live/kanalpati/playlist.m3u8
+#EXTINF:851,TR35
+https://waw1.artiyerelmedya.net/tr35/bant1/playlist.m3u8
 #EXTINF:901,KIBRIS ADA TV
 https://kuzeykibris.tv/m3u8/tv_ada.m3u8
 #EXTINF:902,TV GÜNEŞ
@@ -901,6 +905,216 @@ http://nox.nox102.xyz:80/mert924bn/231020.ft/178
 https://live.kanal7.com/live/kanal7AvrupaLive/index.m3u8
 #EXTINF:999,TV8 INT
 http://nox.nox102.xyz:80/mert924bn/231020.ft/63947
+#EXTINF:1000,PRESS TV
+https://cdnlive.presstv.ir/cdnlive/smil:cdnlive.smil/playlist.m3u8
+#EXTINF:1001,I24 NEWS
+http://bcovlive-a.akamaihd.net/cc8266d36bb5469b8b4a3097497e06e6/eu-central-1/5377161796001/playlist-all_dvr.m3u8
+#EXTINF:1002,BFM TV
+http://45.90.106.7:9790/play/WmU5109P5@Y4X
+#EXTINF:1003,HİSPAN TV
+https://live1.presstv.ir/live/hispan.m3u8
+#EXTINF:1004,RAI NEWS 24
+http://5nutm0yj.russtv.net/iptv/CXDKU5MT6AACZ8/19094/index.m3u8
+#EXTINF:1005,AL ARABIYA
+https://shls-alarabiya-prod-dub.shahid.net/out/v1/f5f319206ed740f9a831f2097c2ead23/index.m3u8
+#EXTINF:1006,BBC ARABIC
+https://vs-hls-pushb-ww-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_arabic_tv/pc_hd_abr_v2_akamai_hls_live.m3u8
+#EXTINF:1007,RUSSIA TODAY
+https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
+#EXTINF:1008,RT DOCUMENTARY
+https://rt-glb.rttv.com/live/rtdoc/playlist.m3u8
+#EXTINF:1009,RAI SPORT+
+http://5nutm0yj.russtv.net/iptv/CXDKU5MT6AACZ8/19106/index.m3u8
+#EXTINF:1010,DUBAI SPORTS 1
+http://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist_b1600000.m3u8
+#EXTINF:1011,ABU DHABI SPORTS 1
+https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8
+#EXTINF:1012,YAS SPORTS
+http://5nutm0yj.russtv.net/iptv/CXDKU5MT6AACZ8/2511/index.m3u8
+#EXTINF:1013,ARTE
+http://45.90.106.7:8780/play/GQ5219M2@U5P/index.m3u8
+#EXTINF:1014,RAI 2
+http://5nutm0yj.russtv.net/iptv/CXDKU5MT6AACZ8/19082/index.m3u8
+#EXTINF:1015,RAI 3
+http://puvuiptv.com:8080/abdul8402350/H47DFUDP4FgB/67170
+#EXTINF:1016,RAI 4
+http://5nutm0yj.russtv.net/iptv/CXDKU5MT6AACZ8/19084/index.m3u8
+#EXTINF:1017,RAI 5
+http://5nutm0yj.russtv.net/iptv/CXDKU5MT6AACZ8/19085/index.m3u8
+#EXTINF:1018,RAI GULP
+http://5nutm0yj.russtv.net/iptv/CXDKU5MT6AACZ8/19092/index.m3u8
+#EXTINF:1019,RAI MOVIE
+http://5nutm0yj.russtv.net/iptv/CXDKU5MT6AACZ8/19086/index.m3u8
+#EXTINF:1020,RAI ITALIA
+http://5nutm0yj.russtv.net/iptv/CXDKU5MT6AACZ8/19093/index.m3u8
+#EXTINF:1021,RAI PREMIUM
+http://5nutm0yj.russtv.net/iptv/CXDKU5MT6AACZ8/19087/index.m3u8
+#EXTINF:1022,RAI SCUOLA
+http://5nutm0yj.russtv.net/iptv/CXDKU5MT6AACZ8/19090/index.m3u8
+#EXTINF:1023,RAI STORIA
+http://5nutm0yj.russtv.net/iptv/CXDKU5MT6AACZ8/19088/index.m3u8
+#EXTINF:1024,RAI YOYO
+http://85.0.32.106:8000/play/xxRaiYoyo
+#EXTINF:1025,ITALIA 1
+http://puvuiptv.com:8080/abdul8402350/H47DFUDP4FgB/67176
+#EXTINF:1026,RETE 4
+http://puvuiptv.com:8080/abdul8402350/H47DFUDP4FgB/67174
+#EXTINF:1026,CANALE 5
+http://puvuiptv.com:8080/abdul8402350/H47DFUDP4FgB/67175
+#EXTINF:1026,TVR INT
+http://85.0.32.106:8000/play/xxTVRintxx
+#EXTINF:1027,RTP INTERNACIONAL
+http://62.2.85.68:39981/play/a01b
+#EXTINF:1028,CNC WORLD ENGLISH
+http://source07.v.news.cn/live/CNC_EN/playlist.m3u8
+#EXTINF:1029,SURYOYO SAT
+http://85.0.32.106:8000/play/a0ct
+#EXTINF:1030,ESKA TV
+http://85.0.32.106:8000/play/EskaTV
+#EXTINF:1031,THT COMEDY
+https://bl.uma.media/live/410338/HLS/6307840_7,4280320_6,2703360_5,1408000_4,1070080_3,732160_2,394240_1/1613013807/79ad96b5b87fdce129191b83aaf2fb46/playlist.m3u8
+#EXTINF:1032,8 TV
+https://v4.proofix.ru/8tv-europe/tracks-v1a1/mono.m3u8
+#EXTINF:1033,TELE5
+http://85.0.32.106:8000/play/Tele5Pola
+#EXTINF:1034,TVP POLONIA
+http://85.0.32.106:8000/play/TVPPolonia
+#EXTINF:1035,4FUN DANCE
+http://85.0.32.106:8000/play/a0i8
+#EXTINF:1036,4FUN KIDS
+http://85.0.32.106:8000/play/a0i7
+#EXTINF:1037,4FUN TV
+http://85.0.32.106:8000/play/4FunTV
+#EXTINF:1038,STARS TV
+http://85.0.32.106:8000/play/StarsTVPoland
+#EXTINF:1039,ARMENIA 1 TV
+https://amtv1.livestreamingcdn.com/am2abr/tracks-v1a1/mono.m3u8
+#EXTINF:1040,RUDAW TV
+https://svs.itworkscdn.net/rudawlive/rudawlive.smil/chunklist.m3u8
+#EXTINF:1041,VOA EU
+http://212.28.87.164:8000/play/a099
+#EXTINF:1042,VOA PERSIAN
+http://212.28.87.164:8000/play/a09c
+#EXTINF:1043,GANJ-E HOZOUR
+http://topfi.ios.internapcdn.net/topfi/live_1/Test/chunklist.m3u8
+#EXTINF:1044,SAT7 PARS
+https://svs.itworkscdn.net/sat7parslive/sat7pars.smil/playlist.m3u8
+#EXTINF:1044,SIMAY AZADI
+https://simaytv.akamaized.net/hls/live/2043550/simayhls/07.m3u8
+#EXTINF:1045,SHARJAH TV
+https://svs.itworkscdn.net/smc1live/smc1.smil/playlist.m3u8
+#EXTINF:1046,SHARQIYA TV
+http://ns8.indexforce.com:1935/home/mystream/chunklist.m3u8
+#EXTINF:1047,MEKAMELEEN TV
+https://mn-nl.mncdn.com/mekameleen/smil:mekameleentv.smil/playlist.m3u8
+#EXTINF:1048,AL MAYADEEN
+http://85.0.32.106:8000/play/a0lu
+#EXTINF:1049,NOURSAT
+https://svs.itworkscdn.net/nour4satlive/livestream/playlist.m3u8
+#EXTINF:1050,ALJAZEERA DOCUMENTARY
+http://live-hls-web-ajd.getaj.net/AJD/01.m3u8
+#EXTINF:1051,AL RAYYAN
+https://svs.itworkscdn.net/alrayyanlive/alrayyan.smil/playlist.m3u8
+#EXTINF:1052,ABU DHABI TV
+https://admdn2.cdn.mangomolo.com/adtv/smil:adtv.stream.smil/chunklist.m3u8
+#EXTINF:1053,DUBAI TV
+https://dmisxthvll.cdn.mgmlcdn.com/dubaitvht/smil:dubaitv.stream.smil/playlist.m3u8
+#EXTINF:1054,BAHRAIN TV
+https://5c7b683162943.streamlock.net/live/ngrp:bahraintvmain_all/playlist.m3u8
+#EXTINF:1055,KTV 1
+http://85.0.32.106:8000/play/KuwaitTV1HD
+#EXTINF:1056,QATAR TV
+https://qatartv.akamaized.net/hls/live/2026573/qtv1/master720p.m3u8
+#EXTINF:1057,AL ALAM
+https://live2.alalam.ir/live/Alalam_high/index.m3u8
+#EXTINF:1058,AL HIWAR
+https://mn-nl.mncdn.com/alhiwar_live/smil:alhiwar.smil/playlist.m3u8
+#EXTINF:1059,TV TAMAZIGHT
+http://85.0.32.106:8000/play/yxTVTAMAZIGHTyx
+#EXTINF:1060,SKY SPORT NEWS
+http://5nutm0yj.russtv.net/iptv/CXDKU5MT6AACZ8/2477/index.m3u8
+#EXTINF:1061,EUROSPORT 1 GERMAN
+http://185.89.156.111:8000/play/a035
+#EXTINF:1062,DAS ERSTE
+http://5nutm0yj.russtv.net/iptv/CXDKU5MT6AACZ8/15172/index.m3u8
+#EXTINF:1063,RTL II
+http://5nutm0yj.russtv.net/iptv/CXDKU5MT6AACZ8/6065/index.m3u8
+#EXTINF:1064,SUPER RTL
+http://5nutm0yj.russtv.net/iptv/CXDKU5MT6AACZ8/6063/index.m3u8
+#EXTINF:1065,SAT.1 GOLD
+http://85.0.32.106:8000/play/xxSat1Goldxx
+#EXTINF:1066,PRO7 MAXX
+http://5nutm0yj.russtv.net/iptv/CXDKU5MT6AACZ8/15174/index.m3u8
+#EXTINF:1067,COMEDY CENTRAL
+http://5nutm0yj.russtv.net/iptv/CXDKU5MT6AACZ8/15182/index.m3u8
+#EXTINF:1068,TV5MONDE FBS
+http://45.90.106.7:8780/play/PqJ537m0@X6E/index.m3u8
+#EXTINF:1069,TRWAM
+https://rd.insyscd.net/trwamtv.live/cl01/out/u/trwam.mpd
+#EXTINF:1070,KSA 2
+https://edge.taghtia.com/sa/10.m3u8
+#EXTINF:1071,SAMA DUBAI
+https://dmieigthvll.cdn.mgmlcdn.com/samadubaiht/smil:samadubai.stream.smil/playlist.m3u8
+#EXTINF:1072,ISLAM CHANNEL
+https://live.islamchannel.tv/islamtv_english/4/prog_index.m3u8
+#EXTINF:1073,TBN RUSSIA
+http://85.0.32.106:8000/play/TBNRU
+#EXTINF:1074,TELEPACE
+http://85.0.32.106:8000/play/Telepace
+#EXTINF:1075,TELESUR
+http://85.0.32.106:8000/play/a0f0
+#EXTINF:1076,POLONIA 1
+http://85.0.32.106:8000/play/a0cm
+#EXTINF:1077,2M MONDE
+http://85.0.32.106:8000/play/xx2MMondexx
+#EXTINF:1078,TUNISIE INMOBILIER
+https://5ac31d8a4c9af.streamlock.net/tunimmob/myStream/playlist.m3u8
+#EXTINF:1079,TVA VICENZA
+http://85.0.32.106:8000/play/a0d4
+#EXTINF:1080,DMAX DE
+http://5nutm0yj.russtv.net/iptv/CXDKU5MT6AACZ8/15281/index.m3u8
+#EXTINF:1081,RADIO ITALIA TV
+http://85.0.32.106:8000/play/RadioITTVHD
+#EXTINF:1082,OMAN TV
+http://85.0.32.106:8000/play/OMANTVHD
+#EXTINF:1083,TVRUS
+http://85.0.32.106:8000/play/TVRus
+#EXTINF:1084,BBC PERSIAN
+https://vs-hls-pushb-ww-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_persian_tv/pc_hd_abr_v2_akamai_hls_live.m3u8
+#EXTINF:1085,AL HAYAT
+http://media.islamexplained.com:1935/live/_definst_mp4:ahme.stream_360p/playlist.m3u8
+#EXTINF:1086,IMEDI TV
+https://tv.cdn.xsg.ge/imedihd/tracks-v1a1/mono.m3u8
+#EXTINF:1087,ES TV
+https://estv-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:1088,AL AOULA
+http://85.0.32.106:8000/play/a0hy
+#EXTINF:1089,ARRIADIA
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/arriadia-avc1_1000000=3-mp4a_130400_qad=1.m3u8
+#EXTINF:1090,ARRABIA
+http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arrabiaa/hls_snrt/index.m3u8
+#EXTINF:1091,AL MAGHIRIBIA
+http://85.0.32.106:8000/play/Maghribia
+#EXTINF:1092,ASSADISSA
+http://85.0.32.106:8000/play/AssadissaHD
+#EXTINF:1093,TAMAZIGHT
+http://85.0.32.106:8000/play/TamazightHD
+#EXTINF:1094,FRANCE 2
+http://45.90.106.7:8780/play/TdWm527L9@Y5F/index.m3u8
+#EXTINF:1095,FRANCE 3
+http://45.90.106.7:8780/play/RwNz5179L8@R3C/index.m3u8
+#EXTINF:1096,FRANCE 4
+http://45.90.106.7:8780/play/GrQm517L3@b8Z/index.m3u8
+#EXTINF:1097,FRANCE 5
+http://45.90.106.7:8780/play/GzQ5176b2@T6B/index.m3u8
+#EXTINF:1098,TF1
+http://45.90.106.7:8780/play/WkY8429P5@U5M/index.m3u8
+#EXTINF:1099,HSE 24
+https://hse24.akamaized.net/hls/live/2006663/hse24/master_1080p25.m3u8
+#EXTINF:1100,RUSSIAN MUSIC BOX
+http://82.200.82.162:4022/udp/239.54.5.6:1224
+#EXTINF:1101,NRJ12
+http://45.90.106.7:8780/play/NtQ4197P3@H3B/index.m3u8
 #EXTINF:2000,NATURESCAPE
 http://puvuiptv.com:8080/abdul8402350/H47DFUDP4FgB/52447
 #EXTINF:2001,90LAR
