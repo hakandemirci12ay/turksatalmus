@@ -274,7 +274,7 @@ http://87.212.248.44:60230/play/a051/index.m3u8
 #EXTINF:135,DOCUMAX
 https://umt02.videobulut.com/1/3811/yE8dsnXpMKEf/yE8dsnXpMKEf.mpd
 #EXTINF:136,ANIMAL PLANET
-http://200.69.85.98:8000/udp/239.0.0.2:1234
+http://5nutm0yj.russtv.net/iptv/CXDKU5MT6AACZ8/218/index.m3u8
 #EXTINF:144,AZTV
 http://nox.nox102.xyz:80/mert924bn/231020.ft/133563
 #EXTINF:145,TÜRKMENELİ TV
@@ -306,7 +306,7 @@ http://87.228.199.234:4000/play/a00a
 #EXTINF:158,RTL
 http://87.228.199.234:4000/play/a00c
 #EXTINF:159,RAI UNO
-http://194.76.186.12:8000/play/a02e
+http://5nutm0yj.russtv.net/iptv/CXDKU5MT6AACZ8/19081/index.m3u8
 #EXTINF:160,VOX
 http://86.57.219.146:8000/play/a05h
 #EXTINF:161,ZDF
@@ -321,8 +321,10 @@ http://nox.nox102.xyz:80/mert924bn/231020.ft/129315
 http://shls-mbc1na-prod-dub.shahid.net/out/v1/84ab37e99d6e4b16b33c6600f94f6ccb/index_3.m3u8
 #EXTINF:166,ANT-1
 http://nox.nox102.xyz:80/mert924bn/231020.ft/126178
-#EXTINF:226,AUTOMOTO
+#EXTINF:225,AUTOMOTO
 http://45.90.106.7:9790/play/JyZ2084H3@G2V
+#EXTINF:226,MOTORSPORT TV
+http://cdn.ottiptv.fun:8880/bal_c9l8u2d4f9l1a3r7e9/MOTORSPORT/video.m3u8
 #EXTINF:227,FUEL TV
 https://fueltv-fueltv-5-de.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:238,TRT SPOR
@@ -399,6 +401,8 @@ http://39.33.253.232:8000/play/a03j
 http://178.166.14.117:4344/play/a027
 #EXTINF:276,CBC SPORT
 http://nox.nox102.xyz:80/mert924bn/231020.ft/133569
+#EXTINF:277,İDMAN TV
+http://109.205.166.68/server124/idman_az/index.m3u8
 #EXTINF:331,BLUTV PLAY 1
 http://nox.nox102.xyz:80/mert924bn/231020.ft/92
 #EXTINF:332,BLUTV PLAY 2
@@ -539,6 +543,12 @@ https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
 http://nox.nox102.xyz:80/mert924bn/231020.ft/23374
 #EXTINF:690,MCM POP
 http://nox.nox102.xyz:80/mert924bn/231020.ft/133094
+#EXTINF:691,iCONCERTS
+http://cdn.ottiptv.fun:8880/bal_c8l8u2d4f9l1a3r7e8/ICONCERTS/video.m3u8
+#EXTINF:692,CLASSICA
+https://dai.google.com/linear/hls/event/AaFxJXOhQl-BsTVC9OCunQ/master.m3u8
+#EXTINF:693,CMUSIC
+http://cdn.ottiptv.fun:8880/bal_c1l8u2d4f9l1a3r7e1/CMUSIC/video.m3u8
 #EXTINF:701,ZAZA TV
 http://nox.nox102.xyz:80/mert924bn/231020.ft/63895
 #EXTINF:702,MEDYA HABER
@@ -861,6 +871,8 @@ http://mayistv.com:1935/live/mayistv/playlist.m3u8
 https://kuzeykibris.tv/m3u8/tv_ktv.m3u8
 #EXTINF:908,TV 2020
 https://kuzeykibris.tv/m3u8/tv_dialog.m3u8
+#EXTINF:992,ICTIMAI TV
+http://109.205.166.68/server124/ictimai_tv/index.m3u8
 #EXTINF:993,TGRT EU
 https://tv.ensonhaber.com/tv/tr/tgrteu/index.m3u8
 #EXTINF:994,SHOW TÜRK
