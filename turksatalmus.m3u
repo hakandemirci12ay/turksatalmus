@@ -481,8 +481,10 @@ http://dost.stream.emsal.im/tv/live.m3u8
 http://m.live.net.sa:1935/live/quran/playlist.m3u8
 #EXTINF:550,AL SUNNAH AL NABAWIYAH
 http://m.live.net.sa:1935/live/sunnah/playlist.m3u8
-#EXTINF:660,MTV
+#EXTINF:659,MTV
 http://200.24.132.99:8000/play/a01i
+#EXTINF:690,MCM POP
+http://nox.nox102.xyz:80/mert924bn/231020.ft/133094
 #EXTINF:661,MCM TOP
 http://45.90.106.7:8780/play/UeQ517K6@G6V/index.m3u8
 #EXTINF:662,MEZZO
@@ -511,43 +513,55 @@ https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e198
 http://livetv.powerapp.com.tr/powerTV/powerhd.smil/playist.m3u8
 #EXTINF:674,POWERTÜRK TV
 http://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/playist.m3u8
-#EXTINF:675,MİLYON TV
+#EXTINF:675,POWER DANCE
+https://livetv.powerapp.com.tr/dance/dance.smil/playlist.m3u8
+#EXTINF:676,POWER LOVE
+https://livetv.powerapp.com.tr/plove/love.smil/playlist.m3u8
+#EXTINF:677,POWER PLUS
+https://livetv.powerapp.com.tr/pplustv/pplustv.smil/playlist.m3u8
+#EXTINF:678,POWER SLOW
+https://listen.powerapp.com.tr/pturkslow/slow.smil/playist.m3u8
+#EXTINF:679,POWERTÜRK AKUSTİK
+https://listen.powerapp.com.tr/pturkakustik/akustik.smil/playist.m3u8
+#EXTINF:680,POWERTÜRK EN İYİLER
+https://listen.powerapp.com.tr/pturkeniyiler/eniyiler.smil/playist.m3u8
+#EXTINF:681,POWERTÜRK TAPTAZE
+https://listen.powerapp.com.tr/pturktaptaze/taptaze.smil/playist.m3u8
+#EXTINF:682,MİLYON TV
 https://sosyoapp-live.cdnnew.com/sosyo/buraya-bir-isim-verin.m3u8
-#EXTINF:676,TATLISES TV
+#EXTINF:683,TATLISES TV
 http://waw2.artiyerelmedya.net/tatlisestv/bant1/playlist.m3u8
-#EXTINF:677,EKİNTÜRK TV
+#EXTINF:684,EKİNTÜRK TV
 http://nox.nox102.xyz:80/mert924bn/231020.ft/63898
-#EXTINF:678,CEM TV
+#EXTINF:685,CEM TV
 http://nox.nox102.xyz:80/mert924bn/231020.ft/199
-#EXTINF:679,ANADOLU DERNEK TV
+#EXTINF:686,ANADOLU DERNEK TV
 http://nox.nox102.xyz:80/mert924bn/231020.ft/34389
-#EXTINF:680,YILDIZ EN
+#EXTINF:687,YILDIZ EN
 http://nox.nox102.xyz:80/mert924bn/231020.ft/83995
-#EXTINF:681,MTV LIVE
+#EXTINF:688,MTV LIVE
 http://nox.nox102.xyz:80/mert924bn/231020.ft/73031
-#EXTINF:682,MTV HITS
+#EXTINF:689,MTV HITS
 http://nox.nox102.xyz:80/mert924bn/231020.ft/129084
-#EXTINF:683,E! ENTERTAINMENT
+#EXTINF:690,E! ENTERTAINMENT
 http://nox.nox102.xyz:80/mert924bn/231020.ft/128872
-#EXTINF:684,INSIGHT TV
+#EXTINF:691,INSIGHT TV
 http://nox.nox102.xyz:80/mert924bn/231020.ft/70025
-#EXTINF:685,FASHION TV
+#EXTINF:692,FASHION TV
 https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_pg13_zw9_27065_ftv_pg13_196_hls.smil/playlist.m3u8
-#EXTINF:686,FASHION ONE
+#EXTINF:693,FASHION ONE
 https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e2ee6997cb_1/playlist.m3u8
-#EXTINF:687,WORLD FASHION
+#EXTINF:694,WORLD FASHION
 https://wfcint.mediacdn.ru/cdn/wfcintweb/playlist.m3u8
-#EXTINF:688,TRACE URBAN
+#EXTINF:695,TRACE URBAN
 https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
-#EXTINF:689,360 TUNE BOX
+#EXTINF:696,360 TUNE BOX
 http://nox.nox102.xyz:80/mert924bn/231020.ft/23374
-#EXTINF:690,MCM POP
-http://nox.nox102.xyz:80/mert924bn/231020.ft/133094
-#EXTINF:691,iCONCERTS
+#EXTINF:697,iCONCERTS
 http://cdn.ottiptv.fun:8880/bal_c8l8u2d4f9l1a3r7e8/ICONCERTS/video.m3u8
-#EXTINF:692,CLASSICA
+#EXTINF:698,CLASSICA
 https://dai.google.com/linear/hls/event/AaFxJXOhQl-BsTVC9OCunQ/master.m3u8
-#EXTINF:693,CMUSIC
+#EXTINF:699,CMUSIC
 http://cdn.ottiptv.fun:8880/bal_c1l8u2d4f9l1a3r7e1/CMUSIC/video.m3u8
 #EXTINF:701,ZAZA TV
 http://nox.nox102.xyz:80/mert924bn/231020.ft/63895
