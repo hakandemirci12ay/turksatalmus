@@ -873,6 +873,8 @@ http://yilmaz.srfms.com:1935/yilmaz/livestream/playlist.m3u8
 https://59cba4d34b678.streamlock.net/live/kanalpati/playlist.m3u8
 #EXTINF:851,TR35
 https://waw1.artiyerelmedya.net/tr35/bant1/playlist.m3u8
+#EXTINF:852,DOĞU TV
+https://umt02.videobulut.com/35/3811/jp1bT66Tu3CV/jp1bT66Tu3CV.mpd
 #EXTINF:901,KIBRIS ADA TV
 https://kuzeykibris.tv/m3u8/tv_ada.m3u8
 #EXTINF:902,TV GÜNEŞ
