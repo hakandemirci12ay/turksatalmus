@@ -883,6 +883,8 @@ https://waw1.artiyerelmedya.net/tr35/bant1/playlist.m3u8
 https://umt02.videobulut.com/35/3811/jp1bT66Tu3CV/jp1bT66Tu3CV.mpd
 #EXTINF:853,TOPRAK TV
 https://59cba4d34b678.streamlock.net/canlitv/topraktv/playlist.m3u8
+#EXTINF:854,YEŞİLYOL TV
+https://cdn-berattv.yayin.com.tr/berattv/berattv/playlist.m3u8
 #EXTINF:901,KIBRIS ADA TV
 https://kuzeykibris.tv/m3u8/tv_ada.m3u8
 #EXTINF:902,TV GÜNEŞ
@@ -899,6 +901,8 @@ http://mayistv.com:1935/live/mayistv/playlist.m3u8
 https://kuzeykibris.tv/m3u8/tv_ktv.m3u8
 #EXTINF:908,TV 2020
 https://kuzeykibris.tv/m3u8/tv_dialog.m3u8
+#EXTINF:991,XEZER TV
+http://nox.nox102.xyz:80/mert924bn/231020.ft/133584
 #EXTINF:992,ICTIMAI TV
 http://109.205.166.68/server124/ictimai_tv/index.m3u8
 #EXTINF:993,TGRT EU
@@ -1135,6 +1139,64 @@ http://nox.nox102.xyz:80/mert924bn/231020.ft/126218
 http://nox.nox102.xyz:80/mert924bn/231020.ft/122314
 #EXTINF:1106,TV8 MONT BLANC
 http://nox.nox102.xyz:80/mert924bn/231020.ft/133215
+#EXTINF:1107,CBC AZERBAIJAN
+http://nox.nox102.xyz:80/mert924bn/231020.ft/133568
+#EXTINF:1108,SKY NEWS ARABIA
+https://stream.skynewsarabia.com/hls/sna.m3u8
+#EXTINF:1109,ITALIAN FISHING TV
+https://itftv-italianfishingtv-1-it.samsung.wurl.tv/playlist.m3u8
+#EXTINF:1110,SUPERTENNIS
+http://nox.nox102.xyz:80/mert924bn/231020.ft/122353
+#EXTINF:1111,TVP KULTURA
+http://nox.nox102.xyz:80/mert924bn/231020.ft/122018
+#EXTINF:1112,TG NORBA 24
+http://nox.nox102.xyz:80/mert924bn/231020.ft/122391
+#EXTINF:1113,DMAX ITALIA
+http://nox.nox102.xyz:80/mert924bn/231020.ft/122167
+#EXTINF:1114,ARISE NEWS
+http://nox.nox102.xyz:80/mert924bn/231020.ft/126761
+#EXTINF:1115,GEM TV
+http://nox.nox102.xyz:80/mert924bn/231020.ft/129426
+#EXTINF:1116,SHANSON TV
+http://nox.nox102.xyz:80/mert924bn/231020.ft/125941
+#EXTINF:1117,SUDAN TV
+https://castor.streamthatvideo.co:8081/sudantv/index.m3u8
+#EXTINF:1118,JEEM TV
+http://nox.nox102.xyz:80/mert924bn/231020.ft/120389
+#EXTINF:1119,MANOTO
+https://dh4wkqcyy8768.cloudfront.net/live.m3u8
+#EXTINF:1200,POLO TV
+http://nox.nox102.xyz:80/mert924bn/231020.ft/121951
+#EXTINF:1201,FOKUS TV
+http://nox.nox102.xyz:80/mert924bn/231020.ft/121918
+#EXTINF:1202,TVS
+http://nox.nox102.xyz:80/mert924bn/231020.ft/122023
+#EXTINF:1203,1+1 INTERNATIONAL
+http://nox.nox102.xyz:80/mert924bn/231020.ft/118608
+#EXTINF:1204,ARMENIA TV
+http://nox.nox102.xyz:80/mert924bn/231020.ft/131773
+#EXTINF:1205,KENTRON TV
+http://nox.nox102.xyz:80/mert924bn/231020.ft/131778
+#EXTINF:1206,PRO TV INTERNATIONAL
+http://nox.nox102.xyz:80/mert924bn/231020.ft/134604
+#EXTINF:1207,SHANT TV
+http://nox.nox102.xyz:80/mert924bn/231020.ft/131780
+#EXTINF:1208,MEDI1 TV
+https://streaming1.medi1tv.com/live/smil:medi1fr.smil/playlist.m3u8
+#EXTINF:1209,TTV
+http://nox.nox102.xyz:80/mert924bn/231020.ft/121992
+#EXTINF:1210,PAYAM-E AFGAN
+http://g5nl6xx5lpq6-hls-live.5centscdn.com/live1234/2621b29e501b445fabf227b086123b70.sdp/mono.m3u8
+#EXTINF:1211,ARIANA AFGANISTAN
+http://nox.nox102.xyz:80/mert924bn/231020.ft/122911
+#EXTINF:1212,ZAGROS TV
+http://nox.nox102.xyz:80/mert924bn/231020.ft/122898
+#EXTINF:1213,TV CORAN
+http://85.0.32.106:8000/play/yxTVCoranArabyx
+#EXTINF:1214,AL ETEJAH
+http://nox.nox102.xyz:80/mert924bn/231020.ft/122851
+#EXTINF:1215,QVC
+http://nox.nox102.xyz:80/mert924bn/231020.ft/129300
 #EXTINF:2000,NATURESCAPE
 http://puvuiptv.com:8080/abdul8402350/H47DFUDP4FgB/52447
 #EXTINF:2001,90LAR
