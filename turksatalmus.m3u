@@ -887,6 +887,8 @@ https://59cba4d34b678.streamlock.net/canlitv/topraktv/playlist.m3u8
 https://cdn-berattv.yayin.com.tr/berattv/berattv/playlist.m3u8
 #EXTINF:855,BUSINESS CHANNEL TÜRK
 https://59cba4d34b678.streamlock.net/canlitv/businesschannelturk/playlist.m3u8
+#EXTINF:856,DOSTELİ TV
+http://91.134.203.253:30124/dost/dost/chunklist.m3u8
 #EXTINF:901,KIBRIS ADA TV
 https://kuzeykibris.tv/m3u8/tv_ada.m3u8
 #EXTINF:902,TV GÜNEŞ
