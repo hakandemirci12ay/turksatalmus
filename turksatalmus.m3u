@@ -275,6 +275,8 @@ http://87.212.248.44:60230/play/a051/index.m3u8
 https://umt02.videobulut.com/1/3811/yE8dsnXpMKEf/yE8dsnXpMKEf.mpd
 #EXTINF:136,ANIMAL PLANET
 http://5nutm0yj.russtv.net/iptv/CXDKU5MT6AACZ8/218/index.m3u8
+#EXTINF:137,CRIME & INVESTIGATION
+http://nox.nox102.xyz:80/mert924bn/231020.ft/128845
 #EXTINF:144,AZTV
 http://nox.nox102.xyz:80/mert924bn/231020.ft/133563
 #EXTINF:145,TÜRKMENELİ TV
@@ -435,8 +437,10 @@ https://cdn.videobulut.com/1/3811/3pM4ws2RbVGZ/3pM4ws2RbVGZ.mpd
 http://188.241.218.46:2085/play/TRT1uhdlutfendeisme
 #EXTINF:369,GAMETOON
 http://nox.nox102.xyz:80/mert924bn/231020.ft/129024
-#EXTINF:437,TOM VE JERRY TV
+#EXTINF:436,TOM VE JERRY TV
 http://nox.nox102.xyz:80/mert924bn/231020.ft/54390
+#EXTINF:437,BABY FIRST
+http://200.6.227.230:7000/play/a02r/index.m3u8
 #EXTINF:438,CAROUSEL TV
 http://bit.ly/3D4Jmto
 #EXTINF:439,TRT ÇOCUK
@@ -889,6 +893,16 @@ https://cdn-berattv.yayin.com.tr/berattv/berattv/playlist.m3u8
 https://59cba4d34b678.streamlock.net/canlitv/businesschannelturk/playlist.m3u8
 #EXTINF:856,DOSTELİ TV
 http://91.134.203.253:30124/dost/dost/chunklist.m3u8
+#EXTINF:857,LUYS TV
+https://b01c02nl.mediatriple.net/videoonlylive/mtpayqrfkgirxelive/broadcast_5e91c5ac96898.smil/snAgKmmjihCao_2.m3u8
+#EXTINF:858,KARDELEN TV
+http://newcrm.streamencoding.com/hls/kardelen-live/index.m3u8
+#EXTINF:859,ON 4 TV
+https://edge1.socialsmart.tv/on4/bant1/chunks.m3u8
+#EXTINF:860,TV 52
+https://edge1.socialsmart.tv/tv52/bant1/chunks.m3u8
+#EXTINF:861,KANAL S
+http://cdn-kanals.yayin.com.tr/kanals/kanals/playlist.m3u8
 #EXTINF:901,KIBRIS ADA TV
 https://kuzeykibris.tv/m3u8/tv_ada.m3u8
 #EXTINF:902,TV GÜNEŞ
