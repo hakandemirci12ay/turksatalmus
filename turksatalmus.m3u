@@ -1245,6 +1245,10 @@ http://185.236.229.50:8003/play/a01w
 http://51.210.227.151/hls/stream.m3u8
 #EXTINF:1230,QVC
 https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc1uscln/medhigh.m3u8
+#EXTINF:1231,RU TV
+https://hls-03-video.webcaramba.com/rutv/live_360/index.m3u8
+#EXTINF:1232,5
+http://ig8npqfb.rostelekom.xyz/iptv/GNCPU3XQDZA3L4/945/index.m3u8
 #EXTINF:2000,NATURESCAPE
 http://puvuiptv.com:8080/abdul8402350/H47DFUDP4FgB/52447
 #EXTINF:2001,90LAR
