@@ -917,6 +917,8 @@ https://59cba4d34b678.streamlock.net/canlitv/torbatv/playlist.m3u8
 https://clcmediatv.ozelip.com:3192/stream/play.m3u8
 #EXTINF:867,KANAL 101
 https://59cba4d34b678.streamlock.net/canlitv/kanal101/playlist.m3u8
+#EXTINF:868,PALA TV
+http://palatv34.ozelip.com:22372/palatv/palatv/playlist.m3u8
 #EXTINF:901,KIBRIS ADA TV
 https://kuzeykibris.tv/m3u8/tv_ada.m3u8
 #EXTINF:902,TV GÜNEŞ
