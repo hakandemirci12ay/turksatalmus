@@ -59,6 +59,10 @@ http://45.90.106.7:8780/play/QmU843O9@Y5G/index.m3u8
 http://45.177.53.7:8000/play/a081/index.m3u8
 #EXTINF:21,FILMBOX
 http://germanydnsx2.com:8000/ismailar/1021Zcr1021/89282
+#EXTINF:21,FILMBOX ARTHOUSE
+http://fullnetiptv.xyz:8080/2ugur5838878/DxTPxt9wTrzg/63575
+#EXTINF:21,FILMBOX EXTRA
+http://fullnetiptv.xyz:8080/2ugur5838878/DxTPxt9wTrzg/63576
 #EXTINF:22,TRT 1
 http://bit.ly/3KOXdWk
 #EXTINF:23,ATV
@@ -489,9 +493,11 @@ http://bit.ly/3RCHhbS
 http://bit.ly/3CZB06d
 #EXTINF:548,DOST TV
 http://dost.stream.emsal.im/tv/live.m3u8
-#EXTINF:549,AL QURAN AL KAREEM
+#EXTINF:549,CAMİA TV
+https://camiatv-live.ercdn.net/camiatv/camiatv_1080p.m3u8
+#EXTINF:550,AL QURAN AL KAREEM
 http://m.live.net.sa:1935/live/quran/playlist.m3u8
-#EXTINF:550,AL SUNNAH AL NABAWIYAH
+#EXTINF:551,AL SUNNAH AL NABAWIYAH
 http://m.live.net.sa:1935/live/sunnah/playlist.m3u8
 #EXTINF:659,MTV
 http://200.24.132.99:8000/play/a01i
@@ -883,8 +889,8 @@ https://cdn-kobimtv.yayin.com.tr/kobimtv/kobimtv/chunklist.m3u8
 http://yilmaz.srfms.com:1935/yilmaz/livestream/playlist.m3u8
 #EXTINF:850,KANAL PATİ
 https://59cba4d34b678.streamlock.net/live/kanalpati/playlist.m3u8
-#EXTINF:851,TR35
-https://waw1.artiyerelmedya.net/tr35/bant1/playlist.m3u8
+#EXTINF:851,BİR TV
+https://waw1.artiyerelmedya.net/birtv/bant1/playlist.m3u8
 #EXTINF:852,DOĞU TV
 https://umt02.videobulut.com/35/3811/jp1bT66Tu3CV/jp1bT66Tu3CV.mpd
 #EXTINF:853,TOPRAK TV
@@ -1268,13 +1274,15 @@ http://ig8npqfb.rostelekom.xyz/iptv/GNCPU3XQDZA3L4/945/index.m3u8
 #EXTINF:1233,CLASS HORSE TV
 http://epg.protv.cc:80/Moustapha/Moustapha/692477
 #EXTINF:1234,ITN
-http://135.181.134.183:50750/turgutabi4010/G3UePubWbShdjxjf/98359
+http://185.236.230.220:8000/play/a00s/index.m3u8
 #EXTINF:1235,KNN CHANNEL
-http://135.181.134.183:50750/turgutabi4010/G3UePubWbShdjxjf/96655
+http://fullnetiptv.xyz:8080/2ugur5838878/DxTPxt9wTrzg/66836
 #EXTINF:1236,ERI TV
-http://135.181.134.183:50750/turgutabi4010/G3UePubWbShdjxjf/110989
+http://zentv.info:8080/live/0987654321/0987654321/132657.ts
+#EXTINF:1237,TV MODA
+http://85.0.32.106:8000/play/ClassTVModaIT
 #EXTINF:2000,NATURESCAPE
-http://puvuiptv.com:8080/abdul8402350/H47DFUDP4FgB/52447
+http://fullnetiptv.xyz:8080/2ugur5838878/DxTPxt9wTrzg/52447
 #EXTINF:2001,90LAR
 https://moondigitalmaster.radyotvonline.net/90lar/playlist.m3u8
 #EXTINF:2002,AKUSTİK
