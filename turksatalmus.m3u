@@ -1291,6 +1291,8 @@ https://gintna100.tulix.tv/gin_live/netviet/770dfce7e20151a61d4220e856435f71/63b
 http://185.236.229.117:8000/play/a00y
 #EXTINF:1242,MTA INTERNATIONAL
 https://chlivemta1.akamaized.net/hls/live/2008145/mta1/playlist_2300.m3u8
+#EXTINF:1243,1 TV GEORGIA
+https://tv.cdn.xsg.ge/gpb-1tv/index.m3u8
 #EXTINF:2000,NATURESCAPE
 http://fullnetiptv.xyz:8080/2ugur5838878/DxTPxt9wTrzg/52447
 #EXTINF:2001,90LAR
