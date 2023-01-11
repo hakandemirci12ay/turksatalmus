@@ -46,7 +46,7 @@ http://fullnetiptv.xyz:8080/2ugur5838878/DxTPxt9wTrzg/96126
 #EXTINF:14,FX
 http://fullnetiptv.xyz:8080/2ugur5838878/DxTPxt9wTrzg/244
 #EXTINF:15,BBC FIRST
-http://bit.ly/3iyMFB9
+http://bit.ly/3CGlGdT
 #EXTINF:16,TASKRÜT HOME & ENTERTAINMENT
 http://nx4545.xyz:8080/mert924bn/231020.ft/73032
 #EXTINF:17,TASKRÜT GURME
@@ -156,61 +156,61 @@ http://cdn-tvem.yayin.com.tr/TVEM/TVEM/playlist.m3u8
 #EXTINF:68,TRT TÜRK
 http://31.223.85.34:9999/play/a092/index.m3u8
 #EXTINF:69,TRT AVAZ
-https://tv-trtavaz.medya.trt.com.tr/master_720.m3u8
+http://tv-trtavaz.medya.trt.com.tr/master_720.m3u8
 #EXTINF:70,TRT 3 SPOR
-http://bit.ly/3AQvd05
+http://bit.ly/3Xi8Jys
 #EXTINF:71,TRT KURDİ
-http://bit.ly/3qeH570
+http://31.223.85.34:9999/play/a094/index.m3u8
 #EXTINF:72,HABER GLOBAL
-http://bit.ly/3RKUNul
+http://31.223.85.34:9999/play/a081/index.m3u8
 #EXTINF:73,BBN TÜRK
-http://bit.ly/3BhFWBX
+http://31.223.85.34:9999/play/a08i/index.m3u8
 #EXTINF:74,KRT TV
-https://krt.blutv.com/blutv_krt_live/live.m3u8
+http://31.223.85.34:9999/play/a08g/index.m3u8
 #EXTINF:75,HALK TV
-http://bit.ly/3D0Q2IK
+http://31.223.85.34:9999/play/a07r/index.m3u8
 #EXTINF:76,TH TÜRK HABER
 https://edge1.socialsmart.tv/turkhaber/bant1/playlist.m3u8
 #EXTINF:77,SZC
-http://nx4545.xyz:8080/mert924bn/231020.ft/118378
+http://31.223.85.34:9999/play/a085/index.m3u8
 #EXTINF:78,A PARA
-http://bit.ly/3escNLJ
+http://31.177.62.182:8004/play/s12
 #EXTINF:79,EKOTÜRK
-http://bit.ly/3BkvXw2
+http://31.223.85.34:9999/play/a09a/index.m3u8
 #EXTINF:80,MEK TV
 https://cdn-mektv.yayin.com.tr/mektv/mektv/playlist.m3u8
 #EXTINF:81,TELE1
-https://tele1.blutv.com/blutv_tele1_live/live.m3u8
+http://31.223.85.34:9999/play/a09d/index.m3u8
 #EXTINF:88,TRT WORLD
-http://bit.ly/3x30uvL
+http://tv-trtworld.medya.trt.com.tr/master_720.m3u8
 #EXTINF:89,A NEWS
-http://bit.ly/3qg0uoj
+http://31.177.62.182:8004/play/s11
 #EXTINF:90,SKY NEWS
 http://siloh.pluto.tv/lilo/production/SkyNews/master.m3u8
 #EXTINF:91,CNN INTERNATIONAL
-http://bit.ly/3RI7c1W
+http://31.187.196.89:60450/play/a07z/index.m3u8
 #EXTINF:92,CNBC
-https://bit.ly/3TGU3rM
+http://195.222.7.26:7001/play/a02c
 #EXTINF:93,BBC WORLD NEWS
-http://bit.ly/3D2aqcw
+http://178.166.14.117:4344/play/a02a
 #EXTINF:94,FOX NEWS CHANNEL
 http://46.18.20.46:8000/play/a01a
 #EXTINF:95,BLOOMBERG TV
-http://bit.ly/3etE28H
+https://bloomberg-bloombergtv-1-it.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:96,ALJAZEERA ARABIC
 http://live-hls-web-aja.getaj.net/AJA/index.m3u8
 #EXTINF:97,ALJAZEERA ENGLISH
-http://bit.ly/3qfbYs6
+http://live-hls-web-aje.getaj.net/AJE/index.m3u8
 #EXTINF:98,AL ARABY
 http://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/playlist.m3u8
 #EXTINF:99,SYRIA TV
 https://svs.itworkscdn.net/syriatvlive/syriatv.smil/playlist.m3u8
 #EXTINF:100,TRT ARABİ
-http://bit.ly/3TQQT4I
+https://tv-trtarabi.medya.trt.com.tr/master_720.m3u8
 #EXTINF:101,RT ARABIC
-http://bit.ly/3TL9tvc
+https://rt-arb.rttv.com/live/rtarab/playlist.m3u8
 #EXTINF:102,DW TV ENGLISH
-http://bit.ly/3x2m3g1
+http://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream02/streamPlaylist.m3u8
 #EXTINF:103,DW TV GERMAN
 http://dwamdstream106.akamaized.net/hls/live/2017965/dwstream106/stream03/streamPlaylist.m3u8
 #EXTINF:104,EURONEWS
@@ -218,7 +218,7 @@ http://rakuten-euronews-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:106,FRANCE 24 ENGLISH
 http://185.236.229.50:8003/play/a02c
 #EXTINF:106,FRANCE 24 FRANÇAİS
-http://bit.ly/3za8Sv9
+http://154.58.202.35:8001/play/a0em/index.m3u8
 #EXTINF:107,CGTN
 http://live.cgtn.com/1000/prog_index.m3u8
 #EXTINF:108,RUSSIA 24
@@ -230,35 +230,35 @@ http://nx4545.xyz:8080/mert924bn/231020.ft/77
 #EXTINF:111,YABAN TV
 https://yayin1.canlitv.day/live1/yabantv/chunklist.m3u8
 #EXTINF:112,HABİTAT TV
-http://bit.ly/3a5RJrT
+http://bit.ly/3kaEUlr
 #EXTINF:113,TRT BELGESEL
-http://bit.ly/3Bl0GZI
+http://31.223.85.34:9999/play/a091/index.m3u8
 #EXTINF:114,NATIONAL GEOGRAPHIC
-http://bit.ly/3GCIb48
+http://fullnetiptv.xyz:8080/2ugur5838878/DxTPxt9wTrzg/309
 #EXTINF:115,NAT GEO WILD
-http://bit.ly/3wZQ8ND
+http://fullnetiptv.xyz:8080/2ugur5838878/DxTPxt9wTrzg/311
 #EXTINF:116,VIASAT NATURE
 http://nx4545.xyz:8080/mert924bn/231020.ft/34392
 #EXTINF:117,DISCOVERY CHANNEL
-http://bit.ly/3Ra1CWq
+http://fullnetiptv.xyz:8080/2ugur5838878/DxTPxt9wTrzg/314
 #EXTINF:118,DISCOVERY SCIENCE
-http://bit.ly/3B3YaXw
+http://fullnetiptv.xyz:8080/2ugur5838878/DxTPxt9wTrzg/317
 #EXTINF:119,ID
-http://bit.ly/3Guwhce
+http://fullnetiptv.xyz:8080/2ugur5838878/DxTPxt9wTrzg/321
 #EXTINF:120,HISTORY CHANNEL
-http://bit.ly/3t5gR8S
+http://fullnetiptv.xyz:8080/2ugur5838878/DxTPxt9wTrzg/326
 #EXTINF:121,VIASAT HISTORY
-http://bit.ly/3N6FQ3W
+http://fullnetiptv.xyz:8080/2ugur5838878/DxTPxt9wTrzg/331
 #EXTINF:122,TREK
-http://nx4545.xyz:8080/mert924bn/231020.ft/23375
+http://fullnetiptv.xyz:8080/2ugur5838878/DxTPxt9wTrzg/345
 #EXTINF:123,SCIENCE & VIE
 http://nx4545.xyz:8080/mert924bn/231020.ft/184
 #EXTINF:124,DOCUBOX
-http://germanydnsx2.com:8000/ismailar/1021Zcr1021/89176
+http://fullnetiptv.xyz:8080/2ugur5838878/DxTPxt9wTrzg/341
 #EXTINF:125,BBC EARTH
-http://bit.ly/3ADmluv
+http://fullnetiptv.xyz:8080/2ugur5838878/DxTPxt9wTrzg/323
 #EXTINF:126,LOVE NATURE
-http://bit.ly/3eaUrP2
+http://fullnetiptv.xyz:8080/2ugur5838878/DxTPxt9wTrzg/24319
 #EXTINF:127,NAUTICAL CHANNEL
 http://45.90.106.7:8780/play/BQl419P5@Yz5M/index.m3u8
 #EXTINF:128,TGRT BELGESEL
@@ -266,9 +266,9 @@ https://tv.ensonhaber.com/tv/tr/tgrtbelgesel/index.m3u8
 #EXTINF:129,TARIM TV
 https://content.tvkur.com/l/c7e1da7mm25p552d9u9g/index-720p.m3u8
 #EXTINF:130,VIASAT EXPLORE
-http://nx4545.xyz:8080/mert924bn/231020.ft/50690
+http://fullnetiptv.xyz:8080/2ugur5838878/DxTPxt9wTrzg/63570
 #EXTINF:131,ANIMAUX
-http://nx4545.xyz:8080/mert924bn/231020.ft/166
+http://fullnetiptv.xyz:8080/2ugur5838878/DxTPxt9wTrzg/330
 #EXTINF:132,RTG INT
 https://strm.yandex.ru/kal/rtg/rtg0.m3u8
 #EXTINF:133,CGTN DOCUMENTARY
@@ -290,7 +290,7 @@ https://stream.klcsistem.com:5443/LiveApp/streams/512289357781413484749219.m3u8
 #EXTINF:146,BBC ENTERTAINMENT
 http://178.166.14.117:4344/play/a026
 #EXTINF:147,TV5MONDE EUROPE
-http://bit.ly/3qfmU9a
+https://ott.tv5monde.com/Content/HLS/Live/channel(europe)/variant.m3u8
 #EXTINF:148,CCTV-4
 http://39.134.115.163:8080/PLTV/88888910/224/3221225621/index.m3u8
 #EXTINF:149,SAUDI TV
@@ -308,15 +308,15 @@ http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/pla
 #EXTINF:155,FREEDOM
 https://freedom.cdn-01.cosmonova.net.ua/mobile-app/main/freedom/master.m3u8
 #EXTINF:156,CHANNEL ONE RUSSIA
-http://bit.ly/3RCEteQ
+https://edge3.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
 #EXTINF:157,PRO7
 http://87.228.199.234:4000/play/a00a
 #EXTINF:158,RTL
 http://87.228.199.234:4000/play/a00c
 #EXTINF:159,RAI UNO
-http://ig8npqfb.rostelekom.xyz/iptv/GNCPU3XQDZA3L4/19081/index.m3u8
+http://fullnetiptv.xyz:8080/2ugur5838878/DxTPxt9wTrzg/67166
 #EXTINF:160,VOX
-http://86.57.219.146:8000/play/a05h
+http://188.241.218.46:2085/play/a0ei
 #EXTINF:161,ZDF
 http://87.228.199.234:4000/play/a007
 #EXTINF:162,SAT.1
@@ -342,15 +342,15 @@ http://5nutm0yj.russtv.net/iptv/CXDKU5MT6AACZ8/2145/index.m3u8
 #EXTINF:227,FUEL TV
 https://fueltv-fueltv-5-de.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:238,TRT SPOR
-http://bit.ly/3x6g5un
+http://31.223.85.34:9999/play/a090/index.m3u8
 #EXTINF:239,TRSPOR
 http://37.221.121.137:6060/hls/trspor/index.m3u8
 #EXTINF:240,A SPOR
-http://bit.ly/3cYHUxP
+http://31.223.85.34:9999/play/a099/index.m3u8
 #EXTINF:241,EUROSPORT 1
-http://bit.ly/3x0TdMI
+http://fullnetiptv.xyz:8080/2ugur5838878/DxTPxt9wTrzg/172
 #EXTINF:242,EUROSPORT 2
-http://bit.ly/3AXCPh9
+http://fullnetiptv.xyz:8080/2ugur5838878/DxTPxt9wTrzg/173
 #EXTINF:244,TRACE SPORT STARS
 http://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:245,FIGHTBOX
@@ -358,7 +358,7 @@ http://nx4545.xyz:8080/mert924bn/231020.ft/23349
 #EXTINF:246,FAST & FUNBOX
 http://nx4545.xyz:8080/mert924bn/231020.ft/23372
 #EXTINF:247,FIGHT NETWORK
-http://bit.ly/3a5RZHn
+http://bit.ly/3IYetd9
 #EXTINF:248,TASKRÜT SPORTS 1
 http://188.241.218.46:2085/play/beinsporSDx1
 #EXTINF:249,TASKRÜT SPORTS 2
@@ -388,11 +388,11 @@ http://nx4545.xyz:8080/mert924bn/231020.ft/42
 #EXTINF:262,EDGE SPORT
 https://edgesport-samsungus.amagi.tv/playlist.m3u8
 #EXTINF:263,TRT SPOR YILDIZ
-http://bit.ly/3Qpd3rQ
+http://tv-trtspor2.medya.trt.com.tr/master_720.m3u8
 #EXTINF:264,SPORTS TV
 http://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
 #EXTINF:265,TİVİBU SPOR
-http://bit.ly/390fly1
+http://188.241.218.46:2085/play/a00q
 #EXTINF:266,TİVİBU SPOR 1
 http://188.241.218.46:2085/play/a0ds
 #EXTINF:267,TİVİBU SPOR 2
@@ -402,7 +402,7 @@ http://188.241.218.46:2085/play/a0du
 #EXTINF:269,TİVİBU SPOR 4
 http://nx4545.xyz:8080/mert924bn/231020.ft/106398
 #EXTINF:271,FB TV
-http://bit.ly/3Bj2QJd
+http://31.223.85.34:9999/play/a08f/index.m3u8
 #EXTINF:272,GS TV
 https://owifavo5.rocketcdn.com/gstv/gstv.smil/master.m3u8
 #EXTINF:273,T.A.Y TV
@@ -426,7 +426,7 @@ http://nx4545.xyz:8080/mert924bn/231020.ft/60
 #EXTINF:342,TASKRÜT SERIES COMEDY
 http://nx4545.xyz:8080/mert924bn/231020.ft/21975
 #EXTINF:343,TASKRÜT SERIES VICE
-http://serkan.oses35.info:8080/live/ziyasaricigdem03/ziya1045/1236.ts
+http://germanydnsx2.com:8000/ismailar/1021Zcr1021/89267
 #EXTINF:344,TASKRÜT SERIES DRAMA
 http://nx4545.xyz:8080/mert924bn/231020.ft/62
 #EXTINF:345,DİZİSMART PREMIUM
@@ -448,29 +448,29 @@ http://nx4545.xyz:8080/mert924bn/231020.ft/54390
 #EXTINF:437,BABY FIRST
 http://200.6.227.230:7000/play/a02r/index.m3u8
 #EXTINF:438,CAROUSEL TV
-http://bit.ly/3D4Jmto
+http://178.212.236.2:8003/Karusel/index.m3u8
 #EXTINF:439,TRT ÇOCUK
-http://bit.ly/3qha6iB
+http://tv-trtcocuk.medya.trt.com.tr/master_720.m3u8
 #EXTINF:440,ÇOCUKSMART
-http://nx4545.xyz:8080/mert924bn/231020.ft/204
+http://fullnetiptv.xyz:8080/2ugur5838878/DxTPxt9wTrzg/348
 #EXTINF:441,BOOMERANG TV
-http://bit.ly/3COU8nw
+http://fullnetiptv.xyz:8080/2ugur5838878/DxTPxt9wTrzg/352
 #EXTINF:442,BBC CBEEBIES
-http://nx4545.xyz:8080/mert924bn/231020.ft/28348
+http://fullnetiptv.xyz:8080/2ugur5838878/DxTPxt9wTrzg/354
 #EXTINF:443,DISNEY JUNIOR
-http://bit.ly/3wYQbHZ
+http://fullnetiptv.xyz:8080/2ugur5838878/DxTPxt9wTrzg/356
 #EXTINF:444,BABY TV
-http://bit.ly/3RtnOdS
+http://fullnetiptv.xyz:8080/2ugur5838878/DxTPxt9wTrzg/349
 #EXTINF:445,NICKELODEON
-http://nx4545.xyz:8080/mert924bn/231020.ft/54199
+http://fullnetiptv.xyz:8080/2ugur5838878/DxTPxt9wTrzg/363
 #EXTINF:446,NICKTOONS
-http://bit.ly/3lRQ2B9
+http://bit.ly/3QtRZlX
 #EXTINF:447,NICK JR.
 http://nx4545.xyz:80/mert924bn/231020.ft/28346
 #EXTINF:448,minikaCOCUK
-http://bit.ly/3D0kLWw
+http://31.223.85.34:9999/play/a095/index.m3u8
 #EXTINF:449,minikaGO
-http://bit.ly/3qfzyVF
+http://31.223.85.34:9999/play/a096/index.m3u8
 #EXTINF:450,MOONBUG KIDS TV
 https://moonbug-rokuus.amagi.tv/playlist.m3u8
 #EXTINF:451,DUCK TV
@@ -478,7 +478,7 @@ http://mmm-ducktv-2-it.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:452,CARTOON NETWORK
 http://nx4545.xyz:80/mert924bn/231020.ft/138
 #EXTINF:453,DA VINCI
-http://bit.ly/3MV7FvM
+http://fullnetiptv.xyz:8080/2ugur5838878/DxTPxt9wTrzg/324
 #EXTINF:454,ENGLISH CLUB TV
 http://94.156.59.247:8899/udp/239.10.3.167:30000
 #EXTINF:456,TRT EBA TV İLKOKUL
@@ -488,31 +488,29 @@ https://tv-e-okul01.medya.trt.com.tr/master.m3u8
 #EXTINF:458,TRT EBA TV LİSE
 https://tv-e-okul02.medya.trt.com.tr/master.m3u8
 #EXTINF:546,DİYANET TV
-http://bit.ly/3RCHhbS
+http://31.223.85.34:9999/play/a08r/index.m3u8
 #EXTINF:547,SEMERKAND TV
-http://bit.ly/3CZB06d
+https://b01c02nl.mediatriple.net/videoonlylive/mtisvwurbfcyslive/broadcast_58d915bd40efc.smil/playist.m3u8
 #EXTINF:548,DOST TV
-http://dost.stream.emsal.im/tv/live.m3u8
+http://31.223.85.34:9999/play/a07p/index.m3u8
 #EXTINF:549,CAMİA TV
 https://camiatv-live.ercdn.net/camiatv/camiatv_1080p.m3u8
 #EXTINF:550,AL QURAN AL KAREEM
 http://m.live.net.sa:1935/live/quran/playlist.m3u8
 #EXTINF:551,AL SUNNAH AL NABAWIYAH
 http://m.live.net.sa:1935/live/sunnah/playlist.m3u8
-#EXTINF:659,MTV
+#EXTINF:660,MTV
 http://200.24.132.99:8000/play/a01i
-#EXTINF:690,MCM POP
+#EXTINF:661,MCM POP
 http://nx4545.xyz:8080/mert924bn/231020.ft/133094
-#EXTINF:661,MCM TOP
+#EXTINF:662,MCM TOP
 http://45.90.106.7:8780/play/UeQ517K6@G6V/index.m3u8
-#EXTINF:662,MEZZO
+#EXTINF:663,MEZZO
 http://nx4545.xyz:8080/mert924bn/231020.ft/67183
-#EXTINF:663,MTV 00s
+#EXTINF:664,MTV 00s
 http://nx4545.xyz:8080/mert924bn/231020.ft/73030
-#EXTINF:664,TRT MÜZİK
-http://bit.ly/3ARtebX
-#EXTINF:665,KRAL TV
-http://dogus-live.daioncdn.net/kraltv/playlist.m3u8
+#EXTINF:665,TRT MÜZİK
+http://31.223.85.34:9999/play/a093/index.m3u8
 #EXTINF:666,KRAL POP TV
 http://dogus-live.daioncdn.net/kralpoptv/playlist.m3u8
 #EXTINF:667,DREAM TÜRK
@@ -520,7 +518,7 @@ https://live.duhnet.tv/S2/HLS_LIVE/dreamturknp/playlist.m3u8
 #EXTINF:668,NUMBER1 TV
 https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e17cd6360b_1/playlist.m3u8
 #EXTINF:669,NUMBER1 TURK
-http://bit.ly/3Bk0pq1
+http://31.223.85.34:9999/play/a08a/index.m3u8
 #EXTINF:670,NUMBER1 DANCE
 https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e2aa8acf44_1/playlist.m3u8
 #EXTINF:671,NUMBER1 AŞK
