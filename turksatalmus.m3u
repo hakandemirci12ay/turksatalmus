@@ -441,6 +441,8 @@ https://umt02.videobulut.com/35/3811/ERCd67pM62KK/ERCd67pM62KK.mpd
 https://cdn.videobulut.com/1/3811/3pM4ws2RbVGZ/3pM4ws2RbVGZ.mpd
 #EXTINF:362,TRT 4K
 http://188.241.218.46:2085/play/TRT1uhdlutfendeisme
+#EXTINF:368,FUNBOX UHD
+http://nowatv.stream2.link:8080/play/live.php?mac=00:1A:79:49:4f:5b&stream=7151&extension=ts
 #EXTINF:369,GAMETOON
 http://nx4545.xyz:8080/mert924bn/231020.ft/129024
 #EXTINF:436,TOM VE JERRY TV
