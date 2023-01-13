@@ -439,9 +439,13 @@ https://umt02.videobulut.com/35/3811/dEyjyRus5bAh/dEyjyRus5bAh.mpd
 https://umt02.videobulut.com/35/3811/ERCd67pM62KK/ERCd67pM62KK.mpd
 #EXTINF:353,FİLODİ
 https://cdn.videobulut.com/1/3811/3pM4ws2RbVGZ/3pM4ws2RbVGZ.mpd
-#EXTINF:362,TRT 4K
-http://188.241.218.46:2085/play/TRT1uhdlutfendeisme
-#EXTINF:368,FUNBOX UHD
+#EXTINF:365,TRT 4K
+http://fullnetiptv.xyz:8080/2ugur5838878/DxTPxt9wTrzg/90
+#EXTINF:366,LOVE NATURE 4K
+https://d18dyiwu97wm6q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/LoveNature4K2-prod/playlist.m3u8
+#EXTINF:367,FTV 4K
+https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
+#EXTINF:368,FUNBOX 4K
 http://nowatv.stream2.link:8080/play/live.php?mac=00:1A:79:49:4f:5b&stream=7151&extension=ts
 #EXTINF:369,GAMETOON
 http://nx4545.xyz:8080/mert924bn/231020.ft/129024
