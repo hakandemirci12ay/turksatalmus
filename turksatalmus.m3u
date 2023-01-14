@@ -46,7 +46,7 @@ http://fullnetiptv.xyz:8080/2ugur5838878/DxTPxt9wTrzg/96126
 #EXTINF:14,FX
 http://fullnetiptv.xyz:8080/2ugur5838878/DxTPxt9wTrzg/244
 #EXTINF:15,BBC FIRST
-http://bit.ly/3CGlGdT
+http://bit.ly/3WcKGjM
 #EXTINF:16,TASKRÜT HOME & ENTERTAINMENT
 http://nx4545.xyz:8080/mert924bn/231020.ft/73032
 #EXTINF:17,TASKRÜT GURME
@@ -439,6 +439,8 @@ https://umt02.videobulut.com/35/3811/dEyjyRus5bAh/dEyjyRus5bAh.mpd
 https://umt02.videobulut.com/35/3811/ERCd67pM62KK/ERCd67pM62KK.mpd
 #EXTINF:353,FİLODİ
 https://cdn.videobulut.com/1/3811/3pM4ws2RbVGZ/3pM4ws2RbVGZ.mpd
+#EXTINF:363,MYZEN 4K
+http://cdnx1.plusx.tv:8880/myZen/mono.m3u8?token=24cce35b06aecc51433333
 #EXTINF:364,NASA TV 4K
 https://endpnt.com/hls/nasa4k/playlist.m3u8
 #EXTINF:365,TRT 4K
@@ -932,7 +934,11 @@ https://59cba4d34b678.streamlock.net/canlitv/kanal101/playlist.m3u8
 #EXTINF:868,PALA TV
 http://palatv34.ozelip.com:22372/palatv/palatv/playlist.m3u8
 #EXTINF:869,TASC TV
-https://live.tasc.tv:5443/LiveApp/streams/996700068960085406468141.m3u8
+https://live.tasc.tv:5443/LiveApp/streams/996700068960085406468141.m3u8,
+#EXTINF:870,ANADOLU AJANSI
+http://mtulqxgomrllive.mediatriple.net/mtulqxgomrllive/broadcast_59f9c0c785b88.smil/playlist.m3u8
+#EXTINF:871,DHA
+https://603c568fccdf5.streamlock.net/live/dhaweb1_C5efC/playlist.m3u8
 #EXTINF:901,KIBRIS ADA TV
 https://kuzeykibris.tv/m3u8/tv_ada.m3u8
 #EXTINF:902,TV GÜNEŞ
@@ -1301,6 +1307,10 @@ http://185.236.229.117:8000/play/a00y
 https://chlivemta1.akamaized.net/hls/live/2008145/mta1/playlist_2300.m3u8
 #EXTINF:1243,1 TV GEORGIA
 https://tv.cdn.xsg.ge/gpb-1tv/index.m3u8
+#EXTINF:1244,FTV MIDNITE SECRETS
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/chunklist.m3u8
+#EXTINF:1245,MYZEN TV FIT
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01255-secomcofites-my-myzen-en-plex/playlist.m3u8
 #EXTINF:2000,NATURESCAPE
 http://fullnetiptv.xyz:8080/2ugur5838878/DxTPxt9wTrzg/52447
 #EXTINF:2001,90LAR
