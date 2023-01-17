@@ -343,7 +343,7 @@ http://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01402-alchimiemedia-motorsport-xiaom
 https://fueltv-fueltv-5-de.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:238,TRT SPOR
 http://31.223.85.34:9999/play/a090/index.m3u8
-#EXTINF:239,TRSPOR
+#EXTINF:239,NTV SPOR
 http://37.221.121.137:6060/hls/trspor/index.m3u8
 #EXTINF:240,A SPOR
 http://31.223.85.34:9999/play/a099/index.m3u8
