@@ -607,6 +607,8 @@ http://176.10.117.18:8000/play/a00l
 https://tv.digitalbox.xyz:19360/afyonturktv/afyonturktv.m3u8
 #EXTINF:707,CINE5 TV
 https://cdn-cine5tv.yayin.com.tr/cine5tv/cine5tv/chunklist.m3u8
+#EXTINF:708,FRT TV
+https://broadcasttr.com:446/frttv/bant1/playlist.m3u8
 #EXTINF:709,NTN YEŞİLÇAM
 https://tv.ntnhd.com:3588/multi_web/play_720.m3u8
 #EXTINF:710,NTN DISCOVERY
@@ -617,6 +619,8 @@ https://cdn-beyazmedyatv.yayin.com.tr/beyazmedyatv-dizi/tracks-v1a1/mono.m3u8
 https://beyazmedyatv.yayin.com.tr/beyazmedyatv-yabanci/video.m3u8
 #EXTINF:713,BEYAZ YEŞİLÇAM
 https://beyazmedyatv.yayin.com.tr/beyazmedyatv-yesilcam/video.m3u8
+#EXTINF:714,EGETÜRK TV
+https://edge1.socialsmart.tv/egeturktv/bant1/playlist.m3u8
 #EXTINF:715,TİVİ TÜRK
 https://stream.tiviturk.de/live/tiviturk.m3u8
 #EXTINF:716,CHANNEL 6 TV
