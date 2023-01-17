@@ -230,7 +230,7 @@ http://nx4545.xyz:8080/mert924bn/231020.ft/77
 #EXTINF:111,YABAN TV
 https://yayin1.canlitv.day/live1/yabantv/chunklist.m3u8
 #EXTINF:112,HABİTAT TV
-http://max.bhsplay.cf:8080/truva1734/17341734/103303
+http://max.bhsplay.cf:8080/emir6ay/qsXLuxMvcG/103303
 #EXTINF:113,TRT BELGESEL
 http://31.223.85.34:9999/play/a091/index.m3u8
 #EXTINF:114,NATIONAL GEOGRAPHIC
@@ -270,7 +270,7 @@ http://fullnetiptv.xyz:8080/2ugur5838878/DxTPxt9wTrzg/63570
 #EXTINF:131,ANIMAUX
 http://fullnetiptv.xyz:8080/2ugur5838878/DxTPxt9wTrzg/330
 #EXTINF:132,RTG INT
-http://max.bhsplay.cf:8080/truva1734/17341734/23924
+http://max.bhsplay.cf:8080/emrex/pc16pe3kx/23924
 #EXTINF:133,CGTN DOCUMENTARY
 http://livedoc.cgtn.com/1000d/prog_index.m3u8
 #EXTINF:134,CHASSE & PECHE
@@ -607,8 +607,6 @@ http://176.10.117.18:8000/play/a00l
 https://tv.digitalbox.xyz:19360/afyonturktv/afyonturktv.m3u8
 #EXTINF:707,CINE5 TV
 https://cdn-cine5tv.yayin.com.tr/cine5tv/cine5tv/chunklist.m3u8
-#EXTINF:708,YAREN TV
-https://59cba4d34b678.streamlock.net/canlitv/yarentv/chunklist.m3u8
 #EXTINF:709,NTN YEŞİLÇAM
 https://tv.ntnhd.com:3588/multi_web/play_720.m3u8
 #EXTINF:710,NTN DISCOVERY
@@ -619,8 +617,6 @@ https://cdn-beyazmedyatv.yayin.com.tr/beyazmedyatv-dizi/tracks-v1a1/mono.m3u8
 https://beyazmedyatv.yayin.com.tr/beyazmedyatv-yabanci/video.m3u8
 #EXTINF:713,BEYAZ YEŞİLÇAM
 https://beyazmedyatv.yayin.com.tr/beyazmedyatv-yesilcam/video.m3u8
-#EXTINF:714,BEYAZ MÜZİK
-https://beyazmedyatv.yayin.com.tr/beyazmedya-muzik/video.m3u8
 #EXTINF:715,TİVİ TÜRK
 https://stream.tiviturk.de/live/tiviturk.m3u8
 #EXTINF:716,CHANNEL 6 TV
@@ -749,8 +745,6 @@ https://cdn-haber61tv.yayin.com.tr/haber61tv/smil:haber61tv.smil/playlist.m3u8
 https://cdn1-gurbet24.yayin.com.tr/gurbet24/ngrp:gurbet24/playlist.m3u8
 #EXTINF:778,ERTV
 https://waw3.artiyerelmedya.net/ertv/bant1/playlist.m3u8
-#EXTINF:779,AKTUEL MÜZİK TV
-http://hd9994.4kradyotv.com:26606/aktuel/aktuel/playlist.m3u8
 #EXTINF:780,ETV MANİSA
 https://broadcasttr.com:446/manisaetv/bant1/chunklist.m3u8
 #EXTINF:781,ETV EDİRNE
@@ -953,8 +947,8 @@ https://kuzeykibris.tv/m3u8/tv_brt2.m3u8
 https://kuzeykibris.tv/m3u8/tv_sim.m3u8
 #EXTINF:905,KIBRIS KANAL T
 https://kuzeykibris.tv/m3u8/tv_kanalt.m3u8
-#EXTINF:906,KIBRIS MAYIS TV
-http://mayistv.com:1935/live/mayistv/playlist.m3u8
+#EXTINF:906,BRT 3
+http://pro.eurogold.xyz:8080/wTW5DZa9Rg/RgMJ2quaAM/185999
 #EXTINF:907,KIBRIS TV
 https://kuzeykibris.tv/m3u8/tv_ktv.m3u8
 #EXTINF:908,TV 2020
