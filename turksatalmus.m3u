@@ -454,7 +454,7 @@ https://d18dyiwu97wm6q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 #EXTINF:367,FTV 4K
 https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
 #EXTINF:368,FUNBOX 4K
-http://nowatv.stream2.link:8080/play/live.php?mac=00:1A:79:49:4f:5b&stream=7151&extension=ts
+http://cdnx1.plusx.tv:8880/funbox4k/mono.m3u8?token=9d74acdb4984fa371b2222
 #EXTINF:369,GAMETOON
 http://nx4545.xyz:8080/mert924bn/231020.ft/129024
 #EXTINF:436,TOM VE JERRY TV
