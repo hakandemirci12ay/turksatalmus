@@ -936,11 +936,25 @@ https://59cba4d34b678.streamlock.net/canlitv/kanal101/playlist.m3u8
 #EXTINF:868,PALA TV
 http://palatv34.ozelip.com:22372/palatv/palatv/playlist.m3u8
 #EXTINF:869,TASC TV
-https://live.tasc.tv:5443/LiveApp/streams/996700068960085406468141.m3u8,
+https://live.tasc.tv:5443/LiveApp/streams/996700068960085406468141.m3u8
 #EXTINF:870,ANADOLU AJANSI
 http://mtulqxgomrllive.mediatriple.net/mtulqxgomrllive/broadcast_59f9c0c785b88.smil/playlist.m3u8
 #EXTINF:871,DHA
 https://603c568fccdf5.streamlock.net/live/dhaweb1_C5efC/playlist.m3u8
+#EXTINF:872,SEDA TV
+http://tv56245.ozelip.com:2052/tvoncu/tvoncu/playlist.m3u8
+#EXTINF:873,TOP POP TV
+http://yayin.santraltr.com/hls/toppop.m3u8
+#EXTINF:874,DOST MÜZİK TV
+http://yayin.santraltr.com/hls/dost.m3u8
+#EXTINF:875,ARABESK TV
+http://yayin.santraltr.com/hls/arabeskyeni.m3u8
+#EXTINF:876,AVİVA
+http://yayin.santraltr.com/hls/vivatv.m3u8
+#EXTINF:877,ARMA TV
+http://yayin.santraltr.com/hls/arma.m3u8
+#EXTINF:878,GOÇ TV
+https://59cba4d34b678.streamlock.net/canlitv/goctv/playlist.m3u8
 #EXTINF:901,KIBRIS ADA TV
 https://kuzeykibris.tv/m3u8/tv_ada.m3u8
 #EXTINF:902,TV GÜNEŞ
@@ -1313,6 +1327,20 @@ https://tv.cdn.xsg.ge/gpb-1tv/index.m3u8
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/chunklist.m3u8
 #EXTINF:1245,MYZEN TV FIT
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01255-secomcofites-my-myzen-en-plex/playlist.m3u8
+#EXTINF:1246,PERYIY KANAL EURASIA
+http://stream.euroasia.lfstrm.tv/perviy_evrasia/1/index.m3u8
+#EXTINF:1247,RUSSIYA 1
+http://95.53.107.199:8888/udp/225.78.22.222:5000
+#EXTINF:1248,MATÇ TV
+http://95.53.107.199:8888/udp/225.78.22.223:5000
+#EXTINF:1249,NTV RUSSIA
+http://95.53.107.199:8888/udp/225.78.22.104:5000
+#EXTINF:1250,5 KANAL RUSSIA
+http://95.53.107.199:8888/udp/225.78.22.25:5000
+#EXTINF:1251,RUSSIYA K
+http://95.53.107.199:8888/udp/225.78.22.226:5000
+#EXTINF:1252,PALITA NEWS
+https://live.palitranews.ge/hls/palitratv/index.m3u8
 #EXTINF:2000,NATURESCAPE
 http://fullnetiptv.xyz:8080/2ugur5838878/DxTPxt9wTrzg/52447
 #EXTINF:2001,90LAR
