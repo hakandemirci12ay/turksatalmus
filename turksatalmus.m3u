@@ -955,6 +955,8 @@ http://yayin.santraltr.com/hls/vivatv.m3u8
 http://yayin.santraltr.com/hls/arma.m3u8
 #EXTINF:878,GOÇ TV
 https://59cba4d34b678.streamlock.net/canlitv/goctv/playlist.m3u8
+#EXTINF:879,TELEON
+https://streaming.netdirekt.com.tr/35757/msyapi/teleontv_canliyayin_uzanmediagroup_4kultrahd__/playlist.m3u8
 #EXTINF:901,KIBRIS ADA TV
 https://kuzeykibris.tv/m3u8/tv_ada.m3u8
 #EXTINF:902,TV GÜNEŞ
