@@ -334,9 +334,9 @@ http://nx4545.xyz:8080/mert924bn/231020.ft/123534
 #EXTINF:168,24 HORAS
 https://rtvelivestream-clnx.rtve.es/rtvesec/24h/24h_main.m3u8
 #EXTINF:169,LUXE TV
-http://45.90.106.7:9790/play/GCn7519K3@S7H
+https://alchimie-luxe-fr-rakuten.amagi.tv/playlist.m3u8
 #EXTINF:225,AUTOMOTO
-http://45.90.106.7:9790/play/JyZ2084H3@G2V
+http://golfnx.com:8080/zekayiyilmaz/kRV3PH9DmCnK/47066
 #EXTINF:226,MOTORSPORT TV
 http://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01402-alchimiemedia-motorsport-xiaomi/playlist.m3u8
 #EXTINF:227,FUEL TV
@@ -414,7 +414,7 @@ http://5nutm0yj.russtv.net/iptv/CXDKU5MT6AACZ8/144/index.m3u8
 #EXTINF:276,GINX ESPORTS TV
 http://178.166.14.117:4344/play/a027
 #EXTINF:277,CBC SPORT
-http://nx4545.xyz:8080/mert924bn/231020.ft/133569
+http://ig8npqfb.rostelekom.xyz/iptv/GNCPU3XQDZA3L4/2193/index.m3u8
 #EXTINF:278,İDMAN TV
 http://109.205.166.68/server124/idman_az/index.m3u8
 #EXTINF:331,BLUTV PLAY 1
@@ -998,7 +998,7 @@ https://cdnlive.presstv.ir/cdnlive/smil:cdnlive.smil/playlist.m3u8
 #EXTINF:1001,I24 NEWS
 http://bcovlive-a.akamaihd.net/cc8266d36bb5469b8b4a3097497e06e6/eu-central-1/5377161796001/playlist-all_dvr.m3u8
 #EXTINF:1002,BFM TV
-http://45.90.106.7:9790/play/WmU5109P5@Y4X
+http://golfnx.com:8080/zekayiyilmaz/kRV3PH9DmCnK/47097
 #EXTINF:1003,HİSPAN TV
 https://cdnlive.presstv.ir/cdnlive/smil:live.smil/playlist.m3u8
 #EXTINF:1004,RAI NEWS 24
@@ -1214,7 +1214,7 @@ http://nx4545.xyz:8080/mert924bn/231020.ft/122314
 #EXTINF:1106,TV8 MONT BLANC
 http://nx4545.xyz:8080/mert924bn/231020.ft/133215
 #EXTINF:1107,CBC AZERBAIJAN
-http://nx4545.xyz:8080/mert924bn/231020.ft/133568
+http://cbctvlive.flashmediacast.com:1935/CBCTVLive/livestream/playlist.m3u8
 #EXTINF:1108,SKY NEWS ARABIA
 https://stream.skynewsarabia.com/hls/sna.m3u8
 #EXTINF:1109,ITALIAN FISHING TV
@@ -1399,6 +1399,22 @@ http://nx4545.xyz:80/mert924bn/231020.ft/118323
 http://nx4545.xyz:80/mert924bn/231020.ft/134860
 #EXTINF:1279,ESPN
 http://nx4545.xyz:80/mert924bn/231020.ft/121060
+#EXTINF:1280,ORF 1
+http://golfnx.com:8080/zekayiyilmaz/kRV3PH9DmCnK/2873
+#EXTINF:1281,ORF 2
+http://golfnx.com:8080/zekayiyilmaz/kRV3PH9DmCnK/2874
+#EXTINF:1282,AB 3
+http://golfnx.com:8080/zekayiyilmaz/kRV3PH9DmCnK/46972
+#EXTINF:1283,CANAL+
+http://golfnx.com:8080/zekayiyilmaz/kRV3PH9DmCnK/46990
+#EXTINF:1284,JUWELO
+http://146.19.16.201:8009/play/a033
+#EXTINF:1285,PEARL.TV
+http://146.19.16.201:8009/play/a034
+#EXTINF:1286,KABEL EINS DOKU
+http://golfnx.com:8080/zekayiyilmaz/kRV3PH9DmCnK/2892
+#EXTINF:1287,FRANKEN PLUS
+http://31.187.196.89:60250/play/a0as/index.m3u8
 #EXTINF:2000,NATURESCAPE
 http://fullnetiptv.xyz:8080/ozgur6705484/ej7ShWc8rUAJ/52447
 #EXTINF:2001,90LAR
