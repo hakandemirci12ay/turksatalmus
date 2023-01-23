@@ -961,6 +961,10 @@ https://streaming.netdirekt.com.tr/35757/msyapi/teleontv_canliyayin_uzanmediagro
 https://59cba4d34b678.streamlock.net/canlitv/egelivetv/playlist.m3u8
 #EXTINF:881,VRT TV
 https://vrttv.ozelip.com:3644/multi_web/play.m3u8
+#EXTINF:882,KONYA OLAY TV
+http://olayhabertv42.ozelip.com:28008/olay/olay/playlist.m3u8
+#EXTINF:883,OBB TV
+http://cdn1-ordubeltv.yayin.com.tr/ordubeltv/ordubeltv/playlist.m3u8
 #EXTINF:901,KIBRIS ADA TV
 https://kuzeykibris.tv/m3u8/tv_ada.m3u8
 #EXTINF:902,TV GÜNEŞ
@@ -1443,6 +1447,8 @@ https://az2.canlitvplayer.com/azerbaijan/muztv/chunks.m3u8
 http://us.gbnus.com/live/dhamma_low/playlist.m3u8
 #EXTINF:1300,3ABN
 https://3abn-live.akamaized.net/hls/live/2010543/3ABN/master.m3u8
+#EXTINF:1301,TVN
+http://golfnx.com:8080/zekayiyilmaz/kRV3PH9DmCnK/66984
 #EXTINF:2000,NATURESCAPE
 http://fullnetiptv.xyz:8080/ozgur6705484/ej7ShWc8rUAJ/52447
 #EXTINF:2001,90LAR
