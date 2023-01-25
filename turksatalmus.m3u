@@ -1455,6 +1455,10 @@ http://us.gbnus.com/live/dhamma_low/playlist.m3u8
 https://3abn-live.akamaized.net/hls/live/2010543/3ABN/master.m3u8
 #EXTINF:1301,TVN
 http://golfnx.com:8080/zekayiyilmaz/kRV3PH9DmCnK/66984
+#EXTINF:1302,ADJARA TV
+http://176.74.80.162:8099/AdjaraTV/index.m3u8
+#EXTINF:1303,RUSTAVI 2
+http://176.74.80.162:8099/Rustavi2/index.m3u8
 #EXTINF:2000,NATURESCAPE
 http://fullnetiptv.xyz:8080/ozgur6705484/ej7ShWc8rUAJ/52447
 #EXTINF:2001,90LAR
