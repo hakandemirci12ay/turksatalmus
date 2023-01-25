@@ -110,7 +110,7 @@ http://mn-nl.mncdn.com/blutv_bizimev/bizimev_sd.smil/playlist.m3u8
 #EXTINF:43,KANAL B
 http://212.174.58.161/hls-live/livepkgr/_definst_/liveevent/kanalb.m3u8
 #EXTINF:44,GENÇ TV (KIBRIS)
-https://59cba4d34b678.streamlock.net/canlitv/kibrisgenctv/chunklist_w1753396810.m3u8
+https://59cba4d34b678.streamlock.net/canlitv/kibrisgenctv/playlist.m3u8
 #EXTINF:45,VAV TV
 http://31.177.62.182:8004/play/s14
 #EXTINF:46,ÜNİVERSİTE TV
@@ -146,7 +146,7 @@ http://31.223.85.34:9999/play/a06c/index.m3u8
 #EXTINF:63,ÜLKE TV
 http://31.177.62.182:8010/play/s19
 #EXTINF:64,TVNET
-http://fullnetiptv.xyz:8080/ozgur6705484/ej7ShWc8rUAJ/5217
+https://tv.ensonhaber.com/tv/tr/tvnet/index.m3u8
 #EXTINF:65,AKİT TV
 http://31.223.85.34:9999/play/a07s/index.m3u8
 #EXTINF:66,BRT 1
