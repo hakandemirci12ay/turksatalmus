@@ -645,12 +645,10 @@ https://live-server-1.splitstream.io/7b3b9e34-626f-4562-92ea-9adcac520468/tracks
 https://live-server-2.splitstream.io/fd15e2fa-310e-46fd-8310-a92599e61696/tracks-v1a1/mono.m3u8
 #EXTINF:722,YANSIMA SİNEMA
 https://5e06e5e8c2e27.streamlock.net:1936/videonow/yansinematvs/playlist.m3u8
-#EXTINF:723,TEBER ON
-https://live-server-2.splitstream.io/f97854bd-6c00-40d3-b9a2-e85f95a4f94f/tracks-v1a1/mono.m3u8
 #EXTINF:724,TEBER DEM
-https://live-server-2.splitstream.io/34e279a9-6153-4e38-b25e-7cfe9f7abee5/tracks-v1a1/mono.m3u8
-#EXTINF:725,TEBER HBB
-https://live-server-2.splitstream.io/0c5cf555-a6cb-4559-8450-cd08b99803af/tracks-v1a1/mono.m3u8
+https://live-server-2.splitstream.io/f97854bd-6c00-40d3-b9a2-e85f95a4f94f/tracks-v1a1/mono.m3u8
+#EXTINF:725,TEBER STAR
+https://live-server-2.splitstream.io/2eb3728e-cbaa-4af6-a51f-40dc6b580431/tracks-v1a1/mono.m3u8
 #EXTINF:726,TURHAL SÜPER TV
 https://59cba4d34b678.streamlock.net/canlitv/tokatsupertv/chunklist_w1697757369.m3u8
 #EXTINF:727,ERBAA TV
