@@ -589,17 +589,19 @@ http://nx4545.xyz:8080/mert924bn/231020.ft/70025
 http://fash1043.cloudycdn.services/slive/ftv_pg16_adaptive.smil/playlist.m3u8
 #EXTINF:693,FASHION ONE
 https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e2ee6997cb_1/playlist.m3u8
-#EXTINF:694,WORLD FASHION
+#EXTINF:694,FASHIONBOX
+http://176.74.80.162:8099/FashionBox/index.m3u8
+#EXTINF:695,WORLD FASHION
 https://wfcint.mediacdn.ru/cdn/wfcintweb/playlist.m3u8
-#EXTINF:695,TRACE URBAN
+#EXTINF:696,TRACE URBAN
 https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
-#EXTINF:696,360 TUNE BOX
+#EXTINF:697,360 TUNE BOX
 http://nx4545.xyz:8080/mert924bn/231020.ft/23374
-#EXTINF:697,iCONCERTS
+#EXTINF:698,iCONCERTS
 http://cdn.ottiptv.fun:8880/bal_c8l8u2d4f9l1a3r7e8/ICONCERTS/video.m3u8
-#EXTINF:698,CLASSICA
+#EXTINF:699,CLASSICA
 https://dai.google.com/linear/hls/event/AaFxJXOhQl-BsTVC9OCunQ/master.m3u8
-#EXTINF:699,CMUSIC
+#EXTINF:700,CMUSIC
 http://cdn.ottiptv.fun:8880/bal_c1l8u2d4f9l1a3r7e1/CMUSIC/video.m3u8
 #EXTINF:701,ZAZA TV
 http://nx4545.xyz:8080/mert924bn/231020.ft/63895
