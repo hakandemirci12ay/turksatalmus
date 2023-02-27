@@ -149,6 +149,8 @@ https://b01c02nl.mediatriple.net/videoonlylive/mtsxxkzwwuqtglive/broadcast_5fe46
 http://149.62.177.140:8000/play/a021/index.m3u8
 #EXTINF: 113 tvg-logo="http://i.ibb.co/2W5pXLX/DISCOVERY-SCIENCE.png" group-title="BELGESEL", DISCOVERY SCIENCE
 http://149.62.177.140:8000/play/a02d/index.m3u8
+#EXTINF: 113 tvg-logo="http://i.ibb.co/0JCKHmm/VIASAT-HISTORY.png" group-title="BELGESEL", VIASAT HISTORY
+http://149.62.177.140:8000/play/a024/index.m3u8
 #EXTINF: 439 tvg-logo="http://i.ibb.co/SRfzYLz/TRT-COCUK.jpg" group-title="ÇOCUK", TRT ÇOCUK
 http://tv-trtcocuk.medya.trt.com.tr/master_720.m3u8
 #EXTINF: 448 tvg-logo="http://i.ibb.co/Yf71Rcy/MINIKA-COCUK.png" group-title="ÇOCUK", minikaCOCUK
@@ -157,6 +159,8 @@ http://195.142.1.211:4022/udp/224.2.2.17:10001
 http://195.142.1.211:4022/udp/224.2.2.18:10001
 #EXTINF: 449 tvg-logo="http://i.ibb.co/5rtXGHR/BABY-TV.png" group-title="ÇOCUK", BABY TV
 http://149.62.177.140:8000/play/a02c/index.m3u8
+#EXTINF: 449 tvg-logo="http://i.ibb.co/dDz0cjy/BOOMERANG-TV.png" group-title="ÇOCUK", BOOMERANG TV
+http://149.62.177.140:8000/play/a02f/index.m3u8
 #EXTINF: 456 tvg-logo="http://i.ibb.co/m4tLzkz/TRT-EBA-TV-ILKOKUL.png" group-title="EĞİTİM", TRT EBA TV İLKOKUL
 https://tv-e-okul00.medya.trt.com.tr/master.m3u8
 #EXTINF: 457 tvg-logo="http://i.ibb.co/KKpL0NG/TRT-EBA-TV-ORTAOKUL.png" group-title="EĞİTİM", TRT EBA TV ORTAOKUL
