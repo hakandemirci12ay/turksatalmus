@@ -2,7 +2,7 @@
 #EXTINF: 22 tvg-logo="https://i.ibb.co/gMVLBX3/TRT-1.png" group-title="ULUSAL", TRT 1
 http://tv-trt1-dai.medya.trt.com.tr/master.m3u8
 #EXTINF: 23 tvg-logo="http://i.ibb.co/Nr6W1RL/ATV.png" group-title="ULUSAL", ATV
-https://59c7ea6bec1c6.streamlock.net/filboxlive/atv.stream/playlist.m3u8
+https://trkvz-live.daioncdn.net/atv/atv.m3u8
 #EXTINF: 24 tvg-logo="http://i.ibb.co/d6TDsHY/SHOW-TV.png" group-title="ULUSAL", SHOW TV
 http://ciner-live.daioncdn.net/showtv/showtv_1080p.m3u8
 #EXTINF: 25 tvg-logo="http://i.ibb.co/FgsJ0WS/KANAL-D.png" group-title="ULUSAL", KANAL D
@@ -177,6 +177,7 @@ https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e198
 #EXTINF: 673 tvg-logo="http://i.ibb.co/s5636bz/POWER-TV.png" group-title="MÜZİK", POWER TV
 http://livetv.powerapp.com.tr/powerTV/powerhd.smil/playist.m3u8
 #EXTINF: 674 tvg-logo="http://i.ibb.co/k2mhZF7/POWERTURK-TV.png" group-title="MÜZİK", POWERTÜRK TV
+https://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/playist.m3u8
 #EXTINF: 682 tvg-logo="http://i.ibb.co/1Z1tV8v/MILYON-TV.png" group-title="MÜZİK", MİLYON TV
 https://sosyoapp-live.cdnnew.com/sosyo/buraya-bir-isim-verin.m3u8
 #EXTINF: 683 tvg-logo="http://i.ibb.co/pPW5wyn/TATLISES-TV.png" group-title="MÜZİK", TATLISES TV
