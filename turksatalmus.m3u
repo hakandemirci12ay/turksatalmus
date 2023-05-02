@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF: 21 tvg-logo="https://i.ibb.co/gMVLBX3/TRT-1.png" group-title="ULUSAL", DİZİMAX TV
+#EXTINF: 21 tvg-logo="https://i.ibb.co/gMVLBX3/TRT-1.png" group-title="ULUSAL", DİZİMAX
 http://livestream.zazerconer.workers.dev/channel/UCsRzd5DMZQqe00m_SM6BKzw.m3u8
 #EXTINF: 22 tvg-logo="https://i.ibb.co/gMVLBX3/TRT-1.png" group-title="ULUSAL", TRT 1
 http://tv-trt1-dai.medya.trt.com.tr/master.m3u8
@@ -123,6 +123,8 @@ https://tv.ensonhaber.com/tv/tr/tgrtbelgesel/index.m3u8
 https://tv-trtspor1.medya.trt.com.tr/master_720.m3u8
 #EXTINF: 240 tvg-logo="http://i.ibb.co/0FFR37P/A-SPOR.png" group-title="SPOR", A SPOR
 http://livestream.zazerconer.workers.dev/channel/UCJElRTCNEmLemgirqvsW63Q.m3u8
+#EXTINF: 241 tvg-logo="http://i.ibb.co/wRXXgnh/be-IN-SPORTS-HABER.png" group-title="SPOR", TASKRÜT SPORTS HABER
+http://livestream.zazerconer.workers.dev/channel/UCPe9vNjHF1kEExT5kHwc7aw.m3u8
 #EXTINF: 263 tvg-logo="http://i.ibb.co/qBjjLFx/TRT-SPOR-YILDIZ.png" group-title="SPOR", TRT SPOR YILDIZ
 http://tv-trtspor2.medya.trt.com.tr/master_720.m3u8
 #EXTINF: 264 tvg-logo="http://i.ibb.co/bFg0Lfx/SPORTS-TV.png" group-title="SPOR", SPORTS TV
