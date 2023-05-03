@@ -1,7 +1,7 @@
 #EXTM3U
-#EXTINF: 21 tvg-logo="https://i.ibb.co/gMVLBX3/TRT-1.png" group-title="ULUSAL", DİZİMAX
+#EXTINF: 21 tvg-logo="http://i.ibb.co/dD9P73Z/DIZIMAX.jpg" group-title="DİZİ", DİZİMAX
 http://livestream.zazerconer.workers.dev/channel/UCsRzd5DMZQqe00m_SM6BKzw.m3u8
-#EXTINF: 22 tvg-logo="https://i.ibb.co/gMVLBX3/TRT-1.png" group-title="ULUSAL", TRT 1
+#EXTINF: 22 tvg-logo="http://i.ibb.co/gMVLBX3/TRT-1.png" group-title="ULUSAL", TRT 1
 http://tv-trt1-dai.medya.trt.com.tr/master.m3u8
 #EXTINF: 23 tvg-logo="http://i.ibb.co/Nr6W1RL/ATV.png" group-title="ULUSAL", ATV
 http://195.142.1.211:4022/udp/224.2.2.19:10001
@@ -184,4 +184,4 @@ https://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/playist.m3u8
 #EXTINF: 682 tvg-logo="http://i.ibb.co/1Z1tV8v/MILYON-TV.png" group-title="MÜZİK", MİLYON TV
 https://mn-nl.mncdn.com/blutv_milyontv/milyontv_sd.smil/playlist.m3u8
 #EXTINF: 683 tvg-logo="http://i.ibb.co/pPW5wyn/TATLISES-TV.png" group-title="MÜZİK", TATLISES TV
-http://waw2.artiyerelmedya.net/tatlisestv/bant1/playlist.m3u8
+http://live.artidijitalmedya.com/artidijital_tatlisestv/tatlisestv/chunks.m3u8
