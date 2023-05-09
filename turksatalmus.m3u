@@ -305,17 +305,19 @@ http://livetv.powerapp.com.tr/powerTV/powerhd.smil/playist.m3u8
 https://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/playist.m3u8
 #EXTINF: 674 tvg-logo="http://i.ibb.co/ggXYS5R/TRACE-URBAN.png" group-title="MÜZİK", TRACE URBAN
 http://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
-#EXTINF: 675 tvg-logo="http://i.ibb.co/xG4fDn3/NUMBER1-TV.png" group-title="MÜZİK", NUMBER1 TV
+#EXTINF: 675 tvg-logo="http://i.ibb.co/8zs83sv/MTV-LIVE.png" group-title="MÜZİK", MTV LIVE
+http://190.27.253.211:8000/play/a07p/index.m3u8
+#EXTINF: 676 tvg-logo="http://i.ibb.co/xG4fDn3/NUMBER1-TV.png" group-title="MÜZİK", NUMBER1 TV
 https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e17cd6360b_1/playlist.m3u8
-#EXTINF: 676 tvg-logo="http://i.ibb.co/QjM93vG/NUMBER1-TURK.png" group-title="MÜZİK", NUMBER1 TURK
+#EXTINF: 677 tvg-logo="http://i.ibb.co/QjM93vG/NUMBER1-TURK.png" group-title="MÜZİK", NUMBER1 TURK
 https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e187770143.smil/playlist.m3u8
-#EXTINF: 677 tvg-logo="http://i.ibb.co/zQFY7CZ/NUMBER1-DANCE.png" group-title="MÜZİK", NUMBER1 DANCE
+#EXTINF: 678 tvg-logo="http://i.ibb.co/zQFY7CZ/NUMBER1-DANCE.png" group-title="MÜZİK", NUMBER1 DANCE
 https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e2aa8acf44_1/playlist.m3u8
-#EXTINF: 678 tvg-logo="http://i.ibb.co/sW2nC4C/NUMBER1-A-K.png" group-title="MÜZİK", NUMBER1 AŞK
+#EXTINF: 679 tvg-logo="http://i.ibb.co/sW2nC4C/NUMBER1-A-K.png" group-title="MÜZİK", NUMBER1 AŞK
 https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e18f9cea15_1/playlist.m3u8
-#EXTINF: 679 tvg-logo="http://i.ibb.co/DMFb5cM/NUMBER1-DAMAR.png" group-title="MÜZİK", NUMBER1 DAMAR
+#EXTINF: 680 tvg-logo="http://i.ibb.co/DMFb5cM/NUMBER1-DAMAR.png" group-title="MÜZİK", NUMBER1 DAMAR
 https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e198784bdc_1/playlist.m3u8
-#EXTINF: 680 tvg-logo="http://i.ibb.co/1Z1tV8v/MILYON-TV.png" group-title="MÜZİK", MİLYON TV
+#EXTINF: 681 tvg-logo="http://i.ibb.co/1Z1tV8v/MILYON-TV.png" group-title="MÜZİK", MİLYON TV
 https://mn-nl.mncdn.com/blutv_milyontv/milyontv_sd.smil/playlist.m3u8
-#EXTINF: 681 tvg-logo="http://i.ibb.co/pPW5wyn/TATLISES-TV.png" group-title="MÜZİK", TATLISES TV
+#EXTINF: 682 tvg-logo="http://i.ibb.co/pPW5wyn/TATLISES-TV.png" group-title="MÜZİK", TATLISES TV
 http://live.artidijitalmedya.com/artidijital_tatlisestv/tatlisestv/chunks.m3u8
