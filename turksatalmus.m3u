@@ -44,7 +44,7 @@ http://135.125.234.9:8081/foxtv/index.m3u8
 #EXTINF: 29 tvg-logo="http://i.ibb.co/3pgFKnp/TV8.png" group-title="ULUSAL", TV8
 https://tv8-live.daioncdn.net:443/tv8/tv8_1080p.m3u8
 #EXTINF: 30 tvg-logo="http://i.ibb.co/JFjLFcD/BEYAZ-TV.png" group-title="ULUSAL", BEYAZ TV
-https://tv.ensonhaber.com/tv/tr/beyaztv/index.m3u8
+http://135.125.234.9:8081/beyaztv/index.m3u8
 #EXTINF: 31 tvg-logo="http://i.ibb.co/6XKxxRB/SHOW-MAX.png" group-title="ULUSAL", SHOW MAX
 http://85.4.116.126:8080/play/a0ig
 #EXTINF: 32 tvg-logo="http://i.ibb.co/HnV43sj/A2.png" group-title="ULUSAL", A2
