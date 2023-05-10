@@ -25,7 +25,7 @@ http://49.12.123.148:8989/46/hls/playlist.m3u8
 http://49.12.123.148:8989/71/hls/playlist.m3u8
 #EXTINF: 18 tvg-logo="http://i.ibb.co/dD9P73Z/DIZIMAX.jpg" group-title="DİZİ", DİZİMAX
 http://livestream.zazerconer.workers.dev/channel/UCsRzd5DMZQqe00m_SM6BKzw.m3u8
-#EXTINF: 20 tvg-logo="http://i.ibb.co/TbTRT1b/24-KITCHEN.png" group-title="YAŞAM",24KITCHEN
+#EXTINF: 20 tvg-logo="http://i.ibb.co/TbTRT1b/24-KITCHEN.png" group-title="YAŞAM", 24KITCHEN
 http://49.12.123.148:8989/76/hls/playlist.m3u8
 #EXTINF: 22 tvg-logo="http://i.ibb.co/gMVLBX3/TRT-1.png" group-title="ULUSAL", TRT 1
 http://tv-trt1-dai.medya.trt.com.tr/master.m3u8
