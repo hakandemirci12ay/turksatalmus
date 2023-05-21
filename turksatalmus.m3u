@@ -197,6 +197,8 @@ http://49.12.123.148:8989/57/hls/playlist.m3u8
 http://49.12.123.148:8989/35/hls/playlist.m3u8
 #EXTINF: 115 tvg-logo="http://i.ibb.co/rGkK2FD/DISCOVERY-CHANNEL.png" group-title="BELGESEL", DISCOVERY CHANNEL
 http://49.12.123.148:8989/48/hls/playlist.m3u8
+#EXTINF: 117 tvg-logo="http://i.ibb.co/bdmZNYX/ID.png" group-title="BELGESEL", ID
+https://dnx8nkmlprapr.cloudfront.net/out/v1/c9e1c183395d4d29a9fa34ecdef4163b/master_3.m3u8
 #EXTINF: 119 tvg-logo="http://i.ibb.co/0JCKHmm/VIASAT-HISTORY.png" group-title="BELGESEL", VIASAT HISTORY
 http://49.12.123.148:8989/49/hls/playlist.m3u8
 #EXTINF: 124 tvg-logo="http://i.ibb.co/4mdv588/LOVE-NATURE.png" group-title="BELGESEL", LOVE NATURE
