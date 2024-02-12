@@ -55,7 +55,7 @@ http://stream.tvcdn.net/ulusal/kanal-d.m3u8
 http://stream.tvcdn.net/ulusal/star-tv.m3u8
 #EXTINF:29 group-title="ULUSAL",KANAL 7
 http://stream.tvcdn.net/ulusal/kanal-7.m3u8
-#EXTINF:30 group-title="ULUSAL",FOX TV
+#EXTINF:30 group-title="ULUSAL",NOW
 https://mnorigin-ank-1.mncdn.com/test/live_720p.m3u8
 #EXTINF:31 group-title="ULUSAL",TV8
 http://stream.tvcdn.net/ulusal/tv8.m3u8
