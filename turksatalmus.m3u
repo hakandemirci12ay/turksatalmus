@@ -189,6 +189,8 @@ http://tv-trtarabi.live.trt.com.tr/master_720.m3u8
 http://rt-arb.rttv.com/live/rtarab/playlist.m3u8
 #EXTINF:97 group-title="ULUSLARARASI",SKY NEWS ARABIA
 http://stream.skynewsarabia.com/hls/sna_720.m3u8
+#EXTINF:101 group-title="ULUSLARARASI",FOX NEWS CHANNEL
+https://247preview.foxnews.com/hls/live/2020027/fncv3preview/primary.m3u8
 #EXTINF:102 group-title="ULUSLARARASI",DW-TV (ENGLISH)
 http://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream02/streamPlaylist.m3u8
 #EXTINF:104 group-title="ULUSLARARASI",FRANCE 24 ENGLISH
@@ -443,7 +445,83 @@ http://stream.tvcdn.net/muzik/milyon-tv.m3u8
 http://stream.tvcdn.net/diger/ekin-turk-tv.m3u8
 #EXTINF:702 group-title="TÜRKÜ",ANADOLU DERNEK TV
 http://stream.tvcdn.net/yerel/anadolu-dernek-tv.m3u8
-#EXTINF:703 group-title="TÜRKÜ",TEMPO TV
+#EXTINF:703 group-title="TÜRKÜ",MAVİ KARADENİZ
+http://stream.tvcdn.net/yerel/mavi-karadeniz.m3u8
+#EXTINF:704 group-title="TÜRKÜ",TEMPO TV
 http://stream.tvcdn.net/diger-muzik/tempo-tv.m3u8
-#EXTINF:704 group-title="TÜRKÜ",YILDIZ EN
+#EXTINF:705 group-title="TÜRKÜ",YILDIZ EN
 http://23.146.40.157:8080/denizkaratasli/RqBMQ8JdmyrK/63547
+#EXTINF:706 group-title="ULUSAL",CINE 1
+http://stream.tvcdn.net/diger-eglence/cine-1.m3u8
+#EXTINF:707 group-title="YEREL",KANAL 3
+http://stream.tvcdn.net/yerel/kanal-3.m3u8
+#EXTINF:708 group-title="YEREL",LINE TV
+http://stream.tvcdn.net/yerel/line-tv-bursa.m3u8
+#EXTINF:709 group-title="YEREL",KANAL 23
+http://stream.tvcdn.net/yerel/kanal-23.m3u8
+#EXTINF:710 group-title="YEREL",LUYS TV
+http://stream.tvcdn.net/diger/luys-tv.m3u8
+#EXTINF:711 group-title="YEREL",KANAL FIRAT
+http://stream.tvcdn.net/yerel/kanal-firat.m3u8
+#EXTINF:712 group-title="YEREL",KARDELEN TV
+http://stream.tvcdn.net/yerel/kardelen-tv.m3u8
+#EXTINF:713 group-title="YEREL",KANAL V
+http://stream.tvcdn.net/yerel/kanal-v.m3u8
+#EXTINF:714 group-title="TARIM",KÖY TV
+http://stream.tvcdn.net/belgesel/koy-tv.m3u8
+#EXTINF:715 group-title="TARIM",ÇİFTÇİ TV
+http://stream.tvcdn.net/belgesel/ciftci-tv.m3u8
+#EXTINF:716 group-title="TARIM",AGRO TV
+http://stream.tvcdn.net/belgesel/agro-tv.m3u8
+#EXTINF:717 group-title="YEREL",ON4 TV
+http://stream.tvcdn.net/dini/on4-tv.m3u8
+#EXTINF:718 group-title="YEREL",TV52
+http://stream.tvcdn.net/yerel/tv-52.m3u8
+#EXTINF:719 group-title="YEREL",KANAL 26
+http://stream.tvcdn.net/yerel/kanal-26.m3u8
+#EXTINF:720 group-title="YEREL",KOZA TV
+http://stream.tvcdn.net/yerel/koza-tv.m3u8
+#EXTINF:721 group-title="YEREL",BRTV BATI-KARADENİZ
+http://stream.tvcdn.net/yerel/brtv-karabuk.m3u8
+#EXTINF:722 group-title="YEREL",ORDU ALTAŞ TV
+http://stream.tvcdn.net/yerel/altas-tv.m3u8
+#EXTINF:723 group-title="YEREL",RUMELİ TV
+http://stream.tvcdn.net/yerel/rumeli-tv.m3u8
+#EXTINF:724 group-title="YEREL",TV264
+http://stream.tvcdn.net/yerel/tv-264.m3u8
+#EXTINF:725 group-title="YEREL",ES TV
+http://stream.tvcdn.net/yerel/es-tv.m3u8
+#EXTINF:726 group-title="YEREL",KANAL 60
+http://stream.tvcdn.net/yerel/kanal-60.m3u8
+#EXTINF:727 group-title="YEREL",SERHAT TV (TOKAT)
+http://stream.tvcdn.net/yerel/serhat-tv.m3u8
+#EXTINF:728 group-title="YEREL",SAFASRT (TOKAT)
+http://stream.tvcdn.net/yerel/safa-tv.m3u8
+#EXTINF:729 group-title="YEREL",TOKAT TV
+http://stream.tvcdn.net/yerel/tokat-tv.m3u8
+#EXTINF:730 group-title="YEREL",CAN TV
+http://stream.tvcdn.net/diger/can-tv.m3u8
+#EXTINF:791 group-title="AVRUPA",SHOW TÜRK
+http://stream.tvcdn.net/ulusal-yurt-disi/show-turk.m3u8
+#EXTINF:792 group-title="AVRUPA",ATV AVRUPA
+http://stream.tvcdn.net/ulusal-yurt-disi/atv-avrupa.m3u8
+#EXTINF:793 group-title="AVRUPA",EURO D
+http://stream.tvcdn.net/ulusal-yurt-disi/euro-d.m3u8
+#EXTINF:794 group-title="AVRUPA",EUROSTAR
+http://stream.tvcdn.net/ulusal-yurt-disi/euro-star.m3u8
+#EXTINF:795 group-title="AVRUPA",KANAL 7 AVRUPA
+http://stream.tvcdn.net/ulusal-yurt-disi/kanal-7-avrupa.m3u8
+#EXTINF:796 group-title="AVRUPA",TGRT EU
+http://stream.tvcdn.net/ulusal-yurt-disi/tgrt-eu.m3u8
+#EXTINF:797 group-title="AVRUPA",TV8 INT
+http://stream.tvcdn.net/ulusal-yurt-disi/tv8-int.m3u8
+#EXTINF:798 group-title="AVRUPA",KANAL AVRUPA
+http://stream.tvcdn.net/yerel/kanal-avrupa.m3u8
+#EXTINF:800 group-title="YABANCI",PRESS TV
+https://cdnlive.presstv.ir/cdnlive/smil:cdnlive.smil/playlist.m3u8
+#EXTINF:801 group-title="YABANCI",I24 NEWS ENGLISH
+https://bcovlive-a.akamaihd.net/6e3dd61ac4c34d6f8fb9698b565b9f50/eu-central-1/5377161796001/playlist-all_dvr.m3u8
+#EXTINF:802 group-title="YABANCI",BFM TV
+https://bfmtvalive1-a.akamaihd.net/rdc5d0dddf67d4626adca4f8ff2d89b39/eu-central-1/876450610001/playlist.m3u8
+#EXTINF:803 group-title="YABANCI",HISPAN TV
+https://cdnlive.presstv.ir/live/smil:live.smil/playlist.m3u8
