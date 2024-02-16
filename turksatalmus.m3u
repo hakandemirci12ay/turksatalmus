@@ -389,14 +389,16 @@ http://nightmare-tv.xyz:8080/burak@0303/kaya.0303/156
 http://nightmare-tv.xyz:8080/burak@0303/kaya.0303/702290
 #EXTINF:335 group-title="DİZİ",BBC FIRST
 http://ragnarlive.live:80/live/ahmet3/hewgttA9Du/246364.ts
+#EXTINF:354 group-title="YAŞAM",TASKRÜT H&E
+http://penac46tvpanel.xyz:80/play/4I_gjBGS6jmvykcv7Wml8sXghQZRCFPUmpqkssK3aMo
+#EXTINF:355 group-title="YAŞAM",TASKRÜT GURME
+http://nightmare-tv.xyz:8080/burak@0303/kaya.0303/157
 #EXTINF:356 group-title="YAŞAM",MYZEN TV
 http://ragnarlive.live:80/live/ahmet3/hewgttA9Du/243065.ts
 #EXTINF:357 group-title="YAŞAM",FASHION TV
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_pg16_adaptive.smil/playlist.m3u8
-#EXTINF:358 group-title="YAŞAM",TASKRÜT H&E
-http://penac46tvpanel.xyz:80/play/4I_gjBGS6jmvykcv7Wml8sXghQZRCFPUmpqkssK3aMo
-#EXTINF:359 group-title="YAŞAM",TASKRÜT GURME
-http://nightmare-tv.xyz:8080/burak@0303/kaya.0303/157
+#EXTINF:358 group-title="YAŞAM",FASHION ONE
+https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e2ee6997cb_1/playlist.m3u8
 #EXTINF:365 group-title="ULTRA HD",TRT 4K
 http://nightmare-tv.xyz:8080/burak@0303/kaya.0303/543368
 #EXTINF:367 group-title="SPOR",GAMESCREEN
@@ -497,15 +499,11 @@ http://ragnarlive.live:80/live/ahmet3/hewgttA9Du/234996.ts
 https://livetv.powerapp.com.tr/dance/dance.smil/playlist.m3u8
 #EXTINF:682 group-title="MÜZİK",POWER LOVE
 https://livetv.powerapp.com.tr/plove/love.smil/playlist.m3u8
-#EXTINF:683 group-title="MÜZİK",POWER PLUS
-https://livetv.powerapp.com.tr/pplustv/pplustv.smil/playlist.m3u8
-#EXTINF:684 group-title="MÜZİK",POWER SLOW
+#EXTINF:683 group-title="MÜZİK",POWER SLOW
 https://listen.powerapp.com.tr/pturkslow/slow.smil/playist.m3u8
-#EXTINF:685 group-title="MÜZİK",POWERTÜRK AKUSTİK
+#EXTINF:684 group-title="MÜZİK",POWERTÜRK AKUSTİK
 https://listen.powerapp.com.tr/pturkakustik/akustik.smil/playist.m3u8
-#EXTINF:686 group-title="MÜZİK",POWERTÜRK EN İYİLER
-https://listen.powerapp.com.tr/pturkeniyiler/eniyiler.smil/playist.m3u8
-#EXTINF:687 group-title="MÜZİK",POWERTÜRK TAPTAZE
+#EXTINF:685 group-title="MÜZİK",POWERTÜRK TAPTAZE
 https://listen.powerapp.com.tr/pturktaptaze/taptaze.smil/playist.m3u8
 #EXTINF:701 group-title="TÜRKÜ",EKİNTÜRK TV
 http://stream.tvcdn.net/diger/ekin-turk-tv.m3u8
@@ -591,3 +589,5 @@ https://bcovlive-a.akamaihd.net/6e3dd61ac4c34d6f8fb9698b565b9f50/eu-central-1/53
 https://bfmtvalive1-a.akamaihd.net/rdc5d0dddf67d4626adca4f8ff2d89b39/eu-central-1/876450610001/playlist.m3u8
 #EXTINF:803 group-title="YABANCI",HISPAN TV
 https://cdnlive.presstv.ir/live/smil:live.smil/playlist.m3u8
+#EXTINF:804 group-title="YABANCI",RAI NEWS 24
+http://ragnarlive.live:80/live/ahmet3/hewgttA9Du/236245.ts
