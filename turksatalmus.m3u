@@ -591,3 +591,11 @@ https://bfmtvalive1-a.akamaihd.net/rdc5d0dddf67d4626adca4f8ff2d89b39/eu-central-
 https://cdnlive.presstv.ir/live/smil:live.smil/playlist.m3u8
 #EXTINF:804 group-title="YABANCI",RAI NEWS 24
 http://ragnarlive.live:80/live/ahmet3/hewgttA9Du/236245.ts
+#EXTINF:805 group-title="YABANCI",AL ARABIYA
+https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
+#EXTINF:806 group-title="YABANCI",BBC ARABIC
+https://ythls.armelin.one/channel/UCelk6aHijZq-GJBBB9YpReA.m3u8
+#EXTINF:807 group-title="YABANCI",RUSSIA TODAY
+https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
+#EXTINF:807 group-title="YABANCI",RT DOCUMENTARY
+https://rt-glb.rttv.com/live/rtdoc/playlist.m3u8
