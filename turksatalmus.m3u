@@ -609,5 +609,37 @@ https://vo-live.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel1/HLS/in
 https://vo-live.cdb.cdn.orange.com/Content/Channel/YASSportsChannel/HLS/index.m3u8
 #EXTINF:813 group-title="YABANCI",ARTE
 http://ragnarlive.live:80/live/ahmet3/hewgttA9Du/242986.ts
-
-
+#EXTINF:814 group-title="YABANCI",RAI 2
+http://ragnarlive.live:80/live/ahmet3/hewgttA9Du/236237.ts
+#EXTINF:815 group-title="YABANCI",RAI 3
+http://ragnarlive.live:80/live/ahmet3/hewgttA9Du/236238.ts
+#EXTINF:816 group-title="YABANCI",RAI 4
+http://ragnarlive.live:80/live/ahmet3/hewgttA9Du/236239.ts
+#EXTINF:817 group-title="YABANCI",RAI 5
+http://ragnarlive.live:80/live/ahmet3/hewgttA9Du/236240.ts
+#EXTINF:818 group-title="YABANCI",RAI GULP
+http://ragnarlive.live:80/live/ahmet3/hewgttA9Du/236242.ts
+#EXTINF:819 group-title="YABANCI",RAI MOVIE
+http://ragnarlive.live:80/live/ahmet3/hewgttA9Du/236244.ts
+#EXTINF:820 group-title="YABANCI",RAI ITALIA
+http://ragnarlive.live:80/live/ahmet3/hewgttA9Du/236243.ts
+#EXTINF:821 group-title="YABANCI",RAI PREMIUM
+http://ragnarlive.live:80/live/ahmet3/hewgttA9Du/236246.ts
+#EXTINF:822 group-title="YABANCI",RAI SCUOLA
+http://ragnarlive.live:80/live/ahmet3/hewgttA9Du/236247.ts
+#EXTINF:823 group-title="YABANCI",RAI STORIA
+http://ragnarlive.live:80/live/ahmet3/hewgttA9Du/236249.ts
+#EXTINF:824 group-title="YABANCI",RAI YOYO
+http://ragnarlive.live:80/live/ahmet3/hewgttA9Du/236250.ts
+#EXTINF:825 group-title="YABANCI",ITALIA 1
+http://ragnarlive.live:80/live/ahmet3/hewgttA9Du/236175.ts
+#EXTINF:826 group-title="YABANCI",RETE 4
+http://ragnarlive.live:80/live/ahmet3/hewgttA9Du/236255.ts
+#EXTINF:827 group-title="YABANCI",CANALE 5
+http://ragnarlive.live:80/live/ahmet3/hewgttA9Du/236123.ts
+#EXTINF:828 group-title="YABANCI",TVR INT
+http://ragnarlive.live:80/live/ahmet3/hewgttA9Du/232892.ts
+#EXTINF:829 group-title="YABANCI",RTP INTERNACIONAL
+https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/playlist.m3u8
+#EXTINF:830 group-title="YABANCI",CNC WORLD
+http://source07.v.news.cn/live/CNC_EN/playlist.m3u8
