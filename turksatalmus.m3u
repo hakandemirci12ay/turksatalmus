@@ -643,3 +643,97 @@ http://ragnarlive.live:80/live/ahmet3/hewgttA9Du/232892.ts
 https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/playlist.m3u8
 #EXTINF:830 group-title="YABANCI",CNC WORLD
 http://source07.v.news.cn/live/CNC_EN/playlist.m3u8
+#EXTINF:831 group-title="YABANCI",SURYOYO SAT
+http://ragnarlive.live:80/live/ahmet3/hewgttA9Du/239327.ts
+#EXTINF:832 group-title="YABANCI",ESKA TV
+http://ragnarlive.live:80/live/ahmet3/hewgttA9Du/233926.ts
+#EXTINF:833 group-title="YABANCI",THT COMEDY
+http://ragnarlive.live:80/live/ahmet3/hewgttA9Du/240439.ts
+#EXTINF:834 group-title="YABANCI",8 TV
+https://v4.proofix.ru/8tv-europe/tracks-v1a1/mono.m3u8
+#EXTINF:835 group-title="YABANCI",TELE5
+http://ragnarlive.live:80/live/ahmet3/hewgttA9Du/234009.ts
+#EXTINF:836 group-title="YABANCI",TVP POLONIA
+http://ragnarlive.live:80/live/ahmet3/hewgttA9Du/234051.ts
+#EXTINF:837 group-title="YABANCI",4FUN DANCE
+http://ragnarlive.live:80/live/ahmet3/hewgttA9Du/233866.ts
+#EXTINF:838 group-title="YABANCI",4FUN KIDS
+http://ragnarlive.live:80/live/ahmet3/hewgttA9Du/233867.ts
+#EXTINF:839 group-title="YABANCI",4FUN TV
+http://ragnarlive.live:80/live/ahmet3/hewgttA9Du/233868.ts
+#EXTINF:840 group-title="YABANCI",STARS TV
+http://ragnarlive.live:80/live/ahmet3/hewgttA9Du/234002.ts
+#EXTINF:841 group-title="YABANCI",ARMENIA 1 TV
+https://amtv1.livestreamingcdn.com/am2abr/tracks-v1a1/mono.m3u8
+#EXTINF:842 group-title="YABANCI",RUDAW TV
+https://svs.itworkscdn.net/rudawlive/rudawlive.smil/chunklist.m3u8
+#EXTINF:843 group-title="YABANCI",VOA EU
+https://voa-ingest.akamaized.net/hls/live/2033874/tvmc06/playlist_0360.m3u8
+#EXTINF:844 group-title="YABANCI",VOA PERSIAN
+http://ragnarlive.live:80/live/ahmet3/hewgttA9Du/232278.ts
+#EXTINF:845 group-title="YABANCI",GANJ-E HOZOUR
+https://media.parvizshahbazi.com/ganjehozour/Main_tv/chunks.m3u8
+#EXTINF:846 group-title="YABANCI",SAT7 PARS
+https://svs.itworkscdn.net/sat7parslive/sat7pars.smil/playlist.m3u8
+#EXTINF:847 group-title="YABANCI",SHARJAH TV
+https://svs.itworkscdn.net/smc1live/smc1.smil/playlist.m3u8
+#EXTINF:848 group-title="YABANCI",SHARQIYA TV
+http://ns8.indexforce.com:1935/home/mystream/chunklist.m3u8
+#EXTINF:849 group-title="YABANCI",MEKAMELEEN TV
+https://mn-nl.mncdn.com/mekameleen/smil:mekameleentv.smil/playlist.m3u8
+#EXTINF:850 group-title="YABANCI",AL MAYADEEN
+https://mdnlv.cdn.octivid.com/almdn/smil:mpegts.stream.smil/playlist.m3u8
+#EXTINF:851 group-title="YABANCI",NOURSAT
+https://svs.itworkscdn.net/nour4satlive/livestream/playlist.m3u8
+#EXTINF:852 group-title="YABANCI",ALJAZEERA DOCUMENTARY
+http://live-hls-web-ajd.getaj.net/AJD/01.m3u8
+#EXTINF:853 group-title="YABANCI",AL RAYYAN
+https://alrayyancdn.vidgyor.com/pub-noalrayy3pwz0l/liveabr/pub-noalrayy3pwz0l/live_360p/chunks.m3u8
+#EXTINF:854 group-title="YABANCI",ABU DHABI TV
+http://ragnarlive.live:80/live/ahmet3/hewgttA9Du/241825.ts
+#EXTINF:855 group-title="YABANCI",DUBAI TV
+https://dmisxthvll.cdn.mgmlcdn.com/dubaitvht/smil:dubaitv.stream.smil/playlist.m3u8
+#EXTINF:856 group-title="YABANCI",BAHRAIN TV
+https://5c7b683162943.streamlock.net/live/ngrp:bahraintvmain_all/playlist.m3u8
+#EXTINF:857 group-title="YABANCI",KTV 1
+http://ragnarlive.live:80/live/ahmet3/hewgttA9Du/241990.ts
+#EXTINF:858 group-title="YABANCI",QATAR TV
+http://ragnarlive.live:80/live/ahmet3/hewgttA9Du/241675.ts
+#EXTINF:859 group-title="YABANCI",AL ALAM
+https://live2.alalam.ir/live/Alalam_high/index.m3u8
+#EXTINF:860 group-title="YABANCI",AL HIWAR
+https://mn-nl.mncdn.com/alhiwar_live/smil:alhiwar.smil/playlist.m3u8
+#EXTINF:861 group-title="YABANCI",TV TAMAZIGHT
+http://ragnarlive.live:80/live/ahmet3/hewgttA9Du/241977.ts
+#EXTINF:862 group-title="YABANCI",SKY SPORT NEWS
+http://ragnarlive.live:80/live/ahmet3/hewgttA9Du/242233.ts
+#EXTINF:863 group-title="YABANCI",EUROSPORT 1 GERMAN
+http://ragnarlive.live:80/live/ahmet3/hewgttA9Du/242365.ts
+#EXTINF:864 group-title="YABANCI",DAS ERSTE
+http://ragnarlive.live:80/live/ahmet3/hewgttA9Du/242398.ts
+#EXTINF:865 group-title="YABANCI",RTL 2
+http://ragnarlive.live:80/live/ahmet3/hewgttA9Du/242211.ts
+#EXTINF:866 group-title="YABANCI",SUPER RTL
+http://ragnarlive.live:80/live/ahmet3/hewgttA9Du/242210.ts
+#EXTINF:867 group-title="YABANCI",SAT.1 GOLD
+http://ragnarlive.live:80/live/ahmet3/hewgttA9Du/242403.ts
+#EXTINF:868 group-title="YABANCI",PRO7 MAXX
+http://ragnarlive.live:80/live/ahmet3/hewgttA9Du/242406.ts
+#EXTINF:869 group-title="YABANCI",NICKELODEON GERMANY
+http://ragnarlive.live:80/live/ahmet3/hewgttA9Du/242213.ts
+#EXTINF:870 group-title="YABANCI",DISNEY CHANNEL GERMANY
+http://ragnarlive.live:80/live/ahmet3/hewgttA9Du/242219.ts
+#EXTINF:871 group-title="YABANCI",COMEDY CENTRAL
+http://ragnarlive.live:80/live/ahmet3/hewgttA9Du/242250.ts
+#EXTINF:872 group-title="YABANCI",TV5MONDE FBS
+http://ragnarlive.live:80/live/ahmet3/hewgttA9Du/243095.ts
+#EXTINF:873 group-title="YABANCI",TRWAM
+http://ragnarlive.live:80/live/ahmet3/hewgttA9Du/234022.ts
+#EXTINF:874 group-title="YABANCI",KSA 2
+https://edge.taghtia.com/sa/10.m3u8
+#EXTINF:875 group-title="YABANCI",SAMA DUBAI
+https://dmieigthvll.cdn.mgmlcdn.com/samadubaiht/smil:samadubai.stream.smil/playlist.m3u8
+#EXTINF:876 group-title="YABANCI",ISLAM CHANNEL
+https://live.islamchannel.tv/live7/islamtv_english/bitrate1.isml/bitrate1-audio_0=128000-video=657984.m3u8
+
+
