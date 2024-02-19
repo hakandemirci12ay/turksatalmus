@@ -597,5 +597,17 @@ https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
 https://ythls.armelin.one/channel/UCelk6aHijZq-GJBBB9YpReA.m3u8
 #EXTINF:807 group-title="YABANCI",RUSSIA TODAY
 https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
-#EXTINF:807 group-title="YABANCI",RT DOCUMENTARY
+#EXTINF:808 group-title="YABANCI",RT DOCUMENTARY
 https://rt-glb.rttv.com/live/rtdoc/playlist.m3u8
+#EXTINF:809 group-title="YABANCI",RAI SPORT
+http://ragnarlive.live:80/live/ahmet3/hewgttA9Du/236248.ts
+#EXTINF:810 group-title="YABANCI",DUBAI SPORTS 1
+http://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/playlist.m3u8
+#EXTINF:811 group-title="YABANCI",ABU DHABI SPORTS 1
+https://vo-live.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel1/HLS/index.m3u8
+#EXTINF:812 group-title="YABANCI",YAS SPORTS
+https://vo-live.cdb.cdn.orange.com/Content/Channel/YASSportsChannel/HLS/index.m3u8
+#EXTINF:813 group-title="YABANCI",ARTE
+http://ragnarlive.live:80/live/ahmet3/hewgttA9Du/242986.ts
+
+
