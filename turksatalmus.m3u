@@ -735,5 +735,31 @@ https://edge.taghtia.com/sa/10.m3u8
 https://dmieigthvll.cdn.mgmlcdn.com/samadubaiht/smil:samadubai.stream.smil/playlist.m3u8
 #EXTINF:876 group-title="YABANCI",ISLAM CHANNEL
 https://live.islamchannel.tv/live7/islamtv_english/bitrate1.isml/bitrate1-audio_0=128000-video=657984.m3u8
-
-
+#EXTINF:877 group-title="YABANCI",TBN RUSSIA
+https://5f05e059699ae.streamlock.net/WEB_TBN/ngrp:TBN.stream-adaptive/playlist.m3u8
+#EXTINF:878 group-title="YABANCI",TELEPACE
+http://ragnarlive.live:80/live/ahmet3/hewgttA9Du/236336.ts
+#EXTINF:879 group-title="YABANCI",TELESUR
+https://cdnesmain.telesur.ultrabase.net/mbliveMain/audio/playlist.m3u8
+#EXTINF:880 group-title="YABANCI",POLONIA 1
+http://ragnarlive.live:80/live/ahmet3/hewgttA9Du/233972.ts
+#EXTINF:881 group-title="YABANCI",2M MONDE
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/2m_monde/hls_video_ts_tuhawxpiemz257adfc/2m_monde-avc1_1500000=4-mp4a_130400_qad=1.m3u8
+#EXTINF:882 group-title="YABANCI",TUNISIE INMOBILIER
+http://ragnarlive.live:80/live/ahmet3/hewgttA9Du/242010.ts
+#EXTINF:883 group-title="YABANCI",TVA VICENZA
+http://ragnarlive.live:80/live/ahmet3/hewgttA9Du/236361.ts
+#EXTINF:884 group-title="YABANCI",DMAX DE
+http://ragnarlive.live:80/live/ahmet3/hewgttA9Du/242196.ts
+#EXTINF:885 group-title="YABANCI",RADIO ITALIA
+http://ragnarlive.live:80/live/ahmet3/hewgttA9Du/236222.ts
+#EXTINF:886 group-title="YABANCI",OMAN TV
+http://ragnarlive.live:80/live/ahmet3/hewgttA9Du/242100.ts
+#EXTINF:887 group-title="YABANCI",TVRUS
+https://hls.tvrus.t62a.com/1708433957/YtR0UwrX_Pg2zLPLTt45nQ/bemtv/stream716/stream0.m3u8
+#EXTINF:888 group-title="YABANCI",BBC PERSIAN
+http://ragnarlive.live:80/live/ahmet3/hewgttA9Du/232113.ts
+#EXTINF:889 group-title="YABANCI",AL HAYAT
+http://media.islamexplained.com:1935/live/_definst_mp4:ahme.stream_360p/playlist.m3u8
+#EXTINF:890 group-title="YABANCI",IMEDI TV
+https://tv.cdn.xsg.ge/imedihd/tracks-v1a1/mono.m3u8
