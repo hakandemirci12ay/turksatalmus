@@ -1,48 +1,52 @@
 #EXTM3U
+#EXTINF:2 group-title="SİNEMA",FİL TV
+http://spy17.eu:80/live/ozkanshmx/06.02.22/317303.ts
+#EXTINF:2 group-title="SİNEMA",FİLMAX
+http://spy17.eu:80/live/ozkanshmx/06.02.22/317302.ts
 #EXTINF:2 group-title="SİNEMA",BLUTV PLAY 1
-https://play1.blutv.com/blutv_play1/live.m3u8
+https://play1.blutv.com/blutv_play1/smil:blutv_play1.smil/playlist.m3u8
 #EXTINF:3 group-title="SİNEMA",BLUTV PLAY 2
-https://play2.blutv.com/blutv_play2/live.m3u8
-#EXTINF:4 group-title="SİNEMA",EXXEN TV
-http://nightmare-tv.xyz:8080/burak@0303/kaya.0303/721510
+https://play2.blutv.com/blutv_play2/smil:blutv_play2.smil/playlist.m3u8
+#EXTINF:4 group-title="SİNEMA",TASKRÜT BOX OFFICE
+https://uzerlerseni1.serv00.net/xrot/getnew3u/1.m3u8/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzI5MzA3NDYxMDJmNGIxMWE2NGNmMTA=
 #EXTINF:5 group-title="SİNEMA",TASKRÜT MOVIES PREMIERE
-http://nightmare-tv.xyz:8080/burak@0303/kaya.0303/440
+https://uzerlerseni1.serv00.net/xrot/getnew3u/1.m3u8/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5Lzk0Mjk4NzIyNDQwN2E2NmFhYzFmZg==
 #EXTINF:6 group-title="SİNEMA",TASKRÜT MOVIES PREMIERE 2
-http://nightmare-tv.xyz:8080/burak@0303/kaya.0303/441
+https://uzerlerseni1.serv00.net/xrot/getnew3u/1.m3u8/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzIyNDQwNjkwOTM5NDIyNGJkOTc4MGQ=
 #EXTINF:7 group-title="SİNEMA",TASKRÜT MOVIES TÜRK
-http://nightmare-tv.xyz:8080/burak@0303/kaya.0303/169
+https://uzerlerseni1.serv00.net/xrot/getnew3u/1.m3u8/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzMzOTA1NzU5NDhmNzI4NmI0Y2JiNDc=
 #EXTINF:8 group-title="SİNEMA",TASKRÜT MOVIES STARS
-http://nightmare-tv.xyz:8080/burak@0303/kaya.0303/444
+https://uzerlerseni1.serv00.net/xrot/getnew3u/1.m3u8/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzI1MDA5MTMxNjQ1ZDEyZDFlNDY1MjI=
 #EXTINF:9 group-title="SİNEMA",MOVIESMART CLASSIC
-http://nightmare-tv.xyz:8080/burak@0303/kaya.0303/453
+http://spy17.eu:80/live/ozkanshmx/06.02.22/769.ts
 #EXTINF:10 group-title="SİNEMA",MOVIESMART TÜRK
-http://nightmare-tv.xyz:8080/burak@0303/kaya.0303/450
+http://spy17.eu:80/live/ozkanshmx/06.02.22/775.ts
 #EXTINF:11 group-title="SİNEMA",SİNEMA TV
-http://nightmare-tv.xyz:8080/burak@0303/kaya.0303/457425
+http://spy17.eu:80/live/ozkanshmx/06.02.22/9842.ts
 #EXTINF:12 group-title="SİNEMA",SİNEMA 2
-http://nightmare-tv.xyz:8080/burak@0303/kaya.0303/457
+http://spy17.eu:80/live/ozkanshmx/06.02.22/28875.ts
 #EXTINF:13 group-title="SİNEMA",SİNEMA AKSİYON
-http://nightmare-tv.xyz:8080/burak@0303/kaya.0303/460
+http://spy17.eu:80/live/ozkanshmx/06.02.22/6925.ts
 #EXTINF:14 group-title="SİNEMA",SİNEMA AKSİYON 2
-http://nightmare-tv.xyz:8080/burak@0303/kaya.0303/461
+http://spy17.eu:80/live/ozkanshmx/06.02.22/52908.ts
 #EXTINF:15 group-title="SİNEMA",SİNEMA YERLİ
-http://nightmare-tv.xyz:8080/burak@0303/kaya.0303/458
+http://spy17.eu:80/live/ozkanshmx/06.02.22/13267.ts
 #EXTINF:16 group-title="SİNEMA",SİNEMA YERLİ 2
-http://nightmare-tv.xyz:8080/burak@0303/kaya.0303/459
+http://spy17.eu:80/live/ozkanshmx/06.02.22/29588.ts
 #EXTINF:17 group-title="SİNEMA",SİNEMA AİLE
-http://nightmare-tv.xyz:8080/burak@0303/kaya.0303/464
+http://spy17.eu:80/live/ozkanshmx/06.02.22/721.ts
 #EXTINF:18 group-title="SİNEMA",SİNEMA AİLE 2
-http://nightmare-tv.xyz:8080/burak@0303/kaya.0303/465
+http://spy17.eu:80/live/ozkanshmx/06.02.22/29587.ts
 #EXTINF:19 group-title="SİNEMA",SİNEMA 1001
-http://nightmare-tv.xyz:8080/burak@0303/kaya.0303/466
+http://spy17.eu:80/live/ozkanshmx/06.02.22/28586.ts
 #EXTINF:20 group-title="SİNEMA",SİNEMA 1002
-http://nightmare-tv.xyz:8080/burak@0303/kaya.0303/467
+http://spy17.eu:80/live/ozkanshmx/06.02.22/28587.ts
 #EXTINF:21 group-title="SİNEMA",SİNEMA KOMEDİ
-http://nightmare-tv.xyz:8080/burak@0303/kaya.0303/462
+http://spy17.eu:80/live/ozkanshmx/06.02.22/28588.ts
 #EXTINF:22 group-title="SİNEMA",SİNEMA KOMEDİ 2
-http://nightmare-tv.xyz:8080/burak@0303/kaya.0303/463
-#EXTINF:23 group-title="SİNEMA",FILMBOX+
-http://nightmare-tv.xyz:8080/burak@0303/kaya.0303/702289
+http://spy17.eu:80/live/ozkanshmx/06.02.22/52907.ts
+#EXTINF:23 group-title="SİNEMA",FILMSCREEN
+http://spy17.eu:80/live/ozkanshmx/06.02.22/329191.ts
 #EXTINF:24 group-title="ULUSAL",TRT 1
 http://stream.tvcdn.net/ulusal/trt-1.m3u8
 #EXTINF:25 group-title="ULUSAL",ATV
