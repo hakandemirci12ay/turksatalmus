@@ -54,13 +54,13 @@ http://stream.tvcdn.net/ulusal/atv.m3u8
 #EXTINF:26 group-title="ULUSAL",SHOW TV
 http://stream.tvcdn.net/ulusal/show-tv.m3u8
 #EXTINF:27 group-title="ULUSAL",KANAL D
-http://stream.tvcdn.net/ulusal/kanal-d.m3u8
+http://trn03.tulix.tv/gt-kanald/playlist.m3u8
 #EXTINF:28 group-title="ULUSAL",STAR TV
 http://stream.tvcdn.net/ulusal/star-tv.m3u8
 #EXTINF:29 group-title="ULUSAL",KANAL 7
 http://stream.tvcdn.net/ulusal/kanal-7.m3u8
 #EXTINF:30 group-title="ULUSAL",NOW
-https://mnorigin-ank-1.mncdn.com/test/live_720p.m3u8
+http://hw1.jemtv.com/app/FoxTurkey/chunks.m3u8
 #EXTINF:31 group-title="ULUSAL",TV8
 http://stream.tvcdn.net/ulusal/tv8.m3u8
 #EXTINF:32 group-title="ULUSAL",BEYAZ TV
@@ -78,7 +78,7 @@ http://stream.tvcdn.net/eglence/tlc.m3u8
 #EXTINF:38 group-title="ULUSAL",DMAX
 http://stream.tvcdn.net/eglence/dmax.m3u8
 #EXTINF:39 group-title="ULUSAL",KON TV
-http://stream.tvcdn.net/yerel/kon-tv.m3u8
+http://spy17.eu:80/live/ozkanshmx/06.02.22/4938.ts
 #EXTINF:40 group-title="ULUSAL",TV 100
 http://stream.tvcdn.net/ulusal/tv-100.m3u8
 #EXTINF:41 group-title="ULUSAL",UVI JEWELLERY
