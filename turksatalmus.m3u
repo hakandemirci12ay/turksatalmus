@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:2 group-title="SİNEMA",ALMUS MOBESE
+#EXTINF:2 group-title="KAMERA",ALMUS MOBESE
 rtsp://Admin:1954-1954@95.9.84.196:554/h264
 #EXTINF:2 group-title="SİNEMA",BLUTV PLAY 1
 https://play1.blutv.com/blutv_play1/smil:blutv_play1.smil/playlist.m3u8
