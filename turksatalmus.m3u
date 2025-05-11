@@ -3,109 +3,91 @@
 rtsp://Admin:1954-1954@95.9.84.196:554/h264
 
 #EXTINF:2 group-title="SİNEMA",BLUTV PLAY 1
-https://play1.blutv.com/blutv_play1/smil:blutv_play1.smil/playlist.m3u8
+http://spy17.eu:80/ozkanshmx/06.02.22/317297
 
 #EXTINF:3 group-title="SİNEMA",BLUTV PLAY 2
-https://play2.blutv.com/blutv_play2/smil:blutv_play2.smil/playlist.m3u8
+http://spy17.eu:80/ozkanshmx/06.02.22/317296
 
 #EXTINF:4 group-title="SİNEMA",TABİİ TV
 https://ceokzokgtd.erbvr.com/tabiitv/tabiitv.m3u8
 
 #EXTINF:5 group-title="SİNEMA",TASKRÜT MOVIES PREMIERE
-http://5.troya.info:34000/ch1365/mono.m3u8?token=rl_manamana.2ADe-pSAOeT5jietR0MHRgOYBWTccw0Y1f4KvtUyc-m-4NV_rcysmP3S0_AdEn
-
-#EXTINF:6 group-title="SİNEMA",TASKRÜT MOVIES PREMIERE 2
-http://5.troya.info:34000/ch1364/mono.m3u8?token=rl_manamana.2ADe-pSAOeT5jietR0MJsWBAGa9xe0cH0g1BoDj1N58CeBdV6NOFSGEpuPLqPI
+https://tv1.arectv30.sbs/live/bspremier1.m3u8
 
 #EXTINF:7 group-title="SİNEMA",TASKRÜT MOVIES TÜRK
-http://5.troya.info:34000/ch1367/mono.m3u8?token=rl_manamana.2ADe-pSAOeT5jietR0MOxI6lC0mpsg-OBzUAn1MxsPGIIE1CevuGZGoNmeCI7P
+https://tv1.arectv30.sbs/live/bsturk.m3u8
 
 #EXTINF:8 group-title="SİNEMA",TASKRÜT MOVIES STARS
-http://5.troya.info:34000/ch1366/mono.m3u8?token=rl_manamana.2ADe-pSAOeT5jietR0MIOtMs4QCn_0dnFh1PZvUSCV-v2l2MzCIAzZwGUo6NOk
+https://tv1.arectv30.sbs/live/bsstars.m3u8
 
 #EXTINF:9 group-title="SİNEMA",MOVIESMART CLASSIC
 http://lb.wisp.cat/lb0/TR_MOVIECLASSIC/video.m3u8?token=9bmCmR7
 
 #EXTINF:10 group-title="SİNEMA",MOVIESMART TÜRK
-http://live.admuspeh.my/8852/index.m3u8?token=4gPHp5ZVYqDAR4oz
+https://tv1.arectv30.sbs/live/mvturk.m3u8
 
 #EXTINF:11 group-title="SİNEMA",SİNEMA TV
-http://live.admuspeh.my/8846/index.m3u8?token=4gPHp5ZVYqDAR4oz
+http://spy17.eu:80/ozkanshmx/06.02.22/9842
 
 #EXTINF:12 group-title="SİNEMA",SİNEMA 2
 http://live.admuspeh.my/8835/index.m3u8?token=4gPHp5ZVYqDAR4oz
 
 #EXTINF:13 group-title="SİNEMA",SİNEMA AKSİYON
-http://live.admuspeh.my/8839/index.m3u8?token=4gPHp5ZVYqDAR4oz
-
-#EXTINF:14 group-title="SİNEMA",SİNEMA AKSİYON 2
-http://live.admuspeh.my/8849/index.m3u8?token=4gPHp5ZVYqDAR4oz
+http://spy17.eu:80/ozkanshmx/06.02.22/6925
 
 #EXTINF:15 group-title="SİNEMA",SİNEMA YERLİ
-http://spy17.eu:80/live/ozkanshmx/06.02.22/13267.ts
-
-#EXTINF:16 group-title="SİNEMA",SİNEMA YERLİ 2
-http://spy17.eu:80/live/ozkanshmx/06.02.22/29588.ts
+http://spy17.eu:80/ozkanshmx/06.02.22/13267
 
 #EXTINF:17 group-title="SİNEMA",SİNEMA AİLE
-http://live.admuspeh.my/8847/index.m3u8?token=4gPHp5ZVYqDAR4oz
-
-#EXTINF:18 group-title="SİNEMA",SİNEMA AİLE 2
-http://live.admuspeh.my/8853/index.m3u8?token=4gPHp5ZVYqDAR4oz
+http://lb.wisp.cat/lb0/TR_SINEMAAILE/video.m3u8?token=9bmCmR7
 
 #EXTINF:19 group-title="SİNEMA",SİNEMA 1001
-http://live.admuspeh.my/8848/index.m3u8?token=4gPHp5ZVYqDAR4oz
-
-#EXTINF:20 group-title="SİNEMA",SİNEMA 1002
-http://live.admuspeh.my/8850/index.m3u8?token=4gPHp5ZVYqDAR4oz
+http://lb.wisp.cat/lb0/TR_SINEMA1001/video.m3u8?token=9bmCmR7
 
 #EXTINF:21 group-title="SİNEMA",SİNEMA KOMEDİ
-http://live.admuspeh.my/8855/index.m3u8?token=4gPHp5ZVYqDAR4oz
-
-#EXTINF:22 group-title="SİNEMA",SİNEMA KOMEDİ 2
-http://live.admuspeh.my/8851/index.m3u8?token=4gPHp5ZVYqDAR4oz
+http://lb.wisp.cat/lb0/TR_SINEMAKOMEDI/video.m3u8?token=9bmCmR7
 
 #EXTINF:23 group-title="SİNEMA",FILMSCREEN
 http://lb.wisp.cat/lb0/TR_FILMBOX/video.m3u8?token=9bmCmR7
 
 #EXTINF:24 group-title="ULUSAL",TRT 1
-https://x.canlitvapp.com/trt1/index.m3u8
+https://tv-trt1-esdai.medya.trt.com.tr/master.m3u8
 
 #EXTINF:25 group-title="ULUSAL",ATV
-https://x.canlitvapp.com/aytv/index.m3u8
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_720p.m3u8
 
 #EXTINF:26 group-title="ULUSAL",SHOW TV
-http://stream.tvcdn.net/ulusal/show-tv.m3u8
+https://ciner-live.daioncdn.net/showtv/showtv_1080p.m3u8
 
 #EXTINF:27 group-title="ULUSAL",KANAL D
-https://x.canlitvapp.com/kanald/index.m3u8
+https://ackaxsqacw.turknet.ercdn.net/ozfkfbbjba/kanald/kanald_360p.m3u8
 
 #EXTINF:28 group-title="ULUSAL",STAR TV
-https://x.canlitvapp.com/star/index.m3u8
+https://dogus-live.daioncdn.net/startv/startv.m3u8
 
 #EXTINF:29 group-title="ULUSAL",KANAL 7
-https://x.canlitvapp.com/kanal7/index.m3u8
+https://kanal7-live.daioncdn.net/kanal7/kanal7.m3u8
 
 #EXTINF:30 group-title="ULUSAL",NOW
-https://x.canlitvapp.com/fox/index.m3u8
+http://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv_360p.m3u8
 
 #EXTINF:31 group-title="ULUSAL",TV8
-https://x.canlitvapp.com/kanal8/index.m3u8
+https://tv8-live.daioncdn.net/tv8/tv8.m3u8
 
 #EXTINF:32 group-title="ULUSAL",BEYAZ TV
-http://stream.tvcdn.net/ulusal/beyaz-tv.m3u8
+https://beyaztv-live.daioncdn.net/beyaztv/beyaztv.m3u8
 
 #EXTINF:33 group-title="ULUSAL",SHOW MAX
-http://stream.tvcdn.net/eglence/show-max.m3u8
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tur/shmax.m3u8
 
 #EXTINF:34 group-title="ULUSAL",A2
-http://stream.tvcdn.net/eglence/a2.m3u8
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/a2tv/a2tv_360p.m3u8
 
 #EXTINF:35 group-title="ULUSAL",TEVE2
-http://stream.tvcdn.net/eglence/teve2.m3u8
+https://demiroren-live.daioncdn.net/teve2/teve2.m3u8
 
 #EXTINF:36 group-title="ULUSAL",360 TV
-http://stream.tvcdn.net/ulusal/360-tv.m3u8
+https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
 
 #EXTINF:37 group-title="ULUSAL",TLC
 http://stream.tvcdn.net/eglence/tlc.m3u8
