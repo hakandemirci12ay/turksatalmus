@@ -1,572 +1,791 @@
 #EXTM3U
 #EXTINF:1 group-title="KAMERA",ALMUS MOBESE
 rtsp://Admin:1954-1954@95.9.84.196:554/h264
+
 #EXTINF:2 group-title="SİNEMA",BLUTV PLAY 1
 https://play1.blutv.com/blutv_play1/smil:blutv_play1.smil/playlist.m3u8
+
 #EXTINF:3 group-title="SİNEMA",BLUTV PLAY 2
 https://play2.blutv.com/blutv_play2/smil:blutv_play2.smil/playlist.m3u8
+
 #EXTINF:4 group-title="SİNEMA",TABİİ TV
 https://ceokzokgtd.erbvr.com/tabiitv/tabiitv.m3u8
+
 #EXTINF:5 group-title="SİNEMA",TASKRÜT MOVIES PREMIERE
 http://5.troya.info:34000/ch1365/mono.m3u8?token=rl_manamana.2ADe-pSAOeT5jietR0MHRgOYBWTccw0Y1f4KvtUyc-m-4NV_rcysmP3S0_AdEn
+
 #EXTINF:6 group-title="SİNEMA",TASKRÜT MOVIES PREMIERE 2
 http://5.troya.info:34000/ch1364/mono.m3u8?token=rl_manamana.2ADe-pSAOeT5jietR0MJsWBAGa9xe0cH0g1BoDj1N58CeBdV6NOFSGEpuPLqPI
+
 #EXTINF:7 group-title="SİNEMA",TASKRÜT MOVIES TÜRK
 http://5.troya.info:34000/ch1367/mono.m3u8?token=rl_manamana.2ADe-pSAOeT5jietR0MOxI6lC0mpsg-OBzUAn1MxsPGIIE1CevuGZGoNmeCI7P
+
 #EXTINF:8 group-title="SİNEMA",TASKRÜT MOVIES STARS
 http://5.troya.info:34000/ch1366/mono.m3u8?token=rl_manamana.2ADe-pSAOeT5jietR0MIOtMs4QCn_0dnFh1PZvUSCV-v2l2MzCIAzZwGUo6NOk
+
 #EXTINF:9 group-title="SİNEMA",MOVIESMART CLASSIC
 http://lb.wisp.cat/lb0/TR_MOVIECLASSIC/video.m3u8?token=9bmCmR7
+
 #EXTINF:10 group-title="SİNEMA",MOVIESMART TÜRK
 http://live.admuspeh.my/8852/index.m3u8?token=4gPHp5ZVYqDAR4oz
+
 #EXTINF:11 group-title="SİNEMA",SİNEMA TV
 http://live.admuspeh.my/8846/index.m3u8?token=4gPHp5ZVYqDAR4oz
+
 #EXTINF:12 group-title="SİNEMA",SİNEMA 2
 http://live.admuspeh.my/8835/index.m3u8?token=4gPHp5ZVYqDAR4oz
+
 #EXTINF:13 group-title="SİNEMA",SİNEMA AKSİYON
 http://live.admuspeh.my/8839/index.m3u8?token=4gPHp5ZVYqDAR4oz
+
 #EXTINF:14 group-title="SİNEMA",SİNEMA AKSİYON 2
 http://live.admuspeh.my/8849/index.m3u8?token=4gPHp5ZVYqDAR4oz
+
 #EXTINF:15 group-title="SİNEMA",SİNEMA YERLİ
 http://spy17.eu:80/live/ozkanshmx/06.02.22/13267.ts
+
 #EXTINF:16 group-title="SİNEMA",SİNEMA YERLİ 2
 http://spy17.eu:80/live/ozkanshmx/06.02.22/29588.ts
+
 #EXTINF:17 group-title="SİNEMA",SİNEMA AİLE
 http://live.admuspeh.my/8847/index.m3u8?token=4gPHp5ZVYqDAR4oz
+
 #EXTINF:18 group-title="SİNEMA",SİNEMA AİLE 2
 http://live.admuspeh.my/8853/index.m3u8?token=4gPHp5ZVYqDAR4oz
+
 #EXTINF:19 group-title="SİNEMA",SİNEMA 1001
 http://live.admuspeh.my/8848/index.m3u8?token=4gPHp5ZVYqDAR4oz
+
 #EXTINF:20 group-title="SİNEMA",SİNEMA 1002
 http://live.admuspeh.my/8850/index.m3u8?token=4gPHp5ZVYqDAR4oz
+
 #EXTINF:21 group-title="SİNEMA",SİNEMA KOMEDİ
 http://live.admuspeh.my/8855/index.m3u8?token=4gPHp5ZVYqDAR4oz
+
 #EXTINF:22 group-title="SİNEMA",SİNEMA KOMEDİ 2
 http://live.admuspeh.my/8851/index.m3u8?token=4gPHp5ZVYqDAR4oz
+
 #EXTINF:23 group-title="SİNEMA",FILMSCREEN
 http://lb.wisp.cat/lb0/TR_FILMBOX/video.m3u8?token=9bmCmR7
+
 #EXTINF:24 group-title="ULUSAL",TRT 1
 https://x.canlitvapp.com/trt1/index.m3u8
+
 #EXTINF:25 group-title="ULUSAL",ATV
 https://x.canlitvapp.com/aytv/index.m3u8
+
 #EXTINF:26 group-title="ULUSAL",SHOW TV
 http://stream.tvcdn.net/ulusal/show-tv.m3u8
+
 #EXTINF:27 group-title="ULUSAL",KANAL D
 https://x.canlitvapp.com/kanald/index.m3u8
+
 #EXTINF:28 group-title="ULUSAL",STAR TV
 https://x.canlitvapp.com/star/index.m3u8
+
 #EXTINF:29 group-title="ULUSAL",KANAL 7
 https://x.canlitvapp.com/kanal7/index.m3u8
+
 #EXTINF:30 group-title="ULUSAL",NOW
 https://x.canlitvapp.com/fox/index.m3u8
+
 #EXTINF:31 group-title="ULUSAL",TV8
 https://x.canlitvapp.com/kanal8/index.m3u8
+
 #EXTINF:32 group-title="ULUSAL",BEYAZ TV
 http://stream.tvcdn.net/ulusal/beyaz-tv.m3u8
+
 #EXTINF:33 group-title="ULUSAL",SHOW MAX
 http://stream.tvcdn.net/eglence/show-max.m3u8
+
 #EXTINF:34 group-title="ULUSAL",A2
 http://stream.tvcdn.net/eglence/a2.m3u8
+
 #EXTINF:35 group-title="ULUSAL",TEVE2
 http://stream.tvcdn.net/eglence/teve2.m3u8
+
 #EXTINF:36 group-title="ULUSAL",360 TV
 http://stream.tvcdn.net/ulusal/360-tv.m3u8
+
 #EXTINF:37 group-title="ULUSAL",TLC
 http://stream.tvcdn.net/eglence/tlc.m3u8
+
 #EXTINF:38 group-title="ULUSAL",DMAX
 http://stream.tvcdn.net/eglence/dmax.m3u8
+
 #EXTINF:39 group-title="ULUSAL",KON TV
 http://spy17.eu:80/live/ozkanshmx/06.02.22/4938.ts
+
 #EXTINF:40 group-title="ULUSAL",TV 100
 http://stream.tvcdn.net/ulusal/tv-100.m3u8
+
 #EXTINF:41 group-title="ULUSAL",CNBC-E
 http://spy17.eu:80/live/ozkanshmx/06.02.22/317076.ts
+
 #EXTINF:42 group-title="ULUSAL",ULUSAL 1
 http://stream.tvcdn.net/haber/ulusal-kanal.m3u8
+
 #EXTINF:43 group-title="ULUSAL",TİVİ6
 http://stream.tvcdn.net/yerel/tivi6.m3u8
+
 #EXTINF:44 group-title="ULUSAL",TV8.5
 http://stream.tvcdn.net/eglence/tv8-5.m3u8
+
 #EXTINF:45 group-title="ULUSAL",BEA TV
 http://ragnarlive.live:80/live/ahmet3/hewgttA9Du/121437.ts
+
 #EXTINF:46 group-title="ULUSAL",KANAL B
 http://stream.tvcdn.net/diger/kanal-b.m3u8
+
 #EXTINF:47 group-title="ULUSAL",GENÇ TV
 http://stream.tvcdn.net/kibris/kibris-genc-tv.m3u8
+
 #EXTINF:48 group-title="DİNİ",VAV TV
 http://stream.tvcdn.net/dini/vav-tv.m3u8
+
 #EXTINF:49 group-title="ULUSAL",ÜNİVERSİTE TV
 https://vdo.digitalbox.xyz:3986/live/unitvlive.m3u8
+
 #EXTINF:50 group-title="HABER",FLASH HABER
 http://stream.tvcdn.net/haber/flash-haber.m3u8
+
 #EXTINF:51 group-title="HABER",TMB
 http://stream.tvcdn.net/muzik/tmb.m3u8
+
 #EXTINF:52 group-title="ULUSAL",TV4
 http://stream.tvcdn.net/eglence/tv-4.m3u8
+
 #EXTINF:53 group-title="HABER",BENGÜ TÜRK
 http://stream.tvcdn.net/haber/benguturk-tv.m3u8
+
 #EXTINF:54 group-title="ULUSAL",TRT 2
 http://stream.tvcdn.net/eglence/trt-2.m3u8
+
 #EXTINF:55 group-title="BELGESEL",TARİH TV
 http://nightmare-tv.xyz:8080/burak@0303/kaya.0303/664565
+
 #EXTINF:56 group-title="MÜZİK",MEZZO
 http://ragnarlive.live:80/live/ahmet3/hewgttA9Du/133889.ts
+
 #EXTINF:57 group-title="HABER",TRT HABER
 http://stream.tvcdn.net/haber/trt-haber.m3u8
+
 #EXTINF:58 group-title="HABER",A HABER
 http://stream.tvcdn.net/haber/a-haber.m3u8
+
 #EXTINF:59 group-title="HABER",NTV
 http://stream.tvcdn.net/haber/ntv.m3u8
+
 #EXTINF:60 group-title="HABER",CNN TÜRK
 http://stream.tvcdn.net/haber/cnn-turk.m3u8
+
 #EXTINF:61 group-title="HABER",24 TV
 http://stream.tvcdn.net/haber/24-tv.m3u8
+
 #EXTINF:62 group-title="HABER",TGRT HABER
 http://stream.tvcdn.net/haber/tgrt-haber.m3u8
+
 #EXTINF:63 group-title="HABER",HABERTÜRK
 http://stream.tvcdn.net/haber/haberturk.m3u8
+
 #EXTINF:64 group-title="HABER",BLOOMBERG HT
 http://stream.tvcdn.net/ekonomi/bloomberg-ht.m3u8
+
 #EXTINF:65 group-title="HABER",ÜLKE TV
 http://stream.tvcdn.net/haber/ulke-tv.m3u8
+
 #EXTINF:66 group-title="HABER",TVNET
 http://stream.tvcdn.net/haber/tvnet.m3u8
+
 #EXTINF:67 group-title="HABER",AKİT TV
 http://stream.tvcdn.net/haber/akit-tv.m3u8
+
 #EXTINF:68 group-title="ULUSAL",BRT 1
 http://stream.tvcdn.net/kibris/brt-1.m3u8
+
 #EXTINF:69 group-title="ULUSAL",TV EM
 http://cdn-tvem.yayin.com.tr/TVEM/TVEM/playlist.m3u8
+
 #EXTINF:70 group-title="ULUSAL",TRT TÜRK
 http://stream.tvcdn.net/ulusal-yurt-disi/trt-turk.m3u8
+
 #EXTINF:71 group-title="ULUSAL",TRT AVAZ
 http://stream.tvcdn.net/ulusal-yurt-disi/trt-avaz.m3u8
+
 #EXTINF:72 group-title="ULUSAL",TRT 3 SPOR
 http://stream.tvcdn.net/spor/trt-3-spor.m3u8
+
 #EXTINF:73 group-title="ULUSAL",TRT KURDİ
 http://tv-trtkurdi.medya.trt.com.tr/master_720.m3u8
+
 #EXTINF:74 group-title="HABER",HABER GLOBAL
 http://stream.tvcdn.net/haber/haber-global.m3u8
+
 #EXTINF:75 group-title="HABER",KRT TV
 http://stream.tvcdn.net/haber/krt-tv.m3u8
+
 #EXTINF:76 group-title="HABER",HALK TV
 http://stream.tvcdn.net/haber/halk-tv.m3u8
+
 #EXTINF:77 group-title="HABER",TH TÜRK HABER
 http://nightmare-tv.xyz:8080/burak@0303/kaya.0303/702509
+
 #EXTINF:78 group-title="HABER",SZC
 http://stream.tvcdn.net/haber/sozcu-tv.m3u8
+
 #EXTINF:79 group-title="HABER",A PARA
 http://stream.tvcdn.net/ekonomi/a-para.m3u8
+
 #EXTINF:80 group-title="HABER",EKOTÜRK
 http://stream.tvcdn.net/ekonomi/ekoturk.m3u8
+
 #EXTINF:81 group-title="YEREL",TV42
 http://stream.tvcdn.net/yerel/tv-42.m3u8
+
 #EXTINF:82 group-title="HABER",TV5
 http://new.cache-stream.workers.dev/stream/UCP-0oW3M7DpjmPDutckOjiA/live.m3u8
+
 #EXTINF:83 group-title="HABER",TELE1
 http://stream.tvcdn.net/haber/tele-1.m3u8
+
 #EXTINF:84 group-title="HABER",LİDER HABER
 http://stream.tvcdn.net/diger/lider-haber.m3u8
+
 #EXTINF:87 group-title="ULUSLARARASI",CNBC
 http://xplatinproject.com:8080/C0rl/9JKUw8282747nTf7D9YwF9ndi8Hw7eneWBVZt/10026
+
 #EXTINF:88 group-title="ULUSLARARASI",TRT WORLD
 https://tv-trtworld.medya.trt.com.tr/master_720.m3u8
+
 #EXTINF:89 group-title="ULUSLARARASI",A NEWS
 http://new.cache-stream.workers.dev/stream/UC-LRBEUet4xX2fRB3JitFxg/live.m3u8
+
 #EXTINF:90 group-title="ULUSLARARASI",CNN INTERNATIONAL
 https://doq6y2m748j16.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/CNN-prod/playlist.m3u8
+
 #EXTINF:91 group-title="ULUSLARARASI",BBC NEWS
 http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
+
 #EXTINF:92 group-title="ULUSLARARASI",BLOOMBERG TV
 https://bloomberg.com/media-manifest/streams/phoenix-us.m3u8
+
 #EXTINF:93 group-title="ULUSLARARASI",EURONEWS
 http://shls-live-ak.akamaized.net/out/v1/115bfcde8fa342d182ef846445cdbdcf/index.m3u8
+
 #EXTINF:94 group-title="ULUSLARARASI",ALJAZEERA ARABIC
 http://live-hls-web-aja.getaj.net/AJA/05.m3u8
+
 #EXTINF:95 group-title="ULUSLARARASI",ALJAZEERA ENGLISH
 http://live-hls-web-aje.getaj.net/AJE/index.m3u8
+
 #EXTINF:96 group-title="ULUSLARARASI",TRT ARABİ
 http://tv-trtarabi.live.trt.com.tr/master_720.m3u8
+
 #EXTINF:97 group-title="ULUSLARARASI",RT ARABIC
 http://rt-arb.rttv.com/live/rtarab/playlist.m3u8
+
 #EXTINF:97 group-title="ULUSLARARASI",SKY NEWS ARABIA
 http://stream.skynewsarabia.com/hls/sna_720.m3u8
+
 #EXTINF:101 group-title="ULUSLARARASI",FOX NEWS CHANNEL
 https://247preview.foxnews.com/hls/live/2020027/fncv3preview/primary.m3u8
+
 #EXTINF:102 group-title="ULUSLARARASI",DW-TV (ENGLISH)
 http://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream02/streamPlaylist.m3u8
+
 #EXTINF:104 group-title="ULUSLARARASI",FRANCE 24 ENGLISH
 http://new.cache-stream.workers.dev/stream/UCQfwfsi5VrQ8yKZ-UWmAEFg/live.m3u8
+
 #EXTINF:105 group-title="ULUSLARARASI",FRANCE 24 FRANÇAİS
 http://new.cache-stream.workers.dev/stream/UCQfwfsi5VrQ8yKZ-UWmAEFg/live.m3u8
+
 #EXTINF:106 group-title="ULUSLARARASI",FRANCE 24 ARABIC
 http://new.cache-stream.workers.dev/channel/UCdTyuXgmJkG_O8_75eqej-w/live.m3u8
+
 #EXTINF:107 group-title="ULUSLARARASI",CGTN
 http://live.cgtn.com/1000/prog_index.m3u8
+
 #EXTINF:108 group-title="ULUSLARARASI",RUSSIA 24
 http://81.177.197.13:8000/play/a00l/index.m3u8
+
 #EXTINF:109 group-title="BELGESEL",NASA TV
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_500.m3u8
+
 #EXTINF:110 group-title="BELGESEL",TASKRÜT İZ
 http://nightmare-tv.xyz:8080/burak@0303/kaya.0303/141
+
 #EXTINF:111 group-title="BELGESEL",TRT BELGESEL
 http://tv-trtbelgesel.medya.trt.com.tr/master_720.m3u8
+
 #EXTINF:112 group-title="BELGESEL",NATIONAL GEOGRAPHIC
 http://nightmare-tv.xyz:8080/burak@0303/kaya.0303/702513
+
 #EXTINF:113 group-title="BELGESEL",NATIONAL GEOGRAPHIC WILD
 http://xsmartiptv.xyz:8080/ss6238/NXHXbs8vmamn/6287
+
 #EXTINF:114 group-title="BELGESEL",VIASAT NATURE
 http://ragnarlive.live:80/live/ahmet3/hewgttA9Du/102462.ts
+
 #EXTINF:115 group-title="BELGESEL",DISCOVERY CHANNEL
 https://discoverydrm.blutv.com/blutv_discovery_drm/discovery_hd_drm.smil/playlist.m3u8
+
 #EXTINF:116 group-title="BELGESEL",ID
 https://dnx8nkmlprapr.cloudfront.net/out/v1/c9e1c183395d4d29a9fa34ecdef4163b/master.m3u8
+
 #EXTINF:116 group-title="BELGESEL",HISTORY
 http://nightmare-tv.xyz:8080/burak@0303/kaya.0303/139
+
 #EXTINF:117 group-title="BELGESEL",VIASAT HISTORY
 http://a1.fg146.site:8080/hilmi49/2xMXe47QG8es/17565
+
 #EXTINF:118 group-title="BELGESEL",LOVE NATURE
 http://nightmare-tv.xyz:8080/burak@0303/kaya.0303/379
+
 #EXTINF:119 group-title="BELGESEL",YABAN TV
 http://stream.tvcdn.net/belgesel/yaban-tv.m3u8
+
 #EXTINF:120 group-title="BELGESEL",DOCUSCREEN
 http://nightmare-tv.xyz:8080/burak@0303/kaya.0303/702518
+
 #EXTINF:121 group-title="BELGESEL",BBC EARTH
 http://nightmare-tv.xyz:8080/burak@0303/kaya.0303/138
+
 #EXTINF:122 group-title="BELGESEL",HABİTAT TV
 http://23.146.40.157:8080/denizkaratasli/RqBMQ8JdmyrK/34068
+
 #EXTINF:122 group-title="BELGESEL",TGRT BELGESEL
 http://stream.tvcdn.net/belgesel/tgrt-belgesel.m3u8
+
 #EXTINF:128 group-title="TARIM",TARIM TV
 http://stream.tvcdn.net/belgesel/tarim-tv.m3u8
-#EXTINF:122 group-title="BELGESEL",NAUTICAL CHANNEL
-http://ragnarlive.live:80/live/ahmet3/hewgttA9Du/233007.ts
+
 #EXTINF:130 group-title="BELGESEL",VIASAT EXPLORE
 http://nightmare-tv.xyz:8080/burak@0303/kaya.0303/644235
+
 #EXTINF:133 group-title="BELGESEL",CGTN DOCUMENTARY
 http://livedoc.cgtn.com/1000d/prog_index.m3u8
-#EXTINF:136 group-title="BELGESEL",ANIMAL PLANET
-http://ragnarlive.live:80/live/ahmet3/hewgttA9Du/234573.ts
-#EXTINF:137 group-title="BELGESEL",CRIME+INVESTIGATION
-http://ragnarlive.live:80/live/ahmet3/hewgttA9Du/234779.ts
+
 #EXTINF:140 group-title="ULUSLARARASI",AZTV
 http://109.205.166.68/server124/aztv/index.m3u8
+
 #EXTINF:141 group-title="ULUSLARARASI",TÜRKMENELİ TV
 https://fubca.com:5443/LiveApp/streams/p9tKao40IwzRAiXw1696067892766.m3u8
-#EXTINF:142 group-title="ULUSLARARASI",BBC ENTERTAINMENT
-http://ragnarlive.live:80/live/ahmet3/hewgttA9Du/242603.ts
+
 #EXTINF:143 group-title="ULUSLARARASI",TV5MONDE EUROPE
 http://ott.tv5monde.com/Content/HLS/Live/channel(europe)/variant.m3u8
+
 #EXTINF:144 group-title="ULUSLARARASI",CCTV-4
 http://new.cache-stream.workers.dev/stream/UC4K_LI-Tn3-LshNgG0-YypQ/live.m3u8
+
 #EXTINF:145 group-title="ULUSLARARASI",SAUDI TV
 http://edge.taghtia.com/sa/2.m3u8
+
 #EXTINF:146 group-title="ULUSLARARASI",ZDF
 http://nirvanaio.online:8080/harunbor/ST9UeDLRBUYQ/96371
+
 #EXTINF:147 group-title="ULUSLARARASI",HAYAT PLUS
 http://ragnarlive.live:80/live/ahmet3/hewgttA9Du/239465.ts
+
 #EXTINF:148 group-title="ULUSLARARASI",RTR PLANETA
 https://player.smotrim.ru/iframe/stream/live_id/63251
+
 #EXTINF:149 group-title="ULUSLARARASI",KBS WORLD
 http://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
+
 #EXTINF:150 group-title="ULUSLARARASI",NHK WORLD
 http://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u8
+
 #EXTINF:151 group-title="ULUSLARARASI",ARIRANG
 http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+
 #EXTINF:152 group-title="ULUSLARARASI",FREEDOM
 http://freedom.cdn-01.cosmonova.net.ua/mobile-app/main/freedom/master.m3u8
-#EXTINF:153 group-title="ULUSLARARASI",PRO7
-http://nirvanaio.online:8080/harunbor/ST9UeDLRBUYQ/96384
-#EXTINF:154 group-title="ULUSLARARASI",RTL
-http://nirvanaio.online:8080/harunbor/ST9UeDLRBUYQ/96392
+
 #EXTINF:155 group-title="ULUSLARARASI",RAI 1
 http://ragnarlive.live:80/live/ahmet3/hewgttA9Du/236236.ts
-#EXTINF:156 group-title="ULUSLARARASI",VOX
-http://nirvanaio.online:8080/harunbor/ST9UeDLRBUYQ/96409
-#EXTINF:157 group-title="ULUSLARARASI",SAT.1
-http://nirvanaio.online:8080/harunbor/ST9UeDLRBUYQ/96399
+
 #EXTINF:158 group-title="ULUSLARARASI",CHANNEL ONE RUSSIA
 http://81.177.197.13:8000/play/a001/index.m3u8
-#EXTINF:159 group-title="ULUSLARARASI",HALLMARK CHANNEL
-http://ragnarlive.live:80/live/ahmet3/hewgttA9Du/234944.ts
-#EXTINF:160 group-title="ULUSLARARASI",SHORTS TV
-http://ragnarlive.live:80/live/ahmet3/hewgttA9Du/235272.ts
-#EXTINF:161 group-title="ULUSLARARASI",MBC
-http://shls-mbc1na-prod-dub.shahid.net/out/v1/84ab37e99d6e4b16b33c6600f94f6ccb/index_3.m3u8
-#EXTINF:162 group-title="ULUSLARARASI",ANT-1
-http://ragnarlive.live:80/live/ahmet3/hewgttA9Du/232908.ts
-#EXTINF:163 group-title="ULUSLARARASI",TVE INTERNACIONAL
-http://ragnarlive.live:80/live/ahmet3/hewgttA9Du/237114.ts
-#EXTINF:164 group-title="ULUSLARARASI",24 HORAS
-https://rtvelivestream-clnx.rtve.es/rtvesec/24h/24h_main.m3u8
-#EXTINF:165 group-title="ULUSLARARASI",LUXE TV
-http://ragnarlive.live:80/live/ahmet3/hewgttA9Du/242460.ts
+
 #EXTINF:222 group-title="SPOR",TRT SPOR
 http://stream.tvcdn.net/spor/trt-spor.m3u8
+
 #EXTINF:223 group-title="SPOR",TASKRÜT SPORTS HABER
 http://stream.tvcdn.net/spor/bein-sports-haber.m3u8
+
 #EXTINF:224 group-title="SPOR",A SPOR
 http://stream.tvcdn.net/spor/a-spor.m3u8
+
 #EXTINF:225 group-title="SPOR",EUROSPORT 1
 https://eurosport1.blutv.com/blutv_eurosport1/eurosport1_hd.smil/index.m3u8
+
 #EXTINF:226 group-title="SPOR",EUROSPORT 2
 https://eurosport2.blutv.com/blutv_eurosport2/eurosport2_hd.smil/index.m3u8
+
 #EXTINF:227 group-title="SPOR",7/24 SPOR
 http://116.202.117.244/ntvspor/ntvspor/playlist.m3u8
+
 #EXTINF:228 group-title="SPOR",TRACE SPORT STARS
 http://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
+
 #EXTINF:229 group-title="SPOR",EXTREME SPORTS
 http://ragnarlive.live:80/live/ahmet3/hewgttA9Du/232785.ts
+
 #EXTINF:230 group-title="SPOR",FIGHTSCREEN
 http://nightmare-tv.xyz:8080/burak@0303/kaya.0303/702287
+
 #EXTINF:231 group-title="SPOR",FIGHT NETWORK
 http://ragnarlive.live:80/live/ahmet3/hewgttA9Du/235454.ts
+
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
 #EXTINF:232 group-title="SÜPER LİG",TASKRÜT SPORTS 1
-https://metvmetvmetv7.serv00.net/vavame.php?id=1352421053&e=.m3u8
+http://m3u8.biroyanabirbuyana.workers.dev/yayin1.m3u8
+
 #EXTINF:233 group-title="SÜPER LİG",TASKRÜT SPORTS 2
 https://metvmetvmetv7.serv00.net/vavame.php?id=2851539143&e=.m3u8
+
 #EXTINF:234 group-title="SÜPER LİG",TASKRÜT SPORTS 3
 https://metvmetvmetv7.serv00.net/vavame.php?id=1797459602&e=.m3u8
+
 #EXTINF:235 group-title="SÜPER LİG",TASKRÜT SPORTS 4
 https://metvmetvmetv7.serv00.net/vavame.php?id=3640906370&e=.m3u8
+
 #EXTINF:236 group-title="SÜPER LİG",TASKRÜT SPORTS 5
 https://metvmetvmetv7.serv00.net/vavame.php?id=4000315601&e=.m3u8
+
 #EXTINF:237 group-title="SÜPER LİG",TASKRÜT SPORTS MAX 1
 https://corsproxy.org/?https://odin.7545c95540dc.shop/7/chunk_hd.m3u8
+
 #EXTINF:238 group-title="SÜPER LİG",TASKRÜT SPORTS MAX 2
 https://corsproxy.org/?https://odin.7545c95540dc.shop/8/chunk_hd.m3u8
+
 #EXTINF:239 group-title="SPOR",GINX TV
 http://ragnarlive.live:80/live/ahmet3/hewgttA9Du/242641.ts
+
 #EXTINF:240 group-title="SPOR",S SPORT
 http://live.admuspeh.my/8854/index.m3u8?token=4gPHp5ZVYqDAR4oz
+
 #EXTINF:241 group-title="SPOR",S SPORT 2
 https://corsproxy.org/?https://odin.7545c95540dc.shop/14/chunk_hd.m3u8
+
 #EXTINF:242 group-title="SPOR",NBA TV
 http://23.146.40.157:8080/denizkaratasli/RqBMQ8JdmyrK/36
+
 #EXTINF:243 group-title="SPOR",EDGE SPORT
 http://nightmare-tv.xyz:8080/burak@0303/kaya.0303/702291
+
 #EXTINF:244 group-title="SPOR",TRT SPOR YILDIZ
 http://tv-trtspor2.medya.trt.com.tr/master_720.m3u8
+
 #EXTINF:245 group-title="SPOR",SPORTS TV
 http://stream.tvcdn.net/spor/sports-tv.m3u8
+
 #EXTINF:246 group-title="SPOR",FB TV
 http://stream.tvcdn.net/spor/fb-tv.m3u8
+
 #EXTINF:247 group-title="SPOR",GS TV
 http://stream.tvcdn.net/spor/gs-tv.m3u8
+
 #EXTINF:248 group-title="SPOR",T.A.Y TV
 http://stream.tvcdn.net/spor/tay-tv.m3u8
+
 #EXTINF:249 group-title="SPOR",TJK TV
 http://stream.tvcdn.net/spor/tjk-tv.m3u8
+
 #EXTINF:250 group-title="SPOR",BYHORSES TV
 http://stream.tvcdn.net/spor/byhorses-tv.m3u8
+
 #EXTINF:251 group-title="SPOR",SPORSMART
 http://nightmare-tv.xyz:8080/burak@0303/kaya.0303/295
+
 #EXTINF:252 group-title="SPOR",SPORSMART 2
 http://nightmare-tv.xyz:8080/burak@0303/kaya.0303/641918
+
 #EXTINF:253 group-title="SPOR",TİVİBU SPOR 1
 https://corsproxy.org/?https://odin.7545c95540dc.shop/9/chunk_hd.m3u8
+
 #EXTINF:254 group-title="SPOR",TİVİBU SPOR 2
 https://corsproxy.org/?https://odin.7545c95540dc.shop/10/chunk_hd.m3u8
+
 #EXTINF:255 group-title="SPOR",TİVİBU SPOR 3
 http://nightmare-tv.xyz:8080/burak@0303/kaya.0303/437
+
 #EXTINF:256 group-title="SPOR",TİVİBU SPOR 4
 http://nightmare-tv.xyz:8080/burak@0303/kaya.0303/664524
+
 #EXTINF:257 group-title="SPOR",EXXEN SPOR 1
 http://nightmare-tv.xyz:8080/burak@0303/kaya.0303/418297
+
 #EXTINF:257 group-title="SPOR",İDMAN TV
 http://ragnarlive.live:80/live/ahmet3/hewgttA9Du/235882.ts
+
 #EXTINF:259 group-title="SPOR",CBC SPORT
 http://ragnarlive.live:80/live/ahmet3/hewgttA9Du/235878.ts
+
 #EXTINF:329 group-title="DİZİ",TASKRÜT SERIES 1
 http://nightmare-tv.xyz:8080/burak@0303/kaya.0303/448
+
 #EXTINF:330 group-title="DİZİ",TASKRÜT SERIES 2
 http://nightmare-tv.xyz:8080/burak@0303/kaya.0303/447
+
 #EXTINF:331 group-title="DİZİ",DİZİSMART PREMIUM
 http://nightmare-tv.xyz:8080/burak@0303/kaya.0303/454
+
 #EXTINF:332 group-title="DİZİ",DİZİSMART MAX
 http://nightmare-tv.xyz:8080/burak@0303/kaya.0303/702288
+
 #EXTINF:333 group-title="DİZİ",FX
 http://nightmare-tv.xyz:8080/burak@0303/kaya.0303/156
+
 #EXTINF:334 group-title="DİZİ",EPIC DRAMA
 http://nightmare-tv.xyz:8080/burak@0303/kaya.0303/702290
-#EXTINF:335 group-title="DİZİ",BBC FIRST
-http://ragnarlive.live:80/live/ahmet3/hewgttA9Du/246364.ts
-#EXTINF:354 group-title="YAŞAM",TASKRÜT H&E
+
+#EXTINF:353 group-title="YAŞAM",TASKRÜT H&E
 http://penac46tvpanel.xyz:80/play/4I_gjBGS6jmvykcv7Wml8sXghQZRCFPUmpqkssK3aMo
-#EXTINF:355 group-title="YAŞAM",TASKRÜT GURME
+
+#EXTINF:354 group-title="YAŞAM",TASKRÜT GURME
 http://nightmare-tv.xyz:8080/burak@0303/kaya.0303/157
+
 #EXTINF:356 group-title="YAŞAM",MYZEN TV
 http://ragnarlive.live:80/live/ahmet3/hewgttA9Du/243065.ts
+
 #EXTINF:357 group-title="YAŞAM",FASHION TV
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_pg16_adaptive.smil/playlist.m3u8
+
 #EXTINF:358 group-title="YAŞAM",FASHION ONE
 https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e2ee6997cb_1/playlist.m3u8
+
 #EXTINF:365 group-title="ULTRA HD",TRT 4K
 http://nightmare-tv.xyz:8080/burak@0303/kaya.0303/543368
-#EXTINF:367 group-title="SPOR",GAMESCREEN
-http://23.146.40.157:8080/denizkaratasli/RqBMQ8JdmyrK/9249
+
 #EXTINF:440 group-title="ÇOCUK",TOM AND JERRY TV
 http://ragnarlive.live:80/live/ahmet3/hewgttA9Du/121304.ts
+
 #EXTINF:441 group-title="ÇOCUK",ÇOCUKSMART
 http://nightmare-tv.xyz:8080/burak@0303/kaya.0303/455
+
 #EXTINF:442 group-title="ÇOCUK",CARTOONITO
 https://boomerang.blutv.com/blutv_boomerang/live.m3u8
+
 #EXTINF:443 group-title="ÇOCUK",BBC CBEEBIES
 http://nightmare-tv.xyz:8080/burak@0303/kaya.0303/346
+
 #EXTINF:444 group-title="ÇOCUK",TRT ÇOCUK
 http://stream.tvcdn.net/cocuk-egitim/trt-cocuk.m3u8
+
 #EXTINF:445 group-title="ÇOCUK",minikaCOCUK
 http://stream.tvcdn.net/cocuk-egitim/minika-cocuk.m3u8
+
 #EXTINF:446 group-title="ÇOCUK",minikaGO
 http://stream.tvcdn.net/cocuk-egitim/minika-go.m3u8
+
 #EXTINF:447 group-title="ÇOCUK",TRT DİYANET ÇOCUK
 http://stream.tvcdn.net/cocuk-egitim/trt-diyanet-cocuk.m3u8
+
 #EXTINF:448 group-title="ÇOCUK",NICKELODEON
 http://nightmare-tv.xyz:8080/burak@0303/kaya.0303/125
+
 #EXTINF:449 group-title="ÇOCUK",NICKTOONS
 http://nightmare-tv.xyz:8080/burak@0303/kaya.0303/702536
+
 #EXTINF:450 group-title="ÇOCUK",NICK JR
 http://nightmare-tv.xyz:8080/burak@0303/kaya.0303/133
+
 #EXTINF:451 group-title="ÇOCUK",CAROUSEL TV
 http://81.177.197.13:8000/play/a006/index.m3u8
-#EXTINF:452 group-title="ÇOCUK",BABY FIRST
-http://ragnarlive.live:80/live/ahmet3/hewgttA9Du/242592.ts
+
 #EXTINF:455 group-title="ÇOCUK",BABY TV
 http://nightmare-tv.xyz:8080/burak@0303/kaya.0303/348
+
 #EXTINF:456 group-title="ÇOCUK",DISNEY JUNIOR
 http://nightmare-tv.xyz:8080/burak@0303/kaya.0303/345
+
 #EXTINF:457 group-title="ÇOCUK",CARTOON NETWORK
 http://stream.tvcdn.net/cocuk-egitim/cartoon-network.m3u8
+
 #EXTINF:458 group-title="ÇOCUK",MOONBUG
 http://nightmare-tv.xyz:8080/burak@0303/kaya.0303/702554
+
 #EXTINF:459 group-title="ÇOCUK",DUCK TV
 http://nightmare-tv.xyz:8080/burak@0303/kaya.0303/122
+
 #EXTINF:460 group-title="EĞİTİM",ENGLISH CLUB TV
 http://xplatinproject.com:8080/C0rl/9JKUw8282747nTf7D9YwF9ndi8Hw7eneWBVZt/7944
+
 #EXTINF:461 group-title="EĞİTİM",DA VINCI
 http://nightmare-tv.xyz:8080/burak@0303/kaya.0303/132
+
 #EXTINF:466 group-title="EĞİTİM",TRT EBA
 http://stream.tvcdn.net/cocuk-egitim/trt-eba.m3u8
+
 #EXTINF:555 group-title="DİNİ",DİYANET TV
 http://stream.tvcdn.net/dini/diyanet-tv.m3u8
+
 #EXTINF:556 group-title="DİNİ",AL QURAN AL KAREEM
 http://m.live.net.sa:1935/live/quran/playlist.m3u8
+
 #EXTINF:557 group-title="DİNİ",AL SUNNAH AL NABAWIYAH
 http://m.live.net.sa:1935/live/sunnah/playlist.m3u8
+
 #EXTINF:557 group-title="DİNİ",SEMERKAND TV
 http://stream.tvcdn.net/dini/semerkand-tv.m3u8
+
 #EXTINF:558 group-title="DİNİ",DOST TV
 http://stream.tvcdn.net/dini/dost-tv.m3u8
-#EXTINF:660 group-title="MÜZİK",MCM POP
-http://ragnarlive.live:80/live/ahmet3/hewgttA9Du/242830.ts
+
 #EXTINF:661 group-title="MÜZİK",MCM TOP
 http://ragnarlive.live:80/live/ahmet3/hewgttA9Du/139672.ts
+
 #EXTINF:662 group-title="MÜZİK",MTV 00s
 http://ragnarlive.live:80/live/ahmet3/hewgttA9Du/139673.ts
+
 #EXTINF:663 group-title="MÜZİK",MTV LIVE
 http://xplatinproject.com:8080/C0rl/9JKUw8282747nTf7D9YwF9ndi8Hw7eneWBVZt/92124
+
 #EXTINF:664 group-title="MÜZİK",MTV HITS
 http://xplatinproject.com:8080/C0rl/9JKUw8282747nTf7D9YwF9ndi8Hw7eneWBVZt/5771
+
 #EXTINF:665 group-title="MÜZİK",KRAL POP TV
 http://stream.tvcdn.net/muzik/kral-pop-tv.m3u8
+
 #EXTINF:666 group-title="MÜZİK",TRT MÜZİK
 http://stream.tvcdn.net/muzik/trt-muzik.m3u8
+
 #EXTINF:667 group-title="MÜZİK",DREAM TÜRK
 http://stream.tvcdn.net/muzik/dream-turk.m3u8
+
 #EXTINF:668 group-title="MÜZİK",DREAM TV
 http://nightmare-tv.xyz:8080/burak@0303/kaya.0303/702511
+
 #EXTINF:669 group-title="MÜZİK",NUMBER1 TV
 http://stream.tvcdn.net/muzik/number-one-tv.m3u8
+
 #EXTINF:670 group-title="MÜZİK",NUMBER1 TURK
 http://stream.tvcdn.net/muzik/number-one-turk.m3u8
+
 #EXTINF:671 group-title="MÜZİK",POWER TV
 http://stream.tvcdn.net/muzik/power-tv.m3u8
+
 #EXTINF:672 group-title="MÜZİK",POWERTÜRK TV
 http://stream.tvcdn.net/muzik/powerturk-tv.m3u8
-#EXTINF:673 group-title="MÜZİK",TATLISES
-http://stream.tvcdn.net/muzik/tatlises-tv.m3u8
+
 #EXTINF:674 group-title="MÜZİK",TRACE URBAN
 http://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
-#EXTINF:675 group-title="MÜZİK",NUMBER1 DANCE
-http://stream.tvcdn.net/muzik/number-1-dance.m3u8
+
 #EXTINF:676 group-title="MÜZİK",NUMBER1 AŞK
 http://stream.tvcdn.net/muzik/number-1-ask.m3u8
+
 #EXTINF:677 group-title="MÜZİK",NUMBER1 DAMAR
 http://stream.tvcdn.net/muzik/number-1-damar.m3u8
+
 #EXTINF:678 group-title="MÜZİK",MİLYON TV
 http://stream.tvcdn.net/muzik/milyon-tv.m3u8
-#EXTINF:679 group-title="MÜZİK",MTV
-http://ragnarlive.live:80/live/ahmet3/hewgttA9Du/234996.ts
+
 #EXTINF:681 group-title="MÜZİK",POWER DANCE
 https://livetv.powerapp.com.tr/dance/dance.smil/playlist.m3u8
+
 #EXTINF:682 group-title="MÜZİK",POWER LOVE
 https://livetv.powerapp.com.tr/plove/love.smil/playlist.m3u8
+
 #EXTINF:683 group-title="MÜZİK",POWER SLOW
 https://listen.powerapp.com.tr/pturkslow/slow.smil/playist.m3u8
+
 #EXTINF:684 group-title="MÜZİK",POWERTÜRK AKUSTİK
 https://listen.powerapp.com.tr/pturkakustik/akustik.smil/playist.m3u8
+
 #EXTINF:685 group-title="MÜZİK",POWERTÜRK TAPTAZE
 https://listen.powerapp.com.tr/pturktaptaze/taptaze.smil/playist.m3u8
+
 #EXTINF:701 group-title="TÜRKÜ",EKİNTÜRK TV
 http://stream.tvcdn.net/diger/ekin-turk-tv.m3u8
-#EXTINF:702 group-title="TÜRKÜ",ANADOLU DERNEK TV
+
+#EXTINF:702 group-title="TÜRKÜ",D ANADOLU
 http://stream.tvcdn.net/yerel/anadolu-dernek-tv.m3u8
+
 #EXTINF:703 group-title="TÜRKÜ",MAVİ KARADENİZ
 http://stream.tvcdn.net/yerel/mavi-karadeniz.m3u8
+
 #EXTINF:704 group-title="TÜRKÜ",TEMPO TV
 http://stream.tvcdn.net/diger-muzik/tempo-tv.m3u8
+
 #EXTINF:705 group-title="TÜRKÜ",YILDIZ EN
 http://23.146.40.157:8080/denizkaratasli/RqBMQ8JdmyrK/63547
+
 #EXTINF:706 group-title="ULUSAL",CINE 1
 http://stream.tvcdn.net/diger-eglence/cine-1.m3u8
+
 #EXTINF:707 group-title="YEREL",KANAL 3
 http://stream.tvcdn.net/yerel/kanal-3.m3u8
+
 #EXTINF:708 group-title="YEREL",LINE TV
 http://stream.tvcdn.net/yerel/line-tv-bursa.m3u8
+
 #EXTINF:709 group-title="YEREL",KANAL 23
 http://stream.tvcdn.net/yerel/kanal-23.m3u8
+
 #EXTINF:710 group-title="YEREL",LUYS TV
 http://stream.tvcdn.net/diger/luys-tv.m3u8
+
 #EXTINF:711 group-title="YEREL",KANAL FIRAT
 http://stream.tvcdn.net/yerel/kanal-firat.m3u8
+
 #EXTINF:712 group-title="YEREL",KARDELEN TV
 http://stream.tvcdn.net/yerel/kardelen-tv.m3u8
+
 #EXTINF:713 group-title="YEREL",KANAL V
 http://stream.tvcdn.net/yerel/kanal-v.m3u8
+
 #EXTINF:714 group-title="TARIM",KÖY TV
 http://stream.tvcdn.net/belgesel/koy-tv.m3u8
+
 #EXTINF:715 group-title="TARIM",ÇİFTÇİ TV
 http://stream.tvcdn.net/belgesel/ciftci-tv.m3u8
+
 #EXTINF:716 group-title="TARIM",AGRO TV
 http://stream.tvcdn.net/belgesel/agro-tv.m3u8
+
 #EXTINF:717 group-title="YEREL",ON4 TV
 http://stream.tvcdn.net/dini/on4-tv.m3u8
+
 #EXTINF:718 group-title="YEREL",TV52
 http://stream.tvcdn.net/yerel/tv-52.m3u8
+
 #EXTINF:719 group-title="YEREL",KANAL 26
 http://stream.tvcdn.net/yerel/kanal-26.m3u8
+
 #EXTINF:720 group-title="YEREL",KOZA TV
 http://stream.tvcdn.net/yerel/koza-tv.m3u8
+
 #EXTINF:721 group-title="YEREL",BRTV BATI-KARADENİZ
 http://stream.tvcdn.net/yerel/brtv-karabuk.m3u8
+
 #EXTINF:722 group-title="YEREL",ORDU ALTAŞ TV
 http://stream.tvcdn.net/yerel/altas-tv.m3u8
+
 #EXTINF:723 group-title="YEREL",RUMELİ TV
 http://stream.tvcdn.net/yerel/rumeli-tv.m3u8
+
 #EXTINF:724 group-title="YEREL",TV264
 http://stream.tvcdn.net/yerel/tv-264.m3u8
+
 #EXTINF:725 group-title="YEREL",ES TV
 http://stream.tvcdn.net/yerel/es-tv.m3u8
+
 #EXTINF:726 group-title="YEREL",KANAL 60
 http://stream.tvcdn.net/yerel/kanal-60.m3u8
+
 #EXTINF:727 group-title="YEREL",SERHAT TV (TOKAT)
 http://stream.tvcdn.net/yerel/serhat-tv.m3u8
+
 #EXTINF:728 group-title="YEREL",SAFASRT (TOKAT)
 http://stream.tvcdn.net/yerel/safa-tv.m3u8
+
 #EXTINF:729 group-title="YEREL",TOKAT TV
 http://stream.tvcdn.net/yerel/tokat-tv.m3u8
+
 #EXTINF:730 group-title="YEREL",CAN TV
 http://stream.tvcdn.net/diger/can-tv.m3u8
+
 #EXTINF:791 group-title="AVRUPA",SHOW TÜRK
 http://stream.tvcdn.net/ulusal-yurt-disi/show-turk.m3u8
 #EXTINF:792 group-title="AVRUPA",ATV AVRUPA
@@ -583,6 +802,7 @@ http://stream.tvcdn.net/ulusal-yurt-disi/tgrt-eu.m3u8
 http://stream.tvcdn.net/ulusal-yurt-disi/tv8-int.m3u8
 #EXTINF:798 group-title="AVRUPA",KANAL AVRUPA
 http://stream.tvcdn.net/yerel/kanal-avrupa.m3u8
+
 #EXTINF:800 group-title="YABANCI",PRESS TV
 https://cdnlive.presstv.ir/cdnlive/smil:cdnlive.smil/playlist.m3u8
 #EXTINF:801 group-title="YABANCI",I24 NEWS ENGLISH
